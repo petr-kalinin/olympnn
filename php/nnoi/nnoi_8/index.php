@@ -23,9 +23,9 @@ VIII Нижегородская городская олимпиада школьников по информатике была проведена 
 <li><a href="results.php">Результаты</a></li>*/?>
 <li><a href="archive/index.php">"Сырой" архив</a></li>
 </ul>
-*<ul>
+<ul>
 <li><a href="http://informatics.mccme.ru/moodle/mod/statements/view.php?id=4543">Online-проверка</a></li>
-</ul>>
+</ul>
 <?
 endonn();
 ?>
