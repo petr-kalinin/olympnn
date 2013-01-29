@@ -67,6 +67,7 @@
     _dir=nnoi_8/
     _index=index.php
     Архив=archive/index.php
+    Online-проверка=http://informatics.mccme.ru/moodle/mod/statements/view.php?id=4543
   }
   Книга={
     _dir=../book/
