@@ -1,0 +1,130 @@
+/*result*/
+table.ije_results{
+  border:0px;
+  border-left:1px solid #555555;
+  border-top:1px solid #555555;
+  margin-top:5px;
+}
+table.ije_results td{
+  border:0px;
+  border-right:1px solid #555555;
+  border-bottom:1px solid #555555;
+  padding-top:1px;
+  padding-bottom:1px;
+  padding-left:3px;
+  padding-right:3px;
+}
+table.ije_results .sort,table.ije_results .sorthead{
+  font-weight:bold;
+}
+table.ije_results .id{
+  font-weight:bold;
+}
+
+table.ije_results a.heada{
+  display:block;
+  width:100%;
+}
+
+/*reports*/
+div.sum,div.penalty{
+  text-align:right;
+  padding-right:5px;
+  font-weight:bold;
+}
+
+div.ce {
+  border:1px solid #550000;
+  background:#EECCEE;
+  padding:5px;
+}
+font.cen{
+  font-weight:bold;
+  color:#990000;
+}
+pre.ceco{
+  font-family: "Courier New", "Lucida Console", Courier, monospace;
+  margin:0px;
+  padding:0px;
+}
+div.cehr,div.cphr{
+  border:0px;
+  height:0px;
+  margin-bottom:5px;
+  margin-top:5px;
+}
+div.cehr{
+  border-bottom:1px solid #550000;
+}
+
+div.cp {
+  border:1px solid #005500;
+  background:#CCEEEE;
+  padding:5px;
+}
+font.cpn{
+  font-weight:bold;
+  color:#009900;
+}
+pre.cpco{
+  font-family: "Courier New", "Lucida Console", Courier, monospace;
+  margin:0px;
+  padding:0px;
+}
+div.cphr{
+  border-bottom:1px solid #005500;
+}
+table.tests{
+ border:1px solid #888888;
+ background:#cccccc;
+ width:100%;
+ margin-bottom:5px;
+}
+tr.thead{
+  background:#dddddd;
+}
+table.tests td{
+ padding-top:3px;
+ padding-bottom:3px;
+ padding-left:5px;
+ padding-right:5px;
+}
+tr.trok{
+   background:#BBEEBB;
+}
+tr.trpc{
+   background:#FFFF99;
+}
+tr.trwa{
+   background:#EEBBBB;
+}
+tr.trpe{
+   background:#BBEEEE;
+}
+tr.trtl,tr.trml,tr.trol,tr.tril{
+   background:#BBBBEE;
+}
+tr.trre,tr.trcr{
+   background:#DD8888;
+}
+tr.trsv{
+   background:#DD3333;
+}
+tr.trnc{
+   background:#88aa88;
+}
+tr.trce{
+   background:#EECCEE;
+}
+tr.trns{
+   background:#dddddd;
+}
+tr.trcp{
+   background:#99dd99;
+}
+tr.trfl{
+   background:#EEAAEE;
+}
+tr.trnt{
+   background:#dddddd;
+}

@@ -1,0 +1,88 @@
+{
+Новости=/news/index.php
+Город={
+  _dir=/nnoi/
+  _index=index.php
+  NNOI I={
+    _dir=nnoi_1/
+    _index=index.php
+    Авторы задач=taskauthors.php
+    Результаты=results.php
+  }
+  NNOI II={
+    _dir=nnoi_2/
+    _index=index.php
+    Авторы задач=taskauthors.php
+    Жюри=jury.php
+    Оргкомитет=org.php
+    Результаты=results.php
+    Архив=archive/index.php
+  }
+  NNOI III={
+    _dir=nnoi_3/
+    _index=index.php
+    Авторы задач=taskauthors.php
+    Жюри=jury.php
+    Оргкомитет=org.php
+    Результаты=results.php
+    Архив=archive/index.php
+  }
+  NNOI IV={
+    _dir=nnoi_4/
+    _index=index.php
+    Авторы задач=taskauthors.php
+    Жюри=jury.php
+    Оргкомитет=org.php
+    Результаты=results.php
+    Архив=archive/index.php
+  }
+  NNOI V={
+    _dir=nnoi_5/
+    _index=index.php
+    Авторы задач=taskauthors.php
+    Жюри=jury.php
+    Оргкомитет=org.php
+    Результаты=results.php
+    Архив=archive/index.php
+  }
+  NNOI VI={
+    _dir=nnoi_6/
+    _index=index.php
+    Авторы задач=taskauthors.php
+    Жюри=jury.php
+    Оргкомитет=org.php
+    Результаты=results.php
+    Архив=archive/index.php
+  }
+  NNOI VII={
+    _dir=nnoi_7/
+    _index=index.php
+    Авторы задач=taskauthors.php
+    Жюри=jury.php
+    Оргкомитет=org.php
+    Результаты=results.php
+    Архив=archive/index.php
+    Online-проверка=http://informatics.mccme.ru/moodle/mod/statements/view.php?id=4440
+  }
+  NNOI VIII={
+    _dir=nnoi_8/
+    _index=index.php
+    Архив=archive/index.php
+  }
+  Книга={
+    _dir=../book/
+    _index=index.php
+  }
+}
+Книга={
+  _dir=/book/
+  _index=index.php
+}
+Online-проверка=http://informatics.mccme.ru/moodle/course/view.php?id=226
+Фотографии={
+  _dir=/photo/
+  _index=index.php
+  Лазурный-2000=show_all.php?name=loi_00
+}
+Ссылки=/hrefs/index.php
+}
