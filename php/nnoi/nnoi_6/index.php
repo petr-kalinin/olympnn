@@ -24,6 +24,9 @@ VI Нижегородская городская олимпиада школьников по информатике была проведена 4 
 <li><a href="results.php">Результаты</a></li>
 <li><a href="archive/index.php">Архив</a></li>
 </ul>
+<ul>
+<li><a href="http://informatics.mccme.ru/moodle/mod/statements/view.php?id=4518">Online-проверка</a></li>
+</ul>
 <?
 endonn();
 ?>
