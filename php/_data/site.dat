@@ -79,10 +79,4 @@
   _index=index.php
 }
 Online-проверка=http://informatics.mccme.ru/moodle/course/view.php?id=226
-Фотографии={
-  _dir=/photo/
-  _index=index.php
-  Лазурный-2000=show_all.php?name=loi_00
-}
-Ссылки=/hrefs/index.php
 }
