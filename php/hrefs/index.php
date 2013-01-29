@@ -28,12 +28,6 @@ display_href("http://acm.sgu.ru","саратовский архив задач");
 display_href("http://acm.mipt.ru","архив задач МФТИ");
 ?>
 </ul>
-<h2>Прочее</h2>
-<ul>
-<?
-display_href("http://www.fatal.ru","бесплатный хостинг, на котором расположен этот сайт");
-?>
-</ul>
 <?
 endonn();
 ?>
