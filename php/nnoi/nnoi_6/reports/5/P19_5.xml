@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20100204162826006428448164">
+  <solution problem="5" problem-name="Паросочетание" problem-type="P" contestant="P19" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(34)&#13;&#10;34 lines, 3248 bytes code, 13196 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="5" max-points="5" comment="Matching is ok" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="Matching is ok" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 24 and 25 does not exist" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 249 and 250 does not exist" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 6 and 2 does not exist" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 38 and 34 does not exist" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 138 and 139 does not exist" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 499 and 500 does not exist" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 7 and 1 does not exist" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 28 and 6 does not exist" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 223 and 172 does not exist" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 39 and 8 does not exist" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 80 and 81 does not exist" eval-comment="" time="0.046" mem="1200128"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 143 and 119 does not exist" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 68 and 38 does not exist" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 247 and 119 does not exist" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 263 and 169 does not exist" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 393 and 394 does not exist" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 493 and 409 does not exist" eval-comment="" time="0.046" mem="1200128"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 498 and 64 does not exist" eval-comment="" time="0.031" mem="1200128"/>
+    </results>
+  </testing>
+</testing-report>

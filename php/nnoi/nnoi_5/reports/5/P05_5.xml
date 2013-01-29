@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20090122160254011644531381">
+  <solution problem="5" problem-name="Точка, дуга и отрезок" problem-type="P" contestant="P05" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compilation-error" command-line="c:\_nnoi\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(20): Error 85: &quot;;&quot; expected.&#13;&#10;     close(input);&#13;&#10;     ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

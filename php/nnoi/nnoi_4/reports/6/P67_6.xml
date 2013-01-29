@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20080128155518006086532891">
+  <solution problem="6" problem-name="Кривой горизонт" problem-type="P" contestant="P67" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compilation-error" command-line="c:\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(7): Error 116: Must be in 8087 mode to compile this.&#13;&#10; ReadLn(tfin,w1,h1,ang);&#13;&#10;               ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

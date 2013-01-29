@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20100204162827013914114235">
+  <solution problem="1" problem-name="Metro" problem-type="P" contestant="P41" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="..\basc.bat sol.bas " compiler-output="Microsoft (R) BASIC Compiler Version 7.10&#13;&#10;Copyright (C) Microsoft Corporation 1982-1990. All rights reserved.&#13;&#10;&#13;&#10;45044 Bytes Available&#13;&#10;43389 Bytes Free&#13;&#10;&#13;&#10;    0 Warning Error(s)&#13;&#10;    0 Severe  Error(s)&#13;&#10;&#13;&#10;Microsoft (R) Segmented-Executable Linker  Version 5.10    &#13;&#10;Copyright (C) Microsoft Corp 1984-1990.  All rights reserved.&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="3" comment="Extra information in the output file" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="2" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="1200128"/>
+      <test id="3" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="1200128"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="-2 вместо 0" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;-3.333334E-02&quot;" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;-.225&quot;" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;-.2916667&quot;" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="2 вместо 45" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;-1.136364E-02&quot;" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;-7.042253E-03&quot;" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="9" comment="-1 вместо 141421357" eval-comment="" time="0.046" mem="1200128"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;5E-09&quot;" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;2E+08&quot;" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;1.011111&quot;" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="9" comment="Expected integer instead of &quot;1.5&quot;" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="9" comment="Expected integer instead of &quot;-.6&quot;" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;.55&quot;" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;-.55&quot;" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="9" comment="Time limit exceeded" eval-comment="" time="1.046" mem="1200128"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="9" comment="Expected integer instead of &quot;.25&quot;" eval-comment="" time="0.031" mem="1200128"/>
+    </results>
+  </testing>
+</testing-report>

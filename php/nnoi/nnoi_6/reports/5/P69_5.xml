@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20100204162828024418165680">
+  <solution problem="5" problem-name="Паросочетание" problem-type="P" contestant="P69" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(48)&#13;&#10;48 lines, 3264 bytes code, 5198 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="5" max-points="5" comment="Matching is ok" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="Matching is ok" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="Matching is ok" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="Matching is ok" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="Number of vertex must be in range from 1 to 8" eval-comment="" time="0.046" mem="1200128"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Number of vertex must be in range from 1 to 39" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="7" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.046" mem="1200128"/>
+      <test id="8" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.046" mem="1200128"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 255" eval-comment="" time="0.015" mem="1245184"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 255" eval-comment="" time="0.015" mem="1245184"/>
+    </results>
+  </testing>
+</testing-report>

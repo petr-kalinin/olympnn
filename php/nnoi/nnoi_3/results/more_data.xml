@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="1" name="Бассейны и трубы"/>
+    <problem id="2" name="Батон"/>
+    <problem id="3" name="Обфускатор"/>
+    <problem id="4" name="А ты купи коня"/>
+    <problem id="5" name="Строительство в городе"/>
+    <problem id="6" name="Кофе"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="5"/>
+    <diplom id="II" places-min="6" places-max="14"/>
+    <diplom id="III" places-min="15" places-max="33"/>
+  </diploms>
+</more-data>
+    

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20100204162826009760590869">
+  <solution problem="6" problem-name="Шифр" problem-type="P" contestant="P29" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compilation-error" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(2): Error 22: Structure too large.&#13;&#10;    s, s1, s2:array[1..500, 1..10] of string;&#13;&#10;                                            ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

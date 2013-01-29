@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20080128155517000578328390">
+  <solution problem="1" problem-name="Functions" problem-type="P" contestant="P54" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(19)&#13;&#10;19 lines, 2944 bytes code, 690 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="5" comment="15 вместо 41" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="5" comment="31 вместо 196" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="63 вместо 1057" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="127 вместо 6322" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="255 вместо 41393" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="511 вместо 293608" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="1023 вместо 2237921" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="2047 вместо 18210094" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="4095 вместо 157329097" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="8191 вместо 1436630092" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="65535 вместо 1469959371233" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="262143 вместо 185504221191745" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="1048575 вместо 27272621155678841" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="2097151 вместо 348586218389733556" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="4194303 вместо 4605223387997411873" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="16777215 вместо 882730631284319415505" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="67108863 вместо 190185523485851040093857" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="268435455 вместо 45671882246215264120864553" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="536870911 вместо 735452644411097903203941148" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="1073741823 вместо 12136505435201514536093218561" eval-comment="" time="0.031" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20090122160254013965251727">
+  <solution problem="2" problem-name="Олимпийская система-2" problem-type="P" contestant="P12" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\_nnoi\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(18)&#13;&#10;18 lines, 2976 bytes code, 1190 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="5" max-points="5" comment="N=2" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="N=4" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="Участник 3 вышел в 2 &quot;сильнейших&quot;" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="Участник 5 вышел в 4 &quot;сильнейших&quot;" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="Участник 9 вышел в 8 &quot;сильнейших&quot;" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Участник 17 вышел в 16 &quot;сильнейших&quot;" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="Участник 33 вышел в 32 &quot;сильнейших&quot;" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="Участник 65 вышел в 64 &quot;сильнейших&quot;" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Участник 129 вышел в 128 &quot;сильнейших&quot;" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="6" comment="Участник 257 вышел в 256 &quot;сильнейших&quot;" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="Участник 513 вышел в 512 &quot;сильнейших&quot;" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="Участник 1025 вышел в 1024 &quot;сильнейших&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="Участник 2049 вышел в 2048 &quot;сильнейших&quot;" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="6" comment="Участник 4097 вышел в 4096 &quot;сильнейших&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="6" comment="Участник 8193 вышел в 8192 &quot;сильнейших&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="6" comment="Участник 16385 вышел в 16384 &quot;сильнейших&quot;" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Участник 32769 вышел в 32768 &quot;сильнейших&quot;" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Участник 65537 вышел в 65536 &quot;сильнейших&quot;" eval-comment="" time="0.156" mem="1351680"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Участник 32769 вышел в 32768 &quot;сильнейших&quot;" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="Участник 65537 вышел в 65536 &quot;сильнейших&quot;" eval-comment="" time="0.156" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

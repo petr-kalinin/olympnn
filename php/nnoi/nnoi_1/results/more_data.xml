@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="00.1" name="Билеты"/>
+    <problem id="00.2" name="Детали"/>
+    <problem id="00.3" name="Числа"/>
+    <problem id="00.4" name="Период дроби"/>
+    <problem id="00.5" name="Разрезание многоугольника"/>
+    <problem id="00.6" name="Перекрасить поле"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="7"/>
+    <diplom id="II" places-min="8" places-max="15"/>
+    <diplom id="III" places-min="16" places-max="27"/>
+  </diploms>
+</more-data>
+    

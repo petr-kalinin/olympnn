@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20090122160255018003415875">
+  <solution problem="6" problem-name="Списывание" problem-type="P" contestant="P33" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\_nnoi\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(40)&#13;&#10;40 lines, 3392 bytes code, 49210 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="2" comment="&quot;NO&quot;, когда есть ответ" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="2" comment="Студент 1 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="&quot;NO&quot;, когда есть ответ" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="Студенты 1 и 3 сидят на расстояниях 3,3 &lt;&gt; L=2" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="6" comment="&quot;NO&quot;, когда есть ответ" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="7" comment="&quot;NO&quot;, когда есть ответ" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Студент 1 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="7" comment="Студенты 34 и 10 сидят на расстояниях 3,68 &lt;&gt; L=63" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="9" outcome="accepted-not-counted" points="0" max-points="4" comment="N=50 (NO)" eval-comment="Тест не зачтен" time="0.015" mem="1351680"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="&quot;NO&quot;, когда есть ответ" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Студент 4 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="7" comment="&quot;NO&quot;, когда есть ответ" eval-comment="" time="0.062" mem="1351680"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="7" comment="&quot;NO&quot;, когда есть ответ" eval-comment="" time="0.171" mem="1351680"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="6" comment="Студент 43 сидит в двух местах" eval-comment="" time="0.062" mem="1351680"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="5" comment="Студент 2807 сидит в двух местах" eval-comment="" time="0.109" mem="1351680"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="5" comment="Студент 12 сидит в двух местах" eval-comment="" time="0.140" mem="1351680"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Студент 3 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="&quot;NO&quot;, когда есть ответ" eval-comment="" time="0.171" mem="1351680"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Студент 5 сидит в двух местах" eval-comment="" time="0.156" mem="1351680"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="&quot;NO&quot;, когда есть ответ" eval-comment="" time="0.171" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

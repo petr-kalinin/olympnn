@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="1" name="Счастливые билеты"/>
+    <problem id="2" name="Сломаный калькулятор"/>
+    <problem id="3" name="Принтер"/>
+    <problem id="4" name="Сортировка"/>
+    <problem id="5" name="Max"/>
+    <problem id="6" name="Клеточное море"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="9"/>
+    <diplom id="II" places-min="10" places-max="22"/>
+    <diplom id="III" places-min="23" places-max="40"/>
+  </diploms>
+</more-data>
+    

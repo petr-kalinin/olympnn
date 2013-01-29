@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20100204162828026886517932">
+  <solution problem="6" problem-name="Шифр" problem-type="P" contestant="P79" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(81)&#13;&#10;81 lines, 5168 bytes code, 3650 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted-not-counted" points="0" max-points="1" comment="N=1 (NO)" eval-comment="Тест не зачтен" time="0.031" mem="1200128"/>
+      <test id="2" outcome="accepted-not-counted" points="0" max-points="2" comment="N=3 (NO)" eval-comment="Тест не зачтен" time="0.015" mem="1200128"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Что-то странное в первой строке: " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Что-то странное в первой строке: " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="4" comment="Что-то странное в первой строке: " eval-comment="" time="0.031" mem="1200128"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Что-то странное в первой строке: " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Что-то странное в первой строке: " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Что-то странное в первой строке: " eval-comment="" time="0.031" mem="1200128"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Что-то странное в первой строке: " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="Что-то странное в первой строке: " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Что-то странное в первой строке: " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="6" comment="Что-то странное в первой строке: " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="6" comment="Что-то странное в первой строке: " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="14" outcome="accepted-not-counted" points="0" max-points="4" comment="N=20 (NO)" eval-comment="Тест не зачтен" time="0.031" mem="1200128"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="6" comment="Что-то странное в первой строке: " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="8" comment="Найдено недостаточное количество решений" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="8" comment="Найдено недостаточное количество решений" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="10" comment="Найдено недостаточное количество решений" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="19" outcome="accepted-not-counted" points="0" max-points="4" comment="N=499 (NO)" eval-comment="Тест не зачтен" time="0.031" mem="1200128"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="10" comment="Найдено недостаточное количество решений" eval-comment="" time="0.031" mem="1200128"/>
+    </results>
+  </testing>
+</testing-report>

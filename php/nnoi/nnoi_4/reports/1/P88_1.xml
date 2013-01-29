@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20080128155518009578766729">
+  <solution problem="1" problem-name="Functions" problem-type="P" contestant="P88" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compilation-error" command-line="..\basc.bat sol.BAS " compiler-output="Microsoft (R) BASIC Compiler Version 7.10&#13;&#10;Copyright (C) Microsoft Corporation 1982-1990. All rights reserved.&#13;&#10; 0254   0048    FOR nbileta = 1 TO k ^ k&#13;&#10;                                        ^&#7; FOR index variable already in use&#13;&#10; 0268   004C    FOR chislo = 1 TO k&#13;&#10;                                   ^&#7; FOR index variable already in use&#13;&#10; 037B   0050    &#13;&#10;                 ^&#7; Block IF without END IF&#13;&#10;                 ^&#7; FOR without NEXT&#13;&#10;                 ^&#7; FOR without NEXT&#13;&#10;&#13;&#10;45292 Bytes Available&#13;&#10;43635 Bytes Free&#13;&#10;&#13;&#10;    0 Warning Error(s)&#13;&#10;    5 Severe  Error(s)&#13;&#10;&#13;&#10;Microsoft (R) Segmented-Executable Linker  Version 5.10    &#13;&#10;Copyright (C) Microsoft Corp 1984-1990.  All rights reserved.&#13;&#10;&#13;&#10;LINK : fatal error L1093: sol.obj : object not found&#13;&#10;ЌҐ г¤ Ґвбп ­ ©вЁ C:\_nnoi\ije_tc_1\testdir\sol.obj&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

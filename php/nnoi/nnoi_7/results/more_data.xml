@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="1" name="Тупики в лабиринте"/>
+    <problem id="2" name="Калитка в заборе"/>
+    <problem id="3" name="Множества, свободные от сумм"/>
+    <problem id="4" name="Переливание"/>
+    <problem id="5" name="Пересечение"/>
+    <problem id="6" name="Собрать треугольник"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="5"/>
+    <diplom id="II" places-min="6" places-max="11"/>
+    <diplom id="III" places-min="12" places-max="17"/>
+  </diploms>
+</more-data>
+    

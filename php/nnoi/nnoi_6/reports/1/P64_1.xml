@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="14" max="100" outcome="accepted" gtid="20100204162827022494938235">
+  <solution problem="1" problem-name="Metro" problem-type="P" contestant="P64" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(42)&#13;&#10;42 lines, 5376 bytes code, 974 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="3" max-points="3" comment="1" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="2" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="1200128"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="1" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="4" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="1200128"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="0 вместо 1" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="0" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="33 вместо 45" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="9" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="1200128"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="9" comment="Time limit exceeded" eval-comment="" time="1.046" mem="1200128"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.218" mem="1200128"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="9" comment="Time limit exceeded" eval-comment="" time="1.046" mem="1200128"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="1200128"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="0" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="9" comment="Time limit exceeded" eval-comment="" time="1.046" mem="1200128"/>
+    </results>
+  </testing>
+</testing-report>

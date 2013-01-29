@@ -1,0 +1,29 @@
+body{
+  font-family: verdana, tahoma, arial;
+}
+table{
+}
+tr.main{
+ height:500px;
+ padding:0px;
+ margin:0px;
+}
+td.img{
+  width:800px;
+  padding:0px;
+  margin:0px;
+}
+iframe{
+  width:320px;
+  height:260px;
+}
+td.nav{
+  width:200px;
+  padding:0px;
+  margin:0px;
+  padding-right:20px;
+}
+.leftright{
+  padding-bottom:10px;
+  white-space:nowrap;
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="15" max="100" outcome="accepted" gtid="20080128155518006445793748">
+  <solution problem="6" problem-name="Кривой горизонт" problem-type="P" contestant="P68" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(23)&#13;&#10;23 lines, 8688 bytes code, 1006 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="5" max-points="5" comment="1.00000" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="5" comment="1.00000 вместо 10.00000" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="1.00000" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="1.00000 вместо 0.10000" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="1.25000 вместо 12.50000" eval-comment="" time="0.093" mem="1351680"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="1.23960 вместо 12.39669" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="5.40000" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="5.70420 вместо 57.04285" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="5.70420 вместо 57.04285" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="7.45140 вместо 7451.45298" eval-comment="" time="0.062" mem="1351680"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="4.80330 вместо 480.33230" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="2.58980 вместо 258.98770" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="1.87350 вместо 18.73539" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="1.19450 вместо 1194.56489" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="7.47390 вместо 747.39980" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="2.72740 вместо 27.27445" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="1.23150 вместо 1231.57623" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="6.29500 вместо 62.95073" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="1.34530 вместо 134.53666" eval-comment="" time="0.078" mem="1351680"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="3.80290 вместо 380.29309" eval-comment="" time="0.078" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20100204162827014435800406">
+  <solution problem="6" problem-name="Шифр" problem-type="P" contestant="P41" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compilation-error" command-line="..\basc.bat sol.bas " compiler-output="Microsoft (R) BASIC Compiler Version 7.10&#13;&#10;Copyright (C) Microsoft Corporation 1982-1990. All rights reserved.&#13;&#10; 0143   0042    NEXT i&#13;&#10;                     ^&#7; NEXT without FOR&#13;&#10; 01AC   0052    FOR J = 1 TO m&#13;&#10;                              ^&#7; FOR index variable already in use&#13;&#10; 01AC   0052    c = dim$(z$(m), 2, 1)&#13;&#10;                              ^&#7; Type mismatch&#13;&#10;                                    ^&#7; Array not dimensioned&#13;&#10;                                     ^&#7; Type mismatch&#13;&#10; 0201   1522    &#13;&#10;                 ^&#7; FOR without NEXT&#13;&#10;&#13;&#10;45044 Bytes Available&#13;&#10;44255 Bytes Free&#13;&#10;&#13;&#10;    1 Warning Error(s)&#13;&#10;    5 Severe  Error(s)&#13;&#10;&#13;&#10;Microsoft (R) Segmented-Executable Linker  Version 5.10    &#13;&#10;Copyright (C) Microsoft Corp 1984-1990.  All rights reserved.&#13;&#10;&#13;&#10;LINK : fatal error L1093: sol.obj : object not found&#13;&#10;ЌҐ г¤ Ґвбп ­ ©вЁ C:\_nnoi\ije\testdir\sol.obj&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

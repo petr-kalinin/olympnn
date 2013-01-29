@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20100204162827015877003973">
+  <solution problem="5" problem-name="Паросочетание" problem-type="P" contestant="P46" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(67)&#13;&#10;67 lines, 5056 bytes code, 22690 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 4 and 1 does not exist" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 103 (File not open)" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 25 and 2 does not exist" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 103 (File not open)" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 8 and 2 does not exist" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 39 and 2 does not exist" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="Number of vertex must be in range from 1 to 139" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 103 (File not open)" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 8 and 4 does not exist" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 29 and 4 does not exist" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 103 (File not open)" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 40 and 4 does not exist" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="Number of vertex must be in range from 1 to 81" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 103 (File not open)" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="Edge between 19 and 1 does not exist" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 103 (File not open)" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 103 (File not open)" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 255" eval-comment="" time="0.078" mem="1245184"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 255" eval-comment="" time="0.093" mem="1245184"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 255" eval-comment="" time="0.109" mem="1245184"/>
+    </results>
+  </testing>
+</testing-report>

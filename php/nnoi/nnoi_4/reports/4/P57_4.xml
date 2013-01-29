@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20080128155517002653999336">
+  <solution problem="4" problem-name="Мертвый код" problem-type="P" contestant="P57" time-limit="2000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(3)&#13;&#10;3 lines, 1472 bytes code, 668 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="5" comment="File not found: &quot;cover.out&quot;" eval-comment="" time="0.031" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

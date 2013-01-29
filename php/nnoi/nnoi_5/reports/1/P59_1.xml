@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20090122160255023315832126">
+  <solution problem="1" problem-name="Счастливые билеты - 2" problem-type="P" contestant="P59" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\_nnoi\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(81)&#13;&#10;81 lines, 16448 bytes code, 32710 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="5" max-points="5" comment="N=900" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="N=17523272" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="N=22875168" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="N=1394349" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="N=931170240" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="N=952333200" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="N=999355105301391341" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="N=999914001173" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="N=95428956661682176" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="N=298023223876953125" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="11" outcome="accepted" points="5" max-points="5" comment="N=999205190250744339" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="12" outcome="accepted" points="5" max-points="5" comment="N=432345564227567616" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="N=400252360791997656" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="14" outcome="accepted" points="5" max-points="5" comment="N=49501517869440000" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="15" outcome="accepted" points="5" max-points="5" comment="N=74801040398884800" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="16" outcome="accepted" points="5" max-points="5" comment="N=222756830412480000" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="N=235132209879840000" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="N=448806242393308800" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="19" outcome="accepted" points="5" max-points="5" comment="N=897612484786617600" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="N=940528839519360000" eval-comment="" time="0.015" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

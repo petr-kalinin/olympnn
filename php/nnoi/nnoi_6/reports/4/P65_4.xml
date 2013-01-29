@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20100204162827023393100802">
+  <solution problem="4" problem-name="balls" problem-type="P" contestant="P65" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(59)&#13;&#10;59 lines, 3520 bytes code, 20882 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="1" comment="Extra information in the output file" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="2" comment="Extra information in the output file" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="2" comment="Строка 2:  вместо ." eval-comment="" time="0.031" mem="1200128"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="Строка 1: # . # . # . # . # . # . # . # ... вместо # . # . # . # . # . # . # . # ..." eval-comment="" time="0.015" mem="1200128"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 104 (File not open for input)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="5" comment="Extra information in the output file" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 104 (File not open for input)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="Строка 2: \|" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Строка 4: /|/ " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Строка 2:  вместо . . . . . . . . . . . . . . . ..." eval-comment="" time="0.015" mem="1200128"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Строка 4: |X|X|X|X|" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Строка 2: |/ \|X|/ " eval-comment="" time="0.015" mem="1200128"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 104 (File not open for input)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 104 (File not open for input)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 104 (File not open for input)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 104 (File not open for input)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 104 (File not open for input)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 104 (File not open for input)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="7" comment="Строка 1: . . . . . . . . . . . . . . . ... вместо . . . . . . . . . . . . . . . ..." eval-comment="" time="0.031" mem="1200128"/>
+    </results>
+  </testing>
+</testing-report>

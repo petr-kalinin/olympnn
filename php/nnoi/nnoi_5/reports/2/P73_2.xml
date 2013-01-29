@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20090122160256027380721549">
+  <solution problem="2" problem-name="Олимпийская система-2" problem-type="P" contestant="P73" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compilation-error" command-line="c:\_nnoi\bc\bin\bcc.exe -Ic:\_nnoi\bc\include -Lc:\_nnoi\bc\lib -ml sol.C " compiler-output="Borland C++  Version 3.1 Copyright (c) 1992 Borland International&#13;&#10;sol.c:&#13;&#10;Error sol.c 11: Functions may not be part of a struct or union&#13;&#10;Error sol.c 11: Declaration missing ;&#13;&#10;Error sol.c 39: Size of the type is unknown or zero&#13;&#10;Error sol.c 39: Declaration terminated incorrectly&#13;&#10;*** 4 errors in Compile ***&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

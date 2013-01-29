@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20100204162828025596188547">
+  <solution problem="4" problem-name="balls" problem-type="P" contestant="P77" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(55)&#13;&#10;55 lines, 3392 bytes code, 11392 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="1" max-points="1" comment="" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="3" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="Строка 1: # . # . # . # . # . # . # . # ... вместо # . # . # . # . # . # . # . # ..." eval-comment="" time="0.031" mem="1200128"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="Строка 102: #/ \ /|/ \ /|/ \ /| вместо |/ \ /|/ \ /|/ \ /|" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Строка 2: |/|/|/|/|/|/|/|/|/|/|/|/|/|/|/... вместо |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X..." eval-comment="" time="0.015" mem="1200128"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="Строка 6: |\ / \ /|/|\ / \ /|/|\ / \ /|/... вместо |\ / \ /|X|\ / \ /|X|\ / \ /|X..." eval-comment="" time="0.015" mem="1200128"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Строка 2: \|/|/|/|/ \|/|/|/|/ \|/|/|/|/ ... вместо \|X|X|X|/ \|X|X|X|/ \|X|X|X|/ ..." eval-comment="" time="0.015" mem="1200128"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Строка 2: |/|/|/|/|/ \|/ \|/ \|/ \|/ \|/... вместо |X|X|X|X|/ \|/ \|/ \|/ \|/ \|/..." eval-comment="" time="0.015" mem="1200128"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Строка 2: |/ \|/|/   \|/ \|/|/|/   \|/|/... вместо |/ \|X|/   \|/ \|X|X|/   \|X|X..." eval-comment="" time="0.015" mem="1200128"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="1200128"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="7" comment="Строка 1: #-#-# . #-#-#-# . . #-#-#-# . ... вместо #-#-# . #-#-#-# . . #-#-#-# . ..." eval-comment="" time="0.015" mem="1200128"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="7" comment="Строка 2: . . . . . . . . . . . . . . . ... вместо . . . . . . . . . . . . . . . ..." eval-comment="" time="0.015" mem="1200128"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20090122160256028534881568">
+  <solution problem="1" problem-name="Счастливые билеты - 2" problem-type="P" contestant="P83" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\_nnoi\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(34)&#13;&#10;34 lines, 4256 bytes code, 1608 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="5" comment="Неоптимальное решение" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="5" comment="Неоптимальное решение" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="Неоптимальное решение" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="Неоптимальное решение" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="Неоптимальное решение" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Неоптимальное решение" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="Произведение выведенных чисел не равно N" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="5" comment="Странный множитель: -271126265" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Произведение выведенных чисел не равно N" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Произведение выведенных чисел не равно N" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Странный множитель: -353589142" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Странный множитель: 0" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Странный множитель: -457023892" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="Произведение выведенных чисел не равно N" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="Произведение выведенных чисел не равно N" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="Произведение выведенных чисел не равно N" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Странный множитель: -493749632" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Произведение выведенных чисел не равно N" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Странный множитель: -892027264" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Произведение выведенных чисел не равно N" eval-comment="" time="0.015" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

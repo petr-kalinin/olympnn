@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20080128155518006980022842">
+  <solution problem="3" problem-name="Собрать Квадрат" problem-type="P" contestant="P72" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compilation-error" command-line="c:\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(8): Error 3: Unknown identifier.&#13;&#10;  g:=-1;&#13;&#10;  ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

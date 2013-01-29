@@ -1,0 +1,28 @@
+span.addcomment{
+  font-size:80%;
+}
+a.fullsize{
+  margin-left:20px;
+}
+span.comment{
+}
+p.topcomment{
+  font-size:90%;
+}
+img.photo{
+  float:left;
+  clear:left;
+  margin-top:-18px;
+  border:0px;
+  margin-right:5px;
+}
+div.sep{
+  height:1px;
+  clear:left;
+}
+p.photo{
+  margin-top:20px;
+}
+p.photo:first-letter{
+  padding-left:0em;
+}

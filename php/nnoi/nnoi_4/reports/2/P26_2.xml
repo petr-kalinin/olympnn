@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20080128164905010736970487">
+  <solution problem="2" problem-name="Коды городов" problem-type="P" contestant="P26" time-limit="5000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(24)&#13;&#10;24 lines, 3232 bytes code, 2490 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="1" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="1" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="2" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Неверное число городов в выходном файле: 25 вместо 50" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="5" comment="Неверное число городов в выходном файле: 965 вместо 1930" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="5" comment="Неверное число городов в выходном файле: 5 вместо 10" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="5" comment="Неверное число городов в выходном файле: 50 вместо 100" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="Неверное число городов в выходном файле: 250 вместо 500" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="6" comment="Неверное число городов в выходном файле: 500 вместо 1000" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="6" comment="Неверное число городов в выходном файле: 2500 вместо 5000" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="6" comment="Неверное число городов в выходном файле: 5000 вместо 10000" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="6" comment="Неверное число городов в выходном файле: 25000 вместо 50000" eval-comment="" time="0.093" mem="1351680"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="7" comment="Неверное число городов в выходном файле: 50000 вместо 100000" eval-comment="" time="0.156" mem="1351680"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="7" comment="Unexpected end of file - integer expected" eval-comment="" time="0.171" mem="1351680"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="7" comment="Неверное число городов в выходном файле: 50000 вместо 100000" eval-comment="" time="0.156" mem="1351680"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="7" comment="Неверное число городов в выходном файле: 49999 вместо 99998" eval-comment="" time="0.156" mem="1351680"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="7" comment="Неверное число городов в выходном файле: 49922 вместо 99844" eval-comment="" time="0.156" mem="1351680"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="7" comment="Неверное число городов в выходном файле: 49998 вместо 99996" eval-comment="" time="0.156" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

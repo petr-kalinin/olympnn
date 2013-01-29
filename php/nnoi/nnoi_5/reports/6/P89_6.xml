@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20090122160256030689225744">
+  <solution problem="6" problem-name="Списывание" problem-type="P" contestant="P89" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\_nnoi\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(41)&#13;&#10;41 lines, 3600 bytes code, 17202 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 103 (File not open)" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 103 (File not open)" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Студент 2 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="5" comment="Студент 1 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="6" comment="Студент 9 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="7" comment="Студент 1 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Студент 11 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="7" comment="Студент 34 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Студент 26 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="Студент 49 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Студент 196 сидит в двух местах" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 255" eval-comment="" time="0.187" mem="1363968"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="7" comment="Time limit exceeded" eval-comment="" time="1.062" mem="1351680"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 255" eval-comment="" time="0.187" mem="1363968"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.062" mem="1351680"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.062" mem="1351680"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.062" mem="1351680"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.062" mem="1351680"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.062" mem="1351680"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.062" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

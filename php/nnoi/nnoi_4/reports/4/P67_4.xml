@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20080128155518005868581555">
+  <solution problem="4" problem-name="Мертвый код" problem-type="P" contestant="P67" time-limit="2000" memory-limit="8388608"/>
+  <compiling outcome="compilation-error" command-line="c:\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(4): Error 26: Type mismatch.&#13;&#10;    Tar:array ['1'..'27'] of array ['a'..'z'] of boolean;&#13;&#10;                        ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

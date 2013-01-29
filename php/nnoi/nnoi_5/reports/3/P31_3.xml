@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="5" max="100" outcome="accepted" gtid="20090122160255016831585064">
+  <solution problem="3" problem-name="Автостанции" problem-type="P" contestant="P31" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\_nnoi\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(43)&#13;&#10;43 lines, 3232 bytes code, 40682 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="5" comment="Город 2 не обслуживается" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="5" comment="Город 2 не обслуживается" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="Город 1 не обслуживается" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="N=2  sum=1" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="Город 1 не обслуживается" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Город 1 не обслуживается" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="Город 1 не обслуживается" eval-comment="" time="0.187" mem="1351680"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 202 (Stack overflow error)" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 202 (Stack overflow error)" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 202 (Stack overflow error)" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Город 1 не обслуживается" eval-comment="" time="0.062" mem="1351680"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Город 2 не обслуживается" eval-comment="" time="0.062" mem="1351680"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="Город 1 не обслуживается" eval-comment="" time="0.093" mem="1351680"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="Город 1 не обслуживается" eval-comment="" time="0.421" mem="1351680"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="Город 1 не обслуживается" eval-comment="" time="0.437" mem="1351680"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="Город 1 не обслуживается" eval-comment="" time="0.562" mem="1351680"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 202 (Stack overflow error)" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 202 (Stack overflow error)" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 202 (Stack overflow error)" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 202 (Stack overflow error)" eval-comment="" time="0.015" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

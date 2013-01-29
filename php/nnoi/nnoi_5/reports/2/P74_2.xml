@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20090122160256027454678675">
+  <solution problem="2" problem-name="Олимпийская система-2" problem-type="P" contestant="P74" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compilation-error" command-line="c:\_nnoi\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(7): Error 133: Cannot evaluate this expression.&#13;&#10; Uch: array [1..N] of LongInt;&#13;&#10;                 ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

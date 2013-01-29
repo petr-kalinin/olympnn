@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="1" name="Счастливые билеты - 2"/>
+    <problem id="2" name="Коды городов"/>
+    <problem id="3" name="Собрать квадрат"/>
+    <problem id="4" name="Мертвый код"/>
+    <problem id="5" name="Домофон"/>
+    <problem id="6" name="Кривой горизонт"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="6"/>
+    <diplom id="II" places-min="7" places-max="15"/>
+    <diplom id="III" places-min="16" places-max="26"/>
+  </diploms>
+</more-data>
+    

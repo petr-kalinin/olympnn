@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20100204162825001194745113">
+  <solution problem="1" problem-name="Metro" problem-type="P" contestant="P02" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compilation-error" command-line="bcc.exe -Ic:\_nnoi\c\include -Lc:\_nnoi\c\lib -ml sol.cpp " compiler-output="Borland C++  Version 3.1 Copyright (c) 1992 Borland International&#13;&#10;sol.cpp:&#13;&#10;Error sol.cpp 13: Statement missing ; in function main()&#13;&#10;Error sol.cpp 17: Undefined symbol 'str' in function main()&#13;&#10;Error sol.cpp 19: Statement missing ; in function main()&#13;&#10;Warning sol.cpp 26: 'y0' is assigned a value that is never used in function main()&#13;&#10;Warning sol.cpp 26: 'x1' is assigned a value that is never used in function main()&#13;&#10;Warning sol.cpp 26: 'x0' is assigned a value that is never used in function main()&#13;&#10;*** 3 errors in Compile ***&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

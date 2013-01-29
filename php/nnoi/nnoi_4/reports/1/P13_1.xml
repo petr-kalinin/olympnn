@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20080128170040024723044673">
+  <solution problem="1" problem-name="Functions" problem-type="P" contestant="P13" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(53)&#13;&#10;53 lines, 4208 bytes code, 5338 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="5" max-points="5" comment="41" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="196" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="1057" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="6322" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="41393" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="293608" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="2237921" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="18210094" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="157329097" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="1436630092" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="11" outcome="accepted" points="5" max-points="5" comment="1469959371233" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="12" outcome="accepted" points="5" max-points="5" comment="185504221191745" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="27272621155678841" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="14" outcome="accepted" points="5" max-points="5" comment="348586218389733556" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="15" outcome="accepted" points="5" max-points="5" comment="4605223387997411873" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="16" outcome="accepted" points="5" max-points="5" comment="882730631284319415505" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="190185523485851040093857" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="45671882246215264120864553" eval-comment="" time="0.046" mem="1351680"/>
+      <test id="19" outcome="accepted" points="5" max-points="5" comment="735452644411097903203941148" eval-comment="" time="0.031" mem="1351680"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="12136505435201514536093218561" eval-comment="" time="0.046" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20100204162827017116843412">
+  <solution problem="6" problem-name="Шифр" problem-type="P" contestant="P49" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(13)&#13;&#10;13 lines, 2800 bytes code, 39848 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="idleness-limit-exceeded" points="0" max-points="1" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="2" outcome="idleness-limit-exceeded" points="0" max-points="2" comment="Idleness limit exceeded" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="3" outcome="idleness-limit-exceeded" points="0" max-points="3" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="4" outcome="idleness-limit-exceeded" points="0" max-points="3" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="5" outcome="idleness-limit-exceeded" points="0" max-points="4" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="6" outcome="idleness-limit-exceeded" points="0" max-points="3" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="7" outcome="idleness-limit-exceeded" points="0" max-points="4" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="8" outcome="idleness-limit-exceeded" points="0" max-points="4" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="9" outcome="idleness-limit-exceeded" points="0" max-points="4" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="10" outcome="idleness-limit-exceeded" points="0" max-points="5" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="11" outcome="idleness-limit-exceeded" points="0" max-points="5" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="12" outcome="idleness-limit-exceeded" points="0" max-points="6" comment="Idleness limit exceeded" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="13" outcome="idleness-limit-exceeded" points="0" max-points="6" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="14" outcome="idleness-limit-exceeded" points="0" max-points="4" comment="Idleness limit exceeded" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="15" outcome="idleness-limit-exceeded" points="0" max-points="6" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="16" outcome="idleness-limit-exceeded" points="0" max-points="8" comment="Idleness limit exceeded" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="17" outcome="idleness-limit-exceeded" points="0" max-points="8" comment="Idleness limit exceeded" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="18" outcome="idleness-limit-exceeded" points="0" max-points="10" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+      <test id="19" outcome="idleness-limit-exceeded" points="0" max-points="4" comment="Idleness limit exceeded" eval-comment="" time="0.062" mem="1200128"/>
+      <test id="20" outcome="idleness-limit-exceeded" points="0" max-points="10" comment="Idleness limit exceeded" eval-comment="" time="0.078" mem="1200128"/>
+    </results>
+  </testing>
+</testing-report>

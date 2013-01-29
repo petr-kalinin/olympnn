@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="11" max="100" outcome="accepted" gtid="20090122160254013594720257">
+  <solution problem="5" problem-name="Точка, дуга и отрезок" problem-type="P" contestant="P10" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\_nnoi\bp\bin\bpc.exe sol.PAS " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(14)&#13;&#10;14 lines, 4400 bytes code, 700 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="4" comment="0.00000000 вместо 1.00000000" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="4" comment="0.00000000 вместо 0.47606400" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="0.00000000 вместо 0.24358600" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="0.00000000 вместо 0.55516400" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="0.00000000 вместо 1.00000000" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="0.00000000 вместо 0.90597000" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="6" comment="0.00000000 вместо 0.90255900" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="6" comment="0.00000000 вместо 0.38802200" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="0.00000000 вместо 0.37950100" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="0.00000000 вместо 0.33333300" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="1.00000000 вместо 0.00000000" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="0.00000000 вместо 0.50000000" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="0.00000000" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="6" comment="0.00000000 вместо 1.00000000" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="0.00000000 вместо 1.00000000" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="0.00000000 вместо 0.88460900" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="0.00000000 вместо 0.85208000" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="0.00000000 вместо 0.46390700" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="6" comment="0.00000000 вместо 0.18795800" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="20" outcome="accepted" points="6" max-points="6" comment="0.00000000" eval-comment="" time="0.015" mem="1351680"/>
+    </results>
+  </testing>
+</testing-report>

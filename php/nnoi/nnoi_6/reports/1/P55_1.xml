@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20100204162827019025478955">
+  <solution problem="1" problem-name="Metro" problem-type="P" contestant="P55" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="bcc.exe -Ic:\_nnoi\c\include -Lc:\_nnoi\c\lib -ml sol.cpp " compiler-output="Borland C++  Version 3.1 Copyright (c) 1992 Borland International&#13;&#10;sol.cpp:&#13;&#10;Turbo Link  Version 5.1 Copyright (c) 1992 Borland International&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.031" mem="1200128"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.015" mem="1200128"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="1" name="Метро"/>
+    <problem id="2" name="Автомат со сдачей"/>
+    <problem id="3" name="Логарифм"/>
+    <problem id="4" name="Шарики"/>
+    <problem id="5" name="Совершенно секретно"/>
+    <problem id="6" name="Шифр"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="3"/>
+    <diplom id="II" places-min="4" places-max="12"/>
+    <diplom id="III" places-min="13" places-max="22"/>
+  </diploms>
+</more-data>
+    
