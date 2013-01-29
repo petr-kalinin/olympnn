@@ -16,7 +16,6 @@
     Жюри=jury.php
     Оргкомитет=org.php
     Результаты=results.php
-    Архив=archive/index.php
   }
   NNOI III={
     _dir=nnoi_3/
@@ -25,7 +24,6 @@
     Жюри=jury.php
     Оргкомитет=org.php
     Результаты=results.php
-    Архив=archive/index.php
   }
   NNOI IV={
     _dir=nnoi_4/
@@ -53,6 +51,7 @@
     Оргкомитет=org.php
     Результаты=results.php
     Архив=archive/index.php
+    Online-проверка=http://informatics.mccme.ru/moodle/mod/statements/view.php?id=4518
   }
   NNOI VII={
     _dir=nnoi_7/
