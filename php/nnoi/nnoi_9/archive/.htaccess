@@ -1,4 +1,4 @@
-AuthName "Only for NNOI participants. If you do not remember login and password, contact Petr Kalinin at petr@kalinin.nnov.ru" 
-AuthType Basic 
-AuthUserFile ./.htpasswd 
+AuthName "Only for NNOI participants. If you do not remember login and password, contact Petr Kalinin at petr@kalinin.nnov.ru"
+AuthType Basic
+AuthUserFile .htpasswd
 require valid-user
