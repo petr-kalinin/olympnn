@@ -37,7 +37,7 @@ startonn("/Город","Нижегородские городские олимпиады школьников по информатике")
 <li><a href="/nnoi/nnoi_6/index.php">VI олимпиада, 4 февраля 2010 г.</a></li>
 <li><a href="/nnoi/nnoi_7/index.php">VII олимпиада, 3 февраля 2011 г.</a></li>
 <li><a href="/nnoi/nnoi_8/index.php">VIII олимпиада, 9 февраля 2012 г.</a></li>
-<li><a href="/nnoi/nnoi_9/index.php">IЧ олимпиада, 31 января 2013 г.</a></li>
+<li><a href="/nnoi/nnoi_9/index.php">IX олимпиада, 31 января 2013 г.</a></li>
 </ul>
 <h1>Книга</h1>
 <ul>
