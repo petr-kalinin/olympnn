@@ -69,6 +69,11 @@
     Архив=archive/index.php
     Online-проверка=http://informatics.mccme.ru/moodle/mod/statements/view.php?id=4543
   }
+  NNOI IX={
+    _dir=nnoi_9/
+    _index=index.php
+    Архив=archive/index.php
+  }
   Книга={
     _dir=../book/
     _index=index.php
