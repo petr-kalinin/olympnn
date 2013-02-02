@@ -23,11 +23,11 @@ $wrong_url_was=false;
 function check_file($a){
   global $backpath,$wrong_url_was;
   
-  if (strtolower($a[2])<>$a[2]) {
-     $wrong_url_was=true;
-     $a[0].="!!!Case!!!$a[2]???";
-     return $a[0];
-  }
+//  if (strtolower($a[2])<>$a[2]) {
+//     $wrong_url_was=true;
+//     $a[0].="!!!Case!!!$a[2]???";
+//     return $a[0];
+//  }
   if (strpos($a[0],"://")!==FALSE)
      return $a[0];
   if ($a[2]=="mailto")
