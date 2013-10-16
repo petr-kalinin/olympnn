@@ -10,7 +10,7 @@ startonn("/Город/NNOI IX/Результаты","Статистика IX Нижегородской городской олим
 if (isset($_GET["prob"])) {
    loadxml("results/results.xml",$results);
    if (($_GET["prob"]=='all')or isset($results["results"]["problems"][$_GET["prob"]]))
-      ije_showstat("nnoi/nnoi_7/results/results.xml",$_GET["prob"]);
+      ije_showstat("nnoi/nnoi_9/results/results.xml",$_GET["prob"]);
    else writeln("Задача ".htmlspecialchars($_GET["prob"])." не найдена...");
 } else writeln("Задача не найдена...");
 endonn();
