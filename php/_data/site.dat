@@ -43,6 +43,7 @@
     Оргкомитет=org.php
     Результаты=results.php
     Архив=archive/index.php
+    Online-проверка=http://informatics.mccme.ru/moodle/mod/statements/view.php?id=6772
   }
   NNOI VI={
     _dir=nnoi_6/
