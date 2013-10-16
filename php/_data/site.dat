@@ -83,6 +83,7 @@
     Оргкомитет=org.php
     Результаты=results.php
     Архив=archive/index.php
+    Online-проверка=http://informatics.mccme.ru/moodle/mod/statements/view.php?id=6853
   }
   Книга={
     _dir=../book/
