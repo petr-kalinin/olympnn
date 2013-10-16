@@ -68,12 +68,20 @@
   NNOI VIII={
     _dir=nnoi_8/
     _index=index.php
+    Авторы задач=taskauthors.php
+    Жюри=jury.php
+    Оргкомитет=org.php
+    Результаты=results.php
     Архив=archive/index.php
     Online-проверка=http://informatics.mccme.ru/moodle/mod/statements/view.php?id=4543
   }
   NNOI IX={
     _dir=nnoi_9/
     _index=index.php
+    Авторы задач=taskauthors.php
+    Жюри=jury.php
+    Оргкомитет=org.php
+    Результаты=results.php
     Архив=archive/index.php
   }
   Книга={

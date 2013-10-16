@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="1" name="Переливание духов"/>
+    <problem id="2" name="Освещение двора"/>
+    <problem id="3" name="Совершенно несчастливые билеты"/>
+    <problem id="4" name="BubbleGum"/>
+    <problem id="5" name="Шоколадки"/>
+    <problem id="6" name="Два капитана"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="5"/>
+    <diplom id="II" places-min="6" places-max="13"/>
+    <diplom id="III" places-min="14" places-max="22"/>
+  </diploms>
+</more-data>
+    

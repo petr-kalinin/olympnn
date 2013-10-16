@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="3" max="100" outcome="accepted" gtid="20120209163225023474566780">
+  <solution problem="6" problem-name="Два капитана" problem-type="P" contestant="U23" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(52)&#13;&#10;52 lines, 4032 bytes code, 30692 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="2" comment="Strange item number: 0" eval-comment="" time="0.140" mem="1146880"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="2" comment="Item 3 duplicates" eval-comment="" time="0.120" mem="1146880"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="N=6" eval-comment="" time="0.120" mem="1146880"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Item 1 duplicates" eval-comment="" time="0.100" mem="1146880"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="4" comment="Item 1 duplicates" eval-comment="" time="0.120" mem="1146880"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Item 2 duplicates" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Item 1 duplicates" eval-comment="" time="0.110" mem="1146880"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Item 116 duplicates" eval-comment="" time="0.130" mem="1146880"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Item 1 duplicates" eval-comment="" time="0.120" mem="1146880"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="6" comment="Item 603 duplicates" eval-comment="" time="0.150" mem="1146880"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="6" comment="Item 1 duplicates" eval-comment="" time="0.300" mem="1146880"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="6" comment="Item 2406 duplicates" eval-comment="" time="0.310" mem="1146880"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="7" comment="Item 1 duplicates" eval-comment="" time="0.600" mem="1146880"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="7" comment="Item 4068 duplicates" eval-comment="" time="0.270" mem="1146880"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="7" comment="Item 1 duplicates" eval-comment="" time="0.500" mem="1146880"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="6" comment="Item 473 duplicates" eval-comment="" time="0.270" mem="1146880"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="6" comment="Item 4 duplicates" eval-comment="" time="0.250" mem="1146880"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="7" comment="Item 1 duplicates" eval-comment="" time="0.570" mem="1146880"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="6" comment="Item 3 duplicates" eval-comment="" time="0.260" mem="1146880"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="6" comment="Item 4510 duplicates" eval-comment="" time="0.280" mem="1146880"/>
+    </results>
+  </testing>
+</testing-report>

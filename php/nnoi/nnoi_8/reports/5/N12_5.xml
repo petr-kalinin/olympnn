@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="25" max="100" outcome="accepted" gtid="20120209163225018432325434">
+  <solution problem="5" problem-name="Шоколадки" problem-type="P" contestant="N12" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="409600"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="409600"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="409600"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="Expected 56 but found 16" eval-comment="" time="0.010" mem="409600"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="Expected 376 but found 24" eval-comment="" time="0.010" mem="409600"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="Expected 511 but found 491" eval-comment="" time="0.020" mem="409600"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="Expected 24 but found 12" eval-comment="" time="0.010" mem="409600"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="Expected 98 but found 18" eval-comment="" time="0.010" mem="409600"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="Expected 360 but found 120" eval-comment="" time="0.010" mem="409600"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Expected 2778 but found 42" eval-comment="" time="0.010" mem="409600"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="Expected 778320 but found 52560" eval-comment="" time="0.040" mem="409600"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Expected 1591524 but found 2370" eval-comment="" time="0.020" mem="409600"/>
+      <test id="13" outcome="accepted" points="8" max-points="8" comment="" eval-comment="" time="0.020" mem="409600"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="6" comment="Expected 39425904 but found 295536" eval-comment="" time="0.030" mem="409600"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="7" comment="Expected 110347440 but found 1362000" eval-comment="" time="0.030" mem="409600"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="6" comment="Expected 32399352 but found 166176" eval-comment="" time="0.020" mem="409600"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="6" comment="Expected 17754204 but found 7200" eval-comment="" time="0.020" mem="409600"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Expected 475162 but found 126" eval-comment="" time="0.020" mem="409600"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Expected 32767 but found 17" eval-comment="" time="0.020" mem="409600"/>
+      <test id="20" outcome="accepted" points="9" max-points="9" comment="" eval-comment="" time="0.020" mem="409600"/>
+    </results>
+  </testing>
+</testing-report>

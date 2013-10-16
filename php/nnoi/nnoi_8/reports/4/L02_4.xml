@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20120209163225011502294724">
+  <solution problem="4" problem-name="Bubble Gum" problem-type="P" contestant="L02" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;45 lines compiled, 0.0 sec , 30688 bytes code, 1724 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 200 (Division by zero)" eval-comment="" time="0.020" mem="430080"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 200 (Division by zero)" eval-comment="" time="0.020" mem="430080"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 200 (Division by zero)" eval-comment="" time="0.010" mem="430080"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 200 (Division by zero)" eval-comment="" time="0.020" mem="430080"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 200 (Division by zero)" eval-comment="" time="0.010" mem="430080"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="8094240 вместо 692424150138639009051760800" eval-comment="" time="0.020" mem="430080"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="20 вместо 15215811995302158240" eval-comment="" time="0.020" mem="430080"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="555646 вместо 258495772004845310675014521469..." eval-comment="" time="0.020" mem="430080"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="458 вместо 193336586696082027983317614821..." eval-comment="" time="0.010" mem="430080"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="554674 вместо 505616308965534843180515924963..." eval-comment="" time="0.010" mem="430080"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="143 вместо 769868867699127464145061961782..." eval-comment="" time="0.010" mem="733184"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="107 вместо 656513573418788993614400378416..." eval-comment="" time="0.020" mem="696320"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="-1010701240 вместо 236995516510510999972773681557..." eval-comment="" time="0.010" mem="733184"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="6" comment="73481 вместо 927030594884927575184185195801..." eval-comment="" time="0.010" mem="696320"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="6" comment="58909620 вместо 773437290972370193319672392452..." eval-comment="" time="0.010" mem="770048"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="7" comment="40579987 вместо 261902607238386508162159822258..." eval-comment="" time="0.020" mem="733184"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="6" comment="1386 вместо 236985920350942851203021075871..." eval-comment="" time="0.020" mem="770048"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="7" comment="-1653960064 вместо 294061330492165045662850595062..." eval-comment="" time="0.030" mem="770048"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="6" comment="131237507 вместо 712886527466509305316638415571..." eval-comment="" time="0.030" mem="770048"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="7" comment="750846989 вместо 347387541531030710508761141114..." eval-comment="" time="0.030" mem="733184"/>
+    </results>
+  </testing>
+</testing-report>

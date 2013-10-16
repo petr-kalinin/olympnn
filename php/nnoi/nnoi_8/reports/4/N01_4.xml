@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="43" max="100" outcome="accepted" gtid="20120209163225013177982217">
+  <solution problem="4" problem-name="Bubble Gum" problem-type="P" contestant="N01" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(15,4) Note: Local variable &quot;j&quot; not used&#13;&#10;sol.pp(11,17) Note: Local variable &quot;o&quot; not used&#13;&#10;Linking sol.exe&#13;&#10;91 lines compiled, 0.1 sec , 31552 bytes code, 1724 bytes data&#13;&#10;2 note(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="2" max-points="2" comment="10" eval-comment="" time="0.020" mem="397312"/>
+      <test id="2" outcome="accepted" points="3" max-points="3" comment="12096" eval-comment="" time="0.010" mem="434176"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="1536" eval-comment="" time="0.020" mem="397312"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="373248" eval-comment="" time="0.010" mem="434176"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="2133292864" eval-comment="" time="0.010" mem="434176"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="692424150138639009051760800" eval-comment="" time="0.010" mem="471040"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="15215811995302158240" eval-comment="" time="0.020" mem="434176"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="258495772004845310675014521469..." eval-comment="" time="0.020" mem="581632"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="193336586696082027983317614821..." eval-comment="" time="0.030" mem="618496"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="505616308965534843180515924963..." eval-comment="" time="0.020" mem="544768"/>
+      <test id="11" outcome="accepted" points="6" max-points="6" comment="769868867699127464145061961782..." eval-comment="" time="0.120" mem="1343488"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="0 вместо 656513573418788993614400378416..." eval-comment="" time="0.580" mem="2162688"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="0 вместо 236995516510510999972773681557..." eval-comment="" time="0.610" mem="2134016"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="6" comment="572840261733027658851610550699... вместо 927030594884927575184185195801..." eval-comment="" time="0.821" mem="2154496"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="6" comment="597565979143062357339762311620... вместо 773437290972370193319672392452..." eval-comment="" time="0.701" mem="2183168"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="7" comment="0 вместо 261902607238386508162159822258..." eval-comment="" time="0.610" mem="2146304"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="6" comment="0 вместо 236985920350942851203021075871..." eval-comment="" time="0.610" mem="2179072"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="7" comment="266857907390673860322426995448... вместо 294061330492165045662850595062..." eval-comment="" time="0.801" mem="2162688"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="6" comment="440514161272698269656888513488... вместо 712886527466509305316638415571..." eval-comment="" time="0.811" mem="2154496"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="7" comment="346611642499876688596155554327... вместо 347387541531030710508761141114..." eval-comment="" time="0.791" mem="2154496"/>
+    </results>
+  </testing>
+</testing-report>

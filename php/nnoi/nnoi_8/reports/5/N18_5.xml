@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="2" max="100" outcome="accepted" gtid="20120209163225018590008137">
+  <solution problem="5" problem-name="Шоколадки" problem-type="P" contestant="N18" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(81)&#13;&#10;81 lines, 4080 bytes code, 3274 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.110" mem="1146880"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="2" comment="Expected 0 but found 1406" eval-comment="" time="0.100" mem="1146880"/>
+      <test id="3" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.041" mem="1146880"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="Expected 56 but found -35" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="5" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.051" mem="1146880"/>
+      <test id="6" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.041" mem="1146880"/>
+      <test id="7" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.051" mem="1146880"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="Expected 98 but found 0" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="Expected 360 but found -1264" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Expected 2778 but found 20" eval-comment="" time="0.100" mem="1146880"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.051" mem="1146880"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Expected 1591524 but found 0" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="8" comment="Expected 0 but found 31484" eval-comment="" time="0.110" mem="1146880"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 200 (Division by zero)" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 200 (Division by zero)" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 200 (Division by zero)" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 200 (Division by zero)" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Expected 475162 but found 0" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.051" mem="1146880"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="9" comment="Expected 1307674368000 but found 22528" eval-comment="" time="0.090" mem="1146880"/>
+    </results>
+  </testing>
+</testing-report>

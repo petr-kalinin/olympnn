@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20120209163225020775661412">
+  <solution problem="6" problem-name="Два капитана" problem-type="P" contestant="N08" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="2" comment="Strange item number: 11" eval-comment="" time="0.010" mem="339968"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="2" comment="Strange item number: 42" eval-comment="" time="0.020" mem="339968"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Strange item number: 12" eval-comment="" time="0.010" mem="339968"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Strange item number: 11" eval-comment="" time="0.010" mem="339968"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="4" comment="Strange item number: 793" eval-comment="" time="0.010" mem="344064"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Strange item number: 154152" eval-comment="" time="0.010" mem="344064"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Item 11 duplicates" eval-comment="" time="0.010" mem="344064"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Strange item number: 136858" eval-comment="" time="0.030" mem="352256"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Item 11 duplicates" eval-comment="" time="0.020" mem="352256"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="6" comment="Strange item number: 461401" eval-comment="" time="0.070" mem="376832"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="6" comment="Item 11 duplicates" eval-comment="" time="0.040" mem="376832"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="6" comment="Strange item number: 8691844" eval-comment="" time="0.120" mem="405504"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="7" comment="Item 11 duplicates" eval-comment="" time="0.140" mem="405504"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="7" comment="Strange item number: 43601585" eval-comment="" time="0.120" mem="405504"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="7" comment="Item 11 duplicates" eval-comment="" time="0.160" mem="405504"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="6" comment="Strange item number: 2362544" eval-comment="" time="0.150" mem="405504"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="6" comment="Strange item number: 50001" eval-comment="" time="0.060" mem="405504"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="7" comment="Item 11 duplicates" eval-comment="" time="0.050" mem="405504"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="6" comment="Strange item number: 15000" eval-comment="" time="0.060" mem="405504"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="6" comment="Strange item number: 33201" eval-comment="" time="0.080" mem="405504"/>
+    </results>
+  </testing>
+</testing-report>

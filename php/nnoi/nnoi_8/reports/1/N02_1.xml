@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20120209163224002225137150">
+  <solution problem="1" problem-name="Переливание духов" problem-type="P" contestant="N02" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(30)&#13;&#10;30 lines, 5056 bytes code, 62798 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="5" comment="Expected real instead of &quot;1.0370370370E+03-3.7037037037E...&quot;" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="5" comment="Expected 2,22 but found 1,1098779134" eval-comment="" time="0.040" mem="1146880"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="Expected 100 but found 1000" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="Expected 100 but found 1000" eval-comment="" time="0.040" mem="1146880"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="Expected 100 but found 1000" eval-comment="" time="0.020" mem="1146880"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Expected 50,02 but found 500" eval-comment="" time="0.030" mem="1146880"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="5" comment="Expected real instead of &quot;-1.2755427434E+00-1.2755427434...&quot;" eval-comment="" time="0.020" mem="1146880"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.040" mem="1146880"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Expected 100 but found 1000" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Expected real instead of &quot;-8.2997931826E+01-8.2997931826...&quot;" eval-comment="" time="0.030" mem="1146880"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.020" mem="1146880"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="Expected 100 but found 1000" eval-comment="" time="0.040" mem="1146880"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.040" mem="1146880"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.030" mem="1146880"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.050" mem="1146880"/>
+    </results>
+  </testing>
+</testing-report>

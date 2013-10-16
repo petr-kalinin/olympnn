@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="14" max="100" outcome="accepted" gtid="20120209163225011709837163">
+  <solution problem="4" problem-name="Bubble Gum" problem-type="P" contestant="L04" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(20,25) Warning: Variable &quot;pcount&quot; does not seem to be initialized&#13;&#10;Linking sol.exe&#13;&#10;43 lines compiled, 0.0 sec , 29600 bytes code, 1692 bytes data&#13;&#10;1 warning(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="2" max-points="2" comment="10" eval-comment="" time="0.020" mem="397312"/>
+      <test id="2" outcome="accepted" points="3" max-points="3" comment="12096" eval-comment="" time="0.010" mem="397312"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="1536" eval-comment="" time="0.010" mem="397312"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="373248" eval-comment="" time="0.010" mem="397312"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="2133292864" eval-comment="" time="0.020" mem="397312"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.010" mem="397312"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.020" mem="397312"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.020" mem="397312"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.020" mem="397312"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.010" mem="397312"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.020" mem="397312"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.010" mem="397312"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.010" mem="397312"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.020" mem="397312"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.020" mem="397312"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.020" mem="397312"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.020" mem="397312"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.020" mem="397312"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.010" mem="397312"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 207 (Invalid floating point operation)" eval-comment="" time="0.030" mem="397312"/>
+    </results>
+  </testing>
+</testing-report>

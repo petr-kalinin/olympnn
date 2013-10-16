@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20120208160914015223192199">
+  <solution problem="5" problem-name="Шоколадки" problem-type="P" contestant="N23" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;46 lines compiled, 0.1 sec , 29360 bytes code, 1692 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="4685824"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.020" mem="4685824"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="4685824"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.020" mem="4685824"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.020" mem="4685824"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="4685824"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="4685824"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="4685824"/>
+      <test id="9" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="4685824"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.020" mem="4685824"/>
+      <test id="11" outcome="accepted" points="6" max-points="6" comment="" eval-comment="" time="0.070" mem="4685824"/>
+      <test id="12" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.160" mem="4685824"/>
+      <test id="13" outcome="accepted" points="8" max-points="8" comment="" eval-comment="" time="0.190" mem="4685824"/>
+      <test id="14" outcome="accepted" points="6" max-points="6" comment="" eval-comment="" time="0.180" mem="4685824"/>
+      <test id="15" outcome="accepted" points="7" max-points="7" comment="" eval-comment="" time="0.220" mem="4685824"/>
+      <test id="16" outcome="accepted" points="6" max-points="6" comment="" eval-comment="" time="0.250" mem="4685824"/>
+      <test id="17" outcome="accepted" points="6" max-points="6" comment="" eval-comment="" time="0.160" mem="4685824"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.110" mem="4685824"/>
+      <test id="19" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.070" mem="4685824"/>
+      <test id="20" outcome="accepted" points="9" max-points="9" comment="" eval-comment="" time="0.440" mem="4685824"/>
+    </results>
+  </testing>
+</testing-report>

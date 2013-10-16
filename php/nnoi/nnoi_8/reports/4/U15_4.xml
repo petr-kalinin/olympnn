@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20120209163225016659180373">
+  <solution problem="4" problem-name="Bubble Gum" problem-type="P" contestant="U15" time-limit="1000" memory-limit="134217728"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(27)&#13;&#10;27 lines, 4528 bytes code, 944 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="2" comment="1 вместо 10" eval-comment="" time="0.100" mem="1146880"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="3" comment="290304 вместо 12096" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="7083549724300000000000 вместо 1536" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="5205741216400000 вместо 373248" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="136530743300 вместо 2133292864" eval-comment="" time="0.100" mem="1146880"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.100" mem="1146880"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.100" mem="1146880"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 205 (Floating point overflow)" eval-comment="" time="0.070" mem="1146880"/>
+    </results>
+  </testing>
+</testing-report>

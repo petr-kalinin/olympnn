@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20120209163225004964489304">
+  <solution problem="1" problem-name="Переливание духов" problem-type="P" contestant="U19" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="bcc -IC:\olymp\soft\TurboC\include -LC:\olymp\soft\TurboC\lib  -ml sol.cpp " compiler-output="Borland C++  Version 3.1 Copyright (c) 1992 Borland International&#13;&#10;sol.cpp:&#13;&#10;Error sol.cpp 22: Expression syntax in function main()&#13;&#10;Error sol.cpp 23: Statement missing ; in function main()&#13;&#10;Error sol.cpp 32: Compound statement missing } in function main()&#13;&#10;Warning sol.cpp 32: Function should return a value in function main()&#13;&#10;Warning sol.cpp 32: 'n' is assigned a value that is never used in function main()&#13;&#10;*** 3 errors in Compile ***&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

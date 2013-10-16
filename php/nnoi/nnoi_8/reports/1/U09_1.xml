@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="50" max="100" outcome="accepted" gtid="20120209163225004320690790">
+  <solution problem="1" problem-name="Переливание духов" problem-type="P" contestant="U09" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;34 lines compiled, 0.0 sec , 34848 bytes code, 1852 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.010" mem="438272"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.010" mem="438272"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.010" mem="438272"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.020" mem="438272"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.010" mem="438272"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.020" mem="438272"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.010" mem="438272"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="Expected 5,76 but found 3,68" eval-comment="" time="0.010" mem="438272"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.010" mem="438272"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Expected 44,41 but found 100" eval-comment="" time="0.020" mem="438272"/>
+      <test id="11" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.020" mem="438272"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Expected 89,09 but found 88,99" eval-comment="" time="0.010" mem="438272"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.010" mem="438272"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="Expected 3,08 but found 0" eval-comment="" time="0.010" mem="438272"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="Expected 3,88 but found 0" eval-comment="" time="0.010" mem="438272"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="Expected 0,2 but found 0" eval-comment="" time="0.010" mem="438272"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="Expected 2,65 but found 0" eval-comment="" time="0.010" mem="438272"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Expected 3,37 but found 0" eval-comment="" time="0.010" mem="438272"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Expected 1,01 but found 0" eval-comment="" time="0.020" mem="438272"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Expected 2 but found 0" eval-comment="" time="0.010" mem="438272"/>
+    </results>
+  </testing>
+</testing-report>

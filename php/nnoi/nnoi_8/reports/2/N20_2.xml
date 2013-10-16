@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20120209163225006953681481">
+  <solution problem="2" problem-name="Освещение двора" problem-type="P" contestant="N20" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(6,13) Error: Identifier not found &quot;ouput&quot;&#13;&#10;sol.pp(8,15) Error: Identifier not found &quot;n&quot;&#13;&#10;sol.pp(12,15) Error: Identifier not found &quot;imax&quot;&#13;&#10;sol.pp(14,19) Fatal: Unexpected end of file&#13;&#10;Fatal: Compilation aborted&#13;&#10;Error: c:\olymp\soft\fpc\bin\i386-win32\ppc386.exe returned an error exitcode (normal if you did not specify a source file to be compiled)&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>
