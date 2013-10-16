@@ -11,7 +11,7 @@
   <diploms>
     <diplom id="I" places-min="1" places-max="4"/>
     <diplom id="II" places-min="5" places-max="11"/>
-    <diplom id="III" places-min="12" places-max="29"/>
+    <diplom id="III" places-min="12" places-max="19"/>
   </diploms>
 </more-data>
     
