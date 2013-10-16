@@ -24,6 +24,7 @@
     Жюри=jury.php
     Оргкомитет=org.php
     Результаты=results.php
+    Архив=archive/index.php
   }
   NNOI IV={
     _dir=nnoi_4/

@@ -23,7 +23,7 @@ III Нижегородская городская олимпиада школьников по информатике была проведена 3
 </ul>
 <ul>
 <li><a href="results.php">Результаты</a></li>
-<?/*<li><a href="archive/index.php">Архив</a></li>*/?>
+<li><a href="archive/index.php">Архив</a></li>
 </ul>
 <?
 endonn();
