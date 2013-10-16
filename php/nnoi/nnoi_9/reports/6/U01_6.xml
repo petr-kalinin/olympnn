@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="6" max="100" outcome="accepted" gtid="20130131162227024984710263">
+  <solution problem="6" problem-name="Руммикуб" problem-type="P" contestant="U01" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="2" max-points="2" comment="-1" eval-comment="" time="0.010" mem="339968"/>
+      <test id="2" outcome="accepted" points="1" max-points="1" comment="" eval-comment="" time="0.010" mem="339968"/>
+      <test id="3" outcome="accepted" points="1" max-points="1" comment="" eval-comment="" time="0.010" mem="339968"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="2" comment="Неправильная комбинация 1" eval-comment="" time="0.010" mem="339968"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="В комбинации 1 повторяются фишки" eval-comment="" time="0.020" mem="339968"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="339968"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="Неправильная комбинация 1" eval-comment="" time="0.010" mem="339968"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Неправильная комбинация 1" eval-comment="" time="0.020" mem="339968"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Странное количество фишек в комбинации: 36" eval-comment="" time="0.010" mem="339968"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="В комбинации 1 повторяются фишки" eval-comment="" time="0.020" mem="339968"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Странное количество фишек в комбинации: 56" eval-comment="" time="0.010" mem="339968"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 41" eval-comment="" time="0.010" mem="339968"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 43" eval-comment="" time="0.010" mem="339968"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 45" eval-comment="" time="0.020" mem="339968"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 52" eval-comment="" time="0.020" mem="339968"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 64" eval-comment="" time="0.010" mem="339968"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 71" eval-comment="" time="0.010" mem="339968"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 76" eval-comment="" time="0.020" mem="339968"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 94" eval-comment="" time="0.020" mem="339968"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 96" eval-comment="" time="0.020" mem="339968"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 97" eval-comment="" time="0.010" mem="339968"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 99" eval-comment="" time="0.020" mem="339968"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 96" eval-comment="" time="0.010" mem="339968"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 96" eval-comment="" time="0.010" mem="339968"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 100" eval-comment="" time="0.020" mem="339968"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 76" eval-comment="" time="0.010" mem="339968"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 99" eval-comment="" time="0.010" mem="339968"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 100" eval-comment="" time="0.010" mem="339968"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 52" eval-comment="" time="0.010" mem="339968"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Странное количество фишек в комбинации: 104" eval-comment="" time="0.010" mem="339968"/>
+    </results>
+  </testing>
+</testing-report>

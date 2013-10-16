@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20130131162227016458343533">
+  <solution problem="4" problem-name="Тестирование программы" problem-type="P" contestant="N17" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="4" max-points="4" comment="Ответ 0" eval-comment="" time="0.010" mem="745472"/>
+      <test id="2" outcome="accepted" points="3" max-points="3" comment="Ответ 1" eval-comment="" time="0.010" mem="745472"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="Ответ 2" eval-comment="" time="0.010" mem="745472"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="Ответ 2" eval-comment="" time="0.020" mem="745472"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="Ответ 3" eval-comment="" time="0.020" mem="745472"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="Ответ 3" eval-comment="" time="0.010" mem="745472"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="Ответ 4" eval-comment="" time="0.010" mem="745472"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="Ответ 14" eval-comment="" time="0.030" mem="745472"/>
+      <test id="9" outcome="accepted" points="4" max-points="4" comment="Ответ 15" eval-comment="" time="0.080" mem="745472"/>
+      <test id="10" outcome="accepted" points="4" max-points="4" comment="Ответ 15" eval-comment="" time="0.070" mem="745472"/>
+      <test id="11" outcome="accepted" points="4" max-points="4" comment="Ответ 16" eval-comment="" time="0.140" mem="745472"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="Ответ 16" eval-comment="" time="0.150" mem="745472"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="Ответ 17" eval-comment="" time="0.170" mem="745472"/>
+      <test id="14" outcome="accepted" points="4" max-points="4" comment="Ответ 9" eval-comment="" time="0.010" mem="745472"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="Ответ 10" eval-comment="" time="0.010" mem="745472"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="Ответ 7" eval-comment="" time="0.010" mem="745472"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="Ответ 4" eval-comment="" time="0.010" mem="745472"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="Ответ 14" eval-comment="" time="0.040" mem="745472"/>
+      <test id="19" outcome="accepted" points="3" max-points="3" comment="Ответ 17" eval-comment="" time="0.170" mem="745472"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="Ответ 15" eval-comment="" time="0.050" mem="745472"/>
+      <test id="21" outcome="accepted" points="3" max-points="3" comment="Ответ 16" eval-comment="" time="0.130" mem="745472"/>
+      <test id="22" outcome="accepted" points="3" max-points="3" comment="Ответ 17" eval-comment="" time="0.230" mem="745472"/>
+      <test id="23" outcome="accepted" points="3" max-points="3" comment="Ответ 13" eval-comment="" time="0.020" mem="745472"/>
+      <test id="24" outcome="accepted" points="3" max-points="3" comment="Ответ 17" eval-comment="" time="0.180" mem="745472"/>
+      <test id="25" outcome="accepted" points="3" max-points="3" comment="Ответ 17" eval-comment="" time="0.240" mem="745472"/>
+      <test id="26" outcome="accepted" points="3" max-points="3" comment="Ответ 14" eval-comment="" time="0.030" mem="745472"/>
+      <test id="27" outcome="accepted" points="3" max-points="3" comment="Ответ 15" eval-comment="" time="0.060" mem="745472"/>
+      <test id="28" outcome="accepted" points="3" max-points="3" comment="Ответ 16" eval-comment="" time="0.130" mem="745472"/>
+      <test id="29" outcome="accepted" points="3" max-points="3" comment="Ответ 16" eval-comment="" time="0.140" mem="745472"/>
+      <test id="30" outcome="accepted" points="3" max-points="3" comment="Ответ 17" eval-comment="" time="0.230" mem="745472"/>
+    </results>
+  </testing>
+</testing-report>

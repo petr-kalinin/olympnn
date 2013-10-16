@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="36" max="100" outcome="accepted" gtid="20130131162226009166691052">
+  <solution problem="2" problem-name="Праздничные дни" problem-type="P" contestant="N13" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(11,18) Warning: Variable &quot;k&quot; does not seem to be initialized&#13;&#10;Linking sol.exe&#13;&#10;24 lines compiled, 0.0 sec , 28640 bytes code, 1708 bytes data&#13;&#10;1 warning(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.020" mem="360448"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.020" mem="360448"/>
+      <test id="3" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="360448"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.020" mem="360448"/>
+      <test id="5" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="360448"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="360448"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="360448"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.020" mem="360448"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="360448"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="360448"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="360448"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="360448"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="360448"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="360448"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 103 (File not open)" eval-comment="" time="0.010" mem="360448"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 103 (File not open)" eval-comment="" time="0.010" mem="360448"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.041" mem="6377472"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 103 (File not open)" eval-comment="" time="0.010" mem="360448"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.041" mem="6520832"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 103 (File not open)" eval-comment="" time="0.010" mem="360448"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 103 (File not open)" eval-comment="" time="0.010" mem="360448"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 103 (File not open)" eval-comment="" time="0.010" mem="360448"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 103 (File not open)" eval-comment="" time="0.010" mem="360448"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.041" mem="6352896"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 103 (File not open)" eval-comment="" time="0.020" mem="360448"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.051" mem="6410240"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 103 (File not open)" eval-comment="" time="0.010" mem="360448"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 103 (File not open)" eval-comment="" time="0.020" mem="360448"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 103 (File not open)" eval-comment="" time="0.020" mem="360448"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 103 (File not open)" eval-comment="" time="0.010" mem="360448"/>
+    </results>
+  </testing>
+</testing-report>

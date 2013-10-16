@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20130130212001010912497363">
+  <solution problem="1" problem-name="Расписание маршруток" problem-type="P" contestant="N04" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="bcc -IC:\olymp\soft\TurboC\include -LC:\olymp\soft\TurboC\lib  -ml sol.cpp " compiler-output="Borland C++  Version 3.1 Copyright (c) 1992 Borland International&#13;&#10;sol.cpp:&#13;&#10;Error sol.cpp 1: Unable to open include file 'cstdio'&#13;&#10;Error sol.cpp 2: Unable to open include file 'cstdlib'&#13;&#10;Error sol.cpp 3: Unable to open include file 'algorithm'&#13;&#10;Error sol.cpp 5: Declaration syntax error&#13;&#10;Error sol.cpp 11: Array size too large&#13;&#10;Error sol.cpp 16: Function 'freopen' should have a prototype in function main()&#13;&#10;Error sol.cpp 16: Undefined symbol 'stdin' in function main()&#13;&#10;Error sol.cpp 17: Undefined symbol 'stdout' in function main()&#13;&#10;Error sol.cpp 19: Function 'scanf' should have a prototype in function main()&#13;&#10;Error sol.cpp 24: Multiple declaration for 'i' in function main()&#13;&#10;Error sol.cpp 28: Function 'sort' should have a prototype in function main()&#13;&#10;Error sol.cpp 31: Multiple declaration for 'i' in function main()&#13;&#10;Error sol.cpp 32: Multiple declaration for 'i' in function main()&#13;&#10;Error sol.cpp 34: Multiple declaration for 'i' in function main()&#13;&#10;Error sol.cpp 36: Function 'min' should have a prototype in function main()&#13;&#10;Error sol.cpp 37: Function 'abs' should have a prototype in function main()&#13;&#10;Error sol.cpp 40: Function 'printf' should have a prototype in function main()&#13;&#10;*** 17 errors in Compile ***&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="15" max="100" outcome="accepted" gtid="20130131162227017640004654">
+  <solution problem="4" problem-name="Тестирование программы" problem-type="P" contestant="U09" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;60 lines compiled, 0.1 sec , 29600 bytes code, 1692 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="4" comment="Ответ жюри лучше ответа участника: 0 : 1" eval-comment="" time="0.020" mem="7864320"/>
+      <test id="2" outcome="accepted" points="3" max-points="3" comment="Ответ 1" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="Ответ 2" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="Ответ 2" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="Ответ 3" eval-comment="" time="0.020" mem="7864320"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="Ответ 3" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.020" mem="7864320"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.010" mem="7864320"/>
+    </results>
+  </testing>
+</testing-report>

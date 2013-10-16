@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="43" max="100" outcome="accepted" gtid="20130130222256004505154123">
+  <solution problem="2" problem-name="Праздничные дни" problem-type="P" contestant="N04" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(7,2) Warning: The switch &quot;$E&quot; is not supported by the currently selected target&#13;&#10;sol.pp(7,2) Note: Ignored compiler switch &quot;$F&quot;&#13;&#10;sol.pp(7,2) Note: Ignored compiler switch &quot;$G&quot;&#13;&#10;sol.pp(7,2) Warning: Unsupported switch &quot;$L&quot;&#13;&#10;sol.pp(7,2) Warning: Unsupported switch &quot;$N&quot;&#13;&#10;sol.pp(7,2) Warning: Unsupported switch &quot;$Y&quot;&#13;&#10;Linking sol.exe&#13;&#10;67 lines compiled, 0.2 sec , 61024 bytes code, 12780 bytes data&#13;&#10;4 warning(s) issued&#13;&#10;2 note(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.020" mem="561152"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="561152"/>
+      <test id="3" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="561152"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.020" mem="561152"/>
+      <test id="5" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="561152"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="561152"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="561152"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Символ 5: '-' вместо '+'" eval-comment="" time="0.010" mem="561152"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Символ 5: '-' вместо '+'" eval-comment="" time="0.010" mem="561152"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Символ 6: '-' вместо '+'" eval-comment="" time="0.010" mem="561152"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="561152"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Символ 41: '-' вместо '+'" eval-comment="" time="0.010" mem="561152"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Символ 25: '-' вместо '+'" eval-comment="" time="0.010" mem="561152"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Символ 269: '-' вместо '+'" eval-comment="" time="0.010" mem="561152"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Символ 73: '-' вместо '+'" eval-comment="" time="0.010" mem="561152"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Символ 208: '-' вместо '+'" eval-comment="" time="0.020" mem="561152"/>
+      <test id="17" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.030" mem="561152"/>
+      <test id="18" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.040" mem="561152"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="Символ 9: '-' вместо '+'" eval-comment="" time="0.060" mem="561152"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="Символ 4999: '-' вместо '+'" eval-comment="" time="0.060" mem="561152"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="Символ 76: '-' вместо '+'" eval-comment="" time="0.060" mem="561152"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="Символ 14: '-' вместо '+'" eval-comment="" time="0.050" mem="561152"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Символ 3668: '-' вместо '+'" eval-comment="" time="0.060" mem="561152"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Символ 51: '-' вместо '+'" eval-comment="" time="0.040" mem="561152"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="Символ 179: '-' вместо '+'" eval-comment="" time="0.060" mem="561152"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.060" mem="561152"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.060" mem="561152"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.070" mem="561152"/>
+      <test id="29" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.050" mem="561152"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="5" comment="Символ 20405: '-' вместо '+'" eval-comment="" time="0.060" mem="561152"/>
+    </results>
+  </testing>
+</testing-report>

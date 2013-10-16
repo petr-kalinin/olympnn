@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="79" max="100" outcome="accepted" gtid="20130131162226007601419271">
+  <solution problem="2" problem-name="Праздничные дни" problem-type="P" contestant="L12" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="2" comment="Extra information in the output file" eval-comment="" time="0.010" mem="835584"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="2" comment="Extra information in the output file" eval-comment="" time="0.020" mem="835584"/>
+      <test id="3" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="835584"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="835584"/>
+      <test id="5" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="835584"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.010" mem="835584"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="835584"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="835584"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="835584"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="835584"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="17" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="18" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="19" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.030" mem="835584"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="4" comment="Файл слишком короткий" eval-comment="" time="0.020" mem="835584"/>
+      <test id="21" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="22" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.030" mem="835584"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="4" comment="Файл слишком короткий" eval-comment="" time="0.030" mem="835584"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="25" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.030" mem="835584"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.020" mem="835584"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="4" comment="Файл слишком короткий" eval-comment="" time="0.020" mem="835584"/>
+      <test id="29" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.030" mem="835584"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="5" comment="Файл слишком короткий" eval-comment="" time="0.030" mem="835584"/>
+    </results>
+  </testing>
+</testing-report>

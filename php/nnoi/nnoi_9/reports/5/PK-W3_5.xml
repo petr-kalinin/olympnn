@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="30" max="100" outcome="accepted" gtid="20130130203743007681655741">
+  <solution problem="5" problem-name="Раскраска автобусов" problem-type="P" contestant="PK-W3" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;122 lines compiled, 0.1 sec , 28672 bytes code, 1676 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;-19999999999999999999999999999...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="0" eval-comment="" time="0.010" mem="360448"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="217" eval-comment="" time="0.010" mem="360448"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="22 вместо 10" eval-comment="" time="0.010" mem="360448"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="15881" eval-comment="" time="0.010" mem="360448"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="271" eval-comment="" time="0.010" mem="360448"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;-19999999999999999999999999999...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="0 вместо 99994" eval-comment="" time="0.010" mem="360448"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="99511627760 вместо 40" eval-comment="" time="0.010" mem="360448"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;-19999999999999999999999999999...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="9999999999999964 вместо 989999999999999899" eval-comment="" time="0.010" mem="360448"/>
+      <test id="12" outcome="accepted" points="5" max-points="5" comment="100000" eval-comment="" time="0.020" mem="360448"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="5638452106304" eval-comment="" time="0.010" mem="360448"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="3885765 вместо 65656665248149523" eval-comment="" time="0.010" mem="360448"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="621290 вместо 259363732901727423" eval-comment="" time="0.010" mem="360448"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;-19999999999999999999999999999...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;-19999999999999999999999999999...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;-19999999999999999999999999999...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="3552 вместо 356107472394738566" eval-comment="" time="0.020" mem="360448"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;-19999999999999999999999999999...&quot;" eval-comment="" time="0.010" mem="360448"/>
+    </results>
+  </testing>
+</testing-report>

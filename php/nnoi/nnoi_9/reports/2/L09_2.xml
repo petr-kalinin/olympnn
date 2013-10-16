@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="2" max="100" outcome="accepted" gtid="20130130212001013597439549">
+  <solution problem="2" problem-name="Праздничные дни" problem-type="P" contestant="L09" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(51)&#13;&#10;51 lines, 2592 bytes code, 1186 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="2" comment="Символ 1: '+' вместо '-'" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="" eval-comment="" time="0.040" mem="1146880"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Файл слишком короткий" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="Символ 2: '+' вместо '-'" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="Символ 1: '+' вместо '-'" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Символ 1: '+' вместо '-'" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Символ 1: '+' вместо '-'" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Символ 1: '+' вместо '-'" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Символ 1: '+' вместо '-'" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Символ 5: '+' вместо '-'" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Символ 1: '+' вместо '-'" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Символ 1: '+' вместо '-'" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Символ 1: '+' вместо '-'" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Символ 1: '+' вместо '-'" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Символ 96: '+' вместо '-'" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.040" mem="1146880"/>
+    </results>
+  </testing>
+</testing-report>

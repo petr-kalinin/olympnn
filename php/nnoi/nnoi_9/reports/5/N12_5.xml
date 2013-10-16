@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20130131170049027310808191">
+  <solution problem="5" problem-name="Раскраска автобусов" problem-type="P" contestant="N12" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fbc -lang qb sol.bas " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="5" max-points="5" comment="5" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="0" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="3" outcome="fail" points="0" max-points="5" comment="[IJE] File not found" eval-comment="" time="0.010" mem="1372160"/>
+      <test id="4" outcome="fail" points="0" max-points="5" comment="[IJE] File not found" eval-comment="" time="0.010" mem="1372160"/>
+      <test id="5" outcome="fail" points="0" max-points="5" comment="[IJE] File not found" eval-comment="" time="0.010" mem="1372160"/>
+      <test id="6" outcome="fail" points="0" max-points="5" comment="[IJE] File not found" eval-comment="" time="0.010" mem="1372160"/>
+      <test id="7" outcome="fail" points="0" max-points="5" comment="[IJE] File not found" eval-comment="" time="0.010" mem="1372160"/>
+      <test id="8" outcome="fail" points="0" max-points="5" comment="[IJE] File not found" eval-comment="" time="0.010" mem="1372160"/>
+      <test id="9" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.041" mem="1372160"/>
+      <test id="10" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="1372160"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="1372160"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="1372160"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="1372160"/>
+      <test id="14" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="1372160"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="1372160"/>
+      <test id="16" outcome="fail" points="0" max-points="5" comment="[IJE] File not found" eval-comment="" time="0.010" mem="1372160"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="1372160"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="1372160"/>
+      <test id="19" outcome="fail" points="0" max-points="5" comment="[IJE] File not found" eval-comment="" time="0.010" mem="1372160"/>
+      <test id="20" outcome="fail" points="0" max-points="5" comment="[IJE] File not found" eval-comment="" time="0.010" mem="1372160"/>
+    </results>
+  </testing>
+</testing-report>

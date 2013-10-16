@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="1" name="Расписание маршруток"/>
+    <problem id="2" name="Праздничные дни"/>
+    <problem id="3" name="Выставка ноутбуков"/>
+    <problem id="4" name="Тестирование программы"/>
+    <problem id="5" name="Раскраска автобусов"/>
+    <problem id="6" name="Руммикуб"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="4"/>
+    <diplom id="II" places-min="5" places-max="11"/>
+    <diplom id="III" places-min="12" places-max="29"/>
+  </diploms>
+</more-data>
+    

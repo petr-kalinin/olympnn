@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="44" max="100" outcome="accepted" gtid="20130130203742002972615970">
+  <solution problem="1" problem-name="Расписание маршруток" problem-type="P" contestant="DEA-W4" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="1" max-points="1" comment="N=2: 4" eval-comment="" time="0.010" mem="315392"/>
+      <test id="2" outcome="accepted" points="1" max-points="1" comment="N=2: 150" eval-comment="" time="0.010" mem="315392"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="N=12: 31" eval-comment="" time="0.010" mem="315392"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="N=18: 55008" eval-comment="" time="0.010" mem="315392"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="N=6: 65005" eval-comment="" time="0.010" mem="315392"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="N=6: 13" eval-comment="" time="0.010" mem="315392"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="N=16: 67 вместо 61" eval-comment="" time="0.010" mem="315392"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="N=8: 58" eval-comment="" time="0.010" mem="315392"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="N=70: 57522" eval-comment="" time="0.020" mem="315392"/>
+      <test id="10" outcome="accepted" points="6" max-points="6" comment="N=141: 330110" eval-comment="" time="0.030" mem="315392"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="N=88: 1020138 вместо 1020135" eval-comment="" time="0.020" mem="315392"/>
+      <test id="12" outcome="accepted" points="6" max-points="6" comment="N=250: 959" eval-comment="" time="0.020" mem="315392"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="N=201: 2399 вместо 2393" eval-comment="" time="0.050" mem="315392"/>
+      <test id="14" outcome="accepted" points="6" max-points="6" comment="N=199: 2976" eval-comment="" time="0.030" mem="315392"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="N=1000: 14457204 вместо 72103" eval-comment="" time="0.961" mem="315392"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="7" comment="N=990: 44653 вместо 16609" eval-comment="" time="0.971" mem="315392"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="7" comment="N=770: 32305 вместо 11326" eval-comment="" time="0.961" mem="315392"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="7" comment="N=950: 93584 вместо 79778" eval-comment="" time="0.961" mem="315392"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="7" comment="N=555: 50906 вместо 42939" eval-comment="" time="0.961" mem="315392"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="7" comment="N=1000: 17828 вместо 9247" eval-comment="" time="0.961" mem="315392"/>
+    </results>
+  </testing>
+</testing-report>

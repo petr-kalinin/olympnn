@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="60" max="100" outcome="accepted" gtid="20130131162227022920153640">
+  <solution problem="5" problem-name="Раскраска автобусов" problem-type="P" contestant="U12" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;28 lines compiled, 0.0 sec , 29664 bytes code, 1692 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="5" max-points="5" comment="5" eval-comment="" time="0.010" mem="356352"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="0" eval-comment="" time="0.010" mem="356352"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="217" eval-comment="" time="0.010" mem="356352"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="10" eval-comment="" time="0.010" mem="356352"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="15881" eval-comment="" time="0.010" mem="356352"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="271" eval-comment="" time="0.010" mem="356352"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="86456" eval-comment="" time="0.020" mem="356352"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="99994" eval-comment="" time="0.010" mem="356352"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="40" eval-comment="" time="0.010" mem="356352"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="98772" eval-comment="" time="0.020" mem="356352"/>
+      <test id="11" outcome="accepted" points="5" max-points="5" comment="1011" eval-comment="" time="0.010" mem="356352"/>
+      <test id="12" outcome="accepted" points="5" max-points="5" comment="100000" eval-comment="" time="0.020" mem="356352"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="356352"/>
+      <test id="14" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="356352"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="356352"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="356352"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.051" mem="356352"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="356352"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="356352"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="356352"/>
+    </results>
+  </testing>
+</testing-report>

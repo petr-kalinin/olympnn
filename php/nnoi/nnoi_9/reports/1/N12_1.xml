@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="2" max="100" outcome="accepted" gtid="20130131162226003935100494">
+  <solution problem="1" problem-name="Расписание маршруток" problem-type="P" contestant="N12" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fbc -lang qb sol.bas " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="1" max-points="1" comment="N=2: 4" eval-comment="" time="0.020" mem="1384448"/>
+      <test id="2" outcome="accepted" points="1" max-points="1" comment="N=2: 150" eval-comment="" time="0.020" mem="1384448"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="N=12: 2 вместо 31" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="N=18: 55017 вместо 55008" eval-comment="" time="0.020" mem="1384448"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="N=6: 65001 вместо 65005" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="N=6: 17 вместо 13" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="N=16: 28 вместо 61" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="N=8: 48 вместо 58" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="N=70: 1184 вместо 57522" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="6" comment="N=141: 330051 вместо 330110" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="N=88: 1020001 вместо 1020135" eval-comment="" time="0.020" mem="1384448"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="N=250: 358 вместо 959" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="N=201: 623 вместо 2393" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="6" comment="N=199: 2140 вместо 2976" eval-comment="" time="0.020" mem="1384448"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="N=1000: 26 вместо 72103" eval-comment="" time="0.040" mem="1388544"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="7" comment="N=990: 2208 вместо 16609" eval-comment="" time="0.020" mem="1388544"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="7" comment="N=770: 3242 вместо 11326" eval-comment="" time="0.030" mem="1388544"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="7" comment="N=950: 81132 вместо 79778" eval-comment="" time="0.010" mem="1384448"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="7" comment="N=555: 17707 вместо 42939" eval-comment="" time="0.020" mem="1388544"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="7" comment="N=1000: 19 вместо 9247" eval-comment="" time="0.040" mem="1388544"/>
+    </results>
+  </testing>
+</testing-report>

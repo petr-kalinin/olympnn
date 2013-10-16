@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20130130203743008126885542">
+  <solution problem="5" problem-name="Раскраска автобусов" problem-type="P" contestant="VE-LT" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output="sol.cxx: In function 'int main()':&#13;&#10;sol.cxx:11:2: error: 'll' was not declared in this scope&#13;&#10;sol.cxx:11:5: error: expected ';' before 'paint'&#13;&#10;sol.cxx:14:6: error: expected ';' before 'p'&#13;&#10;sol.cxx:15:10: error: 'p' was not declared in this scope&#13;&#10;sol.cxx:19:3: error: 'paint' was not declared in this scope&#13;&#10;sol.cxx:21:10: error: 'paint' was not declared in this scope&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

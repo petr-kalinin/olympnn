@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20130130203743007452537899">
+  <solution problem="5" problem-name="Раскраска автобусов" problem-type="P" contestant="PK-W1" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.0 [2011/12/25] for i386&#13;&#10;Copyright (c) 1993-2011 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;122 lines compiled, 0.1 sec , 28720 bytes code, 1676 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="5" max-points="5" comment="5" eval-comment="" time="0.010" mem="360448"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="0" eval-comment="" time="0.010" mem="360448"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="1927 вместо 217" eval-comment="" time="0.010" mem="360448"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="10" eval-comment="" time="0.010" mem="360448"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="1562531 вместо 15881" eval-comment="" time="0.010" mem="360448"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;4-1521&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;7151226-4&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="817245544 вместо 99994" eval-comment="" time="0.020" mem="360448"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="40" eval-comment="" time="0.020" mem="360448"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;13-3319-132&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;725336455427177116131771161281...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;5-39-1112-200&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;32330343864573-2223275644&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;4232329651596687512893804725-1...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;112362940521051111091298810614...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;427415530417712011814114110222...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;419244137-53-1423-164-45-268-1...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;15-6-17-27-29-8-63-173662-113-...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;122323373661021131291211141361...&quot;" eval-comment="" time="0.010" mem="360448"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;317318085601071307012923921319...&quot;" eval-comment="" time="0.010" mem="360448"/>
+    </results>
+  </testing>
+</testing-report>

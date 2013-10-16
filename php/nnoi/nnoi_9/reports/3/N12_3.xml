@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20130131162226013306732968">
+  <solution problem="3" problem-name="Выставка ноутбуков" problem-type="P" contestant="N12" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="fbc -lang qb sol.bas " compiler-output="sol.bas(13) error 10: Expected '='&#13;&#10; &#9;m$(i)11&#13;&#10; &#9;     ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>
