@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="8" max="100" outcome="accepted" gtid="20140130155615029968558162">
+  <solution problem="6" problem-name="Расписание поездов" problem-type="P" contestant="E02" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="4" max-points="4" comment="answer is 5" eval-comment="" time="0.020" mem="299008"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="answer is 15" eval-comment="" time="0.010" mem="299008"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="expected 6, found 7" eval-comment="" time="0.010" mem="303104"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="expected 1, found 2" eval-comment="" time="0.010" mem="303104"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="expected 1, found 2" eval-comment="" time="0.020" mem="303104"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="expected 8, found 6" eval-comment="" time="0.010" mem="299008"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="expected 24, found 5" eval-comment="" time="0.010" mem="303104"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="expected 76, found 14" eval-comment="" time="0.010" mem="307200"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="expected 29218, found 16011" eval-comment="" time="0.020" mem="360448"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="expected 29100, found 14947" eval-comment="" time="0.010" mem="360448"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="expected 25922, found 13398" eval-comment="" time="0.020" mem="360448"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="expected 24901, found 6012" eval-comment="" time="0.020" mem="430080"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="expected 32845, found 1172" eval-comment="" time="0.050" mem="577536"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="expected 46915, found 214" eval-comment="" time="0.080" mem="778240"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.031" mem="5062656"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.031" mem="5062656"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.041" mem="4988928"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.051" mem="5062656"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.031" mem="6422528"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.051" mem="5660672"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="4919296"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="4861952"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.041" mem="5062656"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.031" mem="5062656"/>
+    </results>
+  </testing>
+</testing-report>

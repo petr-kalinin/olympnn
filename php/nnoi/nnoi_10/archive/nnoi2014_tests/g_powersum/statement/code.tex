@@ -1,0 +1,69 @@
+\vspace{0pt}
+\begin{codesample}[\code]
+\verb°°\codetok{const}\verb° maxans=1000;°\codelf
+\verb°°\codetok{var}\verb° n,k,m:integer;°\codelf
+\verb°    c:°\codetok{array}\verb°[0..20,-1..20] °\codetok{of}\verb° integer;°\codelf
+\verb°    f:text;°\codelf
+\verb°    i,j:integer;°\codelf
+\verb°    ans:°\codetok{array}\verb°[1..maxans] °\codetok{of}\verb° °\codetok{record}\verb° n,k:integer; °\codelf
+\verb°                              ans:integer; °\codetok{end}\verb°;°\codelf
+\verb°    nans:integer;°\codelf
+\verb°°\codelf
+\verb°°\codetok{function}\verb° pow(x:int64; k:int64; m:int64):int64;°\codelf
+\verb°°\codetok{var}\verb° i:integer;°\codelf
+\verb°°\codetok{begin}\verb°°\codelf
+\verb°°\codetok{result}\verb°:=1;°\codelf
+\verb°°\codetok{for}\verb° i:=1 °\codetok{to}\verb° k °\codetok{do}\verb° °\codetok{result}\verb°:=(°\codetok{result}\verb°*x) °\codetok{mod}\verb° m;°\codelf
+\verb°°\codetok{end}\verb°;°\codelf
+\verb°°\codelf
+\verb°°\codetok{function}\verb° calc(n,m,k:int64):int64;°\codelf
+\verb°°\codetok{var}\verb° n0,i:integer;°\codelf
+\verb°    corr:integer;°\codelf
+\verb°°\codetok{begin}\verb°°\codelf
+\verb°°\codetok{if}\verb° n=0 °\codetok{then}\verb° exit(0);°\codelf
+\verb°°\codetok{if}\verb° n=1 °\codetok{then}\verb° exit(1 °\codetok{mod}\verb° m);°\codelf
+\verb°°\codetok{if}\verb° k=0 °\codetok{then}\verb° exit(n °\codetok{mod}\verb° m);°\codelf
+\verb°°\codetok{result}\verb°:=0;°\codelf
+\verb°corr:=0;°\codelf
+\verb°n0:=n;°\codelf
+\verb°°\codetok{if}\verb° (n °\codetok{mod}\verb° 2 =0) °\codetok{then}\verb° °\codetok{begin}\verb°°\codelf
+\verb°   inc(n);°\codelf
+\verb°   corr:=m-pow(n,k,m);°\codelf
+\verb°°\codetok{end}\verb°;°\codelf
+\verb°°\codetok{for}\verb° i:=1 °\codetok{to}\verb° nans °\codetok{do}\verb°°\codelf
+\verb°    °\codetok{if}\verb° (ans[i].n=n)°\codetok{and}\verb°(ans[i].k=k) °\codetok{then}\verb° °\codetok{begin}\verb°°\codelf
+\verb°       °\codetok{result}\verb°:=(corr+ans[i].ans) °\codetok{mod}\verb° m;°\codelf
+\verb°       exit;°\codelf
+\verb°    °\codetok{end}\verb°;°\codelf
+\verb°// now n °\codetok{div}\verb° 2 = (n-1) °\codetok{div}\verb° 2°\codelf
+\verb°°\codetok{result}\verb°:=(°\codetok{result}\verb° + °\codelf
+\verb°   (2 * pow(2,k,m) * calc(n °\codetok{div}\verb° 2, m, k)) °\codelf
+\verb°   °\codetok{mod}\verb° m) °\codetok{mod}\verb° m;°\codelf
+\verb°°\codetok{for}\verb° i:=k-1 °\codetok{downto}\verb° 0 °\codetok{do}\verb° °\codelf
+\verb°    °\codetok{result}\verb°:=(°\codetok{result}\verb° + °\codelf
+\verb°      (c[k,i] * (pow(2,i,m) * °\codelf
+\verb°      calc((n-1) °\codetok{div}\verb° 2, m, i) °\codelf
+\verb°      °\codetok{mod}\verb° m) °\codetok{mod}\verb° m)) °\codetok{mod}\verb° m;°\codelf
+\verb°°\codetok{result}\verb°:=(°\codetok{result}\verb°+1) °\codetok{mod}\verb° m;°\codelf
+\verb°inc(nans);°\codelf
+\verb°ans[nans].n:=n;°\codelf
+\verb°ans[nans].k:=k;°\codelf
+\verb°ans[nans].ans:=°\codetok{result}\verb°;°\codelf
+\verb°°\codetok{result}\verb°:=(°\codetok{result}\verb°+corr) °\codetok{mod}\verb° m;°\codelf
+\verb°°\codetok{end}\verb°;°\codelf
+\verb°°\codelf
+\verb°°\codetok{begin}\verb°°\codelf
+\verb°assign(f,'powersum.in');reset(f);°\codelf
+\verb°read(f,n,m,k);°\codelf
+\verb°close(f);°\codelf
+\verb°fillchar(c,sizeof(c),0);°\codelf
+\verb°c[0,0]:=1;°\codelf
+\verb°°\codetok{for}\verb° i:=1 °\codetok{to}\verb° k °\codetok{do}\verb°°\codelf
+\verb°    °\codetok{for}\verb° j:=0 °\codetok{to}\verb° k °\codetok{do}\verb°°\codelf
+\verb°        c[i,j]:=(c[i-1,j-1]+c[i-1,j]) °\codetok{mod}\verb° m;°\codelf
+\verb°nans:=0;°\codelf
+\verb°assign(f,'powersum.out');rewrite(f);°\codelf
+\verb°writeln(f,calc(n,m,k));°\codelf
+\verb°close(f);°\codelf
+\verb°°\codetok{end}\verb°.°
+\end{codesample}%

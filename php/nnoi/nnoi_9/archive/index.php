@@ -20,7 +20,7 @@ print_many_files(array($fname=>array("comment"=>"","format"=>$format)),$text);
 }
 
 ?>
-<h1>"Сырой" архив</h1>
+<h1>Архив</h1>
 
 <p>Для распаковки архивов 7-zip можно скачать open-source архиватор 7-zip с сайта <a 
 href="http://www.7-zip.org/">http://www.7-zip.org/</a>.</p>

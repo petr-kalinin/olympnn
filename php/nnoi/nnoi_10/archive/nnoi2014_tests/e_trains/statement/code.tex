@@ -1,0 +1,75 @@
+\vspace{0pt}
+\begin{codesample}[\code]
+\verb°°\codetok{const}\verb° max°{\ttfamily\symbol{`\_}}\verb°time=24*60-1;°\codelf
+\verb°°\codetok{type}\verb° ttrain=°\codetok{record}\verb° s,f,t1,t2,n:integer; °\codetok{end}\verb°;°\codelf
+\verb°     ttrainArr=°\codetok{array}\verb° °\codetok{of}\verb° ttrain;°\codelf
+\verb°°\codetok{var}\verb° f:text;°\codelf
+\verb°    n,m:integer;°\codelf
+\verb°    train:°\codetok{array}\verb°[1..100000] °\codetok{of}\verb° ttrain;°\codelf
+\verb°    arrives, departs:°\codetok{array}\verb° [0..max°{\ttfamily\symbol{`\_}}\verb°time] °\codetok{of}\verb° °\codelf
+\verb°                                  ttrainArr;°\codelf
+\verb°    min,bal:°\codetok{array}\verb°[1..100000] °\codetok{of}\verb° int64;°\codelf
+\verb°    ans:int64;°\codelf
+\verb°    i,j:integer;°\codelf
+\verb°    curs:integer;°\codelf
+\verb°    °\codelf
+\verb°°\codetok{function}\verb° readnum:integer;°\codelf
+\verb°°\codetok{var}\verb° ch:char;°\codelf
+\verb°°\codetok{begin}\verb°°\codelf
+\verb°°\codetok{repeat}\verb°°\codelf
+\verb°  read(f,ch);°\codelf
+\verb°°\codetok{until}\verb° ch °\codetok{in}\verb° ['0'..'9'];°\codelf
+\verb°°\codetok{result}\verb°:=0;°\codelf
+\verb°°\codetok{while}\verb° ch °\codetok{in}\verb° ['0'..'9'] °\codetok{do}\verb° °\codetok{begin}\verb°°\codelf
+\verb°      °\codetok{result}\verb°:=°\codetok{result}\verb°*10+ord(ch)-ord('0');°\codelf
+\verb°      read(f,ch);°\codelf
+\verb°°\codetok{end}\verb°;°\codelf
+\verb°°\codetok{end}\verb°;°\codelf
+\verb°    °\codelf
+\verb°°\codetok{function}\verb° readmom:integer;°\codelf
+\verb°°\codetok{begin}\verb°°\codelf
+\verb°°\codetok{result}\verb°:=readnum*60+readnum;°\codelf
+\verb°°\codetok{end}\verb°;°\codelf
+\verb°°\codelf
+\verb°°\codetok{procedure}\verb° push(°\codetok{var}\verb° a:ttrainArr;°\codetok{const}\verb° t:ttrain);°\codelf
+\verb°°\codetok{begin}\verb°°\codelf
+\verb°setlength(a, length(a)+1);°\codelf
+\verb°a[length(a)-1]:=t;°\codelf
+\verb°°\codetok{end}\verb°;°\codelf
+\verb°°\codelf
+\verb°°\codetok{begin}\verb°°\codelf
+\verb°assign(f,'trains.in');reset(f);°\codelf
+\verb°read(f,n,m);°\codelf
+\verb°ans:=0;°\codelf
+\verb°°\codetok{for}\verb° i:=1 °\codetok{to}\verb° m °\codetok{do}\verb° °\codetok{begin}\verb°°\codelf
+\verb°    read(f,train[i].s,train[i].f,train[i].n);°\codelf
+\verb°    train[i].t1:=readmom;°\codelf
+\verb°    train[i].t2:=readmom;°\codelf
+\verb°    °\codetok{if}\verb° train[i].t2<train[i].t1 °\codetok{then}\verb° °\codelf
+\verb°       ans:=ans+train[i].n;°\codelf
+\verb°    push(arrives[train[i].t2], train[i]);°\codelf
+\verb°    push(departs[train[i].t1], train[i]);°\codelf
+\verb°°\codetok{end}\verb°;°\codelf
+\verb°close(f);°\codelf
+\verb°fillchar(bal,sizeof(bal),0);°\codelf
+\verb°fillchar(min,sizeof(min),0);°\codelf
+\verb°°\codetok{for}\verb° i:=0 °\codetok{to}\verb° max°{\ttfamily\symbol{`\_}}\verb°time °\codetok{do}\verb° °\codetok{begin}\verb°°\codelf
+\verb°    °\codetok{for}\verb° j:=0 °\codetok{to}\verb° length(arrives[i])-1 °\codetok{do}\verb°°\codelf
+\verb°        inc(bal[arrives[i][j].f], °\codelf
+\verb°            arrives[i][j].n);°\codelf
+\verb°    °\codetok{for}\verb° j:=0 °\codetok{to}\verb° length(departs[i])-1 °\codetok{do}\verb° °\codetok{begin}\verb°°\codelf
+\verb°        curs:=departs[i][j].s;°\codelf
+\verb°        dec(bal[curs], departs[i][j].n);°\codelf
+\verb°        °\codetok{if}\verb° bal[curs]<min[curs] °\codetok{then}\verb° °\codelf
+\verb°           min[curs]:=bal[curs];°\codelf
+\verb°    °\codetok{end}\verb°;°\codelf
+\verb°°\codetok{end}\verb°;°\codelf
+\verb°°\codetok{for}\verb° i:=1 °\codetok{to}\verb° n °\codetok{do}\verb° °\codetok{begin}\verb°°\codelf
+\verb°    °\codetok{if}\verb° min[i]<0 °\codetok{then}\verb°°\codelf
+\verb°       inc(ans, -min[i]);°\codelf
+\verb°°\codetok{end}\verb°;°\codelf
+\verb°assign(f,'trains.out');rewrite(f);°\codelf
+\verb°writeln(f,ans);°\codelf
+\verb°close(f);°\codelf
+\verb°°\codetok{end}\verb°.°
+\end{codesample}%

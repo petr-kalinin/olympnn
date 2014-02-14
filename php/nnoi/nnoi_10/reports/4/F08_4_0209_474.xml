@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20140130153405013234906588">
+  <solution problem="4" problem-name="Кастрюли и крышки" problem-type="P" contestant="F08" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(17): Error 8: String constant exceeds line.&#13;&#10;     assign(buf, 'pots.in);&#13;&#10;                           ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

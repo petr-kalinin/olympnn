@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20140130143705037522971158">
+  <solution problem="1" problem-name="Classics" problem-type="P" contestant="F08" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compilation-error" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(18): Error 3: Unknown identifier.&#13;&#10;  rewrite(bufo);&#13;&#10;          ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

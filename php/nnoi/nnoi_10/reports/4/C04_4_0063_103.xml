@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="12" max="100" outcome="accepted" gtid="20140130143655015378879204">
+  <solution problem="4" problem-name="Кастрюли и крышки" problem-type="P" contestant="C04" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(23)&#13;&#10;23 lines, 3344 bytes code, 8690 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.041" mem="1146880"/>
+      <test id="2" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.051" mem="1146880"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Expected 2 but found 1" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Expected 2 but found 1" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Expected 9 but found 8" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Expected 10 but found 9" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Expected 21 but found 20" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Expected 41 but found 40" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Expected 18 but found 17" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Expected 84 but found 83" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Expected 537 but found 536" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Expected 0 but found 1" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.051" mem="1146880"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Expected 1000 but found 998" eval-comment="" time="0.110" mem="1146880"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Expected 0 but found 1" eval-comment="" time="0.110" mem="1146880"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Expected 389 but found 388" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Expected 463 but found 462" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Expected 443 but found 442" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Expected 464 but found 463" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Expected 748 but found 747" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="Expected 747 but found 745" eval-comment="" time="0.100" mem="1146880"/>
+      <test id="22" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Expected 13 but found 12" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="Expected 50 but found 49" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Expected 45 but found 44" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Expected 32 but found 31" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="Expected 843 but found 842" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Expected 933 but found 931" eval-comment="" time="0.080" mem="1146880"/>
+    </results>
+  </testing>
+</testing-report>

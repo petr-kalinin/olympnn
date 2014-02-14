@@ -1,0 +1,35 @@
+var A,B,N,M:longint;
+    X,Y,Z,W:integer;
+    T,D:text;
+Begin
+ assign(T,'classics.in');
+ reset(T);
+ read(T,A,B,N,M);
+ X:=(A*(N-2))+1;
+ Y:=A*N-1;
+ Z:=(B*(M-2))+1;
+ W:=B*M-1;
+ if N=1 then X:=1; Y:=A-1;
+ if M=1 then Z:=1; W:=B-1;
+ if N=2 then X:=1; Y:=2*A-1;
+ if M=2 then Z:=1; W:=2*B-1;
+If Y>=Z-1 then begin
+ If X<=Z then Z:=X;
+ If Y>=W then Y:=W;
+ assign(D,'classics.out');
+ rewrite(D);
+ write(D,Z,Y);
+ close(T);
+ close(D);
+ End;
+If Y<Z-1 then begin
+ assign(D,'classics.out');
+ rewrite(D);
+ write(D,'0 0');
+ close(T);
+ close(D);
+ End;
+End.
+
+
+

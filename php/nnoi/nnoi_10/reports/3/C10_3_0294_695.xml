@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20140130155615029657783144">
+  <solution problem="3" problem-name="Рисование кругами" problem-type="P" contestant="C10" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="gcc -O2 -Wl,--stack,67108864 -std=gnu99 -o sol.exe sol.c " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: '2.000000 1.500000 +'" eval-comment="" time="0.010" mem="278528"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="4" comment="Странный текст на первой строке: '105.229990 -106.100000 -'" eval-comment="" time="0.010" mem="278528"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="4" comment="Странный текст на первой строке: '-1.500000 4.500000 +'" eval-comment="" time="0.010" mem="278528"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="4" comment="Странный текст на первой строке: '6.000000 4.000000 +'" eval-comment="" time="0.010" mem="278528"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="2" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="2" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="2" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="278528"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.020" mem="282624"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.010" mem="282624"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.050" mem="315392"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.070" mem="352256"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="3" comment="Странный текст на первой строке: ''" eval-comment="" time="0.280" mem="671744"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="4" comment="Странный текст на первой строке: ''" eval-comment="" time="0.290" mem="671744"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="4" comment="Странный текст на первой строке: ''" eval-comment="" time="0.270" mem="671744"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="4" comment="Странный текст на первой строке: ''" eval-comment="" time="0.090" mem="671744"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="4" comment="Странный текст на первой строке: ''" eval-comment="" time="0.310" mem="671744"/>
+    </results>
+  </testing>
+</testing-report>

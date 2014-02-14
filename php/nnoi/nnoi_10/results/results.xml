@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<results>
+  <problems>
+    <problem id="1" type="P"/>
+    <problem id="2" type="P"/>
+    <problem id="3" type="P"/>
+    <problem id="4" type="P"/>
+    <problem id="5" type="P"/>
+    <problem id="6" type="P"/>
+  </problems>
+  <contestants>
+    <contestant id="MAX" _location="-1">
+      <problem id="1" points="100" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="100" minus="0" outcome="accepted"/>
+      <problem id="6" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A01" name="Гежес Петр" password="cecahbie" points="258">
+      <problem minus="0" outcome="accepted" id="1" attempts="-8" points="75">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-4" points="48">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="-2" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-4" points="97">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-4" points="30">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-13" points="8">
+      </problem>
+    </contestant>
+    <contestant id="A02" name="Корнев Андрей" password="aayaekoo" points="0">
+      <problem outcome="accepted" id="1" attempts="-3" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="A03" name="Максимова Виктория" password="oophaise" points="34">
+      <problem outcome="accepted" id="1" attempts="-3" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-6" points="12">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-19" points="22">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="A04" name="Дроздова Александра" password="aitohcik" points="295">
+      <problem outcome="accepted" id="1" attempts="-2" points="82">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="38">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-3" points="55">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-3" points="20">
+      </problem>
+    </contestant>
+    <contestant id="A05" name="Дурандин Дмитрий" password="kiehiexu" points="95">
+      <problem outcome="accepted" id="1" attempts="-5" points="22">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-1" points="36">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="21">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-1" points="16">
+      </problem>
+    </contestant>
+    <contestant id="A06" name="Важдаев Александр" password="ahtoojoe" points="318">
+      <problem outcome="accepted" id="1" attempts="-3" points="98">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="20">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="A07" name="Верниковская Мария" password="miechohp" points="252">
+      <problem outcome="accepted" id="1" attempts="-5" points="60">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-4" points="56">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="4" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="20">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-2" points="16">
+      </problem>
+    </contestant>
+    <contestant id="A08" name="Жарков Илья" password="aighooga" points="348">
+      <problem outcome="accepted" id="1" attempts="-1" points="96">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="40">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-1" points="12">
+      </problem>
+    </contestant>
+    <contestant id="A09" name="Созинов Даниил" password="iezexieb" points="113">
+      <problem outcome="accepted" id="1" attempts="-1" points="22">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="91">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="A10" name="Илюшечкин Владимир" password="bahgiepa" points="0">
+      <problem outcome="accepted" id="1" attempts="-2" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="A11" name="Лопатин Михаил" password="einaihoo" points="0">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-1" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="A12" name="Резерв  " password="deimeema" points="0">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="B01" name="Калинин Николай" password="ineisaet" points="565">
+      <problem outcome="accepted" id="1" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="-4" points="75">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-1" points="90">
+      </problem>
+    </contestant>
+    <contestant id="B02" name="Карнаухов Владимир" password="hiebeogi" points="119">
+      <problem outcome="accepted" id="1" attempts="-3" points="4">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="B03" name="Полежаева Евгения" password="eegaghee" points="0">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="B04" name="Кулагин Андрей" password="bikaepha" points="351">
+      <problem outcome="accepted" id="1" attempts="-2" points="96">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="-5" points="20">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="35">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="B05" name="Баташев Александр" password="ifohnuje" points="176">
+      <problem outcome="accepted" id="1" attempts="-4" points="80">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="38">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="43">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="B06" name="Сарафанов Федор" password="hahfaima" points="118">
+      <problem outcome="accepted" id="1" attempts="-4" points="69">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-1" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-5" points="18">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-5" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-1" points="16">
+      </problem>
+    </contestant>
+    <contestant id="B07" name="Григорьева Галина" password="poozofox" points="49">
+      <problem outcome="accepted" id="1" attempts="-3" points="18">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="12">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-3" points="19">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="B08" name="Яшков Владислав" password="gieyiati" points="205">
+      <problem outcome="accepted" id="1" attempts="-1" points="80">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-1" points="36">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="74">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="B09" name="Иванов Алексей" password="reyaekoh" points="321">
+      <problem outcome="accepted" id="1" attempts="-3" points="98">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="3" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-2" points="8">
+      </problem>
+    </contestant>
+    <contestant id="B10" name="Конаков Александр" password="uurahkat" points="89">
+      <problem outcome="accepted" id="1" attempts="-3" points="59">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="12">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-7" points="3">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-2" points="0">
+      </problem>
+    </contestant>
+    <contestant id="B11" name="Евстропов Тимофей" password="phoonaot" points="136">
+      <problem outcome="accepted" id="1" attempts="-10" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-9" points="16">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-10" points="20">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="B12" name="Натаров Юрий" password="quaizori" points="131">
+      <problem outcome="accepted" id="1" attempts="-5" points="16">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-3" points="59">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="21">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-4" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-3" points="20">
+      </problem>
+    </contestant>
+    <contestant id="C01" name="Захаров Александр" password="zahjaihu" points="366">
+      <problem outcome="accepted" id="1" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="3" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-3" points="40">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-4" points="26">
+      </problem>
+    </contestant>
+    <contestant id="C02" name="Шубин Сергей" password="naixoeng" points="102">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-1" points="12">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="70">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="20">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="C03" name="Мизонова Надежда" password="ohdaekox" points="199">
+      <problem outcome="accepted" id="1" attempts="-6" points="62">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-5" points="32">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="11" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="5">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="C04" name="Гладун Никита" password="eediebie" points="137">
+      <problem outcome="accepted" id="1" attempts="-1" points="80">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-3" points="20">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="12">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-3" points="25">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="C05" name="Галанин Никита" password="eagaawia" points="61">
+      <problem outcome="accepted" id="1" attempts="-2" points="61">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="C06" name="Волков Владислав" password="nohweegh" points="95">
+      <problem outcome="accepted" id="1" attempts="-1" points="80">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="C07" name="Кенигсбергер Генрих" password="queiviid" points="55">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-1" points="8">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-2" points="27">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="20">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="C08" name="Ковалёва Ирина" password="aidopeew" points="83">
+      <problem outcome="accepted" id="1" attempts="-5" points="68">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="C09" name="Семёнов Юрий" password="wahhamid" points="206">
+      <problem outcome="accepted" id="1" attempts="-1" points="77">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="56">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="32">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-4" points="25">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-4" points="16">
+      </problem>
+    </contestant>
+    <contestant id="C10" name="Балов Илья" password="aiqueeno" points="298">
+      <problem outcome="accepted" id="1" attempts="-3" points="82">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="-3" points="15">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-2" points="68">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="25">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-1" points="8">
+      </problem>
+    </contestant>
+    <contestant id="C11" name="Конаш Егор" password="veicieph" points="104">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-4" points="20">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-4" points="74">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="10">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="C12" name="Кочеганов Максим" password="useichie" points="83">
+      <problem outcome="accepted" id="1" attempts="-2" points="55">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-5" points="20">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-3" points="8">
+      </problem>
+    </contestant>
+    <contestant id="D01" name="Фадеева Екатерина" password="yeijoofi" points="350">
+      <problem outcome="accepted" id="1" attempts="-4" points="98">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="92">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="40">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-3" points="20">
+      </problem>
+    </contestant>
+    <contestant id="D02" name="Неимущев Сергей" password="ohtuanee" points="0">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="D03" name="Антонов Дмитрий" password="ahvaishe" points="80">
+      <problem outcome="accepted" id="1" attempts="-4" points="65">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="D04" name="Кустарева Анна" password="eovariuy" points="288">
+      <problem outcome="accepted" id="1" attempts="-3" points="98">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-1" points="50">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="40">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="D05" name="Ванцев Александр" password="haequoht" points="110">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="50">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="35">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-3" points="25">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="D06" name="Черненко Валерий" password="daetooth" points="39">
+      <problem outcome="accepted" id="1" attempts="-18" points="39">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="D07" name="Ольховский Илья" password="piezaisi" points="322">
+      <problem outcome="accepted" id="1" attempts="-4" points="98">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="56">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="-3" points="33">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="35">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="D08" name="Вихрев Иван" password="oubeivah" points="0">
+      <problem outcome="accepted" id="1" attempts="-9" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="D09" name="Доронин Максим" password="uheiwaeg" points="247">
+      <problem outcome="accepted" id="1" attempts="-1" points="77">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-9" points="92">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-6" points="78">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="D10" name="Кабанов Иван" password="aephauto" points="0">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-9" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-3" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="D11" name="Арнаутов Алексей" password="roakahso" points="267">
+      <problem outcome="accepted" id="1" attempts="-4" points="80">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-3" points="56">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="4" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-4" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-1" points="16">
+      </problem>
+    </contestant>
+    <contestant id="D12" name="Шевчук Андрей" password="oofeixei" points="0">
+      <problem outcome="accepted" id="1" attempts="-3" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="E01" name="Яснов Дмитрий" password="kahthish" points="355">
+      <problem outcome="accepted" id="1" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="3" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="55">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="E02" name="Смирнов Артём" password="ohvuogee" points="313">
+      <problem outcome="accepted" id="1" attempts="-1" points="80">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="25">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-2" points="8">
+      </problem>
+    </contestant>
+    <contestant id="E03" name="Платонов Максим" password="eipashor" points="102">
+      <problem outcome="accepted" id="1" attempts="-3" points="13">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-8" points="64">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="25">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="E04" name="Рябова Александра" password="ohxahtai" points="246">
+      <problem outcome="accepted" id="1" attempts="-1" points="83">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="48">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="E05" name="Нектеркина Ксения" password="ienaijai" points="0">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="E06" name="Сафонов Даниил" password="aaweikoo" points="0">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-3" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="E07" name="Горьков Алексей" password="kahgaehi" points="338">
+      <problem outcome="accepted" id="1" attempts="-2" points="98">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="3" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="-2" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="3" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="40">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="E08" name="Данилин Василий" password="oobaopho" points="0">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="E09" name="Шульпин Степан" password="ofubahjo" points="130">
+      <problem outcome="accepted" id="1" attempts="-6" points="68">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-4" points="32">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-2" points="15">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="E10" name="Катаева Мария" password="paebudah" points="182">
+      <problem outcome="accepted" id="1" attempts="-1" points="82">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="50">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="25">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-1" points="25">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="E11" name="Шарова Анна" password="fahfuiwu" points="252">
+      <problem outcome="accepted" id="1" attempts="-4" points="96">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="-3" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-3" points="40">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-1" points="16">
+      </problem>
+    </contestant>
+    <contestant id="E12" name="Резерв  " password="eengoofo" points="232">
+      <problem outcome="accepted" id="1" attempts="-4" points="80">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-3" points="52">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="F01" name="Сорокин Арсений" password="eezaowou" points="346">
+      <problem outcome="accepted" id="1" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="56">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-3" points="60">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-2" points="30">
+      </problem>
+    </contestant>
+    <contestant id="F02" name="Вилков Кирилл" password="aikohghe" points="290">
+      <problem outcome="accepted" id="1" attempts="-2" points="96">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-5" points="32">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="-4" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="97">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-7" points="45">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-2" points="20">
+      </problem>
+    </contestant>
+    <contestant id="F03" name="Линёва Анна" password="vetooshe" points="0">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="F04" name="Суворов Кирилл" password="heerieca" points="81">
+      <problem outcome="accepted" id="1" attempts="-3" points="39">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-1" points="18">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-1" points="9">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-4" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="F05" name="Ильичев Алексей" password="oomaekoh" points="272">
+      <problem outcome="accepted" id="1" attempts="8" points="100">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="32">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="4" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-5" points="40">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="F06" name="Юсова Мария" password="naequaip" points="37">
+      <problem outcome="accepted" id="1" attempts="-6" points="37">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="F07" name="Тягунов Владимир" password="oonoorao" points="301">
+      <problem outcome="accepted" id="1" attempts="4" points="100">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-6" points="34">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="-12" points="16">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="6" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-4" points="35">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-4" points="16">
+      </problem>
+    </contestant>
+    <contestant id="F08" name="Французов Никита" password="koozojah" points="157">
+      <problem outcome="accepted" id="1" attempts="-4" points="37">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-2" points="20">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="2" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="F09" name="Кособоков Владислав" password="ugeehufu" points="0">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="F10" name="Белова Татьяна" password="teequaih" points="362">
+      <problem outcome="accepted" id="1" attempts="-2" points="98">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="1" points="100">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-3" points="30">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="-1" points="34">
+      </problem>
+    </contestant>
+    <contestant id="F11" name="Чикмарев Илья" password="shooseex" points="26">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-9" points="8">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-2" points="3">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="-2" points="15">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+    <contestant id="F12" name="Резерв  " password="aichiexa" points="15">
+      <problem outcome="accepted" id="1" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="2" attempts="-7" points="0">
+      </problem>
+      <problem outcome="accepted" id="3" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="4" attempts="-6" points="15">
+      </problem>
+      <problem outcome="accepted" id="5" attempts="0" points="0">
+      </problem>
+      <problem outcome="accepted" id="6" attempts="0" points="0">
+      </problem>
+    </contestant>
+  </contestants>
+</results>

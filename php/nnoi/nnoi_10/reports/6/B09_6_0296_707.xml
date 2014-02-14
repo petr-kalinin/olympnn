@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="8" max="100" outcome="accepted" gtid="20140130155615029144028457">
+  <solution problem="6" problem-name="Расписание поездов" problem-type="P" contestant="B09" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output="sol.cxx:20:17: warning: non-static data member initializers only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="4" max-points="4" comment="answer is 5" eval-comment="" time="0.020" mem="307200"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="answer is 15" eval-comment="" time="0.010" mem="307200"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="expected 6, found 7" eval-comment="" time="0.010" mem="307200"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="expected 1, found 12" eval-comment="" time="0.010" mem="315392"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="expected 1, found 12" eval-comment="" time="0.010" mem="315392"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="expected 8, found 5" eval-comment="" time="0.010" mem="307200"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="expected 24, found 12" eval-comment="" time="0.010" mem="315392"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="expected 76, found 50" eval-comment="" time="0.010" mem="319488"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="expected 29218, found 24081" eval-comment="" time="0.010" mem="389120"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="expected 29100, found 24022" eval-comment="" time="0.010" mem="393216"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="expected 25922, found 21710" eval-comment="" time="0.010" mem="397312"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="expected 24901, found 20435" eval-comment="" time="0.030" mem="389120"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="expected 32845, found 20830" eval-comment="" time="0.010" mem="393216"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="expected 46915, found 24600" eval-comment="" time="0.010" mem="397312"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="expected 2566613526, found 348638270" eval-comment="" time="0.230" mem="7446528"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="expected 2527415684, found 309287039" eval-comment="" time="0.240" mem="7462912"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="expected 2552279907, found 337082766" eval-comment="" time="0.240" mem="7675904"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="expected 2579656207, found 352954389" eval-comment="" time="0.260" mem="9019392"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="expected 2107009905, found -176306831" eval-comment="" time="0.240" mem="7544832"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="expected 2376895419, found -174171471" eval-comment="" time="0.290" mem="7753728"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="expected 3176907944, found -103023060" eval-comment="" time="0.300" mem="7700480"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="expected 4666662381, found 273627784" eval-comment="" time="0.280" mem="9125888"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="expected 10000000000, found 705032704" eval-comment="" time="0.270" mem="8757248"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="expected 10000000000, found 705032704" eval-comment="" time="0.250" mem="8757248"/>
+    </results>
+  </testing>
+</testing-report>

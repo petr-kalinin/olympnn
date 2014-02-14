@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="16" max="100" outcome="accepted" gtid="20140130155247024135608045">
+  <solution problem="6" problem-name="Расписание поездов" problem-type="P" contestant="B12" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="4" max-points="4" comment="answer is 5" eval-comment="" time="0.010" mem="299008"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="4" comment="expected 15, found 18" eval-comment="" time="0.010" mem="299008"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="answer is 6" eval-comment="" time="0.010" mem="299008"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="answer is 1" eval-comment="" time="0.010" mem="299008"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="answer is 1" eval-comment="" time="0.010" mem="299008"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="expected 8, found 6" eval-comment="" time="0.010" mem="299008"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="expected 24, found 20" eval-comment="" time="0.010" mem="299008"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="expected 76, found 63" eval-comment="" time="0.010" mem="307200"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="expected 29218, found 26998" eval-comment="" time="0.010" mem="323584"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="expected 29100, found 27523" eval-comment="" time="0.010" mem="323584"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="expected 25922, found 23768" eval-comment="" time="0.020" mem="331776"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="expected 24901, found 23188" eval-comment="" time="0.020" mem="323584"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="expected 32845, found 26920" eval-comment="" time="0.020" mem="323584"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="expected 46915, found 39384" eval-comment="" time="0.020" mem="331776"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="expected 2566613526, found -1780682339" eval-comment="" time="0.590" mem="2707456"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="expected 2527415684, found -1803299870" eval-comment="" time="0.600" mem="2715648"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="expected 2552279907, found -1784804889" eval-comment="" time="0.600" mem="2748416"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="expected 2579656207, found -1763694120" eval-comment="" time="0.620" mem="3112960"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="expected 2107009905, found 2025008062" eval-comment="" time="0.600" mem="2707456"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="expected 2376895419, found -2113806410" eval-comment="" time="0.701" mem="2715648"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="expected 3176907944, found -1545074886" eval-comment="" time="0.670" mem="2748416"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="expected 4666662381, found -382293266" eval-comment="" time="0.761" mem="3112960"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="expected 10000000000, found 1410000000" eval-comment="" time="0.640" mem="3112960"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="expected 10000000000, found 1410000000" eval-comment="" time="0.630" mem="3112960"/>
+    </results>
+  </testing>
+</testing-report>

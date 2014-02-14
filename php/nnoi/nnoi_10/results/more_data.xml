@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="1" name="Классики"/>
+    <problem id="2" name="Лотерея"/>
+    <problem id="3" name="Рисование кругами"/>
+    <problem id="4" name="Кастрюли и крышки"/>
+    <problem id="5" name="Сумма степеней"/>
+    <problem id="6" name="Расписание поездов"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="4"/>
+    <diplom id="II" places-min="5" places-max="13"/>
+    <diplom id="III" places-min="14" places-max="23"/>
+  </diploms>
+</more-data>
+    

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20140130143700027735756730">
+  <solution problem="5" problem-name="Сумма степеней" problem-type="P" contestant="D12" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fbc -lang qb sol.bas " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="idleness-limit-exceeded" points="0" max-points="5" comment="Idleness limit exceeded" eval-comment="" time="0.010" mem="1298432"/>
+      <test id="2" outcome="idleness-limit-exceeded" points="0" max-points="5" comment="Idleness limit exceeded" eval-comment="" time="0.010" mem="1298432"/>
+      <test id="3" outcome="idleness-limit-exceeded" points="0" max-points="5" comment="Idleness limit exceeded" eval-comment="" time="0.010" mem="1298432"/>
+      <test id="4" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="5" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="6" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="7" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="8" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="9" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="10" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="11" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="12" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="13" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="14" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="15" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="16" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="17" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="18" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="19" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="20" outcome="not-tested" points="0" max-points="5" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+    </results>
+  </testing>
+</testing-report>

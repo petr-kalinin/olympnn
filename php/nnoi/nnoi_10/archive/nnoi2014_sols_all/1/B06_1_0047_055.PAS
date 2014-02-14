@@ -1,0 +1,28 @@
+program ex1;
+var f_out,f_in:text;
+a,b,m,n:integer;
+mina,maxa:integer;
+minb,maxb:integer;
+min,max:integer;
+begin
+assign(f_in,'classic.in');reset(f_in);
+assign(f_out,'classic.out');rewrite(f_out);
+readln(f_in,a,b);readln(f_in,n,m);
+{*****************************************}
+mina:=A*(N-2)+1;
+minb:=B*(M-2)+1;
+maxa:=A*N-1;
+maxb:=B*M-1;
+if mina>minb then min:=mina;
+if mina<minb then min:=minb;
+if mina=minb then min:=mina;
+
+if maxa<maxb then max:=maxa;
+if maxa>maxb then max:=maxb;
+if maxa=maxb then max:=maxa;
+if maxa<minb then maxa:=minb;
+
+if not(mina>maxb) then writeln(f_out, min, ' ', max) else writeln(f_out, 0, ' ',0);
+{*****************************************}
+close(f_in);close(f_out);
+end.

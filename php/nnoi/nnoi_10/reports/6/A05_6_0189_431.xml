@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="16" max="100" outcome="accepted" gtid="20140130152013001248535670">
+  <solution problem="6" problem-name="Расписание поездов" problem-type="P" contestant="A05" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(19)&#13;&#10;19 lines, 2816 bytes code, 41466 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="4" max-points="4" comment="answer is 5" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="answer is 15" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="expected 6, found 7" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="answer is 1" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="answer is 1" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="expected 8, found 1" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="expected 24, found 1" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="expected 76, found 1" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="expected 29218, found 100" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="expected 29100, found 98" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="expected 25922, found 100" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="expected 24901, found 100" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="expected 32845, found 100" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="expected 46915, found 100" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="expected 2566613526, found 99991" eval-comment="" time="0.130" mem="1146880"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="expected 2527415684, found 99992" eval-comment="" time="0.130" mem="1146880"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="expected 2552279907, found 100000" eval-comment="" time="0.140" mem="1146880"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="expected 2579656207, found 99999" eval-comment="" time="0.130" mem="1146880"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="expected 2107009905, found 99998" eval-comment="" time="0.170" mem="1146880"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="expected 2376895419, found 99999" eval-comment="" time="0.120" mem="1146880"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="expected 3176907944, found 100000" eval-comment="" time="0.180" mem="1146880"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 106 (Invalid numeric format)" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="expected 10000000000, found 100000" eval-comment="" time="0.150" mem="1146880"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="expected 10000000000, found 100000" eval-comment="" time="0.180" mem="1146880"/>
+    </results>
+  </testing>
+</testing-report>

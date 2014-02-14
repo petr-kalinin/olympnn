@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="36" max="100" outcome="accepted" gtid="20140130143645004708297028">
+  <solution problem="2" problem-name="Лотерея" problem-type="P" contestant="A05" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(42)&#13;&#10;42 lines, 3504 bytes code, 41206 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="9" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="4" comment="Extra information in the output file" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Extra information in the output file" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Extra information in the output file" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.051" mem="1146880"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.110" mem="1146880"/>
+      <test id="19" outcome="idleness-limit-exceeded" points="0" max-points="7" comment="Idleness limit exceeded" eval-comment="" time="0.060" mem="1196032"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.070" mem="1146880"/>
+    </results>
+  </testing>
+</testing-report>

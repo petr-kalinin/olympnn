@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="16" max="100" outcome="accepted" gtid="20140130153405011888120207">
+  <solution problem="6" problem-name="Расписание поездов" problem-type="P" contestant="D01" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="4" max-points="4" comment="answer is 5" eval-comment="" time="0.010" mem="1101824"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="answer is 15" eval-comment="" time="0.010" mem="1101824"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="expected 6, found 2" eval-comment="" time="0.010" mem="1101824"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="answer is 1" eval-comment="" time="0.010" mem="1101824"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="answer is 1" eval-comment="" time="0.010" mem="1101824"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="expected 8, found 2" eval-comment="" time="0.020" mem="1101824"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="expected 24, found 9" eval-comment="" time="0.010" mem="1101824"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="expected 76, found 23" eval-comment="" time="0.010" mem="1114112"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="expected 29218, found 4762" eval-comment="" time="0.020" mem="1163264"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="expected 29100, found 5232" eval-comment="" time="0.040" mem="1163264"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="expected 25922, found 4286" eval-comment="" time="0.010" mem="1163264"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="expected 24901, found 4893" eval-comment="" time="0.020" mem="1163264"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="expected 32845, found 12007" eval-comment="" time="0.020" mem="1163264"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="expected 46915, found 22433" eval-comment="" time="0.020" mem="1163264"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="expected 2566613526, found 64510229" eval-comment="" time="0.931" mem="5865472"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.011" mem="5865472"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="expected 2552279907, found 66121877" eval-comment="" time="0.911" mem="5865472"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="expected 2579656207, found 68336057" eval-comment="" time="0.911" mem="5865472"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="expected 2107009905, found 129818640" eval-comment="" time="0.961" mem="5865472"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.011" mem="5865472"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="expected 3176907944, found 1129202569" eval-comment="" time="0.971" mem="5865472"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.051" mem="5865472"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.001" mem="5865472"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.051" mem="5865472"/>
+    </results>
+  </testing>
+</testing-report>

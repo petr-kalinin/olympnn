@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="24" max="100" outcome="accepted" gtid="20140130143700018375397781">
+  <solution problem="2" problem-name="Лотерея" problem-type="P" contestant="D01" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="704512"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 2 вместо 0" eval-comment="" time="0.010" mem="704512"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 4 вместо 2" eval-comment="" time="0.010" mem="704512"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="704512"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 6 вместо 4" eval-comment="" time="0.010" mem="704512"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 320 вместо 294" eval-comment="" time="0.010" mem="712704"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="712704"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 1972 вместо 1956" eval-comment="" time="0.010" mem="724992"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 9507 вместо 9267" eval-comment="" time="0.020" mem="856064"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 12023 вместо 11168" eval-comment="" time="0.020" mem="856064"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Неверное минимальное число сертификатов 14697 вместо 13373" eval-comment="" time="0.030" mem="856064"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Неверное минимальное число сертификатов 13240 вместо 11042" eval-comment="" time="0.030" mem="856064"/>
+      <test id="13" outcome="accepted" points="6" max-points="6" comment="" eval-comment="" time="0.220" mem="704512"/>
+      <test id="14" outcome="accepted" points="6" max-points="6" comment="" eval-comment="" time="0.300" mem="2330624"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="6" comment="Неверное минимальное число сертификатов 199952 вместо 199934" eval-comment="" time="0.310" mem="2330624"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="6" comment="Неверное минимальное число сертификатов 199978 вместо 199966" eval-comment="" time="0.320" mem="2330624"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="6" comment="Неверное минимальное число сертификатов 199980 вместо 199961" eval-comment="" time="0.420" mem="2330624"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="6" comment="Неверное минимальное число сертификатов 199971 вместо 199959" eval-comment="" time="0.330" mem="2330624"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="7" comment="Неверное минимальное число сертификатов 199971 вместо 199963" eval-comment="" time="0.340" mem="2330624"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="7" comment="Неверное минимальное число сертификатов 199973 вместо 199961" eval-comment="" time="0.300" mem="2330624"/>
+    </results>
+  </testing>
+</testing-report>

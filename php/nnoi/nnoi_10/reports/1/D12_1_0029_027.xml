@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20140130143700027362921613">
+  <solution problem="1" problem-name="Classics" problem-type="P" contestant="D12" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compilation-error" command-line="fbc -lang qb sol.bas " compiler-output="sol.bas(1) error 111: Cannot modify a constant&#13;&#10;&quot;Shevchuc And 11 a&quot;&#13;&#10;^&#13;&#10;sol.bas(11) error 109: ELSE without IF, found 'Else'&#13;&#10;Else&#13;&#10;^&#13;&#10;sol.bas(13) error 102: END IF without IF, found 'EndIf'&#13;&#10;EndIf&#13;&#10;^&#13;&#10;sol.bas(15) error 109: ELSE without IF, found 'Else'&#13;&#10;Else&#13;&#10;^&#13;&#10;sol.bas(17) error 102: END IF without IF, found 'EndIf'&#13;&#10;EndIf&#13;&#10;^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

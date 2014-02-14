@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20140130143645003003453435">
+  <solution problem="2" problem-name="Лотерея" problem-type="P" contestant="A03" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(3): Error 29: Ordinal type expected.&#13;&#10;var b,c:array[1..1000000] of longint;&#13;&#10;                        ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20140130143655011919720398">
+  <solution problem="2" problem-name="Лотерея" problem-type="P" contestant="B11" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(15): Error 26: Type mismatch.&#13;&#10;if g-a[i-1]=1 and (g-a[i]&lt;&gt;0) then begin b[j]:=g; j:=j+1; end;&#13;&#10;                              ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

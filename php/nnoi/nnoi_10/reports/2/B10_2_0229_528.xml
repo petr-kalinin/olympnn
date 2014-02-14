@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="12" max="100" outcome="accepted" gtid="20140130153400009958232993">
+  <solution problem="2" problem-name="Лотерея" problem-type="P" contestant="B10" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="299008"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="303104"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.010" mem="303104"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 999 вместо 1001" eval-comment="" time="0.010" mem="307200"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 5 вместо 4" eval-comment="" time="0.010" mem="299008"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 320 вместо 294" eval-comment="" time="0.010" mem="303104"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 198 вместо 199" eval-comment="" time="0.010" mem="704512"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 1972 вместо 1956" eval-comment="" time="0.010" mem="704512"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 9508 вместо 9267" eval-comment="" time="0.030" mem="704512"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 12022 вместо 11168" eval-comment="" time="0.020" mem="704512"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Неверное минимальное число сертификатов 14696 вместо 13373" eval-comment="" time="0.020" mem="704512"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Неверное минимальное число сертификатов 13240 вместо 11042" eval-comment="" time="0.020" mem="704512"/>
+      <test id="13" outcome="memory-limit-exceeded" points="0" max-points="6" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="299008"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.010" mem="311296"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.010" mem="311296"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.010" mem="311296"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.010" mem="311296"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.010" mem="311296"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.010" mem="311296"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.010" mem="311296"/>
+    </results>
+  </testing>
+</testing-report>

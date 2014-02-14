@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20140130143705035972862268">
+  <solution problem="1" problem-name="Classics" problem-type="P" contestant="F06" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.2 [2013/02/12] for i386&#13;&#10;Copyright (c) 1993-2012 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;19 lines compiled, 0.0 sec , 28016 bytes code, 1692 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 33 вместо 1" eval-comment="" time="0.020" mem="397312"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 21 вместо 1" eval-comment="" time="0.010" mem="397312"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 45 вместо 4" eval-comment="" time="0.010" mem="397312"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1323 вместо 21" eval-comment="" time="0.010" mem="397312"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 210417 вместо 415" eval-comment="" time="0.010" mem="397312"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 10011999 вместо 1997" eval-comment="" time="0.010" mem="397312"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 10001997 вместо 0" eval-comment="" time="0.010" mem="397312"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 398598797193 вместо 797191" eval-comment="" time="0.010" mem="397312"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1109782122195639 вместо 22195639" eval-comment="" time="0.010" mem="397312"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 2018866440377325 вместо 40377323" eval-comment="" time="0.020" mem="397312"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;10000000001999999997&quot;" eval-comment="" time="0.010" mem="397312"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;10000000011999999999&quot;" eval-comment="" time="0.010" mem="397312"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;9999999991999999995&quot;" eval-comment="" time="0.010" mem="397312"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 20 вместо 0" eval-comment="" time="0.010" mem="397312"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 64 вместо 4" eval-comment="" time="0.010" mem="397312"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 1214 вместо 14" eval-comment="" time="0.010" mem="397312"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 1214 вместо 6" eval-comment="" time="0.010" mem="397312"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 64970143 вместо 70008" eval-comment="" time="0.010" mem="397312"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 195113649 вместо 12962" eval-comment="" time="0.020" mem="397312"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 41999 вместо 1997" eval-comment="" time="0.010" mem="397312"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 2001999999 вместо 998001" eval-comment="" time="0.010" mem="397312"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 2001999999 вместо 0" eval-comment="" time="0.010" mem="397312"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.010" mem="397312"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;2004712-222704832&quot;" eval-comment="" time="0.010" mem="397312"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;41989079-601542217&quot;" eval-comment="" time="0.010" mem="397312"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;2000000000-1486618625&quot;" eval-comment="" time="0.020" mem="397312"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;1999999998-191651327&quot;" eval-comment="" time="0.010" mem="397312"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1999999998808348671 вместо 999999997000000001" eval-comment="" time="0.020" mem="397312"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1999999998808348671 вместо 0" eval-comment="" time="0.010" mem="397312"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;1999999993-1191651326&quot;" eval-comment="" time="0.020" mem="397312"/>
+    </results>
+  </testing>
+</testing-report>

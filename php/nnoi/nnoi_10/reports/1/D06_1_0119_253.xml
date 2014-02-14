@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20140130143700020431828327">
+  <solution problem="1" problem-name="Classics" problem-type="P" contestant="D06" time-limit="1000" memory-limit="8388608"/>
+  <compiling outcome="compiled-not-tested" command-line="bpc.exe sol.pas " compiler-output="Borland Pascal  Version 7.0  Copyright (c) 1983,92 Borland International&#13;&#10;SOL.PAS(31)&#13;&#10;31 lines, 3120 bytes code, 1206 bytes data.&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 12 вместо 1" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: -11 вместо 1" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 45 вместо 4" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 2123 вместо 21" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 415416 вместо 415" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 19971999 вместо 1997" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 103 (File not open)" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1075910761 вместо 797191" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;-21065-21065&quot;" eval-comment="" time="0.100" mem="1146880"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 71477147 вместо 40377323" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;-27652-27651&quot;" eval-comment="" time="0.090" mem="1146880"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;-27651-27649&quot;" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 103 (File not open)" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 44 вместо 4" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 1414 вместо 14" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 66 вместо 6" eval-comment="" time="0.100" mem="1146880"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 44724607 вместо 70008" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="1-ое число: 1296212986 вместо 12962" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 19971999 вместо 1997" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 1496115959 вместо 998001" eval-comment="" time="0.110" mem="1146880"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 103 (File not open)" eval-comment="" time="0.080" mem="1146880"/>
+      <test id="23" outcome="accepted-not-counted" points="0" max-points="3" comment="" eval-comment="Тест не зачтен" time="0.070" mem="1146880"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 0 вместо 291834647963" eval-comment="" time="0.050" mem="1146880"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 0 вместо 2376451972788073" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 0 вместо 999999998000000001" eval-comment="" time="0.060" mem="1146880"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 0 вместо 999999995000000007" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -1023913823 вместо 999999997000000001" eval-comment="" time="0.070" mem="1146880"/>
+      <test id="29" outcome="accepted-not-counted" points="0" max-points="4" comment="" eval-comment="Тест не зачтен" time="0.090" mem="1146880"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 103 (File not open)" eval-comment="" time="0.070" mem="1146880"/>
+    </results>
+  </testing>
+</testing-report>

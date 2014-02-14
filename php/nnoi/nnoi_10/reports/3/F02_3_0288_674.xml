@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20140130155628031987212847">
+  <solution problem="3" problem-name="Рисование кругами" problem-type="P" contestant="F02" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;-1.57575-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="4" comment="Expected real instead of &quot;-341.853-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="4" comment="Expected real instead of &quot;-2.58523-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="4" comment="Expected real instead of &quot;-2.65481-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="2" comment="Expected real instead of &quot;-1.72351-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="2" comment="Expected real instead of &quot;-7.89396-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;-3.46171-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;-3.1286-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="2" comment="Expected real instead of &quot;-2.25963-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;-3.9447-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Expected real instead of &quot;-5.11054-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Expected real instead of &quot;-5.77597-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Expected real instead of &quot;98.9746-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;5.26232-&quot;" eval-comment="" time="0.020" mem="303104"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;7.34035-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;12.5712-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;-2.32564-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;-1.63527-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;-7.70804-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;-5.65835-&quot;" eval-comment="" time="0.010" mem="303104"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;-12.3133-&quot;" eval-comment="" time="0.010" mem="307200"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.041" mem="315392"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;-5.22303-&quot;" eval-comment="" time="0.130" mem="348160"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="3" comment="Expected real instead of &quot;1811.91-&quot;" eval-comment="" time="0.280" mem="520192"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.051" mem="475136"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.031" mem="1040384"/>
+      <test id="27" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.031" mem="905216"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.041" mem="1101824"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.041" mem="2502656"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.041" mem="1126400"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="4" max="100" outcome="accepted" gtid="20140130143700023956776825">
+  <solution problem="2" problem-name="Лотерея" problem-type="P" contestant="D09" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.2 [2013/02/12] for i386&#13;&#10;Copyright (c) 1993-2012 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;38 lines compiled, 0.0 sec , 28592 bytes code, 1692 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 5 вместо 6" eval-comment="" time="0.010" mem="798720"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.020" mem="798720"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 1 вместо 2" eval-comment="" time="0.010" mem="798720"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 10011999 вместо 1001" eval-comment="" time="0.010" mem="798720"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 3 вместо 4" eval-comment="" time="0.010" mem="798720"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;310121719232527374042485061636...&quot;" eval-comment="" time="0.010" mem="798720"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;107510771414141623182320407640...&quot;" eval-comment="" time="0.010" mem="798720"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;310132333235332533273365336733...&quot;" eval-comment="" time="0.010" mem="798720"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="Неверное минимальное число сертификатов 9266 вместо 9267" eval-comment="" time="0.010" mem="798720"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;500055000750009500115001350016...&quot;" eval-comment="" time="0.010" mem="798720"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;501085011050117501195012750129...&quot;" eval-comment="" time="0.010" mem="798720"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;700027000570007700097001270014...&quot;" eval-comment="" time="0.020" mem="798720"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="Неверное минимальное число сертификатов 1 вместо 2" eval-comment="" time="0.030" mem="798720"/>
+      <test id="14" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.031" mem="11083776"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.031" mem="10838016"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.041" mem="10301440"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.031" mem="10715136"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.041" mem="10768384"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="7" comment="Time limit exceeded" eval-comment="" time="1.031" mem="10407936"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="7" comment="Time limit exceeded" eval-comment="" time="1.031" mem="10420224"/>
+    </results>
+  </testing>
+</testing-report>

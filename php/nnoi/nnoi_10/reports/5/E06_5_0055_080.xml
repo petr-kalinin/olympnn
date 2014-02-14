@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20140130143705029792897470">
+  <solution problem="5" problem-name="Сумма степеней" problem-type="P" contestant="E06" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="bcc -IC:\student\olymp\TurboC\include -LC:\student\olymp\TurboC\lib  -ml sol.cpp " compiler-output="Borland C++  Version 3.1 Copyright (c) 1992 Borland International&#13;&#10;sol.cpp:&#13;&#10;Error sol.cpp 4: Unable to open include file 'iostream'&#13;&#10;Error sol.cpp 5: Declaration syntax error&#13;&#10;Error sol.cpp 9: Undefined symbol 'cin' in function main()&#13;&#10;Error sol.cpp 11: Function 'pow' should have a prototype in function main()&#13;&#10;Error sol.cpp 13: Undefined symbol 'cout' in function main()&#13;&#10;*** 5 errors in Compile ***&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>
