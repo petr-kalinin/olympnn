@@ -13526,14 +13526,14 @@ function answer(i) {
     $( ".correctHidden" ).removeClass("wrong").addClass("correct");
     $( ".answer" ).removeAttr("onclick");
     cur++;
+    var next = 'writeQuestion()';
     if (cur >= question.length) {
-        finish();
-    } else {
-        $( "#restart" ).remove()
-        body.append("<button type='button' onclick='writeQuestion()' id='continue'>Далее</button>");
-        body.append("<button type='button' onclick='fullInit()' id='restart'>Начать заново</button>");
-        $( "#continue" ).focus();
-    }
+        next = 'finish()';
+    } 
+    $( "#restart" ).remove()
+    body.append("<button type='button' onclick='"+next+"' id='continue'>Далее</button>");
+    body.append("<button type='button' onclick='fullInit()' id='restart'>Начать заново</button>");
+    $( "#continue" ).focus();
 }
 
 function writeQuestion() {
