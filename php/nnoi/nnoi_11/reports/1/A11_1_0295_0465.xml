@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20150131153704047092127959">
+  <solution problem="1" problem-name="23feb" problem-type="P" contestant="A11" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cpp " compiler-output="sol.CPP: In function 'int main()':&#13;&#10;sol.CPP:113:9: error: 'p' was not declared in this scope&#13;&#10;         p[i] = i;&#13;&#10;         ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

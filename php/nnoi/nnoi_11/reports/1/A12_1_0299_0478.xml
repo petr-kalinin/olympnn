@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="43" max="100" outcome="accepted" gtid="20150131154149048363010988">
+  <solution problem="1" problem-name="23feb" problem-type="P" contestant="A12" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.4 [2014/03/06] for i386&#13;&#10;Copyright (c) 1993-2014 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;143 lines compiled, 0.1 sec , 30784 bytes code, 1708 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="correct permutation" eval-comment="" time="0.010" mem="409600"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="no solution" eval-comment="" time="0.010" mem="409600"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="correct permutation" eval-comment="" time="0.010" mem="409600"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="correct permutation" eval-comment="" time="0.010" mem="409600"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="no solution" eval-comment="" time="0.010" mem="409600"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.010" mem="409600"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="no solution" eval-comment="" time="0.010" mem="409600"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - token expected" eval-comment="" time="0.010" mem="409600"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - token expected" eval-comment="" time="0.020" mem="409600"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - token expected" eval-comment="" time="0.020" mem="409600"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - token expected" eval-comment="" time="0.010" mem="409600"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="Integer 7 violates the range [1, 6]" eval-comment="" time="0.010" mem="409600"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 5 &lt; a[2] = 6" eval-comment="" time="0.010" mem="409600"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Integer 7 violates the range [1, 6]" eval-comment="" time="0.010" mem="409600"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="correct permutation" eval-comment="" time="0.010" mem="409600"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[1] = 505 &lt; a[2] = 707" eval-comment="" time="0.020" mem="409600"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[1] = 1906 &lt; a[2] = 1908" eval-comment="" time="0.020" mem="409600"/>
+      <test id="18" outcome="accepted" points="4" max-points="4" comment="correct permutation" eval-comment="" time="0.020" mem="409600"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 1748 &lt; a[2] = 1879" eval-comment="" time="0.010" mem="409600"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[1] = 1637 &lt; a[2] = 1785" eval-comment="" time="0.010" mem="409600"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[1] = 1844 &lt; a[2] = 1973" eval-comment="" time="0.010" mem="409600"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 1874 &lt; a[2] = 1927" eval-comment="" time="0.010" mem="409600"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 1910 &lt; a[2] = 1970" eval-comment="" time="0.020" mem="409600"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 1963 &lt; a[2] = 1971" eval-comment="" time="0.020" mem="409600"/>
+      <test id="25" outcome="accepted" points="4" max-points="4" comment="correct permutation" eval-comment="" time="0.030" mem="409600"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="correct permutation" eval-comment="" time="0.010" mem="409600"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="correct permutation" eval-comment="" time="0.010" mem="409600"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="correct permutation" eval-comment="" time="0.010" mem="409600"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="correct permutation" eval-comment="" time="0.010" mem="409600"/>
+      <test id="30" outcome="accepted" points="4" max-points="4" comment="correct permutation" eval-comment="" time="0.020" mem="409600"/>
+    </results>
+  </testing>
+</testing-report>

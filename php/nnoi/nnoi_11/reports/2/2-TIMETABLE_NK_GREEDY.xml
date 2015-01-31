@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="39" max="100" outcome="accepted" gtid="20150128230138003022337471">
+  <solution problem="2" problem-name="Buses" problem-type="P" contestant="TIMETABLE_NK_GREEDY" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output="sol.cpp: In function 'int main()':&#13;&#10;sol.cpp:41:17: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:41:17: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:42:17: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:42:17: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:45:21: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:45:21: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:46:21: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:46:21: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:52:26: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:52:67: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:53:26: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:53:70: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:58:26: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:58:67: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:59:26: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;sol.cpp:59:70: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11 [enabled by default]&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="3" max-points="3" comment="N=1" eval-comment="" time="0.010" mem="4096000"/>
+      <test id="2" outcome="accepted" points="3" max-points="3" comment="N=1" eval-comment="" time="0.010" mem="4096000"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="N=1" eval-comment="" time="0.010" mem="4096000"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="N=1" eval-comment="" time="0.010" mem="4096000"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="N=1" eval-comment="" time="0.020" mem="4096000"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 175 вместо 207" eval-comment="" time="0.010" mem="4096000"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: -2558 вместо -1972" eval-comment="" time="0.010" mem="4096000"/>
+      <test id="8" outcome="accepted" points="6" max-points="6" comment="N=1" eval-comment="" time="0.010" mem="4096000"/>
+      <test id="9" outcome="accepted" points="6" max-points="6" comment="N=1" eval-comment="" time="0.010" mem="4096000"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: 147434175 вместо 159832335" eval-comment="" time="0.010" mem="4096000"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: -226661199 вместо -179155634" eval-comment="" time="0.020" mem="4096000"/>
+      <test id="12" outcome="accepted" points="5" max-points="5" comment="N=1" eval-comment="" time="0.030" mem="4096000"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 1895353237116 вместо 2243904118558" eval-comment="" time="0.020" mem="4096000"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -464086425 вместо -353363141" eval-comment="" time="0.050" mem="4096000"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -83330030027 вместо -83268385027" eval-comment="" time="0.140" mem="4096000"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: -27731402372008 вместо -24966010538123" eval-comment="" time="0.300" mem="4096000"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: 187228386 вместо 223036751" eval-comment="" time="0.320" mem="4096000"/>
+      <test id="18" outcome="accepted" points="6" max-points="6" comment="N=1" eval-comment="" time="0.370" mem="4096000"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: 18429841 вместо 21908964" eval-comment="" time="0.280" mem="4096000"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: 33333733632 вместо 33343398192" eval-comment="" time="0.360" mem="4096000"/>
+    </results>
+  </testing>
+</testing-report>

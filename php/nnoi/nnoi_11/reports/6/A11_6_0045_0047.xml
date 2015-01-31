@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20150131112750004691525789">
+  <solution problem="6" problem-name="Tetris" problem-type="P" contestant="A11" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Integer parameter [name=cell at row 1, column 2] equals to 2, violates the range [1, 1]" eval-comment="" time="0.030" mem="397312"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="NO SOLUTION" eval-comment="" time="0.010" mem="397312"/>
+      <test id="3" outcome="accepted-not-counted" points="0" max-points="3" comment="NO SOLUTION" eval-comment="Тест не зачтен" time="0.010" mem="397312"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.010" mem="397312"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.010" mem="397312"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.010" mem="397312"/>
+      <test id="7" outcome="accepted-not-counted" points="0" max-points="3" comment="NO SOLUTION" eval-comment="Тест не зачтен" time="0.010" mem="397312"/>
+      <test id="8" outcome="accepted-not-counted" points="0" max-points="3" comment="NO SOLUTION" eval-comment="Тест не зачтен" time="0.010" mem="397312"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 2] equals to 8, violates the range [1, 1]" eval-comment="" time="0.020" mem="397312"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 2] equals to 9, violates the range [1, 1]" eval-comment="" time="0.020" mem="397312"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 2] equals to 11, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 2] equals to 2, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="13" outcome="accepted-not-counted" points="0" max-points="3" comment="NO SOLUTION" eval-comment="Тест не зачтен" time="0.020" mem="397312"/>
+      <test id="14" outcome="accepted-not-counted" points="0" max-points="3" comment="NO SOLUTION" eval-comment="Тест не зачтен" time="0.020" mem="397312"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 2] equals to 30, violates the range [1, 1]" eval-comment="" time="0.020" mem="397312"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 2] equals to 33, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 2] equals to 2, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 2] equals to 12, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 2] equals to 9, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 2] equals to 2, violates the range [1, 1]" eval-comment="" time="0.020" mem="397312"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 2] equals to 51, violates the range [1, 1]" eval-comment="" time="0.020" mem="397312"/>
+      <test id="22" outcome="accepted-not-counted" points="0" max-points="3" comment="NO SOLUTION" eval-comment="Тест не зачтен" time="0.010" mem="397312"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 4, column 1] equals to 2, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 1, column 4] equals to 2, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 1, column 2] equals to 2, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 2, column 2] equals to 2, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 1, column 2] equals to 50, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="28" outcome="accepted-not-counted" points="0" max-points="4" comment="NO SOLUTION" eval-comment="Тест не зачтен" time="0.010" mem="397312"/>
+      <test id="29" outcome="accepted-not-counted" points="0" max-points="4" comment="NO SOLUTION" eval-comment="Тест не зачтен" time="0.010" mem="397312"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 1, column 2] equals to 2, violates the range [1, 1]" eval-comment="" time="0.010" mem="397312"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 1, column 2] equals to 51, violates the range [1, 1]" eval-comment="" time="0.020" mem="397312"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 1, column 2] equals to 50, violates the range [1, 1]" eval-comment="" time="0.030" mem="397312"/>
+    </results>
+  </testing>
+</testing-report>

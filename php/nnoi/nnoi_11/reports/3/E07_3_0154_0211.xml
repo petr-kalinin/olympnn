@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20150131131633021667178409">
+  <solution problem="3" problem-name="Cuckoo" problem-type="P" contestant="E07" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="csc sol.cs " compiler-output="Microsoft (R) Visual C# .NET Compiler version 7.10.3052.4&#13;&#10;for Microsoft (R) .NET Framework version 1.1.4322&#13;&#10;Copyright (C) Microsoft Corporation 2001-2002. All rights reserved.&#13;&#10;&#13;&#10;sol.CS(2,26): error CS0234: The type or namespace name 'Generic' does not exist in the class or namespace 'System.Collections' (are you missing an assembly reference?)&#13;&#10;sol.CS(3,14): error CS0234: The type or namespace name 'Linq' does not exist in the class or namespace 'System' (are you missing an assembly reference?)&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

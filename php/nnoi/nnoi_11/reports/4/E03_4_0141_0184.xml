@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="22" max="100" outcome="accepted" gtid="20150131130347018923671762">
+  <solution problem="4" problem-name="Module" problem-type="P" contestant="E03" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.4 [2014/03/06] for i386&#13;&#10;Copyright (c) 1993-2014 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(7,10) Note: Local variable &quot;na&quot; not used&#13;&#10;sol.pp(7,14) Note: Local variable &quot;poslen&quot; not used&#13;&#10;sol.pp(8,7) Note: Local variable &quot;a&quot; not used&#13;&#10;sol.pp(10,12) Note: Local variable &quot;res&quot; not used&#13;&#10;Linking sol.exe&#13;&#10;56 lines compiled, 0.1 sec , 28640 bytes code, 1692 bytes data&#13;&#10;4 note(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 possible m found" eval-comment="" time="0.010" mem="413696"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2 possible m found" eval-comment="" time="0.010" mem="413696"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="1 is not found by contestant's solution" eval-comment="" time="0.010" mem="413696"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="9 possible m found" eval-comment="" time="0.010" mem="413696"/>
+      <test id="5" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.550" mem="413696"/>
+      <test id="6" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.540" mem="413696"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="5 possible m found" eval-comment="" time="0.010" mem="413696"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="0 possible m found" eval-comment="" time="0.020" mem="413696"/>
+      <test id="9" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.530" mem="413696"/>
+      <test id="10" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.550" mem="413696"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.560" mem="413696"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="2 possible m found" eval-comment="" time="0.010" mem="413696"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.540" mem="413696"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="1000 is not found by contestant's solution" eval-comment="" time="0.020" mem="413696"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.010" mem="413696"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.550" mem="413696"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="2 possible m found" eval-comment="" time="0.010" mem="413696"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.540" mem="413696"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.550" mem="413696"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.510" mem="413696"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.550" mem="413696"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="0.560" mem="413696"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="1 is not found by contestant's solution" eval-comment="" time="0.020" mem="413696"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="0.560" mem="413696"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="0.540" mem="413696"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="0.540" mem="413696"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="499999993 is not found by contestant's solution" eval-comment="" time="0.010" mem="413696"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="0.550" mem="413696"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="0.560" mem="413696"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="50 is not found by contestant's solution" eval-comment="" time="0.010" mem="413696"/>
+      <test id="31" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.010" mem="413696"/>
+      <test id="32" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="0.550" mem="413696"/>
+    </results>
+  </testing>
+</testing-report>

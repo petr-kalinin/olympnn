@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20150128230138005504027294">
+  <solution problem="4" problem-name="Module" problem-type="P" contestant="GUESS-MODULE_ASH" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="3" max-points="3" comment="3 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="2" outcome="accepted" points="3" max-points="3" comment="9 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="27 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="0 possible m found" eval-comment="" time="0.030" mem="491520"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="5 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="0 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="511 possible m found" eval-comment="" time="0.010" mem="499712"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="1334 possible m found" eval-comment="" time="0.010" mem="512000"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="511 possible m found" eval-comment="" time="0.010" mem="499712"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="2 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="404 possible m found" eval-comment="" time="0.010" mem="499712"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.020" mem="491520"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="2 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.020" mem="491520"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.020" mem="491520"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="19" outcome="accepted" points="3" max-points="3" comment="511 possible m found" eval-comment="" time="0.020" mem="499712"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="4 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="21" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="22" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="10 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="25" outcome="accepted" points="4" max-points="4" comment="2 possible m found" eval-comment="" time="0.020" mem="491520"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="512 possible m found" eval-comment="" time="0.020" mem="499712"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.010" mem="491520"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.020" mem="491520"/>
+      <test id="30" outcome="accepted" points="4" max-points="4" comment="7 possible m found" eval-comment="" time="0.010" mem="491520"/>
+    </results>
+  </testing>
+</testing-report>

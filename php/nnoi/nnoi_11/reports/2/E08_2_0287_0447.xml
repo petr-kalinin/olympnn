@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="22" max="100" outcome="accepted" gtid="20150131152940045236110611">
+  <solution problem="2" problem-name="Buses" problem-type="P" contestant="E08" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.4 [2014/03/06] for i386&#13;&#10;Copyright (c) 1993-2014 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(5,11) Note: Local variable &quot;t&quot; not used&#13;&#10;Linking sol.exe&#13;&#10;64 lines compiled, 0.0 sec , 29280 bytes code, 1692 bytes data&#13;&#10;1 note(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="1-ое число: 4 вместо 9" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="N=1" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="N=1" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="N=1" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: -1 вместо 0" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: -400 вместо -200" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="N=1" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="N=1" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 200 вместо 207" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: -2751 вместо -1972" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: 8000 вместо 8600" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="12" outcome="accepted" points="6" max-points="6" comment="N=1" eval-comment="" time="0.020" mem="1200128"/>
+      <test id="13" outcome="accepted" points="6" max-points="6" comment="N=1" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: -189428296 вместо -179155634" eval-comment="" time="0.020" mem="1200128"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -6667 вместо -6666" eval-comment="" time="0.020" mem="1200128"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 2169272239516 вместо 2243904118558" eval-comment="" time="0.010" mem="1200128"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -366681084 вместо -353363141" eval-comment="" time="0.030" mem="1200128"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -83348366340 вместо -83268385027" eval-comment="" time="0.030" mem="1200128"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.060" mem="1200128"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.040" mem="1200128"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 201 (Range check error)" eval-comment="" time="0.060" mem="1200128"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: 20721084 вместо 21908964" eval-comment="" time="0.020" mem="1200128"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: 33341065792 вместо 33343398192" eval-comment="" time="0.040" mem="1200128"/>
+    </results>
+  </testing>
+</testing-report>

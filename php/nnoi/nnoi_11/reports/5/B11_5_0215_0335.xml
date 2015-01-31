@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20150131141723034007117999">
+  <solution problem="5" problem-name="string" problem-type="P" contestant="B11" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="K = 7" eval-comment="" time="0.020" mem="1363968"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="K = 1" eval-comment="" time="0.010" mem="1363968"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="K = 3" eval-comment="" time="0.010" mem="1363968"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="K = 1" eval-comment="" time="0.010" mem="1363968"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="K = 1" eval-comment="" time="0.010" mem="1363968"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="K = 1" eval-comment="" time="0.010" mem="1363968"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="K = 3" eval-comment="" time="0.010" mem="1363968"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="K = 21" eval-comment="" time="0.020" mem="1363968"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.010" mem="1363968"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.020" mem="1363968"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.020" mem="1363968"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.010" mem="1363968"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.010" mem="1363968"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.020" mem="1363968"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.020" mem="1363968"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.010" mem="1363968"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.030" mem="1363968"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.030" mem="1363968"/>
+      <test id="19" outcome="accepted-not-counted" points="0" max-points="2" comment="K = 3" eval-comment="Тест не зачтен" time="0.030" mem="1363968"/>
+      <test id="20" outcome="accepted-not-counted" points="0" max-points="3" comment="K = 3" eval-comment="Тест не зачтен" time="0.040" mem="1363968"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.030" mem="1363968"/>
+      <test id="22" outcome="accepted-not-counted" points="0" max-points="3" comment="K = 3" eval-comment="Тест не зачтен" time="0.030" mem="1363968"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.030" mem="1363968"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.040" mem="1363968"/>
+      <test id="25" outcome="accepted-not-counted" points="0" max-points="3" comment="K = 299999" eval-comment="Тест не зачтен" time="0.050" mem="1363968"/>
+      <test id="26" outcome="accepted-not-counted" points="0" max-points="2" comment="K = 3" eval-comment="Тест не зачтен" time="0.040" mem="1363968"/>
+      <test id="27" outcome="accepted-not-counted" points="0" max-points="3" comment="K = 3" eval-comment="Тест не зачтен" time="0.040" mem="1363968"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.030" mem="1363968"/>
+      <test id="29" outcome="accepted-not-counted" points="0" max-points="3" comment="K = 3" eval-comment="Тест не зачтен" time="0.040" mem="1363968"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.030" mem="1363968"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.040" mem="1363968"/>
+      <test id="32" outcome="accepted-not-counted" points="0" max-points="3" comment="K = 399999" eval-comment="Тест не зачтен" time="0.050" mem="1363968"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="58" max="100" outcome="accepted" gtid="20150131122317012630996478">
+  <solution problem="4" problem-name="Module" problem-type="P" contestant="E08" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.4 [2014/03/06] for i386&#13;&#10;Copyright (c) 1993-2014 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(37,17) Warning: Variable &quot;nod&quot; does not seem to be initialized&#13;&#10;Linking sol.exe&#13;&#10;63 lines compiled, 0.0 sec , 29120 bytes code, 1692 bytes data&#13;&#10;1 warning(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="3 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="512 is not found by contestant's solution" eval-comment="" time="0.010" mem="806912"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="134217728 is not found by contestant's solution" eval-comment="" time="0.010" mem="806912"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="1 is incorrect m found by contestant's solution" eval-comment="" time="0.010" mem="806912"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="20 is not found by contestant's solution" eval-comment="" time="0.010" mem="806912"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="0 is incorrect value found by contestant's solution" eval-comment="" time="0.010" mem="806912"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="511 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="73513440 is not found by contestant's solution" eval-comment="" time="0.010" mem="806912"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="511 possible m found" eval-comment="" time="0.030" mem="806912"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="13043 is not found by contestant's solution" eval-comment="" time="0.020" mem="806912"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="310310 is not found by contestant's solution" eval-comment="" time="0.010" mem="806912"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.020" mem="806912"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="8639 is not found by contestant's solution" eval-comment="" time="0.010" mem="806912"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.020" mem="806912"/>
+      <test id="19" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="1 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="21" outcome="accepted" points="3" max-points="3" comment="511 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="2540923 is not found by contestant's solution" eval-comment="" time="0.020" mem="806912"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="333667 is not found by contestant's solution" eval-comment="" time="0.010" mem="806912"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.020" mem="806912"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="499999993 is not found by contestant's solution" eval-comment="" time="0.020" mem="806912"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="512 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="30" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.020" mem="806912"/>
+      <test id="31" outcome="accepted" points="4" max-points="4" comment="1 possible m found" eval-comment="" time="0.010" mem="806912"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="20 is not found by contestant's solution" eval-comment="" time="0.010" mem="806912"/>
+    </results>
+  </testing>
+</testing-report>

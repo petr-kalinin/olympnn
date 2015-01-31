@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20150131135555029478357127">
+  <solution problem="6" problem-name="Tetris" problem-type="P" contestant="E08" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.4 [2014/03/06] for i386&#13;&#10;Copyright (c) 1993-2014 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(4,11) Note: Local variable &quot;t&quot; not used&#13;&#10;Linking sol.exe&#13;&#10;52 lines compiled, 0.0 sec , 29248 bytes code, 1692 bytes data&#13;&#10;1 note(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=3, M=4" eval-comment="" time="0.010" mem="442368"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="NO SOLUTION" eval-comment="" time="0.010" mem="442368"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.020" mem="442368"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="N=1, M=4" eval-comment="" time="0.020" mem="442368"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="N=4, M=1" eval-comment="" time="0.010" mem="442368"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="N=2, M=2" eval-comment="" time="0.010" mem="442368"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="442368"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="442368"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="N=14, M=10" eval-comment="" time="0.010" mem="442368"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="N=16, M=18" eval-comment="" time="0.010" mem="442368"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="N=20, M=17" eval-comment="" time="0.010" mem="442368"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="N=13, M=16" eval-comment="" time="0.010" mem="442368"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="442368"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.020" mem="442368"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="N=58, M=62" eval-comment="" time="0.010" mem="442368"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="N=64, M=49" eval-comment="" time="0.010" mem="442368"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="N=51, M=68" eval-comment="" time="0.010" mem="442368"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="N=22, M=86" eval-comment="" time="0.010" mem="442368"/>
+      <test id="19" outcome="accepted" points="3" max-points="3" comment="N=16, M=79" eval-comment="" time="0.010" mem="442368"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="N=69, M=20" eval-comment="" time="0.010" mem="442368"/>
+      <test id="21" outcome="accepted" points="3" max-points="3" comment="N=100, M=100" eval-comment="" time="0.010" mem="442368"/>
+      <test id="22" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="442368"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="N=100, M=1" eval-comment="" time="0.010" mem="442368"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="N=1, M=100" eval-comment="" time="0.010" mem="442368"/>
+      <test id="25" outcome="accepted" points="4" max-points="4" comment="N=2, M=98" eval-comment="" time="0.020" mem="442368"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="N=98, M=2" eval-comment="" time="0.010" mem="442368"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="N=98, M=6" eval-comment="" time="0.010" mem="442368"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="NO SOLUTION" eval-comment="" time="0.010" mem="442368"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="NO SOLUTION" eval-comment="" time="0.010" mem="442368"/>
+      <test id="30" outcome="accepted" points="4" max-points="4" comment="N=97, M=100" eval-comment="" time="0.020" mem="442368"/>
+      <test id="31" outcome="accepted" points="4" max-points="4" comment="N=100, M=95" eval-comment="" time="0.010" mem="442368"/>
+      <test id="32" outcome="accepted" points="4" max-points="4" comment="N=98, M=90" eval-comment="" time="0.010" mem="442368"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="35" max="100" outcome="accepted" gtid="20150131120855010143099977">
+  <solution problem="3" problem-name="Cuckoo" problem-type="P" contestant="E07" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="csc sol.cs " compiler-output="Microsoft (R) Visual C# .NET Compiler version 7.10.3052.4&#13;&#10;for Microsoft (R) .NET Framework version 1.1.4322&#13;&#10;Copyright (C) Microsoft Corporation 2001-2002. All rights reserved.&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="0 вместо 1" eval-comment="" time="0.060" mem="2478080"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="8" eval-comment="" time="0.060" mem="2478080"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="0" eval-comment="" time="0.050" mem="2478080"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="8" eval-comment="" time="0.070" mem="2478080"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="30 вместо 34" eval-comment="" time="0.060" mem="2478080"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="29" eval-comment="" time="0.070" mem="2478080"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="11 вместо 13" eval-comment="" time="0.070" mem="2478080"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="18 вместо 21" eval-comment="" time="0.050" mem="2478080"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="0 вместо 25" eval-comment="" time="0.060" mem="2478080"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="0 вместо 1" eval-comment="" time="0.060" mem="2478080"/>
+      <test id="11" outcome="accepted" points="5" max-points="5" comment="13" eval-comment="" time="0.050" mem="2478080"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="34 вместо 38" eval-comment="" time="0.060" mem="2478080"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="39" eval-comment="" time="0.080" mem="2478080"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="42 вместо 49" eval-comment="" time="0.060" mem="2478080"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="0 вместо 78" eval-comment="" time="0.070" mem="2478080"/>
+      <test id="16" outcome="accepted" points="5" max-points="5" comment="0" eval-comment="" time="0.050" mem="2478080"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="0 вместо 1" eval-comment="" time="0.040" mem="2478080"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="9" eval-comment="" time="0.040" mem="2478080"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="21 вместо 24" eval-comment="" time="0.070" mem="2478080"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="0 вместо 78" eval-comment="" time="0.050" mem="2478080"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="0 вместо 1" eval-comment="" time="0.070" mem="2478080"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="11 вместо 12" eval-comment="" time="0.060" mem="2478080"/>
+      <test id="23" outcome="accepted" points="5" max-points="5" comment="76" eval-comment="" time="0.060" mem="2478080"/>
+    </results>
+  </testing>
+</testing-report>

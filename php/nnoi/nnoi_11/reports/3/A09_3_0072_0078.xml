@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20150131115447008175146067">
+  <solution problem="3" problem-name="Cuckoo" problem-type="P" contestant="A09" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="gcc -O2 -Wl,--stack,67108864 -std=gnu99 -o sol.exe sol.c " compiler-output="sol.c:1: No include path in which to find stdio.h&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

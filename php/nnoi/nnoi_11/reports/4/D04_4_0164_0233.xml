@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20150131132649023849667851">
+  <solution problem="4" problem-name="Module" problem-type="P" contestant="D04" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.4 [2014/03/06] for i386&#13;&#10;Copyright (c) 1993-2014 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(7,11) Note: Local variable &quot;o&quot; not used&#13;&#10;Linking sol.exe&#13;&#10;35 lines compiled, 0.1 sec , 32480 bytes code, 1820 bytes data&#13;&#10;1 note(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 2 (File not found)" eval-comment="" time="0.020" mem="200597504"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.020" mem="200597504"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.020" mem="200597504"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.020" mem="200597504"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.020" mem="200597504"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.020" mem="200597504"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 2 (File not found)" eval-comment="" time="0.020" mem="200597504"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 2 (File not found)" eval-comment="" time="0.020" mem="200597504"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 2 (File not found)" eval-comment="" time="0.010" mem="200597504"/>
+    </results>
+  </testing>
+</testing-report>

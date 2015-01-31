@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20150131140336031370661508">
+  <solution problem="5" problem-name="string" problem-type="P" contestant="E02" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++11 -O2 -Wl,--stack,67108864 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="K = 7" eval-comment="" time="0.010" mem="8364032"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="K = 1" eval-comment="" time="0.030" mem="8364032"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="K = 3" eval-comment="" time="0.020" mem="8364032"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="K = 1" eval-comment="" time="0.020" mem="8364032"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="K = 1" eval-comment="" time="0.020" mem="8364032"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="K = 1" eval-comment="" time="0.020" mem="8364032"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="K = 3" eval-comment="" time="0.020" mem="8364032"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="K = 21" eval-comment="" time="0.020" mem="8364032"/>
+      <test id="9" outcome="accepted" points="4" max-points="4" comment="K = 4" eval-comment="" time="0.020" mem="8372224"/>
+      <test id="10" outcome="accepted" points="4" max-points="4" comment="K = 12" eval-comment="" time="0.020" mem="8372224"/>
+      <test id="11" outcome="accepted" points="4" max-points="4" comment="K = 371" eval-comment="" time="0.030" mem="8388608"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="K = 17" eval-comment="" time="0.020" mem="8425472"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="K = 25" eval-comment="" time="0.020" mem="8425472"/>
+      <test id="14" outcome="accepted" points="4" max-points="4" comment="K = 11" eval-comment="" time="0.030" mem="8491008"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="K = 37" eval-comment="" time="0.040" mem="8491008"/>
+      <test id="16" outcome="accepted" points="4" max-points="4" comment="K = 27" eval-comment="" time="0.040" mem="8593408"/>
+      <test id="17" outcome="accepted" points="4" max-points="4" comment="K = 99" eval-comment="" time="0.040" mem="8593408"/>
+      <test id="18" outcome="accepted" points="4" max-points="4" comment="K = 15" eval-comment="" time="0.060" mem="8790016"/>
+      <test id="19" outcome="accepted" points="2" max-points="2" comment="K = 3" eval-comment="" time="0.110" mem="9224192"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="K = 3" eval-comment="" time="0.090" mem="9224192"/>
+      <test id="21" outcome="accepted" points="3" max-points="3" comment="K = 149" eval-comment="" time="0.110" mem="9187328"/>
+      <test id="22" outcome="accepted" points="3" max-points="3" comment="K = 3" eval-comment="" time="0.130" mem="9224192"/>
+      <test id="23" outcome="accepted" points="3" max-points="3" comment="K = 4" eval-comment="" time="0.110" mem="9187328"/>
+      <test id="24" outcome="accepted" points="3" max-points="3" comment="K = 2" eval-comment="" time="0.120" mem="9187328"/>
+      <test id="25" outcome="accepted" points="3" max-points="3" comment="K = 299999" eval-comment="" time="0.280" mem="13623296"/>
+      <test id="26" outcome="accepted" points="2" max-points="2" comment="K = 3" eval-comment="" time="0.140" mem="9322496"/>
+      <test id="27" outcome="accepted" points="3" max-points="3" comment="K = 3" eval-comment="" time="0.130" mem="9322496"/>
+      <test id="28" outcome="accepted" points="3" max-points="3" comment="K = 107" eval-comment="" time="0.130" mem="9187328"/>
+      <test id="29" outcome="accepted" points="3" max-points="3" comment="K = 3" eval-comment="" time="0.140" mem="9322496"/>
+      <test id="30" outcome="accepted" points="3" max-points="3" comment="K = 4" eval-comment="" time="0.140" mem="9187328"/>
+      <test id="31" outcome="accepted" points="3" max-points="3" comment="K = 2" eval-comment="" time="0.100" mem="9187328"/>
+      <test id="32" outcome="accepted" points="3" max-points="3" comment="K = 399999" eval-comment="" time="0.330" mem="14766080"/>
+    </results>
+  </testing>
+</testing-report>

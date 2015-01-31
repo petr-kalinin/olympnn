@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20150131134859027361244633">
+  <solution problem="4" problem-name="Module" problem-type="P" contestant="D07" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="gcc -O2 -Wl,--stack,67108864 -std=gnu99 -o sol.exe sol.c " compiler-output="sol.c:2: No include path in which to find iostream&#13;&#10;sol.c:3: No include path in which to find math.h&#13;&#10;sol.c:4: No include path in which to find vector&#13;&#10;sol.c:5: No include path in which to find queue&#13;&#10;sol.c:6: No include path in which to find string&#13;&#10;sol.c:7: No include path in which to find string.h&#13;&#10;sol.c:8: No include path in which to find algorithm&#13;&#10;sol.c:9: No include path in which to find map&#13;&#10;sol.c:10: No include path in which to find fstream&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

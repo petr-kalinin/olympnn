@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20150131131403021187467711">
+  <solution problem="1" problem-name="23feb" problem-type="P" contestant="A09" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Illegal step 2: changes 4 with 6" eval-comment="" time="0.010" mem="483328"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="no solution" eval-comment="" time="0.010" mem="483328"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="solution exists, but participant prints NO" eval-comment="" time="0.010" mem="483328"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="solution exists, but participant prints NO" eval-comment="" time="0.010" mem="483328"/>
+      <test id="5" outcome="accepted-not-counted" points="0" max-points="3" comment="no solution" eval-comment="Тест не зачтен" time="0.010" mem="483328"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 2 &lt; a[2] = 231" eval-comment="" time="0.010" mem="483328"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[2] = 900 &lt; a[3] = 901" eval-comment="" time="0.010" mem="483328"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.010" mem="483328"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.010" mem="483328"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.010" mem="483328"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[2] = 505 &lt; a[3] = 509" eval-comment="" time="0.010" mem="483328"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 5 &lt; a[2] = 6" eval-comment="" time="0.010" mem="483328"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.010" mem="483328"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.010" mem="483328"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Illegal step 1: changes 3 with 5" eval-comment="" time="0.020" mem="483328"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[1] = 505 &lt; a[2] = 606" eval-comment="" time="0.010" mem="483328"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Illegal step 2: changes 5 with 7" eval-comment="" time="0.010" mem="483328"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="Illegal step 1: changes 3 with 5" eval-comment="" time="0.010" mem="483328"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="Illegal step 1: changes 3 with 5" eval-comment="" time="0.010" mem="483328"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Illegal step 1: changes 7 with 9" eval-comment="" time="0.010" mem="483328"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Illegal step 1: changes 2 with 4" eval-comment="" time="0.010" mem="483328"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="Illegal step 1: changes 5 with 7" eval-comment="" time="0.010" mem="483328"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Illegal step 1: changes 4 with 6" eval-comment="" time="0.010" mem="483328"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Illegal step 1: changes 4 with 6" eval-comment="" time="0.010" mem="483328"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="Illegal step 1: changes 3 with 5" eval-comment="" time="0.020" mem="483328"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Illegal step 1: changes 3 with 5" eval-comment="" time="0.010" mem="483328"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Illegal step 1: changes 4 with 6" eval-comment="" time="0.020" mem="483328"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Illegal step 1: changes 4 with 6" eval-comment="" time="0.010" mem="483328"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="Illegal step 1: changes 3 with 5" eval-comment="" time="0.010" mem="483328"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Illegal step 1: changes 3 with 5" eval-comment="" time="0.010" mem="483328"/>
+    </results>
+  </testing>
+</testing-report>

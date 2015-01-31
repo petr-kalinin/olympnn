@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="87" max="100" outcome="accepted" gtid="20150131112314004077040059">
+  <solution problem="6" problem-name="Tetris" problem-type="P" contestant="A08" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=3, M=4" eval-comment="" time="0.010" mem="344064"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="NO SOLUTION" eval-comment="" time="0.010" mem="344064"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="344064"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="N=1, M=4" eval-comment="" time="0.010" mem="344064"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="N=4, M=1" eval-comment="" time="0.010" mem="344064"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="N=2, M=2" eval-comment="" time="0.010" mem="344064"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="344064"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="344064"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="N=14, M=10" eval-comment="" time="0.010" mem="344064"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="N=16, M=18" eval-comment="" time="0.010" mem="344064"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=81 at row 19, line 9 has duplicate id" eval-comment="" time="0.010" mem="344064"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="N=13, M=16" eval-comment="" time="0.010" mem="344064"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="344064"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.020" mem="344064"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="N=58, M=62" eval-comment="" time="0.010" mem="344064"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=769 at row 63, line 19 has duplicate id" eval-comment="" time="0.010" mem="344064"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="N=51, M=68" eval-comment="" time="0.020" mem="344064"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="N=22, M=86" eval-comment="" time="0.010" mem="344064"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=313 at row 15, line 73 has duplicate id" eval-comment="" time="0.010" mem="344064"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="N=69, M=20" eval-comment="" time="0.020" mem="344064"/>
+      <test id="21" outcome="accepted" points="3" max-points="3" comment="N=100, M=100" eval-comment="" time="0.020" mem="344064"/>
+      <test id="22" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="344064"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="N=100, M=1" eval-comment="" time="0.010" mem="344064"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="N=1, M=100" eval-comment="" time="0.010" mem="344064"/>
+      <test id="25" outcome="accepted" points="4" max-points="4" comment="N=2, M=98" eval-comment="" time="0.010" mem="344064"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="N=98, M=2" eval-comment="" time="0.020" mem="344064"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="N=98, M=6" eval-comment="" time="0.020" mem="344064"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="NO SOLUTION" eval-comment="" time="0.020" mem="344064"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="NO SOLUTION" eval-comment="" time="0.010" mem="344064"/>
+      <test id="30" outcome="accepted" points="4" max-points="4" comment="N=97, M=100" eval-comment="" time="0.010" mem="344064"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Piece with id=2351 at row 99, line 47 has duplicate id" eval-comment="" time="0.010" mem="344064"/>
+      <test id="32" outcome="accepted" points="4" max-points="4" comment="N=98, M=90" eval-comment="" time="0.010" mem="344064"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20150131134934027776747908">
+  <solution problem="2" problem-name="Buses" problem-type="P" contestant="D01" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.4 [2014/03/06] for i386&#13;&#10;Copyright (c) 1993-2014 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(28,38) Error: Illegal qualifier&#13;&#10;sol.pp(28,53) Error: Illegal qualifier&#13;&#10;sol.pp(40) Fatal: There were 2 errors compiling module, stopping&#13;&#10;Fatal: Compilation aborted&#13;&#10;Error: c:\student\olymp\FPC\bin\i386-win32\ppc386.exe returned an error exitcode (normal if you did not specify a source file to be compiled)&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

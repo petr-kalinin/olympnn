@@ -10,6 +10,6 @@ startonn("/Город/NNOI XI/Результаты","Результаты XI Нижегородской городской олим
 <p>По всем вопросам, связанным с результатами и тестированием, можно писать Петру Калинину на petr 
 AT kalinin ТОЧКА nnov ТОЧКА ru.<p>
 <?
-ije_showresults("results/results.xml","results/addinfo.txt",true,""/*"reports.php"*/,"results/more_data.xml");
+ije_showresults("results/results.xml","results/addinfo.txt",true,"reports.php","results/more_data.xml");
 endonn();
 ?>

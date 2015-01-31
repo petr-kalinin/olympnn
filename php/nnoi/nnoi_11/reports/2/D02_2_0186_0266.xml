@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20150131134824027137731688">
+  <solution problem="2" problem-name="Buses" problem-type="P" contestant="D02" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="memory-limit-exceeded" points="0" max-points="0" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="2" outcome="memory-limit-exceeded" points="0" max-points="0" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="3" outcome="memory-limit-exceeded" points="0" max-points="0" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="4" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="5" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="6" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="7" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="8" outcome="memory-limit-exceeded" points="0" max-points="4" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="9" outcome="memory-limit-exceeded" points="0" max-points="4" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="10" outcome="memory-limit-exceeded" points="0" max-points="6" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="11" outcome="memory-limit-exceeded" points="0" max-points="6" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="12" outcome="memory-limit-exceeded" points="0" max-points="6" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="13" outcome="memory-limit-exceeded" points="0" max-points="6" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="14" outcome="memory-limit-exceeded" points="0" max-points="6" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="15" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="16" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="17" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="18" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="19" outcome="memory-limit-exceeded" points="0" max-points="6" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="20" outcome="memory-limit-exceeded" points="0" max-points="6" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="21" outcome="memory-limit-exceeded" points="0" max-points="6" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="22" outcome="memory-limit-exceeded" points="0" max-points="6" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+      <test id="23" outcome="memory-limit-exceeded" points="0" max-points="6" comment="Memory limit exceeded" eval-comment="" time="0.010" mem="400658432"/>
+    </results>
+  </testing>
+</testing-report>

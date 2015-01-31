@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="46" max="100" outcome="accepted" gtid="20150131134729026735594399">
+  <solution problem="6" problem-name="Tetris" problem-type="P" contestant="B12" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.4 [2014/03/06] for i386&#13;&#10;Copyright (c) 1993-2014 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(2,9) Note: Local variable &quot;c&quot; not used&#13;&#10;sol.pp(2,13) Note: Local variable &quot;x&quot; not used&#13;&#10;sol.pp(2,15) Note: Local variable &quot;y&quot; not used&#13;&#10;sol.pp(2,19) Note: Local variable &quot;r&quot; not used&#13;&#10;Linking sol.exe&#13;&#10;43 lines compiled, 0.0 sec , 29136 bytes code, 1692 bytes data&#13;&#10;4 note(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=3, M=4" eval-comment="" time="0.010" mem="401408"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="NO SOLUTION" eval-comment="" time="0.010" mem="401408"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.020" mem="401408"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="N=1, M=4" eval-comment="" time="0.010" mem="401408"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 1] equals to 2, violates the range [1, 1]" eval-comment="" time="0.010" mem="401408"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 1, column 1] equals to 2, violates the range [1, 1]" eval-comment="" time="0.010" mem="401408"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="401408"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="401408"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 13, column 1] equals to 36, violates the range [1, 35]" eval-comment="" time="0.010" mem="401408"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=2 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.010" mem="401408"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=2 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.020" mem="401408"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="N=13, M=16" eval-comment="" time="0.010" mem="401408"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="401408"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="401408"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 57, column 1] equals to 900, violates the range [1, 899]" eval-comment="" time="0.020" mem="401408"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=2 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.010" mem="401408"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="N=51, M=68" eval-comment="" time="0.010" mem="401408"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 21, column 1] equals to 474, violates the range [1, 473]" eval-comment="" time="0.020" mem="401408"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=2 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.010" mem="401408"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="N=69, M=20" eval-comment="" time="0.010" mem="401408"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=2 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.020" mem="401408"/>
+      <test id="22" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.010" mem="401408"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Piece with id=2 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.020" mem="401408"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="N=1, M=100" eval-comment="" time="0.020" mem="401408"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 1, column 1] equals to 50, violates the range [1, 49]" eval-comment="" time="0.010" mem="401408"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 97, column 1] equals to 50, violates the range [1, 49]" eval-comment="" time="0.010" mem="401408"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 97, column 1] equals to 148, violates the range [1, 147]" eval-comment="" time="0.010" mem="401408"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="NO SOLUTION" eval-comment="" time="0.010" mem="401408"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="NO SOLUTION" eval-comment="" time="0.010" mem="401408"/>
+      <test id="30" outcome="accepted" points="4" max-points="4" comment="N=97, M=100" eval-comment="" time="0.010" mem="401408"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Piece with id=2 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.010" mem="401408"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 97, column 1] equals to 2206, violates the range [1, 2205]" eval-comment="" time="0.010" mem="401408"/>
+    </results>
+  </testing>
+</testing-report>

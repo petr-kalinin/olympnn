@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20150131135354028902111408">
+  <solution problem="2" problem-name="Buses" problem-type="P" contestant="C03" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cpp " compiler-output="sol.CPP: In function 'int main()':&#13;&#10;sol.CPP:39:30: error: call of overloaded 'abs(float)' is ambiguous&#13;&#10;   if(abs((float)((n-i)/2 - i)) &lt;= (float)k)&#13;&#10;                              ^&#13;&#10;sol.CPP:39:30: note: candidates are:&#13;&#10;In file included from c:\gcc-32\lib\gcc\mingw32\4.8.1\include\c++\cstdlib:72:0,&#13;&#10;                 from sol.CPP:2:&#13;&#10;c:\gcc-32\include\stdlib.h:374:37: note: int abs(int)&#13;&#10; _CRTIMP int __cdecl __MINGW_NOTHROW abs (int) __MINGW_ATTRIB_CONST;&#13;&#10;                                     ^&#13;&#10;In file included from sol.CPP:2:0:&#13;&#10;c:\gcc-32\lib\gcc\mingw32\4.8.1\include\c++\cstdlib:174:3: note: long long int std::abs(long long int)&#13;&#10;   abs(long long __x) { return __builtin_llabs (__x); }&#13;&#10;   ^&#13;&#10;c:\gcc-32\lib\gcc\mingw32\4.8.1\include\c++\cstdlib:166:3: note: long int std::abs(long int)&#13;&#10;   abs(long __i) { return __builtin_labs(__i); }&#13;&#10;   ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

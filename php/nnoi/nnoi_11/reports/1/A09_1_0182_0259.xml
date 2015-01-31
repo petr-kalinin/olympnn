@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20150131134457026460659535">
+  <solution problem="1" problem-name="23feb" problem-type="P" contestant="A09" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="correct permutation" eval-comment="" time="0.020" mem="483328"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="no solution" eval-comment="" time="0.010" mem="483328"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="solution exists, but participant prints NO" eval-comment="" time="0.010" mem="483328"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="solution exists, but participant prints NO" eval-comment="" time="0.010" mem="483328"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="no solution" eval-comment="" time="0.010" mem="483328"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="correct permutation" eval-comment="" time="0.010" mem="483328"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[2] = 900 &lt; a[3] = 901" eval-comment="" time="0.010" mem="483328"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 48 &lt; a[2] = 50" eval-comment="" time="0.010" mem="483328"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 1404 &lt; a[2] = 1502" eval-comment="" time="0.010" mem="483328"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="correct permutation" eval-comment="" time="0.010" mem="483328"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[2] = 505 &lt; a[3] = 509" eval-comment="" time="0.020" mem="483328"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 5 &lt; a[2] = 6" eval-comment="" time="0.010" mem="483328"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 5 &lt; a[2] = 6" eval-comment="" time="0.010" mem="483328"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[3] = 2 &lt; a[4] = 3" eval-comment="" time="0.010" mem="483328"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[1] = 3 &lt; a[2] = 6" eval-comment="" time="0.010" mem="483328"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[1] = 505 &lt; a[2] = 606" eval-comment="" time="0.010" mem="483328"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[1] = 1906 &lt; a[2] = 1908" eval-comment="" time="0.020" mem="483328"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[3] = 996 &lt; a[4] = 998" eval-comment="" time="0.010" mem="483328"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 1467 &lt; a[2] = 1748" eval-comment="" time="0.010" mem="483328"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[2] = 1329 &lt; a[3] = 1785" eval-comment="" time="0.010" mem="483328"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Not sorted: a[1] = 1844 &lt; a[2] = 1973" eval-comment="" time="0.010" mem="483328"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[2] = 1832 &lt; a[3] = 1927" eval-comment="" time="0.010" mem="483328"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[4] = 1829 &lt; a[5] = 1910" eval-comment="" time="0.010" mem="483328"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[2] = 1866 &lt; a[3] = 1887" eval-comment="" time="0.010" mem="483328"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[1] = 1897 &lt; a[2] = 1947" eval-comment="" time="0.010" mem="483328"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[2] = 1864 &lt; a[3] = 1935" eval-comment="" time="0.020" mem="483328"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[12] = 1723 &lt; a[13] = 1724" eval-comment="" time="0.010" mem="483328"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[3] = 1934 &lt; a[4] = 1959" eval-comment="" time="0.010" mem="483328"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[3] = 1864 &lt; a[4] = 1951" eval-comment="" time="0.020" mem="483328"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[2] = 1924 &lt; a[3] = 1953" eval-comment="" time="0.010" mem="483328"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20150131114927007502499729">
+  <solution problem="3" problem-name="Cuckoo" problem-type="P" contestant="C02" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="fbc -lang qb -s console sol.bas " compiler-output="sol.bas(2) error 71: Array not dimensioned, before '('&#13;&#10;TextWindow.Write(&quot;Enter the hour Vasya's left &quot;)&#13;&#10;                 ^&#13;&#10;sol.bas(3) error 3: Expected End-of-Line, found '('&#13;&#10;HourLeft= TextWindow.Read()&#13;&#10;                          ^&#13;&#10;sol.bas(4) error 71: Array not dimensioned, before '('&#13;&#10;TextWindow.Write(&quot;Enter the minute Vasya's left &quot;)&#13;&#10;                 ^&#13;&#10;sol.bas(5) error 3: Expected End-of-Line, found '('&#13;&#10;MinLeft= TextWindow.Read()&#13;&#10;                         ^&#13;&#10;sol.bas(6) error 71: Array not dimensioned, before '('&#13;&#10;TextWindow.Write(&quot;Enter the hour Vasya's back &quot;)&#13;&#10;                 ^&#13;&#10;sol.bas(7) error 3: Expected End-of-Line, found '('&#13;&#10;HourBack= TextWindow.Read()&#13;&#10;                          ^&#13;&#10;sol.bas(8) error 71: Array not dimensioned, before '('&#13;&#10;TextWindow.Write(&quot;Enter the minute Vasya's back &quot;)&#13;&#10;                 ^&#13;&#10;sol.bas(9) error 3: Expected End-of-Line, found '('&#13;&#10;MinBack= TextWindow.Read()&#13;&#10;                         ^&#13;&#10;sol.bas(10) error 24: Invalid data types, found '-'&#13;&#10;(HourLeft+MinLeft)-(HourBack+MinLeft)= TimeLeft&#13;&#10;                  ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

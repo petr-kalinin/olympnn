@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="32" max="100" outcome="accepted" gtid="20150131141007032735142563">
+  <solution problem="5" problem-name="string" problem-type="P" contestant="A11" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,67108864 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="K = 7" eval-comment="" time="0.020" mem="4362240"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="K = 1" eval-comment="" time="0.020" mem="4362240"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="K = 3" eval-comment="" time="0.020" mem="4362240"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="K = 1" eval-comment="" time="0.020" mem="4362240"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="K = 1" eval-comment="" time="0.020" mem="4362240"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="K = 1" eval-comment="" time="0.020" mem="4362240"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="K = 3" eval-comment="" time="0.010" mem="4362240"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="K = 21" eval-comment="" time="0.030" mem="4370432"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - token expected" eval-comment="" time="0.020" mem="4386816"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - token expected" eval-comment="" time="0.020" mem="4378624"/>
+      <test id="11" outcome="accepted" points="4" max-points="4" comment="K = 371" eval-comment="" time="0.040" mem="4497408"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="K = 17" eval-comment="" time="0.030" mem="4771840"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="K = 25" eval-comment="" time="0.030" mem="4722688"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.040" mem="5369856"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.040" mem="5558272"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.050" mem="5742592"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.060" mem="6340608"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.060" mem="7364608"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.120" mem="10334208"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.100" mem="10334208"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.100" mem="10334208"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.110" mem="10334208"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.100" mem="10334208"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.090" mem="10334208"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.090" mem="10334208"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="2" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.140" mem="12136448"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.140" mem="12136448"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.140" mem="12136448"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.130" mem="12136448"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.120" mem="12136448"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.130" mem="12136448"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅп" eval-comment="" time="0.120" mem="12136448"/>
+    </results>
+  </testing>
+</testing-report>

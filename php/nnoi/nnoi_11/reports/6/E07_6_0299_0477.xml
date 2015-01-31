@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="29" max="100" outcome="accepted" gtid="20150131154129048218987543">
+  <solution problem="6" problem-name="Tetris" problem-type="P" contestant="E07" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="csc sol.cs " compiler-output="Microsoft (R) Visual C# .NET Compiler version 7.10.3052.4&#13;&#10;for Microsoft (R) .NET Framework version 1.1.4322&#13;&#10;Copyright (C) Microsoft Corporation 2001-2002. All rights reserved.&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=3, M=4" eval-comment="" time="0.060" mem="2482176"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="NO SOLUTION" eval-comment="" time="0.080" mem="2482176"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.050" mem="2482176"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="N=1, M=4" eval-comment="" time="0.060" mem="2482176"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 2, column 1] equals to 2, violates the range [1, 1]" eval-comment="" time="0.080" mem="2482176"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=cell at row 2, column 1] equals to 2, violates the range [1, 1]" eval-comment="" time="0.060" mem="2482176"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.040" mem="2482176"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.070" mem="2482176"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.060" mem="2482176"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.050" mem="2482176"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.060" mem="2482176"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=1 at row 4, line 5 has duplicate id" eval-comment="" time="0.070" mem="2482176"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.060" mem="2482176"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.030" mem="2482176"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.060" mem="2551808"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.070" mem="2551808"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=1 at row 4, line 1 has duplicate id" eval-comment="" time="0.060" mem="2551808"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.070" mem="2551808"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.050" mem="2486272"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=1 at row 14, line 17 has duplicate id" eval-comment="" time="0.050" mem="2551808"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Piece with id=1 at row 5, line 1 has duplicate id" eval-comment="" time="0.050" mem="2551808"/>
+      <test id="22" outcome="accepted" points="3" max-points="3" comment="NO SOLUTION" eval-comment="" time="0.070" mem="2482176"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 26, column 1] equals to 26, violates the range [1, 25]" eval-comment="" time="0.070" mem="2482176"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=100" eval-comment="" time="0.050" mem="2482176"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.070" mem="2482176"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=cell at row 25, column 2] equals to 50, violates the range [1, 49]" eval-comment="" time="0.060" mem="2482176"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.050" mem="2486272"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="NO SOLUTION" eval-comment="" time="0.070" mem="2482176"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="NO SOLUTION" eval-comment="" time="0.050" mem="2482176"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Piece with id=1 at row 4, line 89 has duplicate id" eval-comment="" time="0.080" mem="2551808"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.060" mem="2551808"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Piece with id=1 at row 1, line 1 is not a valid figurine, has size=1" eval-comment="" time="0.080" mem="2551808"/>
+    </results>
+  </testing>
+</testing-report>

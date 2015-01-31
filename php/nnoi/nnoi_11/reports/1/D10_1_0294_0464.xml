@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="8" max="100" outcome="accepted" gtid="20150131153644046972258070">
+  <solution problem="1" problem-name="23feb" problem-type="P" contestant="D10" time-limit="500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 2.6.4 [2014/03/06] for i386&#13;&#10;Copyright (c) 1993-2014 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;110 lines compiled, 0.0 sec , 30208 bytes code, 1708 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="correct permutation" eval-comment="" time="0.020" mem="618496"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Unexpected word &lt;0&gt;" eval-comment="" time="0.020" mem="618496"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Integer 0 violates the range [1, 2]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Integer 0 violates the range [1, 3]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Unexpected word &lt;0&gt;" eval-comment="" time="0.020" mem="618496"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="correct permutation" eval-comment="" time="0.010" mem="618496"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Integer -1 violates the range [1, 4]" eval-comment="" time="0.020" mem="618496"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="Integer 0 violates the range [1, 5]" eval-comment="" time="0.020" mem="618496"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="Integer 0 violates the range [1, 5]" eval-comment="" time="0.020" mem="618496"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Integer 0 violates the range [1, 5]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Unexpected word &lt;0&gt;" eval-comment="" time="0.020" mem="618496"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="Integer 0 violates the range [1, 6]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="Integer 0 violates the range [1, 6]" eval-comment="" time="0.020" mem="618496"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Integer 0 violates the range [1, 6]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Integer 0 violates the range [1, 6]" eval-comment="" time="0.020" mem="618496"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Integer 0 violates the range [1, 7]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Integer 9 violates the range [1, 8]" eval-comment="" time="0.020" mem="618496"/>
+      <test id="18" outcome="accepted" points="4" max-points="4" comment="correct permutation" eval-comment="" time="0.020" mem="618496"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="Not sorted: a[5] = 768 &lt; a[6] = 978" eval-comment="" time="0.020" mem="618496"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Integer 900 violates the range [1, 20]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Integer 521 violates the range [1, 30]" eval-comment="" time="0.020" mem="618496"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="Integer 457 violates the range [1, 40]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Integer 51 violates the range [1, 50]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Integer 348 violates the range [1, 60]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="Integer 350 violates the range [1, 70]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Integer 1203 violates the range [1, 80]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Integer 1386 violates the range [1, 97]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Integer 1585 violates the range [1, 98]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="Integer 100 violates the range [1, 99]" eval-comment="" time="0.010" mem="618496"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Integer 101 violates the range [1, 100]" eval-comment="" time="0.010" mem="618496"/>
+    </results>
+  </testing>
+</testing-report>
