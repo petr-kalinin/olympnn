@@ -94,6 +94,11 @@
     Результаты=results.php
     Архив=archive/index.php
   }
+  NNOI XI={
+    _dir=nnoi_11/
+    _index=index.php
+    Результаты=results.php
+  }
   Книга={
     _dir=../book/
     _index=index.php

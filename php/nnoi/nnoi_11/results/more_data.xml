@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="1" name="23 февраля"/>
+    <problem id="2" name="Оптимальное расписание"/>
+    <problem id="3" name="Часы с кукушкой"/>
+    <problem id="4" name="Угадайка"/>
+    <problem id="5" name="Миша против древних берляндцев"/>
+    <problem id="6" name="Площадь Пажитнова"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="7"/>
+    <diplom id="II" places-min="8" places-max="12"/>
+    <diplom id="III" places-min="13" places-max="23"/>
+  </diploms>
+</more-data>
+    
