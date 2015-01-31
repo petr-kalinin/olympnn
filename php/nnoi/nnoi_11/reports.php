@@ -28,7 +28,7 @@ if (isset($_GET["prob"])and(isset($_GET["contestant"]))){
       if (count($files)==0)
          writeln("<p>Попыток по задаче не было</p>");
       else {
-        writeln("<p>Выберите попытку (в зачет шла только последняя из попыток, но протоколы тестирования доступны по всем):</p>\n<ul>");
+        writeln("<p>Выберите попытку (в зачет шла лучшая из просмотренных попыток (или последняя), но протоколы тестирования доступны по всем):</p>\n<ul>");
         foreach($files as $file) {
             sscanf($file, "reports/{$prob}/{$boy}_{$prob}_%d_%d.xml", $time, $id);
             writeln("<li><a href='reports.php?contestant=$boy&amp;prob=$prob&amp;time=$time&amp;id=$id'>Попытка $id, время $time минут(ы) с начала тура</a></li>");

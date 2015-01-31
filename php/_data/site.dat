@@ -97,6 +97,9 @@
   NNOI XI={
     _dir=nnoi_11/
     _index=index.php
+    Авторы задач=taskauthors.php
+    Жюри=jury.php
+    Оргкомитет=org.php
     Результаты=results.php
   }
   Книга={
