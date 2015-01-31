@@ -481,13 +481,13 @@
       <problem id="5" points="0" minus="0" outcome="accepted"/>
       <problem id="6" points="100" minus="0" outcome="accepted"/>
     </contestant>
-    <contestant id="JUR" _location="0">
-      <problem id="1" points="0" minus="0" outcome="accepted"/>
-      <problem id="2" points="0" minus="0" outcome="accepted"/>
-      <problem id="3" points="0" minus="0" outcome="accepted"/>
-      <problem id="4" points="0" minus="0" outcome="accepted"/>
-      <problem id="5" points="0" minus="0" outcome="accepted"/>
-      <problem id="6" points="0" minus="0" outcome="accepted"/>
+    <contestant id="MAX" _location="-1">
+      <problem id="1" points="100" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="100" minus="0" outcome="accepted"/>
+      <problem id="6" points="100" minus="0" outcome="accepted"/>
     </contestant>
   </contestants>
 </results>
