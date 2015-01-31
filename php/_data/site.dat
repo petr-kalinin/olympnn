@@ -101,6 +101,7 @@
     Жюри=jury.php
     Оргкомитет=org.php
     Результаты=results.php
+    Архив=archive/index.php
   }
   Книга={
     _dir=../book/
