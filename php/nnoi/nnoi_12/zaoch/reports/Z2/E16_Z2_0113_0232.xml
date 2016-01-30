@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20160130145327001631544034">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="E16" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="0000000000000001 вместо 0001" eval-comment="" time="0.050" mem="9433088"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="0000000000001111 вместо ERROR" eval-comment="" time="0.030" mem="9433088"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="7" comment="0000000100100011 вместо 0123" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="7" comment="0100010101100111 вместо 4567" eval-comment="" time="0.050" mem="9433088"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="7" comment="1000100100000001 вместо 8901" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="6" outcome="security-violation" points="0" max-points="7" comment="Child process" eval-comment="" time="0.040" mem="8929280"/>
+      <test id="7" outcome="security-violation" points="0" max-points="7" comment="Child process" eval-comment="" time="0.060" mem="8933376"/>
+      <test id="8" outcome="security-violation" points="0" max-points="7" comment="Child process" eval-comment="" time="0.050" mem="8933376"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="7" comment="0011011100100001 вместо 3721" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="8" comment="1001100110011001 вместо 9999" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="11" outcome="security-violation" points="0" max-points="7" comment="Child process" eval-comment="" time="0.050" mem="8933376"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="7" comment="0001101100100011 вместо ERROR" eval-comment="" time="0.050" mem="9433088"/>
+      <test id="13" outcome="security-violation" points="0" max-points="7" comment="Child process" eval-comment="" time="0.040" mem="8933376"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="7" comment="0111100010011101 вместо ERROR" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="7" comment="1110100110000111 вместо ERROR" eval-comment="" time="0.050" mem="9433088"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="8" comment="1111111111111111 вместо ERROR" eval-comment="" time="0.040" mem="9437184"/>
+    </results>
+  </testing>
+</testing-report>

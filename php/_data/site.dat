@@ -107,6 +107,7 @@
     _dir=nnoi_12/
     _index=index.php
     Заявки=zaoch.php
+    Отборочный тур=zaoch/results.php
   }
   Книга={
     _dir=../book/

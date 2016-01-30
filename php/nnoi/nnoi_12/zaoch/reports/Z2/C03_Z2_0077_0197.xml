@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20160130141727019633143803">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="C03" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="c:\python3\python ..\cscompile.py " compiler-output="Компилятор Microsoft (R) Visual C# 2010, версия 4.0.30319.1&#13;&#10;(C) Корпорация Майкрософт (Microsoft Corp.). Все права защищены.&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="0001" eval-comment="" time="0.020" mem="7229440"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="ERROR" eval-comment="" time="0.020" mem="7229440"/>
+      <test id="3" outcome="accepted" points="7" max-points="7" comment="0123" eval-comment="" time="0.020" mem="7229440"/>
+      <test id="4" outcome="accepted" points="7" max-points="7" comment="4567" eval-comment="" time="0.030" mem="7229440"/>
+      <test id="5" outcome="accepted" points="7" max-points="7" comment="8901" eval-comment="" time="0.020" mem="7229440"/>
+      <test id="6" outcome="accepted" points="7" max-points="7" comment="9876" eval-comment="" time="0.020" mem="7237632"/>
+      <test id="7" outcome="accepted" points="7" max-points="7" comment="5432" eval-comment="" time="0.030" mem="7229440"/>
+      <test id="8" outcome="accepted" points="7" max-points="7" comment="0000" eval-comment="" time="0.020" mem="7229440"/>
+      <test id="9" outcome="accepted" points="7" max-points="7" comment="3721" eval-comment="" time="0.020" mem="7237632"/>
+      <test id="10" outcome="accepted" points="8" max-points="8" comment="9999" eval-comment="" time="0.020" mem="7229440"/>
+      <test id="11" outcome="accepted" points="7" max-points="7" comment="ERROR" eval-comment="" time="0.020" mem="7237632"/>
+      <test id="12" outcome="accepted" points="7" max-points="7" comment="ERROR" eval-comment="" time="0.020" mem="7229440"/>
+      <test id="13" outcome="accepted" points="7" max-points="7" comment="ERROR" eval-comment="" time="0.020" mem="7229440"/>
+      <test id="14" outcome="accepted" points="7" max-points="7" comment="ERROR" eval-comment="" time="0.030" mem="7229440"/>
+      <test id="15" outcome="accepted" points="7" max-points="7" comment="ERROR" eval-comment="" time="0.020" mem="7237632"/>
+      <test id="16" outcome="accepted" points="8" max-points="8" comment="ERROR" eval-comment="" time="0.030" mem="7229440"/>
+    </results>
+  </testing>
+</testing-report>

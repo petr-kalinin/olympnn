@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20160130132050007007041883">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="E18" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;ўўҐ¤ЁвҐ&quot;" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="12" comment="Expected integer instead of &quot;ўўҐ¤ЁвҐ&quot;" eval-comment="" time="0.030" mem="9437184"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="12" comment="Expected integer instead of &quot;ўўҐ¤ЁвҐ&quot;" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="20" comment="Expected integer instead of &quot;ўўҐ¤ЁвҐ&quot;" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="12" comment="Expected integer instead of &quot;ўўҐ¤ЁвҐ&quot;" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="20" comment="Expected integer instead of &quot;ўўҐ¤ЁвҐ&quot;" eval-comment="" time="0.030" mem="9433088"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="12" comment="Expected integer instead of &quot;ўўҐ¤ЁвҐ&quot;" eval-comment="" time="0.050" mem="9433088"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="12" comment="Expected integer instead of &quot;ўўҐ¤ЁвҐ&quot;" eval-comment="" time="0.050" mem="9433088"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20160130145705004288593776">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="A04" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment=" вместо 0001" eval-comment="" time="0.030" mem="487424"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment=" вместо ERROR" eval-comment="" time="0.010" mem="487424"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="7" comment=" вместо 0123" eval-comment="" time="0.010" mem="487424"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="7" comment=" вместо 4567" eval-comment="" time="0.010" mem="487424"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="7" comment=" вместо 8901" eval-comment="" time="0.010" mem="487424"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="7" comment=" вместо 9876" eval-comment="" time="0.010" mem="487424"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="7" comment=" вместо 5432" eval-comment="" time="0.010" mem="487424"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="7" comment=" вместо 0000" eval-comment="" time="0.010" mem="487424"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="7" comment=" вместо 3721" eval-comment="" time="0.010" mem="487424"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="8" comment=" вместо 9999" eval-comment="" time="0.010" mem="487424"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="7" comment=" вместо ERROR" eval-comment="" time="0.010" mem="487424"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="7" comment=" вместо ERROR" eval-comment="" time="0.010" mem="487424"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="7" comment=" вместо ERROR" eval-comment="" time="0.010" mem="487424"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="7" comment=" вместо ERROR" eval-comment="" time="0.020" mem="487424"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="7" comment=" вместо ERROR" eval-comment="" time="0.010" mem="487424"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="8" comment=" вместо ERROR" eval-comment="" time="0.010" mem="487424"/>
+    </results>
+  </testing>
+</testing-report>

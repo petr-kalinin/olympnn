@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="22" max="100" outcome="accepted" gtid="20160130141051017388669605">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="B12" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=2" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="3" comment="Неверный порядок в итоге" eval-comment="" time="0.030" mem="9433088"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="N=3" eval-comment="" time="0.030" mem="9433088"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="N=8" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Неверный порядок в итоге" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.030" mem="9433088"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.030" mem="9437184"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.030" mem="9433088"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.040" mem="9433088"/>
+      <test id="11" outcome="accepted" points="4" max-points="4" comment="N=50" eval-comment="" time="0.060" mem="9498624"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="N=49" eval-comment="" time="0.080" mem="9498624"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="N=50" eval-comment="" time="0.070" mem="9498624"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.070" mem="9498624"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.060" mem="9498624"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.040" mem="9498624"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.060" mem="9498624"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.070" mem="9498624"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.050" mem="9433088"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.060" mem="9498624"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.050" mem="9498624"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.060" mem="9498624"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.050" mem="9498624"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.050" mem="9498624"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.040" mem="9506816"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Неверный порядок в итоге" eval-comment="" time="0.090" mem="9498624"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="N=9" eval-comment="" time="0.040" mem="9437184"/>
+    </results>
+  </testing>
+</testing-report>

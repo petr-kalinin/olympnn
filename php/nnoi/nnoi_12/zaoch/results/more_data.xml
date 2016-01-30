@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="Z1" name="Батареи"/>
+    <problem id="Z2" name="Штрихкод"/>
+    <problem id="Z3" name="Патрульный робот"/>
+    <problem id="Z4" name="Ханойская сортировка"/>
+    <problem id="Z5" name="Игрушечный лабиринт"/>
+  </problem-names>
+  <diploms>
+  </diploms>
+</more-data>
+    

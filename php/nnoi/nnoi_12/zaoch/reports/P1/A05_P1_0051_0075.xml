@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20160130112154007400753275">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="A05" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx:1:1: error: 'include' does not name a type&#13;&#10; include &lt;iostream&gt;&#13;&#10; ^&#13;&#10;sol.cxx: In function 'int main()':&#13;&#10;sol.cxx:6:1: error: 'cin' was not declared in this scope&#13;&#10; cin &gt;&gt; a &gt;&gt; b;&#13;&#10; ^&#13;&#10;sol.cxx:7:1: error: 'cout' was not declared in this scope&#13;&#10; cout &lt;&lt; a - b;&#13;&#10; ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

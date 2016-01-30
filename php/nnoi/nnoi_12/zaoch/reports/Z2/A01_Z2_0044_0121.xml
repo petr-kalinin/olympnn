@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20160130134428012086534195">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="A01" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 3.0.0 [2015/11/16] for i386&#13;&#10;Copyright (c) 1993-2015 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(13,42) Error: Illegal assignment to for-loop variable &quot;i&quot;&#13;&#10;sol.pp(32,4) Fatal: There were 1 errors compiling module, stopping&#13;&#10;Fatal: Compilation aborted&#13;&#10;Error: C:\FPC\3.0.0\bin\i386-Win32\ppc386.exe returned an error exitcode&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

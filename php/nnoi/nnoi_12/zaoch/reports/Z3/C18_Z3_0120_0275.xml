@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="9" max="100" outcome="accepted" gtid="20160130150045005923845311">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="C18" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 3.0.0 [2015/11/16] for i386&#13;&#10;Copyright (c) 1993-2015 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(1,2) Warning: Illegal compiler switch &quot;EDLPHI&quot;&#13;&#10;Linking sol.exe&#13;&#10;37 lines compiled, 0.1 sec, 28656 bytes code, 1300 bytes data&#13;&#10;1 warning(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="1-ое число: -1 вместо -2" eval-comment="" time="0.010" mem="495616"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.010" mem="495616"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="495616"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="495616"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 1 вместо 0" eval-comment="" time="0.010" mem="495616"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="1-ое число: 2 вместо 3" eval-comment="" time="0.010" mem="495616"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="" eval-comment="" time="0.010" mem="495616"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 142 вместо 137" eval-comment="" time="0.010" mem="495616"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 39 вместо 29" eval-comment="" time="0.020" mem="495616"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 555 вместо 0" eval-comment="" time="0.010" mem="495616"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -1 вместо 0" eval-comment="" time="0.020" mem="495616"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -4 вместо -8" eval-comment="" time="0.010" mem="495616"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: 0 вместо -5" eval-comment="" time="0.010" mem="495616"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="6" comment="2-ое число: 1 вместо 4" eval-comment="" time="0.010" mem="495616"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: 3 вместо 2" eval-comment="" time="0.010" mem="495616"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="6" comment="2-ое число: -10 вместо -3" eval-comment="" time="0.010" mem="495616"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: -909 вместо 0" eval-comment="" time="0.010" mem="495616"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: 1666 вместо 2777" eval-comment="" time="0.010" mem="495616"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: -1667 вместо 1666" eval-comment="" time="0.020" mem="495616"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: 8150 вместо 8125" eval-comment="" time="0.010" mem="532480"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="6" comment="2-ое число: 2700 вместо 2749" eval-comment="" time="0.010" mem="532480"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="6" comment="1-ое число: -125 вместо -150" eval-comment="" time="0.010" mem="532480"/>
+    </results>
+  </testing>
+</testing-report>

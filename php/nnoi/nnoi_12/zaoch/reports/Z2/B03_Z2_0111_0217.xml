@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="86" max="100" outcome="accepted" gtid="20160130145101000003113618">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="B03" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="0001" eval-comment="" time="0.050" mem="9502720"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="ERROR" eval-comment="" time="0.060" mem="9502720"/>
+      <test id="3" outcome="accepted" points="7" max-points="7" comment="0123" eval-comment="" time="0.050" mem="9502720"/>
+      <test id="4" outcome="accepted" points="7" max-points="7" comment="4567" eval-comment="" time="0.040" mem="9502720"/>
+      <test id="5" outcome="accepted" points="7" max-points="7" comment="8901" eval-comment="" time="0.050" mem="9502720"/>
+      <test id="6" outcome="security-violation" points="0" max-points="7" comment="Child process" eval-comment="" time="0.030" mem="8949760"/>
+      <test id="7" outcome="security-violation" points="0" max-points="7" comment="Child process" eval-comment="" time="0.040" mem="8941568"/>
+      <test id="8" outcome="accepted" points="7" max-points="7" comment="0000" eval-comment="" time="0.040" mem="9502720"/>
+      <test id="9" outcome="accepted" points="7" max-points="7" comment="3721" eval-comment="" time="0.040" mem="9502720"/>
+      <test id="10" outcome="accepted" points="8" max-points="8" comment="9999" eval-comment="" time="0.040" mem="9502720"/>
+      <test id="11" outcome="accepted" points="7" max-points="7" comment="ERROR" eval-comment="" time="0.050" mem="9502720"/>
+      <test id="12" outcome="accepted" points="7" max-points="7" comment="ERROR" eval-comment="" time="0.060" mem="9502720"/>
+      <test id="13" outcome="accepted" points="7" max-points="7" comment="ERROR" eval-comment="" time="0.050" mem="9502720"/>
+      <test id="14" outcome="accepted" points="7" max-points="7" comment="ERROR" eval-comment="" time="0.030" mem="9506816"/>
+      <test id="15" outcome="accepted" points="7" max-points="7" comment="ERROR" eval-comment="" time="0.050" mem="9498624"/>
+      <test id="16" outcome="accepted" points="8" max-points="8" comment="ERROR" eval-comment="" time="0.050" mem="9502720"/>
+    </results>
+  </testing>
+</testing-report>
