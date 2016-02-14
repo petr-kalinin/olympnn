@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="1" name="Имена собственные"/>
+    <problem id="2" name="Железная дорога"/>
+    <problem id="3" name="Последнее число"/>
+    <problem id="4" name="Взять все остатки"/>
+    <problem id="5" name="Передача опыта"/>
+    <problem id="6" name="Светфоры"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="5"/>
+    <diplom id="II" places-min="6" places-max="10"/>
+    <diplom id="III" places-min="11" places-max="23"/>
+  </diploms>
+</more-data>
+    
