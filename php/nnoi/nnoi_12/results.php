@@ -9,6 +9,7 @@ startonn("/Город/NNOI XII/Результаты","Результаты XII Нижегородской городской ол
 <p>Для печати: <a href="archive/nnoi2016_results.pdf">nnoi2016_results.pdf</a>.</p>
 <p>По всем вопросам, связанным с результатами и тестированием, можно писать Петру Калинину на petr 
 AT kalinin ТОЧКА nnov ТОЧКА ru.<p>
+<p>По техническим причинам, на этой странице недоступны протоколы тестирования. Чтобы посмотреть подробности тестирования, вы можете скачать <a href="archive/nnoi2016_outputs.7z">полный архив с информацией по тестированию</a>.
 <?
 ije_showresults("results/results.xml","results/addinfo.txt",true,"","results/more_data.xml");
 endonn();
