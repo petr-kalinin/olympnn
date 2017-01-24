@@ -360,3 +360,10 @@ table.gen td{
   padding-left:3px;
   padding-right:3px;
 }
+
+.logos {
+  text-align: center;
+}
+.logos img {
+  height: 50px;
+}

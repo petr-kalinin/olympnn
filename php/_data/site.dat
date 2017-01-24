@@ -112,6 +112,10 @@
     Результаты=results.php
     Архив=archive/index.php
   }
+  NNOI XIII={
+    _dir=nnoi_13/
+    _index=index.php
+  }
   Книга={
     _dir=../book/
     _index=index.php
