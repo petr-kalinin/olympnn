@@ -13,7 +13,7 @@ XIII Нижегородская городская олимпиада школьников по информатике им. В.&nbsp;Д. 
 Для подачи заявки на участие в олимпиаде необходимо заполнить <a href="https://docs.google.com/a/kalinin.nnov.ru/forms/d/e/1FAIpQLSfimIZn2ATfiI1FKo2NAELhbSeO726EBD87_XedhyEdfkK-AA/viewform">регистрационную форму</a>.
 <div class="logos">
 <a href="http://yandex.ru"><img src="https://avatars.mds.yandex.net/get-bunker/60661/5ec62cb755193c37a6ec19a826b3891780eead2a/orig"/></a>
-<a href="http://www.prima.nnov.ru"><img src="http://www.prima.nnov.ru/static/images/header/blue/logo.png"/></a>
+<a href="http://www.prima.nnov.ru"><img src="prima.png"/></a>
 <a href="http://unn.ru"><img src="http://www.unn.ru/site/images/brand/unn_logo_ru.png"/></a>
 </div>
 <?
