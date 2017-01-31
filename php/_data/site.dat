@@ -115,6 +115,7 @@
   NNOI XIII={
     _dir=nnoi_13/
     _index=index.php
+    Заявки=zaoch.php
   }
   Книга={
     _dir=../book/
