@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170204144927037631554469">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="B32" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Странная первая строка: 00 " eval-comment="" time="0.046" mem="20393984"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="7" comment="Странная первая строка: 2030 " eval-comment="" time="0.031" mem="20451328"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="7" comment="Должно быть NO" eval-comment="" time="0.031" mem="20402176"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="7" comment="Странная первая строка: -86-100 " eval-comment="" time="0.031" mem="20512768"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="7" comment="Странная первая строка: -900-2000 " eval-comment="" time="0.031" mem="20500480"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: 51000100000 " eval-comment="" time="0.062" mem="23322624"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: -1000000-2000000 " eval-comment="" time="0.031" mem="20389888"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: 45 " eval-comment="" time="0.031" mem="20377600"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: 10000000051000000007 " eval-comment="" time="0.031" mem="20418560"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: -999999998-999999999 " eval-comment="" time="0.031" mem="20439040"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: 10004901000000 " eval-comment="" time="0.031" mem="20381696"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: -1004990-1000000 " eval-comment="" time="0.046" mem="20389888"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: 15000100002000000000 " eval-comment="" time="0.234" mem="27656192"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: -1500010000-2000000000 " eval-comment="" time="0.265" mem="27664384"/>
+    </results>
+  </testing>
+</testing-report>

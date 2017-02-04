@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170204145303039066897958">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="C15" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.031" mem="13205504"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="7" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.031" mem="13230080"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="7" comment="Должно быть NO" eval-comment="" time="0.031" mem="13357056"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="7" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.031" mem="13246464"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="7" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.015" mem="13217792"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="8" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.031" mem="13266944"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="8" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.031" mem="13209600"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="8" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.015" mem="13221888"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="8" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.031" mem="13234176"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="8" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.015" mem="13193216"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="8" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.031" mem="13201408"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="8" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.031" mem="13275136"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="8" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.031" mem="13357056"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="8" comment="Expected real instead of &quot;&quot;" eval-comment="" time="0.046" mem="13242368"/>
+    </results>
+  </testing>
+</testing-report>

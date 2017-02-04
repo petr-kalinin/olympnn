@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20170204140850024939916206">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="B09" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="javac sol.java " compiler-output="sol.java:2: error: class zad2_2 is public, should be declared in a file named zad2_2.java&#13;&#10;public class zad2_2 {&#13;&#10;       ^&#13;&#10;1 error&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

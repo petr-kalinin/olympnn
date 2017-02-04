@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="38" max="100" outcome="accepted" gtid="20170204141505027252736576">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="B19" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 3.0.0 [2015/11/16] for i386&#13;&#10;Copyright (c) 1993-2015 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;25 lines compiled, 0.1 sec, 31840 bytes code, 1396 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="0" eval-comment="" time="0.000" mem="962560"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="15" eval-comment="" time="0.000" mem="966656"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="10" eval-comment="" time="0.000" mem="966656"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="-22 вместо 2" eval-comment="" time="0.000" mem="966656"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="-23 вместо 1" eval-comment="" time="0.000" mem="962560"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="-23 вместо 12" eval-comment="" time="0.000" mem="966656"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="1" eval-comment="" time="0.000" mem="966656"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="35 вместо 11" eval-comment="" time="0.000" mem="966656"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="23" eval-comment="" time="0.000" mem="966656"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="0" eval-comment="" time="0.000" mem="966656"/>
+      <test id="11" outcome="accepted" points="6" max-points="6" comment="12" eval-comment="" time="0.000" mem="966656"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="-16 вместо 19" eval-comment="" time="0.000" mem="962560"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="0 вместо 9" eval-comment="" time="0.000" mem="962560"/>
+      <test id="14" outcome="accepted" points="6" max-points="6" comment="13" eval-comment="" time="0.000" mem="966656"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="6" comment="-1 вместо 0" eval-comment="" time="0.000" mem="962560"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="6" comment="-8 вместо 16" eval-comment="" time="0.000" mem="962560"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="6" comment="-11 вместо 13" eval-comment="" time="0.000" mem="962560"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="6" comment="-9 вместо 15" eval-comment="" time="0.000" mem="966656"/>
+      <test id="19" outcome="accepted" points="6" max-points="6" comment="13" eval-comment="" time="0.000" mem="962560"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="6" comment="-6 вместо 19" eval-comment="" time="0.000" mem="962560"/>
+    </results>
+  </testing>
+</testing-report>

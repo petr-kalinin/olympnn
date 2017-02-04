@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170204145049037970701938">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="A37" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="круто!" eval-comment="" time="0.031" mem="13299712"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="7" comment="неверная точка" eval-comment="" time="0.031" mem="13312000"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="7" comment="Должно быть NO" eval-comment="" time="0.015" mem="12365824"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="7" comment="Странная первая строка: " eval-comment="" time="0.031" mem="12369920"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="7" comment="Странная первая строка: " eval-comment="" time="0.031" mem="12271616"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: " eval-comment="" time="0.015" mem="12349440"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: " eval-comment="" time="0.015" mem="12300288"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: " eval-comment="" time="0.015" mem="12283904"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: " eval-comment="" time="0.031" mem="12316672"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: " eval-comment="" time="0.015" mem="12312576"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: " eval-comment="" time="0.015" mem="12267520"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: " eval-comment="" time="0.031" mem="12279808"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: " eval-comment="" time="0.046" mem="12390400"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: " eval-comment="" time="0.031" mem="12279808"/>
+    </results>
+  </testing>
+</testing-report>

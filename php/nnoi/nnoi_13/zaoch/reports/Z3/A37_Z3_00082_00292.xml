@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="52" max="100" outcome="accepted" gtid="20170204142238029365376556">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="A37" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3" eval-comment="" time="0.031" mem="13213696"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="12861440"/>
+      <test id="3" outcome="accepted" points="6" max-points="6" comment="9" eval-comment="" time="0.046" mem="13271040"/>
+      <test id="4" outcome="accepted" points="6" max-points="6" comment="36" eval-comment="" time="0.031" mem="13250560"/>
+      <test id="5" outcome="accepted" points="6" max-points="6" comment="42" eval-comment="" time="0.031" mem="13242368"/>
+      <test id="6" outcome="accepted" points="6" max-points="6" comment="49" eval-comment="" time="0.031" mem="13344768"/>
+      <test id="7" outcome="accepted" points="7" max-points="7" comment="102" eval-comment="" time="0.031" mem="13242368"/>
+      <test id="8" outcome="accepted" points="7" max-points="7" comment="152" eval-comment="" time="0.031" mem="13312000"/>
+      <test id="9" outcome="accepted" points="7" max-points="7" comment="154" eval-comment="" time="0.031" mem="13283328"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="12820480"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="12926976"/>
+      <test id="12" outcome="accepted" points="7" max-points="7" comment="645" eval-comment="" time="0.031" mem="13217792"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="7" comment="100001 вместо 0" eval-comment="" time="0.031" mem="13254656"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="7" comment="100001 вместо 0" eval-comment="" time="0.031" mem="13262848"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="12906496"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="7" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="12828672"/>
+    </results>
+  </testing>
+</testing-report>

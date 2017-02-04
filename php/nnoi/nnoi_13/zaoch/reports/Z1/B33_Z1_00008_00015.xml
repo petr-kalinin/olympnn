@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="78" max="100" outcome="accepted" gtid="20170204130833001413052906">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="B33" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="0" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="15" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="10" eval-comment="" time="0.000" mem="1277952"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="-22 вместо 2" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="1" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="12" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="7" outcome="fail" points="0" max-points="5" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\performancecounter.cpp(34) " eval-comment="" time="-1.000" mem="-1"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="11" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="23" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="0" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="11" outcome="accepted" points="6" max-points="6" comment="12" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="12" outcome="accepted" points="6" max-points="6" comment="19" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="13" outcome="accepted" points="6" max-points="6" comment="9" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="14" outcome="accepted" points="6" max-points="6" comment="13" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="15" outcome="accepted" points="6" max-points="6" comment="0" eval-comment="" time="0.000" mem="1265664"/>
+      <test id="16" outcome="accepted" points="6" max-points="6" comment="16" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="6" comment="-11 вместо 13" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="6" comment="-9 вместо 15" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="19" outcome="accepted" points="6" max-points="6" comment="13" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="20" outcome="accepted" points="6" max-points="6" comment="19" eval-comment="" time="0.000" mem="1277952"/>
+    </results>
+  </testing>
+</testing-report>

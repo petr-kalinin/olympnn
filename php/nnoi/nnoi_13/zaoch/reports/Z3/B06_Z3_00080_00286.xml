@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170204142014028797894669">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="B06" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output="sol.cpp: In function 'int main()':&#13;&#10;sol.cpp:23:36: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11&#13;&#10;    if (c == 'C') cows.pos = { j, i };&#13;&#10;                                    ^&#13;&#10;sol.cpp:23:27: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11&#13;&#10;    if (c == 'C') cows.pos = { j, i };&#13;&#10;                           ^&#13;&#10;sol.cpp:24:41: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11&#13;&#10;    else if (c == 'F') john.pos = { j, i };&#13;&#10;                                         ^&#13;&#10;sol.cpp:24:32: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11&#13;&#10;    else if (c == 'F') john.pos = { j, i };&#13;&#10;                                ^&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3" eval-comment="" time="0.000" mem="958464"/>
+      <test id="2" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.045" mem="958464"/>
+      <test id="3" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.045" mem="954368"/>
+      <test id="4" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.045" mem="958464"/>
+      <test id="5" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.060" mem="958464"/>
+      <test id="6" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.045" mem="954368"/>
+      <test id="7" outcome="time-limit-exceeded" points="0" max-points="7" comment="Time limit exceeded" eval-comment="" time="1.045" mem="958464"/>
+      <test id="8" outcome="time-limit-exceeded" points="0" max-points="7" comment="Time limit exceeded" eval-comment="" time="1.045" mem="954368"/>
+      <test id="9" outcome="time-limit-exceeded" points="0" max-points="7" comment="Time limit exceeded" eval-comment="" time="1.045" mem="954368"/>
+      <test id="10" outcome="time-limit-exceeded" points="0" max-points="7" comment="Time limit exceeded" eval-comment="" time="1.045" mem="958464"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="7" comment="Time limit exceeded" eval-comment="" time="1.045" mem="954368"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="7" comment="50 вместо 645" eval-comment="" time="0.000" mem="962560"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="7" comment="Time limit exceeded" eval-comment="" time="1.045" mem="962560"/>
+      <test id="14" outcome="time-limit-exceeded" points="0" max-points="7" comment="Time limit exceeded" eval-comment="" time="1.045" mem="954368"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="7" comment="Time limit exceeded" eval-comment="" time="1.045" mem="958464"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="7" comment="10 вместо 0" eval-comment="" time="0.000" mem="958464"/>
+    </results>
+  </testing>
+</testing-report>

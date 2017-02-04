@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170204141805028397576536">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="A02" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;YES6&quot;" eval-comment="" time="0.031" mem="16998400"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="6" comment="Expected integer instead of &quot;YES2&quot;" eval-comment="" time="0.031" mem="16834560"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="6" comment="Expected integer instead of &quot;YES0&quot;" eval-comment="" time="0.031" mem="16867328"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="6" comment="Expected integer instead of &quot;YES7&quot;" eval-comment="" time="0.046" mem="16908288"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="6" comment="Expected integer instead of &quot;YES10&quot;" eval-comment="" time="0.031" mem="16826368"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="6" comment="Expected integer instead of &quot;YES7&quot;" eval-comment="" time="0.031" mem="16789504"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="7" comment="Expected integer instead of &quot;YES4&quot;" eval-comment="" time="0.031" mem="16814080"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="7" comment="Expected integer instead of &quot;YES0&quot;" eval-comment="" time="0.031" mem="16793600"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="7" comment="Expected integer instead of &quot;YES4&quot;" eval-comment="" time="0.031" mem="16838656"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="7" comment="Expected integer instead of &quot;YES0&quot;" eval-comment="" time="0.031" mem="16789504"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="7" comment="Expected integer instead of &quot;YES6&quot;" eval-comment="" time="0.031" mem="16793600"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="7" comment="Expected integer instead of &quot;YES0&quot;" eval-comment="" time="0.031" mem="16822272"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="7" comment="Expected integer instead of &quot;YES8&quot;" eval-comment="" time="0.031" mem="16781312"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="7" comment="Expected integer instead of &quot;YES7&quot;" eval-comment="" time="0.031" mem="16834560"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="7" comment="Expected integer instead of &quot;YES2&quot;" eval-comment="" time="0.031" mem="16793600"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="7" comment="Expected integer instead of &quot;YES10&quot;" eval-comment="" time="0.031" mem="16842752"/>
+    </results>
+  </testing>
+</testing-report>

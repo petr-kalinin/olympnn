@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20170204114711007836897773">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="C01" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx: In function 'int main()':&#13;&#10;sol.cxx:12:24: error: no matching function for call to 'std::basic_ifstream&lt;char&gt;::close(const char [10])'&#13;&#10;  file.close(&quot;aplusb.in&quot;);&#13;&#10;                        ^&#13;&#10;In file included from sol.cxx:2:0:&#13;&#10;C:/TDM-GCC-32/lib/gcc/mingw32/5.1.0/include/c++/fstream:633:7: note: candidate: void std::basic_ifstream&lt;_CharT, _Traits&gt;::close() [with _CharT = char; _Traits = std::char_traits&lt;char&gt;]&#13;&#10;       close()&#13;&#10;       ^&#13;&#10;C:/TDM-GCC-32/lib/gcc/mingw32/5.1.0/include/c++/fstream:633:7: note:   candidate expects 0 arguments, 1 provided&#13;&#10;sol.cxx:17:26: error: no matching function for call to 'std::basic_ofstream&lt;char&gt;::close(const char [11])'&#13;&#10;  file2.close(&quot;aplusb.out&quot;);&#13;&#10;                          ^&#13;&#10;In file included from sol.cxx:2:0:&#13;&#10;C:/TDM-GCC-32/lib/gcc/mingw32/5.1.0/include/c++/fstream:839:7: note: candidate: void std::basic_ofstream&lt;_CharT, _Traits&gt;::close() [with _CharT = char; _Traits = std::char_traits&lt;char&gt;]&#13;&#10;       close()&#13;&#10;       ^&#13;&#10;C:/TDM-GCC-32/lib/gcc/mingw32/5.1.0/include/c++/fstream:839:7: note:   candidate expects 0 arguments, 1 provided&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

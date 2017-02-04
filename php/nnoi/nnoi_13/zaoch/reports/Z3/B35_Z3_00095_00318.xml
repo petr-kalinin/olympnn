@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170204143507031978623288">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="B35" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="python ..\cscompile.py " compiler-output="Компилятор Microsoft (R) Visual C# версии 1.3.1.60616&#13;&#10;c Корпорация Майкрософт (Microsoft Corporation). Все права защищены.&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3" eval-comment="" time="0.015" mem="9986048"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="6" comment="0 вместо 6" eval-comment="" time="0.015" mem="9936896"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="6" comment="0 вместо 9" eval-comment="" time="0.015" mem="9953280"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="6" comment="0 вместо 36" eval-comment="" time="0.015" mem="9957376"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="6" comment="11 вместо 42" eval-comment="" time="0.015" mem="9908224"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="6" comment="0 вместо 49" eval-comment="" time="0.015" mem="10027008"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="7" comment="0 вместо 102" eval-comment="" time="0.015" mem="10002432"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="7" comment="0 вместо 152" eval-comment="" time="0.015" mem="9986048"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="7" comment="0 вместо 154" eval-comment="" time="0.015" mem="10006528"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="7" comment="0 вместо 589" eval-comment="" time="0.015" mem="9936896"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="7" comment="0 вместо 643" eval-comment="" time="0.015" mem="10002432"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="7" comment="0 вместо 645" eval-comment="" time="0.015" mem="9912320"/>
+      <test id="13" outcome="accepted-not-counted" points="0" max-points="7" comment="0" eval-comment="Тест не зачтен" time="0.015" mem="9957376"/>
+      <test id="14" outcome="accepted-not-counted" points="0" max-points="7" comment="0" eval-comment="Тест не зачтен" time="0.015" mem="9969664"/>
+      <test id="15" outcome="accepted-not-counted" points="0" max-points="7" comment="0" eval-comment="Тест не зачтен" time="0.015" mem="9900032"/>
+      <test id="16" outcome="accepted-not-counted" points="0" max-points="7" comment="0" eval-comment="Тест не зачтен" time="0.015" mem="9912320"/>
+    </results>
+  </testing>
+</testing-report>

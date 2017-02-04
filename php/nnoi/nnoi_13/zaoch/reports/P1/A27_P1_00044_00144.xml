@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20170204121418014526452803">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="A27" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;sol.cpp(11): error C3873: '0xbb': this character is not allowed as a first character of an identifier&#13;&#10;sol.cpp(11): error C2146: syntax error: missing ';' before identifier '&gt;'&#13;&#10;sol.cpp(11): error C2065: '&gt;': undeclared identifier&#13;&#10;sol.cpp(11): error C2146: syntax error: missing ';' before identifier 'a'&#13;&#10;sol.cpp(11): error C2146: syntax error: missing ';' before identifier 'b'&#13;&#10;sol.cpp(14): error C3873: '0xab': this character is not allowed as a first character of an identifier&#13;&#10;sol.cpp(14): error C2146: syntax error: missing ';' before identifier '&lt;'&#13;&#10;sol.cpp(14): error C2065: '&lt;': undeclared identifier&#13;&#10;sol.cpp(14): error C2146: syntax error: missing ';' before identifier 'sum'&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

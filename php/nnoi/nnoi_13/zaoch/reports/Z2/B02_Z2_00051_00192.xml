@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="15" max="100" outcome="accepted" gtid="20170204135127019321757667">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="B02" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="1-ое число: 14234 вместо 4235" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -9999 вместо 2" eval-comment="" time="0.031" mem="4886528"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -9998 вместо 1" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -9997 вместо 2" eval-comment="" time="0.031" mem="4886528"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -9996 вместо 3" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -9900 вместо 99" eval-comment="" time="0.031" mem="4886528"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -8762 вместо 1237" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -4347 вместо 5652" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 10002 вместо 1" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -9963 вместо 36" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -9993 вместо 6" eval-comment="" time="0.015" mem="4886528"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -9992 вместо 7" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -9991 вместо 8" eval-comment="" time="0.046" mem="4882432"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -9946 вместо 53" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="N=2" eval-comment="" time="0.031" mem="4886528"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="N=2" eval-comment="" time="0.031" mem="4886528"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.046" mem="4882432"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 16999 вместо 7000" eval-comment="" time="0.046" mem="4882432"/>
+      <test id="21" outcome="accepted" points="5" max-points="5" comment="N=3" eval-comment="" time="0.031" mem="4882432"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4882432"/>
+    </results>
+  </testing>
+</testing-report>

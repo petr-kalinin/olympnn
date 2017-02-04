@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170204143828033663338506">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="A37" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="круто!" eval-comment="" time="0.031" mem="13283328"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="7" comment="неверная точка" eval-comment="" time="0.031" mem="13303808"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="7" comment="Должно быть NO" eval-comment="" time="0.015" mem="13266944"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="7" comment="неверная точка" eval-comment="" time="0.031" mem="13271040"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="7" comment="неверная точка" eval-comment="" time="0.031" mem="13271040"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="8" comment="неверная точка" eval-comment="" time="0.015" mem="13246464"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="8" comment="неверная точка" eval-comment="" time="0.015" mem="13209600"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="8" comment="неверная точка" eval-comment="" time="0.015" mem="13262848"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="8" comment="неверная точка" eval-comment="" time="0.031" mem="13271040"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="8" comment="неверная точка" eval-comment="" time="0.015" mem="13250560"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="8" comment="неверная точка" eval-comment="" time="0.031" mem="13217792"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="8" comment="неверная точка" eval-comment="" time="0.031" mem="13209600"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="8" comment="неверная точка" eval-comment="" time="0.031" mem="13369344"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="8" comment="неверная точка" eval-comment="" time="0.031" mem="13295616"/>
+    </results>
+  </testing>
+</testing-report>

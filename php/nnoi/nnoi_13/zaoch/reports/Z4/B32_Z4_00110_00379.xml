@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170204145054038085276919">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="B32" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Странная первая строка: YES 1 1" eval-comment="" time="0.046" mem="20480000"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="7" comment="Странная первая строка: YES 1 1" eval-comment="" time="0.031" mem="20434944"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="7" comment="Должно быть NO" eval-comment="" time="0.031" mem="20533248"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="7" comment="Странная первая строка: YES 3 3" eval-comment="" time="0.031" mem="20439040"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="7" comment="Странная первая строка: YES 99 99" eval-comment="" time="0.031" mem="20668416"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: YES 999 999" eval-comment="" time="0.046" mem="22384640"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: YES 2 5" eval-comment="" time="0.031" mem="20508672"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: YES 3 3" eval-comment="" time="0.031" mem="20475904"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: YES 5 3" eval-comment="" time="0.031" mem="20418560"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: YES 1 2" eval-comment="" time="0.031" mem="20504576"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: YES 245 245" eval-comment="" time="0.031" mem="20434944"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: YES 2495 2495" eval-comment="" time="0.031" mem="20692992"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: YES 249995000 249995000" eval-comment="" time="0.202" mem="25690112"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="8" comment="Странная первая строка: YES 249995000 249995000" eval-comment="" time="0.140" mem="25837568"/>
+    </results>
+  </testing>
+</testing-report>

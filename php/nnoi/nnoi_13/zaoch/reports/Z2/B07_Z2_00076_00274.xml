@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="76" max="100" outcome="accepted" gtid="20170204141633027565209613">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="B07" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=4" eval-comment="" time="0.031" mem="13217792"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="N=2" eval-comment="" time="0.031" mem="13471744"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="N=3" eval-comment="" time="0.015" mem="13213696"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="N=3" eval-comment="" time="0.031" mem="13283328"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="N=3" eval-comment="" time="0.015" mem="13369344"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="2-ое число: 10100 вместо 101" eval-comment="" time="0.031" mem="13238272"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="N=3" eval-comment="" time="0.031" mem="13201408"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="N=3" eval-comment="" time="0.031" mem="13197312"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="N=3" eval-comment="" time="0.031" mem="13225984"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="N=3" eval-comment="" time="0.031" mem="13205504"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="13209600"/>
+      <test id="12" outcome="accepted" points="5" max-points="5" comment="N=3" eval-comment="" time="0.031" mem="13197312"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="N=3" eval-comment="" time="0.046" mem="13246464"/>
+      <test id="14" outcome="accepted" points="5" max-points="5" comment="N=3" eval-comment="" time="0.000" mem="13254656"/>
+      <test id="15" outcome="accepted" points="5" max-points="5" comment="N=3" eval-comment="" time="0.031" mem="13225984"/>
+      <test id="16" outcome="accepted" points="5" max-points="5" comment="N=4" eval-comment="" time="0.031" mem="13234176"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="N=2" eval-comment="" time="0.031" mem="13307904"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="N=2" eval-comment="" time="0.031" mem="13266944"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="13254656"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="3-ое число: 27000 вместо 17001" eval-comment="" time="0.031" mem="13230080"/>
+      <test id="21" outcome="accepted" points="5" max-points="5" comment="N=3" eval-comment="" time="0.031" mem="13246464"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="3-ое число: 23905620 вместо 23895621" eval-comment="" time="0.031" mem="13213696"/>
+    </results>
+  </testing>
+</testing-report>

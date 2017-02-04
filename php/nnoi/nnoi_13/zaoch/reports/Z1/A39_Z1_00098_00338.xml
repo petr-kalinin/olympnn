@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="83" max="100" outcome="accepted" gtid="20170204143843033931248327">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="A39" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.00.24215.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="0" eval-comment="" time="0.000" mem="561152"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="15" eval-comment="" time="0.000" mem="552960"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="10" eval-comment="" time="0.000" mem="552960"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.000" mem="548864"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="1" eval-comment="" time="0.000" mem="552960"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="12" eval-comment="" time="0.000" mem="557056"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="1" eval-comment="" time="0.000" mem="552960"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="11" eval-comment="" time="0.000" mem="552960"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="23" eval-comment="" time="0.000" mem="552960"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="0" eval-comment="" time="0.000" mem="552960"/>
+      <test id="11" outcome="accepted" points="6" max-points="6" comment="12" eval-comment="" time="0.000" mem="557056"/>
+      <test id="12" outcome="accepted" points="6" max-points="6" comment="19" eval-comment="" time="0.000" mem="552960"/>
+      <test id="13" outcome="accepted" points="6" max-points="6" comment="9" eval-comment="" time="0.000" mem="552960"/>
+      <test id="14" outcome="accepted" points="6" max-points="6" comment="13" eval-comment="" time="0.000" mem="557056"/>
+      <test id="15" outcome="accepted" points="6" max-points="6" comment="0" eval-comment="" time="0.000" mem="557056"/>
+      <test id="16" outcome="accepted" points="6" max-points="6" comment="16" eval-comment="" time="0.000" mem="561152"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="6" comment="Unexpected end of file - integer expected" eval-comment="" time="0.000" mem="557056"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="6" comment="Unexpected end of file - integer expected" eval-comment="" time="0.000" mem="552960"/>
+      <test id="19" outcome="accepted" points="6" max-points="6" comment="13" eval-comment="" time="0.000" mem="552960"/>
+      <test id="20" outcome="accepted" points="6" max-points="6" comment="19" eval-comment="" time="0.000" mem="552960"/>
+    </results>
+  </testing>
+</testing-report>

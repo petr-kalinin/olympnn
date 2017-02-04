@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="15" max="100" outcome="accepted" gtid="20170204144316035905927825">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="A36" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=4" eval-comment="" time="0.031" mem="13254656"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 0 вместо 2" eval-comment="" time="0.031" mem="13262848"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 0 вместо 1" eval-comment="" time="0.031" mem="13291520"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 0 вместо 2" eval-comment="" time="0.031" mem="13340672"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 0 вместо 3" eval-comment="" time="0.031" mem="13275136"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 0 вместо 99" eval-comment="" time="0.031" mem="13361152"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 0 вместо 1237" eval-comment="" time="0.015" mem="13266944"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 0 вместо 5652" eval-comment="" time="0.031" mem="13242368"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="2-ое число: 10000 вместо 10002" eval-comment="" time="0.031" mem="13299712"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 0 вместо 36" eval-comment="" time="0.031" mem="13279232"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 9998100 вместо 99980100" eval-comment="" time="0.031" mem="13246464"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 0 вместо 6" eval-comment="" time="0.031" mem="13258752"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 0 вместо 7" eval-comment="" time="0.031" mem="13488128"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 0 вместо 8" eval-comment="" time="0.031" mem="13225984"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 0 вместо 53" eval-comment="" time="0.031" mem="13266944"/>
+      <test id="16" outcome="accepted" points="5" max-points="5" comment="N=4" eval-comment="" time="0.031" mem="13238272"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 0 вместо 9999" eval-comment="" time="0.031" mem="13291520"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 99990 вместо 99990000" eval-comment="" time="0.031" mem="13258752"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 99980 вместо 99980000" eval-comment="" time="0.031" mem="13336576"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="N=4" eval-comment="" time="0.031" mem="13344768"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 0 вместо 20000" eval-comment="" time="0.031" mem="13271040"/>
+      <test id="22" outcome="accepted" points="5" max-points="5" comment="N=4" eval-comment="" time="0.031" mem="13225984"/>
+    </results>
+  </testing>
+</testing-report>

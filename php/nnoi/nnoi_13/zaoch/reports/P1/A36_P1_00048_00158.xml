@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20170204121809015974071385">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="A36" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="python ..\cscompile.py " compiler-output="Компилятор Microsoft (R) Visual C# версии 1.3.1.60616&#13;&#10;c Корпорация Майкрософт (Microsoft Corporation). Все права защищены.&#13;&#10;&#13;&#10;sol.cs(9,9): error CS0103: Имя &quot;ReadLine&quot; не существует в текущем контексте.&#13;&#10;sol.cs(9,18): error CS0165: Использование локальной переменной &quot;n&quot;, которой не присвоено значение.&#13;&#10;sol.cs(9,21): error CS0165: Использование локальной переменной &quot;m&quot;, которой не присвоено значение.&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>
