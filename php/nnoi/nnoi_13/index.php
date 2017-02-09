@@ -14,12 +14,13 @@ XIII Нижегородская городская олимпиада школьников по информатике им. В.&nbsp;Д. 
 <ul>
 <li><a href="nnoi2017_prikaz.pdf">Приказ о проведении олимпиады</a></li>
 </ul>
-<h2>Отборочный тур</h2>
+<h2>Отбор</h2>
 <ul>
 <li><a href="zaoch.php">Информация о рассмотрении заявок на участие</a></li>
 <li><a href="zaoch/results.php">Предварительные результаты отборочного тура</a></li>
 <li><a href="zaoch/tests.7z">Тесты к отборочному туру</a></li>
 <li><a href="zaoch/outputs_all.7z">Протоколы тестирования отборочного тура</a></li>
+<li><a href="participants.php">Итоговые списки участников основного тура</a></li>
 </ul>
 <div class="logos">
 <a href="http://yandex.ru"><img src="https://avatars.mds.yandex.net/get-bunker/60661/5ec62cb755193c37a6ec19a826b3891780eead2a/orig"/></a>
