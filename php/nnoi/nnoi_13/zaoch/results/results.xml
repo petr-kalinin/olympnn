@@ -32,14 +32,14 @@
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="A05" _location="0">
-      <problem id="Z1" points="83" minus="0" outcome="accepted"/>
+      <problem id="Z1" points="0" minus="0" outcome="accepted"/>
       <problem id="Z2" points="0" minus="0" outcome="accepted"/>
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="A06" _location="0">
-      <problem id="Z1" points="100" minus="0" outcome="accepted"/>
-      <problem id="Z2" points="95" minus="0" outcome="accepted"/>
+      <problem id="Z1" points="0" minus="0" outcome="accepted"/>
+      <problem id="Z2" points="0" minus="0" outcome="accepted"/>
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
@@ -86,8 +86,8 @@
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="A14" _location="0">
-      <problem id="Z1" points="83" minus="0" outcome="accepted"/>
-      <problem id="Z2" points="15" minus="0" outcome="accepted"/>
+      <problem id="Z1" points="0" minus="0" outcome="accepted"/>
+      <problem id="Z2" points="0" minus="0" outcome="accepted"/>
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
@@ -116,8 +116,8 @@
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="A19" _location="0">
-      <problem id="Z1" points="100" minus="0" outcome="accepted"/>
-      <problem id="Z2" points="100" minus="0" outcome="accepted"/>
+      <problem id="Z1" points="0" minus="0" outcome="accepted"/>
+      <problem id="Z2" points="0" minus="0" outcome="accepted"/>
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
@@ -164,7 +164,7 @@
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="A27" _location="0">
-      <problem id="Z1" points="83" minus="0" outcome="accepted"/>
+      <problem id="Z1" points="0" minus="0" outcome="accepted"/>
       <problem id="Z2" points="0" minus="0" outcome="accepted"/>
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
@@ -218,8 +218,8 @@
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="A36" _location="0">
-      <problem id="Z1" points="83" minus="0" outcome="accepted"/>
-      <problem id="Z2" points="15" minus="0" outcome="accepted"/>
+      <problem id="Z1" points="0" minus="0" outcome="accepted"/>
+      <problem id="Z2" points="0" minus="0" outcome="accepted"/>
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
