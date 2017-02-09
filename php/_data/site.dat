@@ -117,6 +117,7 @@
     _index=index.php
     Заявки=zaoch.php
     Отборочный тур=zaoch/results.php
+    Участники=participants.php
   }
   Книга={
     _dir=../book/
