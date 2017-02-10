@@ -118,6 +118,7 @@
     Заявки=zaoch.php
     Отборочный тур=zaoch/results.php
     Участники=participants.php
+    Основной тур=info.php
   }
   Книга={
     _dir=../book/
