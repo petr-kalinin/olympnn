@@ -18,7 +18,7 @@ if (isset($_GET["prob"])and(isset($_GET["contestant"]))){
    if (isset($_GET["id"])and(isset($_GET["time"]))) {
       $time=(int)$_GET["time"];
       $id=(int)$_GET["id"];
-      $fname=sprintf("reports/%s/%s_%s_%04d_%04d.xml",$prob,$boy,$prob,$time,$id);
+      $fname=sprintf("reports/%s/%s_%s_%05d_%05d.xml",$prob,$boy,$prob,$time,$id);
       if (file_exists($fname))
         ije_showreport($fname,"results/addinfo.txt","results/results.xml");
       else writeln("Протокол тестирования не найден");

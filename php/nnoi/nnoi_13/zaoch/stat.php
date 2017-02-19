@@ -10,7 +10,7 @@ startonn("/Город/NNOI XIII/Отборочный тур","Статистика отборочного тура XIII Ниж
 if (isset($_GET["prob"])) {
    loadxml("results/results.xml",$results);
    if (($_GET["prob"]=='all')or isset($results["results"]["problems"][$_GET["prob"]]))
-      ije_showstat("nnoi/nnoi_12/zaoch/results/results.xml",$_GET["prob"]);
+      ije_showstat("nnoi/nnoi_13/zaoch/results/results.xml",$_GET["prob"]);
    else writeln("Задача ".htmlspecialchars($_GET["prob"])." не найдена...");
 } else writeln("Задача не найдена...");
 endonn();
