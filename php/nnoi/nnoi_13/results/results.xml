@@ -685,7 +685,7 @@
       <problem id="M6" points="21" minus="0" outcome="accepted"/>
       <problem id="M7" points="0" minus="0" outcome="accepted"/>
     </contestant>
-    <contestant id="MAX" _location="1">
+    <contestant id="MAX" _location="-1">
       <problem id="M1" points="200" minus="0" outcome="accepted"/>
       <problem id="M2" points="100" minus="0" outcome="accepted"/>
       <problem id="M3" points="100" minus="0" outcome="accepted"/>
