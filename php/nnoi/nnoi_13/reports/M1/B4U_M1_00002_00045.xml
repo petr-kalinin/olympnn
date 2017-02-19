@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="200" max="200" outcome="accepted" gtid="20170218113015004497833826">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="B4U" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="python ..\cscompile.py " compiler-output="Компилятор Microsoft (R) Visual C# версии 1.3.1.60616&#13;&#10;c Корпорация Майкрософт (Microsoft Corporation). Все права защищены.&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="4" eval-comment="" time="0.015" mem="9502720"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-2" eval-comment="" time="0.015" mem="9555968"/>
+      <test id="3" outcome="accepted" points="40" max-points="40" comment="8" eval-comment="" time="0.015" mem="9547776"/>
+      <test id="4" outcome="accepted" points="40" max-points="40" comment="1110" eval-comment="" time="0.015" mem="9523200"/>
+      <test id="5" outcome="accepted" points="40" max-points="40" comment="2000" eval-comment="" time="0.015" mem="9510912"/>
+      <test id="6" outcome="accepted" points="40" max-points="40" comment="-2000" eval-comment="" time="0.015" mem="9490432"/>
+      <test id="7" outcome="accepted" points="40" max-points="40" comment="0" eval-comment="" time="0.015" mem="9506816"/>
+    </results>
+  </testing>
+</testing-report>

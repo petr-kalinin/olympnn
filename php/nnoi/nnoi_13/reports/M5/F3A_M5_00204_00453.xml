@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="9" max="100" outcome="accepted" gtid="20170218143911012313317453">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="F3A" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="participant's answer is worse: pa = 140, ja = 79, n = 5" eval-comment="" time="0.031" mem="4907008"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="lack of coins on day 2" eval-comment="" time="0.031" mem="4907008"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="0" comment="participant's answer is worse: pa = 529, ja = 230, n = 5" eval-comment="" time="0.031" mem="4911104"/>
+      <test id="4" outcome="accepted" points="2" max-points="2" comment="answer is 353, n = 5" eval-comment="" time="0.031" mem="4907008"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 191, ja = 166, n = 14" eval-comment="" time="0.031" mem="4911104"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="answer is 102, n = 1" eval-comment="" time="0.031" mem="4911104"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="answer is 0, n = 1" eval-comment="" time="0.031" mem="4907008"/>
+      <test id="8" outcome="accepted" points="2" max-points="2" comment="answer is 4900000, n = 1" eval-comment="" time="0.031" mem="4907008"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 14458, ja = 6265, n = 20" eval-comment="" time="0.031" mem="4907008"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 21535056, ja = 3709, n = 20" eval-comment="" time="0.031" mem="4907008"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 17126732, ja = 3746, n = 20" eval-comment="" time="0.031" mem="4907008"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 2535, ja = 255, n = 20" eval-comment="" time="0.031" mem="4907008"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1026, ja = 659, n = 20" eval-comment="" time="0.031" mem="4907008"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 99997750, ja = 99996350, n = 40" eval-comment="" time="0.031" mem="4911104"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 55435, ja = 26974, n = 50" eval-comment="" time="0.031" mem="4939776"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="lack of coins on day 163" eval-comment="" time="0.031" mem="4972544"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 2633106, ja = 321678, n = 500" eval-comment="" time="0.031" mem="5074944"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="lack of coins on day 400" eval-comment="" time="0.031" mem="5025792"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 126062912512, certificate's dissatisfaction is 123384662938" eval-comment="" time="0.904" mem="16838656"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 76436510681, certificate's dissatisfaction is 74332004915" eval-comment="" time="0.826" mem="13811712"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="2" comment="lack of coins on day 2498" eval-comment="" time="0.124" mem="6619136"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="2" comment="lack of coins on day 29" eval-comment="" time="0.031" mem="5042176"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="2" comment="lack of coins on day 151" eval-comment="" time="0.046" mem="5042176"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="2" comment="lack of coins on day 357" eval-comment="" time="0.031" mem="5042176"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="2" comment="lack of coins on day 65" eval-comment="" time="0.031" mem="5042176"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1249967900, ja = 1249950500, n = 500" eval-comment="" time="0.031" mem="5046272"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 393579217, certificate's dissatisfaction is 393577336" eval-comment="" time="0.031" mem="5042176"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1063800000, ja = 1025200000, n = 499" eval-comment="" time="0.046" mem="5046272"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="2" comment="lack of coins on day 97" eval-comment="" time="0.031" mem="5033984"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 4781935, certificate's dissatisfaction is 4576510" eval-comment="" time="0.031" mem="5046272"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 404500, certificate's dissatisfaction is 4045" eval-comment="" time="0.031" mem="5033984"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="1" comment="lack of coins on day 11" eval-comment="" time="0.031" mem="5095424"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="1" comment="lack of coins on day 308" eval-comment="" time="0.046" mem="5181440"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="1" comment="lack of coins on day 107" eval-comment="" time="0.046" mem="5545984"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 6473535502, certificate's dissatisfaction is 6303870886" eval-comment="" time="0.078" mem="6025216"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 6806892, certificate's dissatisfaction is 6670470" eval-comment="" time="0.436" mem="10104832"/>
+      <test id="37" outcome="wrong-answer" points="0" max-points="2" comment="lack of coins on day 729" eval-comment="" time="0.624" mem="13328384"/>
+      <test id="38" outcome="wrong-answer" points="0" max-points="3" comment="lack of coins on day 506" eval-comment="" time="0.858" mem="15360000"/>
+      <test id="39" outcome="wrong-answer" points="0" max-points="1" comment="participant's answer is worse: pa = 25894061, ja = 1705764, n = 99998" eval-comment="" time="0.795" mem="12402688"/>
+      <test id="40" outcome="wrong-answer" points="0" max-points="3" comment="lack of coins on day 138" eval-comment="" time="0.889" mem="16838656"/>
+      <test id="41" outcome="wrong-answer" points="0" max-points="1" comment="participant's answer is worse: pa = 45019491882, ja = 4911728858, n = 99236" eval-comment="" time="0.795" mem="13897728"/>
+      <test id="42" outcome="wrong-answer" points="0" max-points="3" comment="participant's answer is worse: pa = 94831126800, ja = 36691087983, n = 100000" eval-comment="" time="0.795" mem="14045184"/>
+      <test id="43" outcome="wrong-answer" points="0" max-points="3" comment="lack of coins on day 236" eval-comment="" time="0.826" mem="13926400"/>
+      <test id="44" outcome="wrong-answer" points="0" max-points="3" comment="lack of coins on day 32" eval-comment="" time="0.858" mem="13615104"/>
+      <test id="45" outcome="wrong-answer" points="0" max-points="3" comment="lack of coins on day 65" eval-comment="" time="0.826" mem="13856768"/>
+      <test id="46" outcome="wrong-answer" points="0" max-points="1" comment="lack of coins on day 14" eval-comment="" time="0.842" mem="13680640"/>
+      <test id="47" outcome="wrong-answer" points="0" max-points="3" comment="participant's answer is worse: pa = 249993746250, ja = 249989999400, n = 99999" eval-comment="" time="0.842" mem="15130624"/>
+      <test id="48" outcome="wrong-answer" points="0" max-points="3" comment="participant's answer is worse: pa = 237554809600, ja = 224977368550, n = 100000" eval-comment="" time="0.842" mem="15077376"/>
+      <test id="49" outcome="wrong-answer" points="0" max-points="3" comment="participant's answer is worse: pa = 216220817097, ja = 195949574487, n = 92391" eval-comment="" time="0.764" mem="15585280"/>
+      <test id="50" outcome="wrong-answer" points="0" max-points="3" comment="lack of coins on day 18449" eval-comment="" time="0.639" mem="11280384"/>
+      <test id="51" outcome="wrong-answer" points="0" max-points="1" comment="participant's answer is worse: pa = 49935977, ja = 49447658, n = 100000" eval-comment="" time="0.795" mem="16822272"/>
+      <test id="52" outcome="accepted" points="1" max-points="1" comment="answer is 0, n = 100000" eval-comment="" time="0.842" mem="17088512"/>
+      <test id="53" outcome="wrong-answer" points="0" max-points="1" comment="participant's answer is worse: pa = 4901380011, ja = 55333080, n = 100000" eval-comment="" time="0.811" mem="14020608"/>
+    </results>
+  </testing>
+</testing-report>

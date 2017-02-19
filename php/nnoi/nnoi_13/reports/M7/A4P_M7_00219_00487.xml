@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="18" max="100" outcome="accepted" gtid="20170218145406015764650114">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="A4P" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="sizes of three parts: 5" eval-comment="" time="0.031" mem="21213184"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 no solution" eval-comment="" time="0.015" mem="21196800"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20209664"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="sizes of three parts: 1" eval-comment="" time="0.031" mem="21286912"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="sizes of three parts: 5" eval-comment="" time="0.015" mem="21368832"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20230144"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20254720"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20238336"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: -23 (root 3417) 11 (root 2926) 3 (root 253)" eval-comment="" time="0.031" mem="22896640"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 6 (root 11776) 0 (root 8063) 0 (root 616)" eval-comment="" time="0.031" mem="23298048"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="23306240"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="22257664"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20344832"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20762624"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="22020096"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="22323200"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="22421504"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="-1 no solution" eval-comment="" time="0.062" mem="23306240"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.140" mem="22347776"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.655" mem="22355968"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.842" mem="22392832"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.998" mem="22331392"/>
+      <test id="23" outcome="accepted" points="3" max-points="3" comment="-1 no solution" eval-comment="" time="0.031" mem="23273472"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 9 (root 65052) 6 (root 56530) -6 (root 72387)" eval-comment="" time="0.312" mem="23355392"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="23363584"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="23351296"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="-1 no solution" eval-comment="" time="0.046" mem="23285760"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="23351296"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="23392256"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="23359488"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.029" mem="22290432"/>
+      <test id="32" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="23330816"/>
+    </results>
+  </testing>
+</testing-report>

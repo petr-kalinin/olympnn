@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218151136020414578046">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="B4U" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="python ..\cscompile.py " compiler-output="Компилятор Microsoft (R) Visual C# версии 1.3.1.60616&#13;&#10;c Корпорация Майкрософт (Microsoft Corporation). Все права защищены.&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="9555968"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 no solution" eval-comment="" time="0.015" mem="9633792"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="9572352"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="9576448"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="9584640"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="9555968"/>
+      <test id="7" outcome="accepted-not-counted" points="0" max-points="4" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.015" mem="9584640"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="9564160"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="11100160"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="11616256"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.249" mem="14761984"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.530" mem="22835200"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="9699328"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="9814016"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="11071488"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.015" mem="11620352"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.031" mem="11714560"/>
+      <test id="18" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.031" mem="11923456"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.078" mem="12611584"/>
+      <test id="20" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.312" mem="19910656"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.436" mem="21594112"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.483" mem="22777856"/>
+      <test id="23" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.031" mem="11689984"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.062" mem="12406784"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.343" mem="19615744"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.483" mem="22007808"/>
+      <test id="27" outcome="accepted-not-counted" points="0" max-points="4" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.031" mem="11796480"/>
+      <test id="28" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.218" mem="14864384"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.499" mem="21958656"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.530" mem="22798336"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.546" mem="22794240"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.514" mem="22781952"/>
+    </results>
+  </testing>
+</testing-report>

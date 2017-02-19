@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="18" max="100" outcome="accepted" gtid="20170218155938012942538966">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="B1B" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer is 79, n = 5" eval-comment="" time="0.000" mem="9302016"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer is 150, n = 3" eval-comment="" time="0.031" mem="9302016"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="answer is 230, n = 5" eval-comment="" time="0.000" mem="9302016"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 788, ja = 353, n = 5" eval-comment="" time="0.000" mem="9302016"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 182, ja = 166, n = 14" eval-comment="" time="0.000" mem="9318400"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="answer is 102, n = 1" eval-comment="" time="0.000" mem="9306112"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="answer is 0, n = 1" eval-comment="" time="0.000" mem="9302016"/>
+      <test id="8" outcome="accepted" points="2" max-points="2" comment="answer is 4900000, n = 1" eval-comment="" time="0.000" mem="9302016"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 7004, ja = 6265, n = 20" eval-comment="" time="0.000" mem="9318400"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1239475, ja = 3709, n = 20" eval-comment="" time="0.000" mem="9322496"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 4149928, ja = 3746, n = 20" eval-comment="" time="0.000" mem="9326592"/>
+      <test id="12" outcome="accepted" points="2" max-points="2" comment="answer is 255, n = 20" eval-comment="" time="0.015" mem="9334784"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 706, ja = 659, n = 20" eval-comment="" time="0.000" mem="9334784"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 104996250, ja = 99996350, n = 40" eval-comment="" time="0.000" mem="9334784"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 29049, ja = 26974, n = 50" eval-comment="" time="0.000" mem="9449472"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 568938, ja = 567902, n = 184" eval-comment="" time="0.031" mem="10784768"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 354753, ja = 321678, n = 500" eval-comment="" time="0.171" mem="26771456"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1511347, ja = 1501555, n = 437" eval-comment="" time="0.062" mem="17235968"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="1" comment="Time limit exceeded" eval-comment="" time="1.045" mem="147193856"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="1.060" mem="148635648"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="1.045" mem="163733504"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 2177399, ja = 2175252, n = 500" eval-comment="" time="0.046" mem="12419072"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1672294, ja = 1293145, n = 500" eval-comment="" time="0.093" mem="18747392"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 6968784, ja = 213751, n = 500" eval-comment="" time="0.046" mem="14225408"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 12449339, ja = 6321506, n = 500" eval-comment="" time="0.062" mem="14086144"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1254950450, ja = 1249950500, n = 500" eval-comment="" time="0.046" mem="14258176"/>
+      <test id="27" outcome="accepted" points="2" max-points="2" comment="answer is 0, n = 500" eval-comment="" time="0.156" mem="28565504"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1025500000, ja = 1025200000, n = 499" eval-comment="" time="0.109" mem="21704704"/>
+      <test id="29" outcome="accepted" points="2" max-points="2" comment="answer is 1123674, n = 478" eval-comment="" time="0.109" mem="20234240"/>
+      <test id="30" outcome="accepted" points="2" max-points="2" comment="answer is 10093, n = 499" eval-comment="" time="0.156" mem="28635136"/>
+      <test id="31" outcome="accepted" points="2" max-points="2" comment="answer is 0, n = 478" eval-comment="" time="0.140" mem="26800128"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="1" comment="participant's answer is worse: pa = 32354, ja = 32215, n = 700" eval-comment="" time="0.078" mem="18411520"/>
+      <test id="33" outcome="accepted" points="1" max-points="1" comment="answer is 327836912, n = 1000" eval-comment="" time="0.312" mem="48951296"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="1" comment="Time limit exceeded" eval-comment="" time="1.045" mem="164065280"/>
+      <test id="35" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="1.060" mem="157638656"/>
+      <test id="36" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="1.060" mem="160731136"/>
+      <test id="37" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="1.045" mem="147308544"/>
+      <test id="38" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="151834624"/>
+      <test id="39" outcome="time-limit-exceeded" points="0" max-points="1" comment="Time limit exceeded" eval-comment="" time="1.045" mem="149094400"/>
+      <test id="40" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="153747456"/>
+      <test id="41" outcome="time-limit-exceeded" points="0" max-points="1" comment="Time limit exceeded" eval-comment="" time="1.060" mem="154931200"/>
+      <test id="42" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="154472448"/>
+      <test id="43" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="155189248"/>
+      <test id="44" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="150327296"/>
+      <test id="45" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="150237184"/>
+      <test id="46" outcome="time-limit-exceeded" points="0" max-points="1" comment="Time limit exceeded" eval-comment="" time="1.060" mem="153735168"/>
+      <test id="47" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="154112000"/>
+      <test id="48" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="154959872"/>
+      <test id="49" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="149848064"/>
+      <test id="50" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="153714688"/>
+      <test id="51" outcome="time-limit-exceeded" points="0" max-points="1" comment="Time limit exceeded" eval-comment="" time="1.060" mem="144457728"/>
+      <test id="52" outcome="accepted" points="1" max-points="1" comment="answer is 0, n = 100000" eval-comment="" time="0.296" mem="18997248"/>
+      <test id="53" outcome="time-limit-exceeded" points="0" max-points="1" comment="Time limit exceeded" eval-comment="" time="1.045" mem="149422080"/>
+    </results>
+  </testing>
+</testing-report>

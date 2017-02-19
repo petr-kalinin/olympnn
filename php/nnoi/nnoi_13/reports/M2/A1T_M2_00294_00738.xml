@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218160953017860774974">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="A1T" time-limit="3000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Integer 34 violates the range [-1, 6]" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="0" comment="Integer 11 violates the range [-1, 1]" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Integer 11 violates the range [-1, 3]" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Integer 2219 violates the range [-1, 22]" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.000" mem="1286144"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Integer 1818 violates the range [-1, 30]" eval-comment="" time="0.000" mem="1265664"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Integer 6134 violates the range [-1, 142]" eval-comment="" time="0.000" mem="1286144"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Integer 24193 violates the range [-1, 281]" eval-comment="" time="0.000" mem="1286144"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Integer 234200 violates the range [-1, 391]" eval-comment="" time="0.000" mem="1306624"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Integer 69230 violates the range [-1, 590]" eval-comment="" time="0.000" mem="1310720"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.000" mem="1560576"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.000" mem="2048000"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Integer 788596 violates the range [-1, 2810]" eval-comment="" time="0.000" mem="1454080"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.171" mem="16269312"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.171" mem="16429056"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="Integer 43685457 violates the range [-1, 7182]" eval-comment="" time="0.015" mem="1724416"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="2" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.296" mem="38285312"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Integer 600223 violates the range [-1, 1568]" eval-comment="" time="0.000" mem="1654784"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="2" comment="Integer 1874734850 violates the range [-1, 41527]" eval-comment="" time="0.109" mem="4648960"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="2" comment="Expected int32, but &quot;433092112629&quot; found" eval-comment="" time="1.918" mem="26648576"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="2" comment="Expected int32, but &quot;114303870817&quot; found" eval-comment="" time="0.686" mem="32919552"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="2" comment="Expected int32, but &quot;193848144784&quot; found" eval-comment="" time="0.920" mem="16912384"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="2" comment="Integer 1332552547 violates the range [-1, 215279]" eval-comment="" time="0.780" mem="24023040"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;69441123773&quot; found" eval-comment="" time="0.483" mem="18792448"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;96640130301&quot; found" eval-comment="" time="0.514" mem="12324864"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;80401317461&quot; found" eval-comment="" time="0.655" mem="27832320"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;374613209463&quot; found" eval-comment="" time="2.028" mem="45666304"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.499" mem="39923712"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;558817594951&quot; found" eval-comment="" time="2.917" mem="61829120"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.499" mem="33341440"/>
+      <test id="33" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;80925437582&quot; found" eval-comment="" time="1.372" mem="75022336"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="86056960"/>
+      <test id="35" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;136003559919&quot; found" eval-comment="" time="1.419" mem="76599296"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="3" comment="Integer 1407760920 violates the range [-1, 100000]" eval-comment="" time="0.124" mem="8769536"/>
+      <test id="37" outcome="wrong-answer" points="0" max-points="3" comment="Integer 740843983 violates the range [-1, 100000]" eval-comment="" time="0.358" mem="10088448"/>
+      <test id="38" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;260038784402&quot; found" eval-comment="" time="1.341" mem="40521728"/>
+    </results>
+  </testing>
+</testing-report>

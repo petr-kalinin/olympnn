@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="21" max="100" outcome="accepted" gtid="20170218151016020278070538">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="B1M" time-limit="1500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="sizes of three parts: 5" eval-comment="" time="0.000" mem="33341440"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 no solution" eval-comment="" time="0.000" mem="21315584"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="Integer 0 violates the range [1, 6]" eval-comment="" time="0.000" mem="33341440"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="sizes of three parts: 1" eval-comment="" time="0.000" mem="33345536"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="sizes of three parts: 5" eval-comment="" time="0.000" mem="33341440"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="Integer 0 violates the range [1, 10]" eval-comment="" time="0.000" mem="33341440"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="Integer 0 violates the range [1, 49]" eval-comment="" time="0.000" mem="33341440"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="Integer 0 violates the range [1, 121]" eval-comment="" time="0.000" mem="33341440"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: -6 (root 3417) -3 (root 3) 0 (root 6159)" eval-comment="" time="0.015" mem="33660928"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 4 (root 11776) 0 (root 4) 2 (root 12873)" eval-comment="" time="0.046" mem="34017280"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 2 (root 186053) 0 (root 1) 1 (root 400000)" eval-comment="" time="1.388" mem="53252096"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.544" mem="28233728"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Integer 0 violates the range [1, 545]" eval-comment="" time="0.000" mem="33357824"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Integer 0 violates the range [1, 1403]" eval-comment="" time="0.000" mem="33366016"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="sizes of three parts: 6347" eval-comment="" time="0.015" mem="33452032"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Integer 0 violates the range [1, 12435]" eval-comment="" time="0.046" mem="33591296"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Integer 0 violates the range [1, 19237]" eval-comment="" time="0.062" mem="33718272"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="-1 no solution" eval-comment="" time="0.124" mem="21733376"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Integer 0 violates the range [1, 123230]" eval-comment="" time="0.374" mem="35536896"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.560" mem="26456064"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.544" mem="26816512"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.544" mem="27037696"/>
+      <test id="23" outcome="accepted" points="3" max-points="3" comment="-1 no solution" eval-comment="" time="0.046" mem="21549056"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 6 (root 65052) 0 (root 3) 3 (root 100000)" eval-comment="" time="0.327" mem="38309888"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.560" mem="27787264"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.544" mem="28131328"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="-1 no solution" eval-comment="" time="0.062" mem="21581824"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 2 (root 215837) 0 (root 2) 1 (root 400000)" eval-comment="" time="1.357" mem="53284864"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.544" mem="28172288"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.544" mem="28200960"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.544" mem="24489984"/>
+      <test id="32" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.544" mem="29310976"/>
+    </results>
+  </testing>
+</testing-report>

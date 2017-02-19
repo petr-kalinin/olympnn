@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="14" max="100" outcome="accepted" gtid="20170218160938017705260721">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="B4L" time-limit="1500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.00.24215.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Parts have different sizes: 10 (root 2) 2 (root 3) 3 (root 4)" eval-comment="" time="0.000" mem="565248"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 no solution" eval-comment="" time="0.000" mem="561152"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="Parts have different sizes: 5 (root 2) 2 (root 3) 8 (root 4)" eval-comment="" time="0.000" mem="565248"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="sizes of three parts: 1" eval-comment="" time="0.000" mem="561152"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="Parts have different sizes: 10 (root 1) 2 (root 2) 3 (root 4)" eval-comment="" time="0.000" mem="569344"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="Parts have different sizes: 26 (root 5) 3 (root 2) 1 (root 9)" eval-comment="" time="0.000" mem="565248"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="Parts have different sizes: 145 (root 4) 1 (root 20) 1 (root 30)" eval-comment="" time="0.000" mem="565248"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="Parts have different sizes: 360 (root 87) 1 (root 40) 2 (root 82)" eval-comment="" time="0.000" mem="569344"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.015" mem="2215936"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.046" mem="2453504"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="1.482" mem="15577088"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.544" mem="26419200"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 1621 (root 508) 13 (root 186) 1 (root 360)" eval-comment="" time="0.000" mem="577536"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 4206 (root 147) 1 (root 585) 2 (root 819)" eval-comment="" time="0.000" mem="610304"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 19038 (root 5619) 1 (root 677) 2 (root 5671)" eval-comment="" time="0.015" mem="794624"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 37302 (root 5347) 1 (root 4986) 2 (root 7450)" eval-comment="" time="0.046" mem="1007616"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 57690 (root 7959) 20 (root 481) 1 (root 18757)" eval-comment="" time="0.062" mem="1245184"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="-1 no solution" eval-comment="" time="0.124" mem="1916928"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 369683 (root 75324) 2 (root 12382) 5 (root 110849)" eval-comment="" time="0.421" mem="4902912"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.560" mem="19984384"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.544" mem="24178688"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.544" mem="27082752"/>
+      <test id="23" outcome="accepted" points="3" max-points="3" comment="-1 no solution" eval-comment="" time="0.046" mem="1122304"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.343" mem="5410816"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.560" mem="19312640"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.544" mem="25477120"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="-1 no solution" eval-comment="" time="0.062" mem="1167360"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="1.419" mem="15589376"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.544" mem="25473024"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.544" mem="27340800"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.544" mem="28852224"/>
+      <test id="32" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.544" mem="27754496"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218132003006917925189">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="C4K" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 3.0.0 [2015/11/16] for i386&#13;&#10;Copyright (c) 1993-2015 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;29 lines compiled, 0.0 sec, 28224 bytes code, 1284 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2576384"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2576384"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2572288"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2576384"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2568192"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2572288"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2576384"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2568192"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2572288"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="2572288"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="2568192"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2568192"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2568192"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2568192"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="2568192"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2572288"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2572288"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="2568192"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="2568192"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="2568192"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="2568192"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="2568192"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="2568192"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="2572288"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.046" mem="2572288"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2568192"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2568192"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="2572288"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2568192"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2572288"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="2572288"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.062" mem="2572288"/>
+      <test id="33" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.046" mem="2568192"/>
+    </results>
+  </testing>
+</testing-report>

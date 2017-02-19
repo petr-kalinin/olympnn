@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="24" max="100" outcome="accepted" gtid="20170218143711011768407669">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="A5F" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="18120704"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="1 lines" eval-comment="" time="0.046" mem="17620992"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="2 lines" eval-comment="" time="0.031" mem="18604032"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="10 lines" eval-comment="" time="0.031" mem="18579456"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="18509824"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="18485248"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.967" mem="22081536"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="18001920"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="18513920"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="18857984"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="18710528"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xE0434352" eval-comment="" time="0.140" mem="19709952"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xE0434352" eval-comment="" time="0.234" mem="20307968"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xE0434352" eval-comment="" time="0.951" mem="21966848"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xE0434352" eval-comment="" time="0.858" mem="22237184"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xE0434352" eval-comment="" time="0.904" mem="22630400"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xE0434352" eval-comment="" time="0.826" mem="21929984"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xE0434352" eval-comment="" time="0.608" mem="21979136"/>
+      <test id="19" outcome="accepted" points="6" max-points="6" comment="100000 lines" eval-comment="" time="0.920" mem="22581248"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xE0434352" eval-comment="" time="0.592" mem="22020096"/>
+      <test id="21" outcome="accepted" points="6" max-points="6" comment="100000 lines" eval-comment="" time="0.920" mem="22581248"/>
+    </results>
+  </testing>
+</testing-report>

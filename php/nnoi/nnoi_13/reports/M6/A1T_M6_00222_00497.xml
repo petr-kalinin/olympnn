@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="77" max="100" outcome="accepted" gtid="20170218145711016714198632">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="A1T" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.00.24215.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Best time = 0" eval-comment="" time="0.000" mem="569344"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="Best time = 6" eval-comment="" time="0.000" mem="565248"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="Best time = 7" eval-comment="" time="0.000" mem="569344"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 1" eval-comment="" time="0.000" mem="581632"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="Best time = 21" eval-comment="" time="0.000" mem="573440"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 10" eval-comment="" time="0.000" mem="569344"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="Best time = 29" eval-comment="" time="0.000" mem="573440"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 16" eval-comment="" time="0.000" mem="565248"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.000" mem="573440"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="Best time = 50216238" eval-comment="" time="0.265" mem="1380352"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="Best time = 29999999999" eval-comment="" time="0.093" mem="1372160"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 37" eval-comment="" time="0.000" mem="569344"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="Best time = 99999" eval-comment="" time="0.062" mem="802816"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="Best time = 99999" eval-comment="" time="0.015" mem="667648"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="Best time = 35745943" eval-comment="" time="0.062" mem="843776"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="Best time = 14214365" eval-comment="" time="0.015" mem="643072"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="Best time = 3613" eval-comment="" time="0.046" mem="733184"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="Best time = 90573028" eval-comment="" time="0.156" mem="1138688"/>
+      <test id="19" outcome="accepted" points="3" max-points="3" comment="Best time = 2" eval-comment="" time="0.187" mem="1376256"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 11469641" eval-comment="" time="0.187" mem="1372160"/>
+      <test id="21" outcome="accepted" points="3" max-points="3" comment="Best time = 974497253" eval-comment="" time="0.140" mem="1167360"/>
+      <test id="22" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.218" mem="1359872"/>
+      <test id="23" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.156" mem="1216512"/>
+      <test id="24" outcome="accepted" points="3" max-points="3" comment="Best time = 100000015037" eval-comment="" time="0.218" mem="1376256"/>
+      <test id="25" outcome="accepted" points="3" max-points="3" comment="Best time = 17637836878" eval-comment="" time="0.218" mem="1380352"/>
+      <test id="26" outcome="accepted" points="3" max-points="3" comment="Best time = 10000000001" eval-comment="" time="0.000" mem="565248"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="Best time = 0" eval-comment="" time="0.000" mem="565248"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="Best time = 29999999" eval-comment="" time="0.093" mem="1376256"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="Best time = 1" eval-comment="" time="0.000" mem="577536"/>
+      <test id="30" outcome="accepted" points="4" max-points="4" comment="Best time = 1" eval-comment="" time="0.000" mem="589824"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 0, out_time = 1" eval-comment="" time="0.000" mem="569344"/>
+      <test id="32" outcome="accepted" points="4" max-points="4" comment="Best time = 127" eval-comment="" time="0.218" mem="1376256"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 0, out_time = 2" eval-comment="" time="0.234" mem="1372160"/>
+    </results>
+  </testing>
+</testing-report>

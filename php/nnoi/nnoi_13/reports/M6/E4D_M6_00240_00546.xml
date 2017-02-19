@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20170218151506021772444084">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="E4D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Best time = 0" eval-comment="" time="0.015" mem="1273856"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="Best time = 6" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="Best time = 7" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 1" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="Best time = 21" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 10" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 29, out_time = 30" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 18" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 2130567168, t_f = 120, t = 3" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.670" mem="1273856"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.546" mem="1273856"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="10477568"/>
+      <test id="14" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="10477568"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="10510336"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.514" mem="1269760"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="10432512"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.530" mem="1265664"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.530" mem="1269760"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.514" mem="1269760"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.514" mem="1269760"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.530" mem="1269760"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="10448896"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.530" mem="1269760"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.530" mem="1269760"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.530" mem="1269760"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Vasya was late: out = 2130567168, t_f = 2, t = 1" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.530" mem="1269760"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="Best time = 1" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="10473472"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.530" mem="1269760"/>
+      <test id="33" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.530" mem="1269760"/>
+    </results>
+  </testing>
+</testing-report>

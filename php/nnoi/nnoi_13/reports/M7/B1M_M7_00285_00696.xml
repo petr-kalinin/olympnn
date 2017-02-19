@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="48" max="100" outcome="accepted" gtid="20170218160058013657266393">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="B1M" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="sizes of three parts: 5" eval-comment="" time="0.000" mem="33345536"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 no solution" eval-comment="" time="0.000" mem="21323776"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="sizes of three parts: 5" eval-comment="" time="0.000" mem="33349632"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="sizes of three parts: 1" eval-comment="" time="0.000" mem="33345536"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="sizes of three parts: 5" eval-comment="" time="0.000" mem="33345536"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="sizes of three parts: 10" eval-comment="" time="0.000" mem="33349632"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="At least one of verteces 22 and 4 is root 4" eval-comment="" time="0.000" mem="33345536"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="sizes of three parts: 121" eval-comment="" time="0.000" mem="33349632"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: -6 (root 3417) 0 (root 3) -3 (root 252)" eval-comment="" time="0.015" mem="33775616"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 4 (root 11776) 0 (root 4) 2 (root 7)" eval-comment="" time="0.046" mem="34254848"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="25587712"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="26206208"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="sizes of three parts: 545" eval-comment="" time="0.000" mem="33361920"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="sizes of three parts: 1403" eval-comment="" time="0.000" mem="33378304"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="sizes of three parts: 6347" eval-comment="" time="0.031" mem="33456128"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="sizes of three parts: 12435" eval-comment="" time="0.031" mem="33591296"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="sizes of three parts: 19237" eval-comment="" time="0.062" mem="33722368"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="-1 no solution" eval-comment="" time="0.124" mem="21737472"/>
+      <test id="19" outcome="accepted" points="3" max-points="3" comment="sizes of three parts: 123230" eval-comment="" time="0.390" mem="35540992"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="25120768"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="25391104"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="25542656"/>
+      <test id="23" outcome="accepted" points="3" max-points="3" comment="-1 no solution" eval-comment="" time="0.062" mem="21553152"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 6 (root 65052) 0 (root 3) 3 (root 12)" eval-comment="" time="0.374" mem="40165376"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="26013696"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="26144768"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="-1 no solution" eval-comment="" time="0.062" mem="21585920"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="25751552"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="26165248"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="26173440"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="24494080"/>
+      <test id="32" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="26697728"/>
+    </results>
+  </testing>
+</testing-report>

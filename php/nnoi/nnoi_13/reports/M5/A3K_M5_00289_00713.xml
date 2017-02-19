@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218160413015397611569">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="A3K" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="printed dissatisfaction is 2, certificate's dissatisfaction is 86" eval-comment="" time="0.000" mem="2871296"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer is 150, n = 3" eval-comment="" time="0.000" mem="2875392"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="0" comment="printed dissatisfaction is 2, certificate's dissatisfaction is 230" eval-comment="" time="0.000" mem="2871296"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 248, certificate's dissatisfaction is 353" eval-comment="" time="0.000" mem="2871296"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 3, certificate's dissatisfaction is 198" eval-comment="" time="0.000" mem="2871296"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 2, certificate's dissatisfaction is 102" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 102, certificate's dissatisfaction is 0" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 100000, certificate's dissatisfaction is 4900000" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 90, certificate's dissatisfaction is 11544" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 54508, certificate's dissatisfaction is 19065478" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 54508, certificate's dissatisfaction is 25194078" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 66, certificate's dissatisfaction is 930" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 160, certificate's dissatisfaction is 1026" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 5199948, certificate's dissatisfaction is 99997650" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 790, certificate's dissatisfaction is 46696" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 974, certificate's dissatisfaction is 1451023" eval-comment="" time="0.000" mem="2871296"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 620, certificate's dissatisfaction is 2633106" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 350, certificate's dissatisfaction is 3603470" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 18582489, certificate's dissatisfaction is 0" eval-comment="" time="0.577" mem="2867200"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 7142775, certificate's dissatisfaction is 0" eval-comment="" time="0.530" mem="2867200"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 50032447, certificate's dissatisfaction is 8337652400" eval-comment="" time="0.062" mem="2867200"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 116, certificate's dissatisfaction is 2804385" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 3396402, certificate's dissatisfaction is 311857403" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 141156, certificate's dissatisfaction is 344357345" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 117, certificate's dissatisfaction is 348366190" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 5199896, certificate's dissatisfaction is 1249968450" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 78, certificate's dissatisfaction is 0" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 200000, certificate's dissatisfaction is 1063800000" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 33, certificate's dissatisfaction is 3429894" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 1293, certificate's dissatisfaction is 302913" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 16748, certificate's dissatisfaction is 0" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 12, certificate's dissatisfaction is 65604" eval-comment="" time="0.000" mem="2867200"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 2211068, certificate's dissatisfaction is 787025914" eval-comment="" time="0.000" mem="2863104"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 5547, certificate's dissatisfaction is 16219259" eval-comment="" time="0.015" mem="2867200"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 633308, certificate's dissatisfaction is 4018795187" eval-comment="" time="0.031" mem="2871296"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 7656, certificate's dissatisfaction is 4189286" eval-comment="" time="0.265" mem="2867200"/>
+      <test id="37" outcome="wrong-answer" points="0" max-points="2" comment="printed dissatisfaction is 16704750, certificate's dissatisfaction is 58255547923" eval-comment="" time="0.405" mem="2867200"/>
+      <test id="38" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 45162, certificate's dissatisfaction is 83537673" eval-comment="" time="0.530" mem="2867200"/>
+      <test id="39" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 89, certificate's dissatisfaction is 25894061" eval-comment="" time="0.483" mem="2867200"/>
+      <test id="40" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 5847656, certificate's dissatisfaction is 83321250655" eval-comment="" time="0.592" mem="2871296"/>
+      <test id="41" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 158144, certificate's dissatisfaction is 45019491882" eval-comment="" time="0.530" mem="2867200"/>
+      <test id="42" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 210166, certificate's dissatisfaction is 94831126800" eval-comment="" time="0.530" mem="2867200"/>
+      <test id="43" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 4539552, certificate's dissatisfaction is 63064889804" eval-comment="" time="0.530" mem="2871296"/>
+      <test id="44" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 2463539, certificate's dissatisfaction is 61185536698" eval-comment="" time="0.499" mem="2867200"/>
+      <test id="45" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 984564, certificate's dissatisfaction is 62569101255" eval-comment="" time="0.530" mem="2867200"/>
+      <test id="46" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 262473, certificate's dissatisfaction is 61710741523" eval-comment="" time="0.530" mem="2867200"/>
+      <test id="47" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 199998, certificate's dissatisfaction is 249993733350" eval-comment="" time="0.561" mem="2867200"/>
+      <test id="48" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 5300000, certificate's dissatisfaction is 237519792450" eval-comment="" time="0.546" mem="2867200"/>
+      <test id="49" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 14758896, certificate's dissatisfaction is 216220817097" eval-comment="" time="0.530" mem="2867200"/>
+      <test id="50" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 19, certificate's dissatisfaction is 4466092" eval-comment="" time="0.405" mem="2867200"/>
+      <test id="51" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 110898, certificate's dissatisfaction is 49935977" eval-comment="" time="0.561" mem="2867200"/>
+      <test id="52" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 100000000, certificate's dissatisfaction is 0" eval-comment="" time="0.608" mem="2867200"/>
+      <test id="53" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 149006, certificate's dissatisfaction is 4901380011" eval-comment="" time="0.546" mem="2871296"/>
+    </results>
+  </testing>
+</testing-report>

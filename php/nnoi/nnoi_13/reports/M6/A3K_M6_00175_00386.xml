@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218141051005649186836">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="A3K" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="13295616"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="Wrong out format" eval-comment="" time="0.000" mem="13295616"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Wrong out format" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="13303808"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Wrong out format" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Wrong out format" eval-comment="" time="0.000" mem="13295616"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="13295616"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.343" mem="13299712"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.280" mem="13299712"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Wrong out format" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="13303808"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.312" mem="13295616"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.249" mem="13299712"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="3" comment="Extra information in the output file" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.358" mem="13299712"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.390" mem="13299712"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.280" mem="13299712"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.343" mem="13295616"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.343" mem="13295616"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.343" mem="13295616"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Wrong out format" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.280" mem="13299712"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="13295616"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Wrong out format" eval-comment="" time="0.000" mem="13295616"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="13299712"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.249" mem="13299712"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 0, out_time = 9099998" eval-comment="" time="0.031" mem="13299712"/>
+    </results>
+  </testing>
+</testing-report>

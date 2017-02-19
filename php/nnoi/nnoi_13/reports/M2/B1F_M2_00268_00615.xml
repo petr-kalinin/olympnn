@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218154348005502537564">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="B1F" time-limit="3000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="25690112"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 impossible" eval-comment="" time="0.031" mem="26419200"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="25710592"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="25612288"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="25640960"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="25649152"/>
+      <test id="7" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 impossible" eval-comment="Тест не зачтен" time="0.031" mem="26411008"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="25616384"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="25649152"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="25645056"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="25731072"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="25640960"/>
+      <test id="13" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 impossible" eval-comment="Тест не зачтен" time="0.031" mem="27443200"/>
+      <test id="14" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 impossible" eval-comment="Тест не зачтен" time="0.046" mem="29577216"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="26148864"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="25960448"/>
+      <test id="17" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 impossible" eval-comment="Тест не зачтен" time="0.156" mem="31649792"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="26787840"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="2" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.234" mem="31645696"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="26820608"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="2" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.078" mem="31821824"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="25747456"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xE0434352" eval-comment="" time="0.078" mem="31707136"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xE0434352" eval-comment="" time="0.156" mem="31682560"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="26009600"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="25804800"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="31719424"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="25743360"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="25800704"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.452" mem="31760384"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="25792512"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="25726976"/>
+      <test id="33" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="25726976"/>
+      <test id="34" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="25735168"/>
+      <test id="35" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="25853952"/>
+      <test id="36" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="25804800"/>
+      <test id="37" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="25726976"/>
+      <test id="38" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="25874432"/>
+    </results>
+  </testing>
+</testing-report>

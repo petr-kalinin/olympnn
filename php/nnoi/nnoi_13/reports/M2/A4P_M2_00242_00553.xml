@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218151721022488621871">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="A4P" time-limit="3000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.031" mem="21299200"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 impossible" eval-comment="" time="0.015" mem="21213184"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="21196800"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.015" mem="21213184"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="20541440"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1&quot; found" eval-comment="" time="0.031" mem="21188608"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1-1-1-1&quot; found" eval-comment="" time="0.031" mem="21270528"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1&quot; found" eval-comment="" time="0.031" mem="21184512"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1...1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1&quot; found" eval-comment="" time="0.031" mem="21278720"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1...1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1&quot; found" eval-comment="" time="0.031" mem="21381120"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1&quot; found" eval-comment="" time="0.031" mem="21512192"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1...1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1&quot; found" eval-comment="" time="0.031" mem="21475328"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1...1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1&quot; found" eval-comment="" time="0.156" mem="22233088"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1...1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1&quot; found" eval-comment="" time="0.093" mem="23388160"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1...1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1&quot; found" eval-comment="" time="0.046" mem="21843968"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="22294528"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="22245376"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1...1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1&quot; found" eval-comment="" time="0.046" mem="22511616"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="3.042" mem="22315008"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1...1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1&quot; found" eval-comment="" time="0.327" mem="22618112"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="3.042" mem="22323200"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="3.042" mem="22355968"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xE0434352" eval-comment="" time="0.280" mem="22581248"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="3.042" mem="22265856"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="3.057" mem="22274048"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="22257664"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1&quot; found" eval-comment="" time="0.296" mem="23318528"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="22286336"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="22269952"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="22380544"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="22237184"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;2345678910&quot; found" eval-comment="" time="0.639" mem="23384064"/>
+      <test id="33" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="22241280"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="22294528"/>
+      <test id="35" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="22261760"/>
+      <test id="36" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="22315008"/>
+      <test id="37" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="22368256"/>
+      <test id="38" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="22245376"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218125433002458280583">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="B5I" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Best time = 0" eval-comment="" time="0.031" mem="20951040"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="16240640"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="16302080"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="16244736"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="16396288"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 229" eval-comment="" time="0.031" mem="20852736"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 33, t_f = 60, t = 3" eval-comment="" time="0.031" mem="20824064"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 13" eval-comment="" time="0.031" mem="20811776"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Wrong out format" eval-comment="" time="0.031" mem="20934656"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16728064"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16580608"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 673" eval-comment="" time="0.031" mem="20803584"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="18329600"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.031" mem="18100224"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 652004090, t_f = 687703641, t = 1000" eval-comment="" time="0.062" mem="22712320"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="16580608"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 3613, out_time = 8498300" eval-comment="" time="0.046" mem="22622208"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16564224"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16568320"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16494592"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16654336"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16568320"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 7674100" eval-comment="" time="0.109" mem="22781952"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16592896"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16646144"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16666624"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Wrong out format" eval-comment="" time="0.031" mem="20852736"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16584704"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="16240640"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 1, out_time = 1174" eval-comment="" time="0.031" mem="21106688"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 0, out_time = 13510" eval-comment="" time="0.031" mem="20856832"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16699392"/>
+      <test id="33" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16551936"/>
+    </results>
+  </testing>
+</testing-report>

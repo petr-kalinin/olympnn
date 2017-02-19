@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="12" max="100" outcome="accepted" gtid="20170218144731014280189574">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="B1E" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Best time = 0" eval-comment="" time="0.015" mem="1277952"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="Vasya was late: out = 20, t_f = 17, t = 3" eval-comment="" time="0.000" mem="1277952"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 13, t_f = 14, t = 3" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 21, out_time = 27" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 60, t_f = 60, t = 3" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 117" eval-comment="" time="0.000" mem="1277952"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 50216238, out_time = 55834574848" eval-comment="" time="0.826" mem="4468736"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 29999999999, out_time = 30000000000" eval-comment="" time="0.015" mem="4468736"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 231485000, t_f = 231487358, t = 7700" eval-comment="" time="0.265" mem="2232320"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 25100000, t_f = 25100096, t = 2000" eval-comment="" time="0.031" mem="1671168"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 687703090, t_f = 687703641, t = 1000" eval-comment="" time="0.967" mem="2412544"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="1597440"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="1908736"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 90573028, out_time = 90575013" eval-comment="" time="0.015" mem="3534848"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 2, out_time = 3" eval-comment="" time="0.031" mem="4468736"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="4468736"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 974497253, out_time = 974500000" eval-comment="" time="0.015" mem="3670016"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 347510170" eval-comment="" time="0.031" mem="4411392"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="3829760"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 100000015037, out_time = 200000000000" eval-comment="" time="0.031" mem="4468736"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 17637836878, out_time = 200000000000" eval-comment="" time="0.031" mem="4468736"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 10000000001, out_time = 100000000000" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 0, out_time = 1" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 29999999, out_time = 30000000" eval-comment="" time="0.015" mem="4468736"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 1, out_time = 10" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 1, out_time = 1000" eval-comment="" time="0.000" mem="1339392"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 0, out_time = 10000" eval-comment="" time="0.000" mem="1286144"/>
+      <test id="32" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="4468736"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 0, out_time = 100000" eval-comment="" time="0.031" mem="4468736"/>
+    </results>
+  </testing>
+</testing-report>

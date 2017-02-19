@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218150301018174553932">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="A1U" time-limit="1500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Integer 0 violates the range [1, 6]" eval-comment="" time="0.000" mem="1277952"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 no solution" eval-comment="" time="0.000" mem="1277952"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="4" comment="0 violates the range [1;3]" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="Parts have different sizes: 10 (root 1) 1 (root 3) 4 (root 4)" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="Contestant didn't find the solution but it exists" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="7" outcome="accepted-not-counted" points="0" max-points="4" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.000" mem="1273856"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Two equal verteces in answer: 103" eval-comment="" time="0.000" mem="1290240"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 7 (root 3417) -10 (root 1371) -6 (root 4681)" eval-comment="" time="0.000" mem="1744896"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 4 (root 11776) 4 (root 9458) -2 (root 3544)" eval-comment="" time="0.015" mem="2269184"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 2 (root 186053) -5 (root 209159) 6 (root 363760)" eval-comment="" time="0.546" mem="31522816"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 4 (root 317302) 0 (root 4918) 2 (root 937587)" eval-comment="" time="1.435" mem="76337152"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Two equal verteces in answer: 89" eval-comment="" time="0.000" mem="1302528"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Two equal verteces in answer: 963" eval-comment="" time="0.000" mem="1335296"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Two equal verteces in answer: 2747" eval-comment="" time="0.000" mem="1536000"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Two equal verteces in answer: 7442" eval-comment="" time="0.015" mem="1781760"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Two equal verteces in answer: 11626" eval-comment="" time="0.015" mem="2117632"/>
+      <test id="18" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.031" mem="2564096"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="3" comment="Two equal verteces in answer: 22119" eval-comment="" time="0.187" mem="6045696"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Two equal verteces in answer: 142566" eval-comment="" time="1.310" mem="25554944"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 2541535 (root 641482) 1 (root 110796) 4 (root 541083)" eval-comment="" time="1.123" mem="33624064"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.544" mem="38723584"/>
+      <test id="23" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.015" mem="1880064"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 26 (root 65052) -4 (root 32500) -13 (root 19485)" eval-comment="" time="0.124" mem="8863744"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 24 (root 446680) -21 (root 199106) 6 (root 365067)" eval-comment="" time="0.858" mem="46632960"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Parts have different sizes: 2 (root 108331) 1 (root 666470) 0 (root 413668)" eval-comment="" time="1.294" mem="69038080"/>
+      <test id="27" outcome="accepted-not-counted" points="0" max-points="4" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.015" mem="1961984"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: -15 (root 215837) 17 (root 282966) 1 (root 85344)" eval-comment="" time="0.546" mem="31555584"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 2 (root 775039) 2 (root 788542) -1 (root 709371)" eval-comment="" time="1.310" mem="69005312"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="Parts have different sizes: 8 (root 308525) 0 (root 303299) 4 (root 610443)" eval-comment="" time="1.419" mem="76312576"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.544" mem="35860480"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Contestant didn't find the solution but it exists" eval-comment="" time="1.419" mem="89440256"/>
+    </results>
+  </testing>
+</testing-report>

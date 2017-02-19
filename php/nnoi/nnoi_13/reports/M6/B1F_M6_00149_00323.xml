@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="41" max="100" outcome="accepted" gtid="20170218134405000288485102">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="B1F" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Best time = 0" eval-comment="" time="0.031" mem="14032896"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="Best time = 6" eval-comment="" time="0.031" mem="13971456"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="Best time = 7" eval-comment="" time="0.031" mem="14073856"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.031" mem="14012416"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="Best time = 21" eval-comment="" time="0.031" mem="14016512"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.031" mem="14065664"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="Best time = 29" eval-comment="" time="0.015" mem="14049280"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.031" mem="14016512"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;117-1&quot; found" eval-comment="" time="0.031" mem="14012416"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13336576"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13299712"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.031" mem="14016512"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="Best time = 99999" eval-comment="" time="0.031" mem="16093184"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="Best time = 99999" eval-comment="" time="0.031" mem="15974400"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="Best time = 35745943" eval-comment="" time="0.046" mem="16138240"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13332480"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 3613, out_time = 3861" eval-comment="" time="0.031" mem="16039936"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="13381632"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13336576"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13352960"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13451264"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13357056"/>
+      <test id="23" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.062" mem="16146432"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13303808"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13365248"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13303808"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;1-1&quot; found" eval-comment="" time="0.031" mem="14024704"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13328384"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="Best time = 1" eval-comment="" time="0.031" mem="14004224"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 1, out_time = 2" eval-comment="" time="0.031" mem="14327808"/>
+      <test id="31" outcome="accepted" points="4" max-points="4" comment="Best time = 0" eval-comment="" time="0.031" mem="14127104"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13316096"/>
+      <test id="33" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13328384"/>
+    </results>
+  </testing>
+</testing-report>

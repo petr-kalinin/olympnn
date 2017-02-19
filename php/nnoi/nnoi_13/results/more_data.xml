@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="1" name="A+B"/>
+    <problem id="2" name="Кефир"/>
+    <problem id="3" name="Спасение принцессы"/>
+    <problem id="4" name="Снековик"/>
+    <problem id="5" name="Поищите без сдачи!"/>
+    <problem id="6" name="Очередь"/>
+    <problem id="7" name="Гирлянда"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="4"/>
+    <diplom id="II" places-min="5" places-max="10"/>
+    <diplom id="III" places-min="11" places-max="23"/>
+  </diploms>
+</more-data>
+    

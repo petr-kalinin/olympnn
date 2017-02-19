@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="42" max="100" outcome="accepted" gtid="20170218160133014226532522">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="A2Q" time-limit="3000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer is 3" eval-comment="" time="0.031" mem="64016384"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 impossible" eval-comment="" time="0.031" mem="64008192"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="answer is 1" eval-comment="" time="0.031" mem="64045056"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 1, jury has better answer 2" eval-comment="" time="0.031" mem="64008192"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="answer is 22" eval-comment="" time="0.031" mem="63979520"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="answer is 0" eval-comment="" time="0.031" mem="64016384"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.031" mem="64008192"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 9, jury has better answer 20" eval-comment="" time="0.015" mem="63967232"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 2, jury has better answer 6" eval-comment="" time="0.031" mem="64237568"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 15, jury has better answer 24" eval-comment="" time="0.031" mem="64081920"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 162, jury has better answer 234" eval-comment="" time="0.046" mem="64475136"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="answer is 69" eval-comment="" time="0.031" mem="64073728"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.031" mem="63987712"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.031" mem="64196608"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 243, jury has better answer 790" eval-comment="" time="0.031" mem="64720896"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.031" mem="64008192"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.093" mem="65880064"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="Contestant found the answer 1659, jury has better answer 4378" eval-comment="" time="0.046" mem="65486848"/>
+      <test id="19" outcome="accepted" points="2" max-points="2" comment="answer is 0" eval-comment="" time="0.265" mem="65892352"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 319, jury has better answer 600" eval-comment="" time="0.031" mem="65359872"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="2" comment="Contestant found the answer 13141, jury has better answer 18759" eval-comment="" time="0.124" mem="65859584"/>
+      <test id="22" outcome="accepted" points="2" max-points="2" comment="answer is 433092" eval-comment="" time="1.684" mem="66048000"/>
+      <test id="23" outcome="accepted" points="2" max-points="2" comment="answer is 114303" eval-comment="" time="0.655" mem="66031616"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="2" comment="Contestant found the answer 139850, jury has better answer 193848" eval-comment="" time="0.702" mem="66052096"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="2" comment="Contestant found the answer 22743, jury has better answer 133258" eval-comment="" time="0.468" mem="65900544"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 25081, jury has better answer 69443" eval-comment="" time="0.390" mem="65892352"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 93280, jury has better answer 97866" eval-comment="" time="0.499" mem="66052096"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 27623, jury has better answer 80401" eval-comment="" time="0.608" mem="66174976"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 151210, jury has better answer 374613" eval-comment="" time="1.216" mem="66035712"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 0, jury has better answer 1" eval-comment="" time="0.561" mem="65966080"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 314263, jury has better answer 558817" eval-comment="" time="1.903" mem="66031616"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 514262, jury has better answer 809245" eval-comment="" time="2.340" mem="66084864"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 32083, jury has better answer 80925" eval-comment="" time="1.466" mem="66052096"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="65974272"/>
+      <test id="35" outcome="accepted" points="3" max-points="3" comment="answer is 136003" eval-comment="" time="1.294" mem="66043904"/>
+      <test id="36" outcome="accepted" points="3" max-points="3" comment="answer is 14077" eval-comment="" time="0.156" mem="65875968"/>
+      <test id="37" outcome="accepted" points="3" max-points="3" comment="answer is 74084" eval-comment="" time="0.343" mem="66007040"/>
+      <test id="38" outcome="accepted" points="3" max-points="3" comment="answer is 260038" eval-comment="" time="1.263" mem="66048000"/>
+    </results>
+  </testing>
+</testing-report>

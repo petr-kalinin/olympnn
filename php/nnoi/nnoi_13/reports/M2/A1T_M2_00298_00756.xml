@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="66" max="100" outcome="accepted" gtid="20170218161323019634151394">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="A1T" time-limit="3000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer is 3" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 impossible" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="answer is 1" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 1, jury has better answer 2" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="answer is 22" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.000" mem="1286144"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 18, jury has better answer 20" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="answer is 6" eval-comment="" time="0.000" mem="1286144"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="answer is 24" eval-comment="" time="0.000" mem="1286144"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="answer is 234" eval-comment="" time="0.000" mem="1302528"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="answer is 69" eval-comment="" time="0.000" mem="1306624"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.000" mem="1560576"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.000" mem="2052096"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 788, jury has better answer 790" eval-comment="" time="0.000" mem="1454080"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.171" mem="16269312"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.171" mem="16424960"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="Incorrect answer. First problem - day 0" eval-comment="" time="0.015" mem="1732608"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.296" mem="38289408"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="answer is 600" eval-comment="" time="0.000" mem="1654784"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="2" comment="Contestant found the answer 18747, jury has better answer 18759" eval-comment="" time="0.109" mem="4648960"/>
+      <test id="22" outcome="accepted" points="2" max-points="2" comment="answer is 433092" eval-comment="" time="1.903" mem="26648576"/>
+      <test id="23" outcome="accepted" points="2" max-points="2" comment="answer is 114303" eval-comment="" time="0.686" mem="32915456"/>
+      <test id="24" outcome="accepted" points="2" max-points="2" comment="answer is 193848" eval-comment="" time="0.920" mem="16912384"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="2" comment="Contestant found the answer 133255, jury has better answer 133258" eval-comment="" time="0.780" mem="24027136"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 0" eval-comment="" time="0.483" mem="18792448"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 0" eval-comment="" time="0.514" mem="12324864"/>
+      <test id="28" outcome="accepted" points="3" max-points="3" comment="answer is 80401" eval-comment="" time="0.670" mem="27832320"/>
+      <test id="29" outcome="accepted" points="3" max-points="3" comment="answer is 374613" eval-comment="" time="2.012" mem="45662208"/>
+      <test id="30" outcome="accepted" points="3" max-points="3" comment="answer is 1" eval-comment="" time="0.499" mem="39919616"/>
+      <test id="31" outcome="accepted" points="3" max-points="3" comment="answer is 558817" eval-comment="" time="2.917" mem="61837312"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.483" mem="33337344"/>
+      <test id="33" outcome="accepted" points="3" max-points="3" comment="answer is 80925" eval-comment="" time="1.372" mem="75022336"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="86061056"/>
+      <test id="35" outcome="accepted" points="3" max-points="3" comment="answer is 136003" eval-comment="" time="1.388" mem="76599296"/>
+      <test id="36" outcome="accepted" points="3" max-points="3" comment="answer is 14077" eval-comment="" time="0.124" mem="8769536"/>
+      <test id="37" outcome="accepted" points="3" max-points="3" comment="answer is 74084" eval-comment="" time="0.358" mem="10088448"/>
+      <test id="38" outcome="accepted" points="3" max-points="3" comment="answer is 260038" eval-comment="" time="1.341" mem="40521728"/>
+    </results>
+  </testing>
+</testing-report>

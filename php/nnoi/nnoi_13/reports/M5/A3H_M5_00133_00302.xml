@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="16" max="100" outcome="accepted" gtid="20170218132848009001948634">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="A3H" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 3.0.0 [2015/11/16] for i386&#13;&#10;Copyright (c) 1993-2015 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;31 lines compiled, 0.0 sec, 30112 bytes code, 1332 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="participant's answer is worse: pa = 86, ja = 79, n = 5" eval-comment="" time="0.015" mem="1003520"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer is 150, n = 3" eval-comment="" time="0.000" mem="1003520"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="answer is 230, n = 5" eval-comment="" time="0.000" mem="1007616"/>
+      <test id="4" outcome="accepted" points="2" max-points="2" comment="answer is 353, n = 5" eval-comment="" time="0.000" mem="1007616"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 198, ja = 166, n = 14" eval-comment="" time="0.000" mem="1040384"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="answer is 102, n = 1" eval-comment="" time="0.000" mem="1044480"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="answer is 0, n = 1" eval-comment="" time="0.000" mem="1044480"/>
+      <test id="8" outcome="accepted" points="2" max-points="2" comment="answer is 4900000, n = 1" eval-comment="" time="0.000" mem="1044480"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 11544, ja = 6265, n = 20" eval-comment="" time="0.000" mem="1040384"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 19065478, ja = 3709, n = 20" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 25194078, ja = 3746, n = 20" eval-comment="" time="0.000" mem="1044480"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 930, ja = 255, n = 20" eval-comment="" time="0.000" mem="1044480"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1026, ja = 659, n = 20" eval-comment="" time="0.000" mem="1040384"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 99997650, ja = 99996350, n = 40" eval-comment="" time="0.000" mem="1040384"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 46696, ja = 26974, n = 50" eval-comment="" time="0.000" mem="1036288"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1451023, ja = 567902, n = 184" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 2633106, ja = 321678, n = 500" eval-comment="" time="0.000" mem="1265664"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 3603470, ja = 1501555, n = 437" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="19" outcome="accepted" points="1" max-points="1" comment="answer is 0, n = 100000" eval-comment="" time="0.187" mem="8515584"/>
+      <test id="20" outcome="accepted" points="2" max-points="2" comment="answer is 0, n = 100000" eval-comment="" time="0.171" mem="8515584"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="2" comment="Integer parameter [name=answer] equals to -252282192, violates the range [0, 1000000000000]" eval-comment="" time="0.015" mem="1896448"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 2804385, ja = 2175252, n = 500" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 311857403, ja = 1293145, n = 500" eval-comment="" time="0.000" mem="1265664"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 344357345, ja = 213751, n = 500" eval-comment="" time="0.000" mem="1265664"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 348366190, ja = 6321506, n = 500" eval-comment="" time="0.000" mem="1265664"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1249968450, ja = 1249950500, n = 500" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="27" outcome="accepted" points="2" max-points="2" comment="answer is 0, n = 500" eval-comment="" time="0.000" mem="1265664"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 1063800000, ja = 1025200000, n = 499" eval-comment="" time="0.000" mem="1265664"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 3429894, ja = 1123674, n = 478" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 302913, ja = 10093, n = 499" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="31" outcome="accepted" points="2" max-points="2" comment="answer is 0, n = 478" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="1" comment="participant's answer is worse: pa = 65604, ja = 32215, n = 700" eval-comment="" time="0.000" mem="1306624"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="1" comment="participant's answer is worse: pa = 787025914, ja = 327836912, n = 1000" eval-comment="" time="0.000" mem="1302528"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="1" comment="participant's answer is worse: pa = 16219259, ja = 7039737, n = 2000" eval-comment="" time="0.000" mem="1376256"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="2" comment="Integer parameter [name=answer] equals to -276172109, violates the range [0, 1000000000000]" eval-comment="" time="0.015" mem="1564672"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="2" comment="participant's answer is worse: pa = 4189286, ja = 1900533, n = 50000" eval-comment="" time="0.093" mem="4767744"/>
+      <test id="37" outcome="wrong-answer" points="0" max-points="2" comment="Integer parameter [name=answer] equals to -1873994221, violates the range [0, 1000000000000]" eval-comment="" time="0.124" mem="6561792"/>
+      <test id="38" outcome="wrong-answer" points="0" max-points="3" comment="participant's answer is worse: pa = 83537673, ja = 38855852, n = 100000" eval-comment="" time="0.171" mem="8515584"/>
+      <test id="39" outcome="wrong-answer" points="0" max-points="1" comment="participant's answer is worse: pa = 25894061, ja = 1705764, n = 99998" eval-comment="" time="0.171" mem="8515584"/>
+      <test id="40" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 1716872031, certificate's dissatisfaction is 83321250655" eval-comment="" time="0.187" mem="8515584"/>
+      <test id="41" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 2069818922, certificate's dissatisfaction is 45019491882" eval-comment="" time="0.187" mem="8478720"/>
+      <test id="42" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 341846288, certificate's dissatisfaction is 94831126800" eval-comment="" time="0.187" mem="8515584"/>
+      <test id="43" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=answer] equals to -1359619636, violates the range [0, 1000000000000]" eval-comment="" time="0.187" mem="8515584"/>
+      <test id="44" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 1055994554, certificate's dissatisfaction is 61185536698" eval-comment="" time="0.187" mem="8404992"/>
+      <test id="45" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=answer] equals to -1855408185, violates the range [0, 1000000000000]" eval-comment="" time="0.187" mem="8515584"/>
+      <test id="46" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 1581199379, certificate's dissatisfaction is 61710741523" eval-comment="" time="0.187" mem="8519680"/>
+      <test id="47" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 885630182, certificate's dissatisfaction is 249993733350" eval-comment="" time="0.202" mem="8515584"/>
+      <test id="48" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 1296591170, certificate's dissatisfaction is 237519792450" eval-comment="" time="0.171" mem="8515584"/>
+      <test id="49" outcome="wrong-answer" points="0" max-points="3" comment="printed dissatisfaction is 1472452297, certificate's dissatisfaction is 216220817097" eval-comment="" time="0.187" mem="7999488"/>
+      <test id="50" outcome="wrong-answer" points="0" max-points="3" comment="participant's answer is worse: pa = 4466092, ja = 3298128, n = 82348" eval-comment="" time="0.156" mem="7372800"/>
+      <test id="51" outcome="wrong-answer" points="0" max-points="1" comment="participant's answer is worse: pa = 49935977, ja = 49447658, n = 100000" eval-comment="" time="0.202" mem="8515584"/>
+      <test id="52" outcome="accepted" points="1" max-points="1" comment="answer is 0, n = 100000" eval-comment="" time="0.202" mem="8515584"/>
+      <test id="53" outcome="wrong-answer" points="0" max-points="1" comment="printed dissatisfaction is 606412715, certificate's dissatisfaction is 4901380011" eval-comment="" time="0.187" mem="8515584"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="8" max="100" outcome="accepted" gtid="20170218141756007208989220">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="B2O" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="3rd lines differ" eval-comment="" time="0.000" mem="2076672"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="1 lines" eval-comment="" time="0.000" mem="2072576"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="2nd lines differ" eval-comment="" time="0.000" mem="2076672"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="9th lines differ" eval-comment="" time="0.000" mem="2072576"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="10th lines differ" eval-comment="" time="0.000" mem="2076672"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="58th lines differ" eval-comment="" time="0.000" mem="2068480"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;999999999899997999969999599994...0999899998899987999869998599984&quot; found" eval-comment="" time="0.234" mem="2072576"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="2 lines" eval-comment="" time="0.000" mem="2072576"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="291st lines differ" eval-comment="" time="0.000" mem="2072576"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="416th lines differ" eval-comment="" time="0.000" mem="2072576"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;300029992998299729962995299429...9802979297829772976297529742973&quot; found" eval-comment="" time="0.000" mem="2068480"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="4245th lines differ" eval-comment="" time="0.015" mem="2072576"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="6" comment="Expected integer, but &quot;3000029999299982999729996299952999429993&quot; found" eval-comment="" time="0.062" mem="2072576"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="6" comment="Expected integer, but &quot;999979999699995999949999399992...8999879998699985999849998399982&quot; found" eval-comment="" time="0.234" mem="2072576"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="6" comment="69973rd lines differ" eval-comment="" time="0.234" mem="2072576"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="6" comment="Expected int64, but &quot;99999999989999799996&quot; found" eval-comment="" time="0.234" mem="2072576"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="6" comment="Expected integer, but &quot;99998999979999699995999949999399992&quot; found" eval-comment="" time="0.218" mem="2072576"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.045" mem="2076672"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="6" comment="Expected integer, but &quot;100000999999999899997999969999...2019181716151413121110987654321&quot; found" eval-comment="" time="0.218" mem="2072576"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="6" comment="Expected integer, but &quot;989689896798966989659896498963...4988039880298801988009879998798&quot; found" eval-comment="" time="0.358" mem="2072576"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="6" comment="Expected integer, but &quot;100000999999999899997999969999...2019181716151413121110987654321&quot; found" eval-comment="" time="0.218" mem="2072576"/>
+    </results>
+  </testing>
+</testing-report>

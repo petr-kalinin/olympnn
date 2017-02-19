@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218155838012215264660">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="B3J" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Jury has better solution: jury_time = 0, out_time = 2" eval-comment="" time="0.031" mem="24780800"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="Vasya was late: out = 8, t_f = 17, t = 3" eval-comment="" time="0.031" mem="24825856"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 7, t_f = 14, t = 3" eval-comment="" time="0.031" mem="24817664"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 10" eval-comment="" time="0.031" mem="24797184"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 21, t_f = 56, t = 7" eval-comment="" time="0.031" mem="24850432"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 150" eval-comment="" time="0.031" mem="24788992"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 30, t_f = 60, t = 3" eval-comment="" time="0.031" mem="24854528"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 13" eval-comment="" time="0.031" mem="24805376"/>
+      <test id="9" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="21467136"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 50216238, out_time = 56347000150" eval-comment="" time="0.234" mem="35528704"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 29999999999, out_time = 30000000000" eval-comment="" time="0.078" mem="27557888"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 544" eval-comment="" time="0.031" mem="24838144"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 99999, out_time = 133618100" eval-comment="" time="0.062" mem="27439104"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 99999, out_time = 8278000" eval-comment="" time="0.046" mem="27242496"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 652003090, t_f = 687703641, t = 1000" eval-comment="" time="0.093" mem="27709440"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 14214365, out_time = 95500000" eval-comment="" time="0.062" mem="27389952"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 3613, out_time = 8500000" eval-comment="" time="0.078" mem="27480064"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 90573028, out_time = 417305000" eval-comment="" time="0.156" mem="28413952"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 2, out_time = 1250000000" eval-comment="" time="0.187" mem="28889088"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 1000000000" eval-comment="" time="0.218" mem="28831744"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 974500000, t_f = 30974675616, t = 400000" eval-comment="" time="0.171" mem="28495872"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="3" comment="Extra information in the output file" eval-comment="" time="0.249" mem="35553280"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 7674200" eval-comment="" time="0.171" mem="28594176"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 100000015037, out_time = 200000000000" eval-comment="" time="0.249" mem="35385344"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 17637836878, out_time = 200000000000" eval-comment="" time="0.249" mem="35594240"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 10000000001, out_time = 100000000000" eval-comment="" time="0.031" mem="24780800"/>
+      <test id="27" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="21573632"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Vasya was late: out = 30000000, t_f = 1000000000000, t = 10000000" eval-comment="" time="0.078" mem="27402240"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 1, out_time = 10" eval-comment="" time="0.031" mem="24973312"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 1, out_time = 1000" eval-comment="" time="0.031" mem="26542080"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 0, out_time = 10000" eval-comment="" time="0.031" mem="25288704"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 127, out_time = 10000000" eval-comment="" time="0.249" mem="35491840"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 0, out_time = 8999999" eval-comment="" time="0.265" mem="35508224"/>
+    </results>
+  </testing>
+</testing-report>

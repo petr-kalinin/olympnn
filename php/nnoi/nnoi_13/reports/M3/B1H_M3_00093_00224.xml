@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218124828001276582071">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="B1H" time-limit="3000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="2 tests, worst delta 0.999400" eval-comment="" time="0.000" mem="1282048"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 2.999724" eval-comment="" time="0.967" mem="1314816"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="648 tests, worst delta 1.000800" eval-comment="" time="0.015" mem="1302528"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="200 tests, worst delta 3.000200" eval-comment="" time="0.015" mem="1282048"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 3.000200" eval-comment="" time="0.858" mem="1314816"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="200 tests, worst delta 1.002000" eval-comment="" time="0.015" mem="1282048"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 3.000000" eval-comment="" time="0.920" mem="1314816"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="19992 tests, worst delta 2.999800" eval-comment="" time="0.670" mem="1314816"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="19992 tests, worst delta 3.000200" eval-comment="" time="0.764" mem="1318912"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="19992 tests, worst delta 2.998400" eval-comment="" time="0.826" mem="1314816"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="19992 tests, worst delta 2.998800" eval-comment="" time="0.811" mem="1314816"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 3.000200" eval-comment="" time="0.764" mem="1314816"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="200 tests, worst delta 1.019809" eval-comment="" time="0.000" mem="1282048"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 1.019998" eval-comment="" time="0.873" mem="1314816"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 2.999797" eval-comment="" time="0.780" mem="1314816"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 2.820175" eval-comment="" time="0.717" mem="1314816"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 1.019999" eval-comment="" time="0.577" mem="1314816"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 1.019999" eval-comment="" time="0.920" mem="1314816"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 2.999216" eval-comment="" time="0.780" mem="1314816"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 1.020000" eval-comment="" time="0.686" mem="1314816"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 3.000128" eval-comment="" time="0.826" mem="1314816"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 1.020000" eval-comment="" time="0.608" mem="1314816"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 2.999452" eval-comment="" time="0.748" mem="1314816"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 1.020001" eval-comment="" time="0.795" mem="1314816"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 2.999991" eval-comment="" time="0.826" mem="1314816"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 1.020000" eval-comment="" time="0.717" mem="1314816"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 3.000035" eval-comment="" time="0.764" mem="1318912"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 1.019997" eval-comment="" time="0.702" mem="1314816"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 2.999923" eval-comment="" time="0.702" mem="1314816"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 1.019999" eval-comment="" time="0.748" mem="1314816"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 2.999595" eval-comment="" time="0.811" mem="1314816"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 3.000105" eval-comment="" time="0.577" mem="1314816"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="3" comment="20000 tests, worst delta 3.000011" eval-comment="" time="0.702" mem="1314816"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="20000 tests, worst delta 3.000065" eval-comment="" time="0.889" mem="1314816"/>
+    </results>
+  </testing>
+</testing-report>

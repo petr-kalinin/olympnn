@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218143316010942020431">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="A4P" time-limit="1500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20226048"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 no solution" eval-comment="" time="0.015" mem="21323776"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20267008"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20299776"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20246528"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20307968"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20230144"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20234240"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="21950464"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="22482944"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.436" mem="22421504"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="1.045" mem="22409216"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="20365312"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.015" mem="20627456"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="21983232"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="22335488"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.031" mem="22315008"/>
+      <test id="18" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.062" mem="23314432"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.140" mem="22396928"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.639" mem="22417408"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.858" mem="22364160"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.967" mem="22450176"/>
+      <test id="23" outcome="accepted-not-counted" points="0" max-points="3" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.046" mem="23379968"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.124" mem="22347776"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.655" mem="22347776"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.920" mem="22306816"/>
+      <test id="27" outcome="accepted-not-counted" points="0" max-points="4" comment="-1 no solution" eval-comment="Тест не зачтен" time="0.046" mem="23363584"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.436" mem="22392832"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.936" mem="22482944"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="1.060" mem="22368256"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="1.029" mem="22339584"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int32 expected" eval-comment="" time="1.045" mem="22339584"/>
+    </results>
+  </testing>
+</testing-report>

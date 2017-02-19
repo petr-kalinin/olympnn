@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="7" max="100" outcome="accepted" gtid="20170218154813007131315002">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="B1D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Best time = 0" eval-comment="" time="0.031" mem="13725696"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="Vasya was late: out = 8, t_f = 17, t = 3" eval-comment="" time="0.015" mem="13692928"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 7, t_f = 14, t = 3" eval-comment="" time="0.015" mem="13594624"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 10" eval-comment="" time="0.015" mem="13643776"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 21, t_f = 56, t = 7" eval-comment="" time="0.015" mem="13594624"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="13029376"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 30, t_f = 60, t = 3" eval-comment="" time="0.015" mem="13615104"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="12931072"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.015" mem="13623296"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13443072"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="14950400"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 0, out_time = 544" eval-comment="" time="0.015" mem="13647872"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 99999, out_time = 133618100" eval-comment="" time="0.046" mem="15757312"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 99999, out_time = 8278000" eval-comment="" time="0.031" mem="15437824"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 652003090, t_f = 687703641, t = 1000" eval-comment="" time="0.062" mem="15867904"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13680640"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution: jury_time = 3613, out_time = 8500000" eval-comment="" time="0.046" mem="15622144"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="14983168"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.124" mem="15282176"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="15007744"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.078" mem="15036416"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="12976128"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="15167488"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="13074432"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13283328"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13074432"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="Best time = 0" eval-comment="" time="0.031" mem="13615104"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="15003648"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 1, out_time = 10" eval-comment="" time="0.015" mem="13598720"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 1, out_time = 1000" eval-comment="" time="0.015" mem="13864960"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution: jury_time = 0, out_time = 10000" eval-comment="" time="0.015" mem="13709312"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="12947456"/>
+      <test id="33" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13094912"/>
+    </results>
+  </testing>
+</testing-report>

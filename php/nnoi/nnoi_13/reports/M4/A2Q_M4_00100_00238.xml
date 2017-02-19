@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20170218125543002696647357">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="A2Q" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3 lines" eval-comment="" time="0.031" mem="17657856"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="1 lines" eval-comment="" time="0.031" mem="17592320"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="2 lines" eval-comment="" time="0.031" mem="18632704"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="10 lines" eval-comment="" time="0.031" mem="18489344"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="30 lines" eval-comment="" time="0.031" mem="18493440"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="100 lines" eval-comment="" time="0.031" mem="18505728"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="100000 lines" eval-comment="" time="0.951" mem="20549632"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="2 lines" eval-comment="" time="0.031" mem="17584128"/>
+      <test id="9" outcome="accepted" points="4" max-points="4" comment="300 lines" eval-comment="" time="0.031" mem="18522112"/>
+      <test id="10" outcome="accepted" points="4" max-points="4" comment="1000 lines" eval-comment="" time="0.062" mem="18661376"/>
+      <test id="11" outcome="accepted" points="4" max-points="4" comment="3000 lines" eval-comment="" time="0.062" mem="19046400"/>
+      <test id="12" outcome="accepted" points="6" max-points="6" comment="10000 lines" eval-comment="" time="0.124" mem="19951616"/>
+      <test id="13" outcome="accepted" points="6" max-points="6" comment="30000 lines" eval-comment="" time="0.296" mem="20430848"/>
+      <test id="14" outcome="accepted" points="6" max-points="6" comment="99999 lines" eval-comment="" time="0.920" mem="20549632"/>
+      <test id="15" outcome="accepted" points="6" max-points="6" comment="100000 lines" eval-comment="" time="0.936" mem="20553728"/>
+      <test id="16" outcome="accepted" points="6" max-points="6" comment="99999 lines" eval-comment="" time="0.904" mem="20508672"/>
+      <test id="17" outcome="accepted" points="6" max-points="6" comment="100000 lines" eval-comment="" time="0.951" mem="20414464"/>
+      <test id="18" outcome="accepted" points="6" max-points="6" comment="100000 lines" eval-comment="" time="0.998" mem="20148224"/>
+      <test id="19" outcome="accepted" points="6" max-points="6" comment="100000 lines" eval-comment="" time="0.936" mem="20529152"/>
+      <test id="20" outcome="accepted" points="6" max-points="6" comment="100000 lines" eval-comment="" time="0.936" mem="19644416"/>
+      <test id="21" outcome="accepted" points="6" max-points="6" comment="100000 lines" eval-comment="" time="0.951" mem="20553728"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="17" max="100" outcome="accepted" gtid="20170218160013013470388442">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="A2A" time-limit="3000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.046" mem="28798976"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 impossible" eval-comment="" time="0.031" mem="28794880"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="0" comment="Contestant found the answer 0, jury has better answer 1" eval-comment="" time="0.031" mem="28819456"/>
+      <test id="4" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="24268800"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 0, jury has better answer 22" eval-comment="" time="0.031" mem="28790784"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.046" mem="28803072"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.031" mem="28790784"/>
+      <test id="8" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="24477696"/>
+      <test id="9" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="24215552"/>
+      <test id="10" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="24227840"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.031" mem="28839936"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.031" mem="28934144"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.031" mem="29773824"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.046" mem="30711808"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="24870912"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.296" mem="30777344"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="-1 impossible" eval-comment="" time="0.218" mem="30691328"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="3.042" mem="25595904"/>
+      <test id="19" outcome="accepted" points="2" max-points="2" comment="answer is 0" eval-comment="" time="0.280" mem="30687232"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.031" mem="30187520"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="3.042" mem="26513408"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24543232"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="2" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.280" mem="30736384"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="2" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.249" mem="30683136"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="3.057" mem="26271744"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="26251264"/>
+      <test id="27" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="26255360"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="26288128"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="26312704"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="Contestand didn't find the answer but it exists" eval-comment="" time="0.592" mem="30724096"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="26312704"/>
+      <test id="32" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="26292224"/>
+      <test id="33" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24547328"/>
+      <test id="34" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24539136"/>
+      <test id="35" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="24559616"/>
+      <test id="36" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24805376"/>
+      <test id="37" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24596480"/>
+      <test id="38" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24518656"/>
+    </results>
+  </testing>
+</testing-report>

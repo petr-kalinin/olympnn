@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218145721016825012184">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="B4U" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="python ..\cscompile.py " compiler-output="Компилятор Microsoft (R) Visual C# версии 1.3.1.60616&#13;&#10;c Корпорация Майкрософт (Microsoft Corporation). Все права защищены.&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="10141696"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="10149888"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="10141696"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="10223616"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="10100736"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="10227712"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="10149888"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="10153984"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.015" mem="10199040"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="31043584"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="21958656"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="10137600"/>
+      <test id="13" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.031" mem="21057536"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.343" mem="213270528"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="15138816"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="11780096"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13520896"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="20295680"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="27488256"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="27963392"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="24215552"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="32174080"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="25030656"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="31944704"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.078" mem="31109120"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="10178560"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.015" mem="10133504"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="21946368"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="10334208"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="26120192"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.093" mem="50061312"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.078" mem="32464896"/>
+      <test id="33" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.109" mem="32387072"/>
+    </results>
+  </testing>
+</testing-report>

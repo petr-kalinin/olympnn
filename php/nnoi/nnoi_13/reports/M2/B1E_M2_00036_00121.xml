@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="13" max="100" outcome="accepted" gtid="20170218115144001276989189">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="B1E" time-limit="3000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer is 3" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="Incorrect answer. First problem - day 0" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="answer is 1" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 1, jury has better answer 2" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="answer is 22" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="answer is 0" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 0" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 9, jury has better answer 20" eval-comment="" time="0.000" mem="1265664"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 2, jury has better answer 6" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 15, jury has better answer 24" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 162, jury has better answer 234" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="answer is 69" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1277952"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 0" eval-comment="" time="0.000" mem="1347584"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000409" eval-comment="" time="0.000" mem="1286144"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1335296"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.078" mem="1318912"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1298432"/>
+      <test id="19" outcome="accepted" points="2" max-points="2" comment="answer is 0" eval-comment="" time="0.171" mem="1273856"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1277952"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="3272704"/>
+      <test id="23" outcome="accepted" points="2" max-points="2" comment="answer is 114303" eval-comment="" time="0.187" mem="5017600"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="2109440"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="2134016"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="2359296"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="2424832"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="2797568"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.015" mem="3158016"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1269760"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="3739648"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.015" mem="5271552"/>
+      <test id="33" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="5271552"/>
+      <test id="34" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.015" mem="5271552"/>
+      <test id="35" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="5271552"/>
+      <test id="36" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1675264"/>
+      <test id="37" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1671168"/>
+      <test id="38" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="5271552"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="60" max="100" outcome="accepted" gtid="20170218130108003891227992">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="B1M" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Best time = 0" eval-comment="" time="0.000" mem="2084864"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="Best time = 6" eval-comment="" time="0.000" mem="2080768"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 13, t_f = 14, t = 3" eval-comment="" time="0.000" mem="2080768"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.000" mem="2080768"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="Best time = 21" eval-comment="" time="0.000" mem="2080768"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.000" mem="2080768"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="Best time = 29" eval-comment="" time="0.000" mem="2084864"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.000" mem="2080768"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Wrong out format" eval-comment="" time="0.000" mem="2080768"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 56397000150, t_f = 56397000635, t = 500" eval-comment="" time="0.280" mem="2084864"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="Best time = 29999999999" eval-comment="" time="0.109" mem="2080768"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.000" mem="2076672"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 231485000, t_f = 231487358, t = 7700" eval-comment="" time="0.046" mem="2076672"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 25100000, t_f = 25100096, t = 2000" eval-comment="" time="0.015" mem="2076672"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 687703090, t_f = 687703641, t = 1000" eval-comment="" time="0.078" mem="2076672"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 5133730378, t_f = 5134018835, t = 500000" eval-comment="" time="0.031" mem="2080768"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="Best time = 3613" eval-comment="" time="0.046" mem="2076672"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 2567665013, t_f = 2567666008, t = 35000" eval-comment="" time="0.156" mem="2080768"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 25000000003, t_f = 25000110774, t = 250000" eval-comment="" time="0.218" mem="2080768"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.234" mem="2072576"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 30974500000, t_f = 30974675616, t = 400000" eval-comment="" time="0.171" mem="2080768"/>
+      <test id="22" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.265" mem="2076672"/>
+      <test id="23" outcome="accepted" points="3" max-points="3" comment="Best time = 0" eval-comment="" time="0.187" mem="2076672"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 300000000000, t_f = 300000752406, t = 1000000" eval-comment="" time="0.265" mem="2076672"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Vasya was late: out = 210000000000, t_f = 210000038518, t = 100000" eval-comment="" time="0.265" mem="2080768"/>
+      <test id="26" outcome="accepted" points="3" max-points="3" comment="Best time = 10000000001" eval-comment="" time="0.000" mem="2072576"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Wrong out format" eval-comment="" time="0.000" mem="2076672"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="Best time = 29999999" eval-comment="" time="0.109" mem="2076672"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="Best time = 1" eval-comment="" time="0.000" mem="2080768"/>
+      <test id="30" outcome="accepted" points="4" max-points="4" comment="Best time = 1" eval-comment="" time="0.000" mem="2076672"/>
+      <test id="31" outcome="accepted" points="4" max-points="4" comment="Best time = 0" eval-comment="" time="0.000" mem="2080768"/>
+      <test id="32" outcome="accepted" points="4" max-points="4" comment="Best time = 127" eval-comment="" time="0.280" mem="2080768"/>
+      <test id="33" outcome="accepted" points="4" max-points="4" comment="Best time = 0" eval-comment="" time="0.265" mem="2076672"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="5" max="100" outcome="accepted" gtid="20170218151201020738885285">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="D2A" time-limit="3000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Contestant found the answer 1, jury has better answer 3" eval-comment="" time="0.031" mem="4894720"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-1 impossible" eval-comment="" time="0.031" mem="4894720"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="answer is 1" eval-comment="" time="0.031" mem="4898816"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 2" eval-comment="" time="0.031" mem="4894720"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="answer is 22" eval-comment="" time="0.031" mem="4894720"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 1" eval-comment="" time="0.031" mem="4898816"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 0" eval-comment="" time="0.031" mem="4898816"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 12" eval-comment="" time="0.031" mem="4898816"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 64" eval-comment="" time="0.031" mem="4894720"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 26" eval-comment="" time="0.031" mem="4894720"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 4" eval-comment="" time="0.046" mem="4980736"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 1" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 0" eval-comment="" time="1.357" mem="5320704"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 0" eval-comment="" time="0.109" mem="6045696"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 1055" eval-comment="" time="0.374" mem="5111808"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="30011392"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="28889088"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="Incorrect answer. First problem - day 0" eval-comment="" time="0.530" mem="5799936"/>
+      <test id="19" outcome="accepted" points="2" max-points="2" comment="answer is 0" eval-comment="" time="1.497" mem="19091456"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 77" eval-comment="" time="1.544" mem="5435392"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="3.042" mem="8675328"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="3.057" mem="15618048"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="2" comment="Incorrect answer. First problem - day 0" eval-comment="" time="0.826" mem="19070976"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="3.042" mem="22683648"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="3.057" mem="27201536"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="27340800"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Incorrect answer. First problem - day 22377" eval-comment="" time="2.698" mem="24989696"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="37060608"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="48418816"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="64831488"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="59662336"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="Contestant found the answer 506403, jury has better answer 809245" eval-comment="" time="1.996" mem="65470464"/>
+      <test id="33" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="90951680"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="89407488"/>
+      <test id="35" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.057" mem="54833152"/>
+      <test id="36" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="8736768"/>
+      <test id="37" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="8318976"/>
+      <test id="38" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="23822336"/>
+    </results>
+  </testing>
+</testing-report>

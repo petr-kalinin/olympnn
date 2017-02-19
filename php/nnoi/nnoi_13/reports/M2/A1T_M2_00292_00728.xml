@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218160743016803875016">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="A1T" time-limit="3000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Integer 3416 violates the range [-1, 6]" eval-comment="" time="0.000" mem="1282048"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.000" mem="1286144"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="0" comment="Integer 11 violates the range [-1, 1]" eval-comment="" time="0.000" mem="1282048"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Integer 11 violates the range [-1, 3]" eval-comment="" time="0.000" mem="1277952"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;2219311166121551719487132202118101422&quot; found" eval-comment="" time="0.000" mem="1277952"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.000" mem="1277952"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.000" mem="1294336"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;181822121116241319172726732930421&quot; found" eval-comment="" time="0.000" mem="1277952"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;613412914112411014&quot; found" eval-comment="" time="0.000" mem="1294336"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;241931952001921942282322232531...1601653618933130137207123120280&quot; found" eval-comment="" time="0.000" mem="1294336"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;234200184241175250190238182327...5780365362369363366367364370368&quot; found" eval-comment="" time="0.000" mem="1314816"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;692301633532248332284414492214...3647851103403464945245367477319&quot; found" eval-comment="" time="0.000" mem="1318912"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.000" mem="1568768"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.000" mem="2056192"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;788596612679588666617673645593...8012688269726122775271125502547&quot; found" eval-comment="" time="0.000" mem="1462272"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.171" mem="16273408"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.171" mem="16437248"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;436854575406540254405493540753...6544228490345474592461243053922&quot; found" eval-comment="" time="0.015" mem="1732608"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="2" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.296" mem="38293504"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;600223965147115531426147415599...3217419125325101520162818141123&quot; found" eval-comment="" time="0.000" mem="1662976"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;187473485032978318584043528640...7988341528859139712589579591491&quot; found" eval-comment="" time="0.062" mem="4653056"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;433092112629392862112628392858...8802676928414728658286978430886&quot; found" eval-comment="" time="1.107" mem="26656768"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;114303870817435406870811117155...7476424238208238210476422238209&quot; found" eval-comment="" time="0.452" mem="32923648"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;193848144784164162166021152511...1114134935898944711852026561026&quot; found" eval-comment="" time="0.577" mem="16920576"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;133255254726117240381812410491...4752708127169114891106078126558&quot; found" eval-comment="" time="0.546" mem="24035328"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;694411237731254155874613680712...5430402315529968230393087032094&quot; found" eval-comment="" time="0.374" mem="18800640"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;966401303011302801302871302641...8841890818896121000121060121016&quot; found" eval-comment="" time="0.327" mem="12333056"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;804013174613176013095383128333...5238247221840220649231853209676&quot; found" eval-comment="" time="0.499" mem="27840512"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;374613209463137673167704208252...3336356368402279649287146322291&quot; found" eval-comment="" time="1.326" mem="45670400"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - int32 expected" eval-comment="" time="0.499" mem="39927808"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;558817594951603657589146487032...9440492404125637313283146636825&quot; found" eval-comment="" time="1.872" mem="61841408"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;4294967295&quot; found" eval-comment="" time="0.483" mem="33345536"/>
+      <test id="33" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;809254375824896624504434377954...6575916587774953644756971873398&quot; found" eval-comment="" time="1.232" mem="75030528"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="3.042" mem="86069248"/>
+      <test id="35" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;136003559919414808369187822531...0042612459273718141023638490761&quot; found" eval-comment="" time="1.154" mem="76607488"/>
+      <test id="36" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;140776092060909608882436499087...8817909779272737128961933795683&quot; found" eval-comment="" time="0.093" mem="8781824"/>
+      <test id="37" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;740843983318642238815931880054...3517087750802106370863210818699&quot; found" eval-comment="" time="0.218" mem="10096640"/>
+      <test id="38" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;260038784402196100993170784398...8246671898859147870884748942407&quot; found" eval-comment="" time="0.889" mem="40534016"/>
+    </results>
+  </testing>
+</testing-report>

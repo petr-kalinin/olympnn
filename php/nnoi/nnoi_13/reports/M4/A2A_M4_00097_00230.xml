@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="8" max="100" outcome="accepted" gtid="20170218125243001809349432">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="A2A" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="2nd lines differ" eval-comment="" time="0.015" mem="16900096"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="1 lines" eval-comment="" time="0.031" mem="16900096"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ" eval-comment="" time="0.031" mem="16887808"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ" eval-comment="" time="0.031" mem="16932864"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ" eval-comment="" time="0.031" mem="17027072"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ" eval-comment="" time="0.031" mem="17166336"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ" eval-comment="" time="0.436" mem="19935232"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="2 lines" eval-comment="" time="0.031" mem="16891904"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ" eval-comment="" time="0.031" mem="16990208"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ" eval-comment="" time="0.031" mem="17100800"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ" eval-comment="" time="0.046" mem="17678336"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ" eval-comment="" time="0.062" mem="18731008"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ" eval-comment="" time="0.156" mem="19791872"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ" eval-comment="" time="0.436" mem="19836928"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ" eval-comment="" time="0.421" mem="19812352"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ" eval-comment="" time="0.421" mem="19828736"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ" eval-comment="" time="0.421" mem="19914752"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.045" mem="18014208"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.045" mem="19693568"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.045" mem="19701760"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.045" mem="19742720"/>
+    </results>
+  </testing>
+</testing-report>
