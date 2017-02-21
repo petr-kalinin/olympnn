@@ -17,6 +17,8 @@ XII Нижегородская городская олимпиада школьников по информатике им. В.&nbsp;Д. Л
 </ul>
 <h2>Основной тур</h2>
 <ul>
+<li><a href="jury.php">Жюри</a></li>
+<li><a href="org.php">Оргкомитет</a></li>
 <li><a href="results.php">Результаты</a></li>
 <li><a href="archive/index.php">Архив</a></li>
 </ul>
