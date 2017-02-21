@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1251"?>
 <testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20170218161328019734021842">
-  <solution problem="M6" problem-name=" " problem-type="P" contestant="B3J" time-limit="1000" memory-limit="268435456"/>
+  <solution problem="M6" problem-name="Очередь" problem-type="P" contestant="B3J" time-limit="1000" memory-limit="268435456"/>
   <compiling outcome="compilation-error" command-line="pabcnetcclear.exe sol.pas " compiler-output="Compile errors:&#13;&#10;[6,4] sol.pas: Undefined name reference 'random100000'&#13;&#10;"/>
   <testing>
     <results>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1251"?>
 <testing-report version="2.0" points="24" max="100" outcome="accepted" gtid="20170218135041000371733254">
-  <solution problem="M5" problem-name=" " problem-type="P" contestant="B4S" time-limit="1000" memory-limit="268435456"/>
+  <solution problem="M5" problem-name="Поищите без сдачи!" problem-type="P" contestant="B4S" time-limit="1000" memory-limit="268435456"/>
   <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output="sol.cpp:8:28: warning: integer constant is so large that it is unsigned&#13;&#10; unsigned long long minim = 10000000000000000000, temp = 0;&#13;&#10;                            ^&#13;&#10;sol.cpp:8:1: warning: this decimal constant is unsigned only in ISO C90&#13;&#10; unsigned long long minim = 10000000000000000000, temp = 0;&#13;&#10; ^&#13;&#10;"/>
   <testing>
     <results>

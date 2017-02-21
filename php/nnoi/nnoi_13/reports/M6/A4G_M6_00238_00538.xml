@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1251"?>
 <testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218151326020943542242">
-  <solution problem="M6" problem-name=" " problem-type="P" contestant="A4G" time-limit="1000" memory-limit="268435456"/>
+  <solution problem="M6" problem-name="Очередь" problem-type="P" contestant="A4G" time-limit="1000" memory-limit="268435456"/>
   <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
   <testing>
     <results>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1251"?>
 <testing-report version="2.0" points="0" max="200" outcome="compilation-error" gtid="20170218114402000242122895">
-  <solution problem="M1" problem-name=" " problem-type="P" contestant="C1M" time-limit="1000" memory-limit="268435456"/>
+  <solution problem="M1" problem-name="A+B" problem-type="P" contestant="C1M" time-limit="1000" memory-limit="268435456"/>
   <compiling outcome="compilation-error" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;sol.cpp(10): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory&#13;&#10;"/>
   <testing>
     <results>

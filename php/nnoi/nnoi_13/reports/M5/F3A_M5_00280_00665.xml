@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1251"?>
 <testing-report version="2.0" points="7" max="100" outcome="accepted" gtid="20170218155538010542747340">
-  <solution problem="M5" problem-name=" " problem-type="P" contestant="F3A" time-limit="1000" memory-limit="268435456"/>
+  <solution problem="M5" problem-name="Поищите без сдачи!" problem-type="P" contestant="F3A" time-limit="1000" memory-limit="268435456"/>
   <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
   <testing>
     <results>

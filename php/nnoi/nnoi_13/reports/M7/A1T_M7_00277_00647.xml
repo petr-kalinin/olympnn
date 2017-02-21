@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1251"?>
 <testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20170218155208008716610637">
-  <solution problem="M7" problem-name=" " problem-type="P" contestant="A1T" time-limit="1000" memory-limit="268435456"/>
+  <solution problem="M7" problem-name="Гирлянда" problem-type="P" contestant="A1T" time-limit="1000" memory-limit="268435456"/>
   <compiling outcome="compilation-error" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx: In function 'int main()':&#13;&#10;sol.cxx:90:43: error: invalid conversion from 'int' to 'std::ios_base::openmode {aka std::_Ios_Openmode}' [-fpermissive]&#13;&#10;  ofstream fout; fout.open(&quot;garland.out&quot;, 2);&#13;&#10;                                           ^&#13;&#10;In file included from sol.cxx:9:0:&#13;&#10;C:/TDM-GCC-32/lib/gcc/mingw32/5.1.0/include/c++/fstream:799:7: note:   initializing argument 2 of 'void std::basic_ofstream&lt;_CharT, _Traits&gt;::open(const char*, std::ios_base::openmode) [with _CharT = char; _Traits = std::char_traits&lt;char&gt;; std::ios_base::openmode = std::_Ios_Openmode]'&#13;&#10;       open(const char* __s,&#13;&#10;       ^&#13;&#10;"/>
   <testing>
     <results>

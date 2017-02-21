@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1251"?>
 <testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20170218145326015621524082">
-  <solution problem="M7" problem-name=" " problem-type="P" contestant="A4P" time-limit="1500" memory-limit="268435456"/>
+  <solution problem="M7" problem-name="Гирлянда" problem-type="P" contestant="A4P" time-limit="1500" memory-limit="268435456"/>
   <compiling outcome="compilation-error" command-line="pabcnetcclear.exe sol.pas " compiler-output="Compile errors:&#13;&#10;[17,36] sol.pas: Found '' '' but expected operator&#13;&#10;"/>
   <testing>
     <results>

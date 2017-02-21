@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1251"?>
 <testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20170218131633006345901186">
-  <solution problem="M6" problem-name=" " problem-type="P" contestant="C2D" time-limit="1000" memory-limit="268435456"/>
+  <solution problem="M6" problem-name="Очередь" problem-type="P" contestant="C2D" time-limit="1000" memory-limit="268435456"/>
   <compiling outcome="compilation-error" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx: In function 'int main()':&#13;&#10;sol.cxx:11:30: error: expected primary-expression before ')' token&#13;&#10;     if(array[0] - 1 &gt;= 0 and )&#13;&#10;                              ^&#13;&#10;"/>
   <testing>
     <results>

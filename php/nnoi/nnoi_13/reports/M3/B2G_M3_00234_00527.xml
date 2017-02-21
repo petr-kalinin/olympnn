@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1251"?>
 <testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20170218150941019851168024">
-  <solution problem="M3" problem-name=" " problem-type="P" contestant="B2G" time-limit="3000" memory-limit="268435456"/>
+  <solution problem="M3" problem-name="Спасение принцессы" problem-type="P" contestant="B2G" time-limit="3000" memory-limit="268435456"/>
   <compiling outcome="compiled-not-tested" command-line="python ..\cscompile.py " compiler-output="Компилятор Microsoft (R) Visual C# версии 1.3.1.60616&#13;&#10;c Корпорация Майкрософт (Microsoft Corporation). Все права защищены.&#13;&#10;&#13;&#10;sol.cs(19,24): warning CS0219: Переменной &quot;x4&quot; присвоено значение, но оно ни разу не использовано.&#13;&#10;sol.cs(19,32): warning CS0219: Переменной &quot;y4&quot; присвоено значение, но оно ни разу не использовано.&#13;&#10;sol.cs(19,40): warning CS0219: Переменной &quot;x1&quot; присвоено значение, но оно ни разу не использовано.&#13;&#10;sol.cs(19,56): warning CS0219: Переменной &quot;x2&quot; присвоено значение, но оно ни разу не использовано.&#13;&#10;sol.cs(19,64): warning CS0219: Переменной &quot;y2&quot; присвоено значение, но оно ни разу не использовано.&#13;&#10;sol.cs(19,72): warning CS0219: Переменной &quot;x3&quot; присвоено значение, но оно ни разу не использовано.&#13;&#10;sol.cs(19,80): warning CS0219: Переменной &quot;y3&quot; присвоено значение, но оно ни разу не использовано.&#13;&#10;"/>
   <testing>
     <results>

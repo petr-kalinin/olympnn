@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1251"?>
 <testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20170218152733001177733753">
-  <solution problem="M4" problem-name=" " problem-type="P" contestant="B3P" time-limit="1000" memory-limit="268435456"/>
+  <solution problem="M4" problem-name="Снековик" problem-type="P" contestant="B3P" time-limit="1000" memory-limit="268435456"/>
   <compiling outcome="compilation-error" command-line="pabcnetcclear.exe sol.pas " compiler-output="Compile errors:&#13;&#10;[7,1] sol.pas: Found 'r' but expected ';'&#13;&#10;"/>
   <testing>
     <results>
