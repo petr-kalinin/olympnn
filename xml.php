@@ -1,4 +1,4 @@
-<?
+<?php 
 $xml_data=array();
 
 function startElement($parser, $name, $attrs) {
@@ -44,7 +44,7 @@ xml_parser_set_option($xml_parser,XML_OPTION_CASE_FOLDING,false);
 xml_set_element_handler($xml_parser, "startElement", "endElement");
 $data=file_get_contents($file);
 if ($enc<>''){
-   $data="<?xml version=\"1.0\" encoding=\"$enc\"?>".$data;
+   $data="<?php xml version=\"1.0\" encoding=\"$enc\"?>".$data;
 }
 //PHP <5 не использует параметр enconding, поэтому вручную перекодируем в utf8
 if (

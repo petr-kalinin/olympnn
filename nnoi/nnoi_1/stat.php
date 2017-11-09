@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="../..";
 include_once("$backpath/onn.php");
 include_once("$backpath/ije_proc.php");
@@ -6,7 +6,7 @@ startonn("/Город/NNOI I/Результаты","Статистика I Нижегородской городской олимпи
 ?>
 <h1>I (восстановленная) Нижегородская городская олимпиада школьников по информатике</h1>
 <h2>Статистика</h2>
-<?
+<?php 
 if (isset($_GET["prob"])) {
    loadxml("results/results.xml",$results);
    if (($_GET["prob"]=='all')or isset($results["results"]["problems"][$_GET["prob"]]))

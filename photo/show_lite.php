@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="..";
 include_once("$backpath/onn.php");
 
@@ -29,12 +29,12 @@ if (!isset($index[$num])){
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
 <head>
-<title><?="Фото $num &#8212; $index[title]"?></title>
+<title><?php ="Фото $num &#8212; $index[title]"?></title>
 <link rel="stylesheet" href="show_lite.css"/>
 </head>
 <body>
 <table><tr class="main">
-<?
+<?php 
 writeln("<td class=\"nav\"><div class=\"leftright\">");
 if ($num>1)
    writeln("<a href=\"{$PHP_NAME}?num=".($num-1)."&amp;name=$name\">&lt;&lt;</a><br/>"); 
@@ -62,7 +62,7 @@ else
 
 ?>
 </td></tr></table>
-<?
+<?php 
 if (isset($index[$num]["comment"]))
    writeln("<center>{$index[$num]["comment"]}</center>");
    

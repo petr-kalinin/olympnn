@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="../..";
 include_once("$backpath/onn.php");
 startonn("/Город/NNOI XII/Участники","Список участников XII городской олимпиады");
@@ -96,6 +96,6 @@ startonn("/Город/NNOI XII/Участники","Список участников XII городской олимпиады"
 <li>Яхтин Леонид</li>
 </ul>
 
-<?
+<?php 
 endonn();
 ?>

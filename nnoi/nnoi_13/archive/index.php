@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="../../..";
 include_once("$backpath/onn.php");
 startonn("/Город/NNOI XIII/Архив","Архив XIII Нижегородской городской олимпиады школьников по информатике");
@@ -25,7 +25,7 @@ print_many_files(array($fname=>array("comment"=>"","format"=>$format)),$text);
 <p>Для распаковки архивов 7-zip можно скачать open-source архиватор 7-zip с сайта <a 
 href="http://www.7-zip.org/">http://www.7-zip.org/</a>.</p>
 
-<?
+<?php 
 print_file("nnoi2017_problems.zip","Все материалы по задачам (тесты, исходники условий, проверяющие программы, решения жюри и т.д.)");
 
 print_file("nnoi2017_sols_all.7z","Все посылки всех участников");

@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="../..";
 include_once("$backpath/onn.php");
 startonn("/Город/NNOI XIII","XIII Нижегородская городская олимпиада школьников по информатике");
@@ -37,6 +37,6 @@ XIII Нижегородская городская олимпиада школьников по информатике им. В.&nbsp;Д. 
 <a href="http://www.prima.nnov.ru"><img src="prima.png"/></a>
 <a href="http://unn.ru"><img src="http://www.unn.ru/site/images/brand/unn_logo_ru.png"/></a>
 </div>
-<?
+<?php 
 endonn();
 ?>

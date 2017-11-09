@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="../..";
 include_once("$backpath/onn.php");
 startonn("/Город/NNOI IX","IX Нижегородская городская олимпиада школьников по информатике");
@@ -26,6 +26,6 @@ IX Нижегородская городская олимпиада школьников по информатике была проведена 31
 <ul>
 <li><a href="http://informatics.mccme.ru/moodle/mod/statements/view.php?id=4543">Online-проверка</a></li>
 </ul>
-<?
+<?php 
 endonn();
 ?>

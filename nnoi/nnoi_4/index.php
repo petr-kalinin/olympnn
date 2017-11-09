@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="../..";
 include_once("$backpath/onn.php");
 startonn("/Город/NNOI IV","IV Нижегородская городская олимпиада школьников по информатике");
@@ -21,6 +21,6 @@ IV Нижегородская городская олимпиада школьников по информатике была проведена 28
 <li><a href="results.php">Результаты</a></li>
 <li><a href="archive/index.php">Архив</a></li>
 </ul>
-<?
+<?php 
 endonn();
 ?>

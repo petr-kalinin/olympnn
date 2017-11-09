@@ -1,4 +1,4 @@
-<?
+<?php 
 set_magic_quotes_runtime(0);
 if (get_magic_quotes_gpc()==1){
   foreach ($_GET as $key=>$val) 

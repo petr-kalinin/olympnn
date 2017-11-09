@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="../../..";
 include_once("$backpath/onn.php");
 startonn("/Город/NNOI V/Архив","Архив V Нижегородской городской олимпиады школьников по информатике");
@@ -26,7 +26,7 @@ str_replace(" ","&nbsp;",number_format(filesize($fname),0,''," "))."&nbsp;б.) со
 <div class="hr"></div>
 
 <h2>Архив "Основной"</h2>
-<p class="bottomzero"><?print_file("nnoi5_base.rar");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_base.rar");?></p>
 <ul>
 <li>Тесты ко всем задачам (готовые к использованию :) )</li>
 <li>Решения всех участников</li>
@@ -38,7 +38,7 @@ str_replace(" ","&nbsp;",number_format(filesize($fname),0,''," "))."&nbsp;б.) со
 <div class="hr"></div>
 
 <h2>Архив "Продвинутый"</h2>
-<p class="bottomzero"><?print_file("nnoi5_adv.rar");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_adv.rar");?></p>
 <ul>
 <li>Тестирующую систему IJE, работавшую на олимпиаде, со всем, что в ней есть (тесты,
 решения участников, протоколы тестирования, результаты)</li>
@@ -55,64 +55,64 @@ str_replace(" ","&nbsp;",number_format(filesize($fname),0,''," "))."&nbsp;б.) со
 &#8212; и в "основном".
 </p>
 
-<p class="bottomzero"><?print_file("nnoi5_ije.rar");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_ije.rar");?></p>
 <ul>
 <li>Тестирующую систему IJE, работавшую на олимпиаде, со всем, что в ней есть (тесты,
 решения участников, протоколы тестирования, результаты)</li>
 </ul>
 
-<p class="bottomzero"><?print_file("ije_50_d_rev207.rar");?></p>
+<p class="bottomzero"><?php print_file("ije_50_d_rev207.rar");?></p>
 <ul>
 <li>Исходники тестирующей системы IJE &#8212; the Integrated Judging Enviroment 5.0 rev 207</li>
 </ul>
 
-<p class="bottomzero"><?print_file("nnoi5_printouts.rar");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_printouts.rar");?></p>
 <ul>
 <li>Условия, результаты и другие печатные материалы (в формате pdf)</li>
 </ul>
 
-<p class="bottomzero"><?print_file("nnoi5_printouts_tex.rar");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_printouts_tex.rar");?></p>
 <ul>
 <li>"Исходники" условий и других печатных материалов (в формате LaTeX)</li>
 </ul>
 
-<p class="bottomzero"><?print_file("nnoi5_protocols.rar");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_protocols.rar");?></p>
 <ul>
 <li>Протоколы тестирования всех участников в формате xml</li>
 </ul>
 
-<p class="bottomzero"><?print_file("nnoi5_results.pdf","документ pdf");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_results.pdf","документ pdf");?></p>
 <ul>
 <li>Результаты олимпиады в формате pdf</li>
 </ul>
 
-<p class="bottomzero"><?print_file("nnoi5_sols_all.rar");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_sols_all.rar");?></p>
 <ul>
 <li>Решения всех участников</li>
 </ul>
 
-<p class="bottomzero"><?print_file("nnoi5_sols_jury.rar");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_sols_jury.rar");?></p>
 <ul>
 <li>Решения жюри</li>
 </ul>
 
-<p class="bottomzero"><?print_file("nnoi5_tests.rar");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_tests.rar");?></p>
 <ul>
 <li>Готовые к использованию тесты</li>
 </ul>
 
-<p class="bottomzero"><?print_file("nnoi5_tests_gen.rar");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_tests_gen.rar");?></p>
 <ul>
 <li>Генераторы тестов</li>
 </ul>
 
-<p class="bottomzero"><?print_file("nnoi5_units.rar");?></p>
+<p class="bottomzero"><?php print_file("nnoi5_units.rar");?></p>
 <ul>
 <li>Модули, необходимые для компиляции генераторов тестов и тестирующих 
 программ (они включены в остальные архивы, в которые включены и тесты, поэтому, 
 скорее всего, их скачивать отдельно не понадобится).</li> 
 </ul>
 
-<?
+<?php 
 endonn();
 ?>

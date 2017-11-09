@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="..";
 
 include_once("$backpath/onn.php");
@@ -26,7 +26,7 @@ writeln("$index[head]");
 Чтобы посмотреть оригинал фотографии, щелкните на ее эскизе.
 Чтобы посмотреть оригинал фотографии в масштабе 1:1, щелкните на ссылке 1:1
 </p>
-<?if (!isset($index["nomov"])){?>
+<?php if (!isset($index["nomov"])){?>
 <p class="topcomment">
 <span class="att">Внимание!</span>
 При определенных условиях файлы .mov могут не просматриваться, вместо этого может появляться 
@@ -37,8 +37,8 @@ writeln("$index[head]");
 работал как plug-in к браузеру (только тогда эти самые несколько мегабайт будут закачиваться
 каждый раз при загрузки страницы).
 </p>
-<?}?>
-<?
+<?php }?>
+<?php 
   function put($i) {
     global $index,$name;
     if (isset($index[$i]['group'])) writeln("<H3>".$index[$i]['group']."</H3>");

@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="../../..";
 include_once("$backpath/onn.php");
 startonn("/Город/NNOI VIII/Архив","Архив VIII Нижегородской городской олимпиады школьников по информатике");
@@ -25,7 +25,7 @@ print_many_files(array($fname=>array("comment"=>"","format"=>$format)),$text);
 <p>Для распаковки архивов 7-zip можно скачать open-source архиватор 7-zip с сайта <a 
 href="http://www.7-zip.org/">http://www.7-zip.org/</a>.</p>
 
-<?
+<?php 
 print_file("nnoi8_ije_lite.7z","IJE Lite, подготовленая для тестирования решений на полном наборе тестов. Содержит и сами тесты. (См. <a href='ije_lite.php'>инструкцию по установке</a>)");
 
 print_file("nnoi8_sols_all.7z","Решения всех участников");

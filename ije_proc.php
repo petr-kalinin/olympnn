@@ -1,4 +1,4 @@
-<?
+<?php 
 
 $ije_rustext=array(
 "OK"=>'Верно',                                  
@@ -411,9 +411,9 @@ if ($res["res"]=="CP"){
 function ije_showrepselect($resfname){
 global $PHP_NAME;
 ?>
-<form action="<?=$PHP_NAME?>" method="get">
+<form action="<?php =$PHP_NAME?>" method="get">
 <p>Выбрать протокол:
-<?
+<?php 
 loadxml($resfname,$results);
 writeln('Участник <select name="contestant">');
 foreach ($results["results"]["contestants"] as $id=>$cont){

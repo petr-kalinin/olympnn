@@ -1,4 +1,4 @@
-<?include_once("$backpath/onn.php");
+<?php include_once("$backpath/onn.php");
 
 $f=fopen("$backpath/news/news.dat","r");
 loadhier($f,$news);

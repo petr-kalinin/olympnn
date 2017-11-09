@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath=".";
 
 include_once("$backpath/onn.php");
@@ -18,7 +18,7 @@ if (isset($_GET["from"])){
 (в принципе, возможны все результаты, но как правило, некоторые невозможны,
 например, dos'овская программа не может превысить никакой разумный предел памяти):
 </p>
-<?
+<?php 
 writeln("<table class=\"tests\">");
 foreach($ije_rustext as $o=>$c){
   writeln("<tr class=\"tr".strtolower($o)."\"><td>$o</td><td><b>$c</b><br/>$ije_lcomment[$o]</br></td></tr>");

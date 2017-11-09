@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="..";
 include_once("$backpath/onn.php");
 startonn("/ нига"," нига по городским олимпиадам");
@@ -7,19 +7,19 @@ startonn("/ нига"," нига по городским олимпиадам");
 <p>¬ книгу вход€т задачи с первых шести городских олимпиад (2005 &#8212; 2010), вместе с решени€ми и
 примерами программ. ƒл€ каждой олимпиады приведена таблица результатов.</p>
 
-<?
+<?php 
 function print_year($n){
 printf("<a href='/nnoi/nnoi_$n/taskauthors.php'>".($n+2004)."</a>, ");
 }
 ?>
 
 <p>”слови€ задач, разборы, примеры решений и другие материалы олимпиад (c) 
-<?
+<?php 
 for ($i=1;$i<=6;$i++) print_year($i);
 ?>
 авторы задач олимпиад.</p>
 
-<?
+<?php 
 function print_file($fname,$format="файл pdf"){
 print "<a href=\"$fname\">$fname</a> ($format, размер ".
 str_replace(" ","&nbsp;",number_format(filesize($fname),0,''," "))."&nbsp;б.)";
@@ -27,10 +27,10 @@ str_replace(" ","&nbsp;",number_format(filesize($fname),0,''," "))."&nbsp;б.)";
 ?>
 <p> нигу можно скачать здесь в электронном виде:</p>
 <ul>
-<li> нига в формате A5: <?print_file("nnoi_book.pdf")?></li>
-<li> нига в формате A4 по две последовательные страницы A5 на страницу A4: <?print_file("nnoi_book_double.pdf")?></li>
-<li> нига в формате A4 по две страницы A5 на страницу A4, скомпонованна€ дл€ печати как брошюры (см. ниже): <?print_file("nnoi_book_print.pdf")?></li>
-<li>»сходный код книги в формате LaTeX (см. ниже): <?print_file("nnoi_book_tex.zip","архив zip")?></li>
+<li> нига в формате A5: <?php print_file("nnoi_book.pdf")?></li>
+<li> нига в формате A4 по две последовательные страницы A5 на страницу A4: <?php print_file("nnoi_book_double.pdf")?></li>
+<li> нига в формате A4 по две страницы A5 на страницу A4, скомпонованна€ дл€ печати как брошюры (см. ниже): <?php print_file("nnoi_book_print.pdf")?></li>
+<li>»сходный код книги в формате LaTeX (см. ниже): <?php print_file("nnoi_book_tex.zip","архив zip")?></li>
 </ul>
 
 <h2>»нструкции по печати файла nnoi_book_print.pdf</h2>
@@ -61,6 +61,6 @@ str_replace(" ","&nbsp;",number_format(filesize($fname),0,''," "))."&nbsp;б.)";
 дл€ компил€ции LaTeX'ом (включа€ проход bibTeX'а и конвертацию dvi в ps в различных вариантах) 
 &#8212; book_do.cmd.</p>
 
-<?
+<?php 
 endonn();
 ?>

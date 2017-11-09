@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="../..";
 include_once("$backpath/onn.php");
 include_once("$backpath/ije_proc.php");
@@ -9,7 +9,7 @@ startonn("/Город/NNOI XI/Результаты","Результаты XI Нижегородской городской олим
 <p>Для печати: <a href="archive/nnoi2015_results.pdf">nnoi2015_results.pdf</a>.</p>
 <p>По всем вопросам, связанным с результатами и тестированием, можно писать Петру Калинину на petr 
 AT kalinin ТОЧКА nnov ТОЧКА ru.<p>
-<?
+<?php 
 ije_showresults("results/results.xml","results/addinfo.txt",true,"reports.php","results/more_data.xml");
 endonn();
 ?>

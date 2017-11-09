@@ -1,4 +1,4 @@
-<?
+<?php 
 $backpath="..";
 include_once("$backpath/onn.php");
 startonn("/Новости","Новости");
