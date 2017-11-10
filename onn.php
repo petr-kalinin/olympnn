@@ -1,5 +1,5 @@
 <?php 
-set_magic_quotes_runtime(0);
+//set_magic_quotes_runtime(0);
 date_default_timezone_set("Europe/Moscow");
 
 //turn off magic quotes, when some"\"text becomes some\"\\\"text
