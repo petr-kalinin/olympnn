@@ -237,6 +237,7 @@ return array($site,$spath);
 function startonn($path,$title,$css=array("/style.css"),$addhead=""){
 global $backpath;
 assert(!empty($path));
+header('Content-Type: text/html; charset=windows-1251');
 $cssstring="";
 if ($css<>"") {
    if (!is_array($css)) {$css=array($css);}
