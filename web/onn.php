@@ -76,7 +76,7 @@ function loadhier(&$f,&$arr){
            $nst--;
            $cur=&$stack[$nst];
         } else {
-          list($left,$right)=split("=",$s,2);
+          list($left,$right)=explode("=",$s,2);
           $left=trim($left);$right=trim($right);
           if (isset($cur[$left])) 
              writeln("ERROR: Argument '$left' duplicates!");

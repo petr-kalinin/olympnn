@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="15" max="100" outcome="accepted" gtid="20180125183813000312516385">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="J01" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 3.0.4 [2017/10/06] for i386&#13;&#10;Copyright (c) 1993-2017 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(4,5) Note: Local variable &quot;f&quot; not used&#13;&#10;sol.pp(6,5) Note: Local variable &quot;ans&quot; not used&#13;&#10;sol.pp(7,5) Note: Local variable &quot;nans&quot; not used&#13;&#10;sol.pp(8,5) Note: Local variable &quot;last&quot; not used&#13;&#10;Linking sol.exe&#13;&#10;25 lines compiled, 0.0 sec, 27792 bytes code, 1284 bytes data&#13;&#10;4 note(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.000" mem="1359872"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.000" mem="1363968"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.000" mem="1363968"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.015" mem="1363968"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.000" mem="1363968"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.000" mem="1363968"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.031" mem="1363968"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="Point 81 not covered" eval-comment="" time="0.000" mem="1359872"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Point 34763160 not covered" eval-comment="" time="0.000" mem="1363968"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Point 211380 not covered" eval-comment="" time="0.000" mem="1363968"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Point 202 not covered" eval-comment="" time="0.000" mem="1363968"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Point 36 not covered" eval-comment="" time="0.000" mem="1363968"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="Point 20560014 not covered" eval-comment="" time="0.000" mem="1363968"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="Point 1000082 not covered" eval-comment="" time="0.000" mem="1363968"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="Point 400085633 not covered" eval-comment="" time="0.015" mem="1363968"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="Point 2006 not covered" eval-comment="" time="0.015" mem="1363968"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="Point 1326 not covered" eval-comment="" time="0.031" mem="1363968"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Point 200005 not covered" eval-comment="" time="0.031" mem="1363968"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Point 1326 not covered" eval-comment="" time="0.031" mem="1368064"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Point 400005 not covered" eval-comment="" time="0.015" mem="1363968"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="Point 4000064 not covered" eval-comment="" time="0.015" mem="1363968"/>
+    </results>
+  </testing>
+</testing-report>

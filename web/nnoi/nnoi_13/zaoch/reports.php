@@ -2,7 +2,7 @@
 $backpath="../../..";
 include_once("$backpath/onn.php");
 include_once("$backpath/ije_proc.php");
-startonn("/Город/NNOI XIII/Отборочный тур","Протокол тестирования отборочного тура XII Нижегородской городской олимпиады",array("/style.css","/ije_proc.css"));
+startonn("/Город/NNOI XIII/Отборочный тур","Протокол тестирования отборочного тура XIII Нижегородской городской олимпиады",array("/style.css","/ije_proc.css"));
 ?>
 <h1>XIII Нижегородская городская олимпиада школьников по информатике, отборочный тур</h1>
 <p><a href="results.php">назад к результатам</a></p>
