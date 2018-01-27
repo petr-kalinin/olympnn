@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127141847028290458667">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="B30" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17915904"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17907712"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17960960"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="19382272"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17960960"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17985536"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 199996" eval-comment="" time="0.109" mem="19783680"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17993728"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17879040"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17891328"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17940480"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="18030592"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="18362368"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="19279872"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.062" mem="19783680"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 139998" eval-comment="" time="0.078" mem="19779584"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 199998" eval-comment="" time="0.156" mem="19750912"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 199996" eval-comment="" time="0.109" mem="19767296"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 199998" eval-comment="" time="0.109" mem="19779584"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 199996" eval-comment="" time="0.109" mem="19750912"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 199998" eval-comment="" time="0.109" mem="19824640"/>
+    </results>
+  </testing>
+</testing-report>

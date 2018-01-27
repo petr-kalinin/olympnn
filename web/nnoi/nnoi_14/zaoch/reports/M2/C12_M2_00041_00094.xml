@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127134143009625375226">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="C12" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Строка 1: yesno вместо yes" eval-comment="" time="0.015" mem="13840384"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="11" comment="Строка 1: yesyesyesno вместо yes" eval-comment="" time="0.015" mem="13807616"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="11" comment="Строка 1: yesyesyesyesnoyes вместо yes" eval-comment="" time="0.015" mem="13840384"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="11" comment="Строка 1: yesnoyesyes вместо yes" eval-comment="" time="0.015" mem="13762560"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="11" comment="Строка 1: yesyesyesyesyesnoyes вместо yes" eval-comment="" time="0.015" mem="13754368"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="11" comment="Строка 1: yesyesyesnonoyes вместо yes" eval-comment="" time="0.015" mem="13807616"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="11" comment="Строка 1: yesyesno вместо yes" eval-comment="" time="0.015" mem="13803520"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="11" comment="Строка 1: yesyesno вместо no" eval-comment="" time="0.015" mem="13774848"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="1" comment="Строка 1: yesyesyesyes вместо yes" eval-comment="" time="0.015" mem="13762560"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="Строка 1: yesyesnono вместо yes" eval-comment="" time="0.015" mem="13877248"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="Строка 1: yesyesyesnonoyes вместо yes" eval-comment="" time="0.015" mem="13840384"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="2" comment="Строка 1: yesyesnoyes вместо yes" eval-comment="" time="0.015" mem="13844480"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="2" comment="Строка 1: yesyesnonoyes вместо yes" eval-comment="" time="0.015" mem="13811712"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="Строка 1: yesyesyesnonoyesyesyes вместо yes" eval-comment="" time="0.015" mem="13787136"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="Строка 1: yesyesnononono вместо yes" eval-comment="" time="0.015" mem="13787136"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="Строка 1: yesyesyesnononono вместо yes" eval-comment="" time="0.015" mem="13824000"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="Строка 1: yesyesyesyesnoyesnonoyes вместо yes" eval-comment="" time="0.015" mem="13832192"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="Строка 1: yesyesyesnonononononononononon... вместо yes" eval-comment="" time="0.031" mem="13987840"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="Строка 1: yesyesyesyesyesyesyesyesyesyes... вместо yes" eval-comment="" time="0.031" mem="13799424"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="Строка 1: yesyesnoyesnononoyesnonononono... вместо yes" eval-comment="" time="0.031" mem="13967360"/>
+    </results>
+  </testing>
+</testing-report>

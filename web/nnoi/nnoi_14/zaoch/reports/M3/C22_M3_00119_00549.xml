@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127145959055228914642">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="C22" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4931584"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4931584"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="Point 12388 not covered" eval-comment="" time="0.031" mem="5046272"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="Point 8018 not covered" eval-comment="" time="0.062" mem="6119424"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4931584"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Point 100046 not covered" eval-comment="" time="0.031" mem="5074944"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="Point 23456913 not covered" eval-comment="" time="0.405" mem="13135872"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="Point 45 not covered" eval-comment="" time="0.031" mem="4931584"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4931584"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Point 102397 not covered" eval-comment="" time="0.046" mem="4947968"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Point 101 not covered" eval-comment="" time="0.031" mem="5009408"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="5066752"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="Point 10094232 not covered" eval-comment="" time="0.062" mem="5263360"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.078" mem="5427200"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="Point 200049189 not covered" eval-comment="" time="0.218" mem="7118848"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="Point 1007 not covered" eval-comment="" time="0.374" mem="9654272"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 24999385" eval-comment="" time="0.592" mem="13135872"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Point 100029 not covered" eval-comment="" time="0.608" mem="12013568"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 999975376" eval-comment="" time="0.483" mem="13135872"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Point 200005 not covered" eval-comment="" time="0.655" mem="12013568"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="Point 1000018 not covered" eval-comment="" time="0.592" mem="12410880"/>
+    </results>
+  </testing>
+</testing-report>

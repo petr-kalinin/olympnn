@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127142437030970224176">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="B37" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="python ..\cscompile.py " compiler-output="Компилятор Microsoft (R) Visual C# версии 1.3.1.60616&#13;&#10;c Корпорация Майкрософт (Microsoft Corporation). Все права защищены.&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.015" mem="9936896"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.015" mem="9981952"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.015" mem="11874304"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.156" mem="17227776"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.015" mem="9940992"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.015" mem="11993088"/>
+      <test id="7" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.060" mem="161193984"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.015" mem="9953280"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Point 33420741 not covered" eval-comment="" time="0.015" mem="9809920"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.015" mem="9904128"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.015" mem="10895360"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Point 1630 not covered" eval-comment="" time="0.015" mem="11833344"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.031" mem="15560704"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="Point 1000030 not covered" eval-comment="" time="0.031" mem="17063936"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.060" mem="154689536"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.029" mem="157065216"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="Point 898 not covered" eval-comment="" time="0.046" mem="30875648"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.076" mem="161411072"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Point 898 not covered" eval-comment="" time="0.062" mem="24891392"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.060" mem="161406976"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="161611776"/>
+    </results>
+  </testing>
+</testing-report>

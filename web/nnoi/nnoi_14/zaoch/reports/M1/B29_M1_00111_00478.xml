@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127145128048108091541">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="B29" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok" eval-comment="" time="0.031" mem="17551360"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Extra information in output" eval-comment="" time="0.062" mem="17608704"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Invalid count of 1: correct = 4, output = 1" eval-comment="" time="0.031" mem="17489920"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Invalid count of 1: correct = 3, output = 1" eval-comment="" time="0.031" mem="17522688"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Invalid count of 1: correct = 2, output = 1" eval-comment="" time="0.031" mem="17530880"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17534976"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17575936"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17502208"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17510400"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17526784"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17551360"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17485824"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 3] = 2" eval-comment="" time="0.031" mem="17645568"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17571840"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17772544"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17522688"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17481728"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17522688"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17481728"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17518592"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17514496"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="3" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17543168"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [3, 1] = 2" eval-comment="" time="0.031" mem="17645568"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17526784"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - integer expected" eval-comment="" time="0.046" mem="17502208"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="4" comment="Extra information in output" eval-comment="" time="0.031" mem="17502208"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17539072"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17764352"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17530880"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17580032"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17498112"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17551360"/>
+    </results>
+  </testing>
+</testing-report>

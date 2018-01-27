@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="15" max="100" outcome="accepted" gtid="20180127143943039373840119">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="A19" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Invalid number of children: [1, 1] = 122" eval-comment="" time="0.031" mem="17575936"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Invalid number of children: [1, 1] = 11" eval-comment="" time="0.031" mem="17592320"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 111" eval-comment="" time="0.031" mem="17563648"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 111" eval-comment="" time="0.031" mem="17555456"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 112" eval-comment="" time="0.031" mem="17620992"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 11111" eval-comment="" time="0.031" mem="17629184"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 1111111111" eval-comment="" time="0.031" mem="17575936"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 1111" eval-comment="" time="0.031" mem="17567744"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.031" mem="17674240"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;123456789101112131415161718192...&quot;" eval-comment="" time="0.031" mem="17682432"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;123456789101112131415161718192...&quot;" eval-comment="" time="0.031" mem="17596416"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;112233445566778899101011111212...&quot;" eval-comment="" time="0.031" mem="17747968"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.031" mem="17596416"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.031" mem="17776640"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16351232"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;123456789101112131415161718192...&quot;" eval-comment="" time="0.046" mem="19386368"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16392192"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16318464"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="17674240"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16232448"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16269312"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16367616"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="ok" eval-comment="" time="0.031" mem="17682432"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="ok" eval-comment="" time="0.031" mem="17887232"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.031" mem="17702912"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="ok" eval-comment="" time="0.031" mem="17588224"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16183296"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16723968"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="16343040"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="16646144"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="17387520"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="17444864"/>
+    </results>
+  </testing>
+</testing-report>

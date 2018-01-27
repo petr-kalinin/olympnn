@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127143714037494941546">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="C08" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.031" mem="18259968"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="18407424"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="18423808"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.046" mem="20123648"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="18296832"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="18456576"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.358" mem="20459520"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="18206720"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Point 989464296 not covered" eval-comment="" time="0.031" mem="18268160"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="18292736"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="18489344"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="18477056"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.046" mem="19062784"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.078" mem="20168704"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.109" mem="20135936"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.265" mem="20688896"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.577" mem="20451328"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.280" mem="20467712"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.421" mem="20488192"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.358" mem="20422656"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.265" mem="20398080"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20180127144619044726239533">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="A13" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="pabcnetcclear.exe sol.pas " compiler-output="Compile errors:&#13;&#10;[2,26] sol.pas: Found '64' but expected ';'&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

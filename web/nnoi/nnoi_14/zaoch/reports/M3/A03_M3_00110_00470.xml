@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127145011047317477752">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="A03" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.031" mem="96915456"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.015" mem="96948224"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.015" mem="97067008"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.031" mem="98496512"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.031" mem="96980992"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.046" mem="97107968"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.156" mem="99024896"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="Point 172 not covered" eval-comment="" time="0.031" mem="96960512"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Point 989464296 not covered" eval-comment="" time="0.031" mem="96948224"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.031" mem="96948224"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.031" mem="96993280"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.031" mem="97116160"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.031" mem="97390592"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="Point 1999984 not covered" eval-comment="" time="0.031" mem="98344960"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.078" mem="99008512"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.093" mem="99012608"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="Point 999975375 not covered" eval-comment="" time="0.140" mem="99246080"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.124" mem="99254272"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Point 999975375 not covered" eval-comment="" time="0.124" mem="98988032"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.140" mem="99057664"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.140" mem="99041280"/>
+    </results>
+  </testing>
+</testing-report>

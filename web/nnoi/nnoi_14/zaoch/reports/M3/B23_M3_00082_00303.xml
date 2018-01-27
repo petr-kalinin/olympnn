@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127142239030564218129">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="B23" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17854464"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17907712"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.046" mem="18153472"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 995779889" eval-comment="" time="0.046" mem="19476480"/>
+      <test id="5" outcome="fail" points="0" max-points="5" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\performancecounter.cpp(34) " eval-comment="" time="-1.000" mem="-1"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="18108416"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 11728456" eval-comment="" time="0.873" mem="20094976"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="17903616"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 16710370" eval-comment="" time="0.031" mem="17879040"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 100724" eval-comment="" time="0.031" mem="17907712"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="17936384"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Point 1 not covered" eval-comment="" time="0.046" mem="18132992"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 8567363" eval-comment="" time="0.062" mem="18690048"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 500015" eval-comment="" time="0.124" mem="19746816"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 197969818" eval-comment="" time="0.265" mem="19800064"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.670" mem="20058112"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.014" mem="20013056"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.764" mem="20062208"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="20131840"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 199687" eval-comment="" time="0.780" mem="20025344"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="5" comment="Strange number of towers: 999700" eval-comment="" time="0.468" mem="20049920"/>
+    </results>
+  </testing>
+</testing-report>

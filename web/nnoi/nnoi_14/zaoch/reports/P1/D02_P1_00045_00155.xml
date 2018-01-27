@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20180127123010015405074426">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="D02" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output="sol.cpp:1:1: error: 'program' does not name a type&#13;&#10; program dukzvezduk;&#13;&#10; ^~~~~~~&#13;&#10;sol.cpp:2:1: error: 'var' does not name a type&#13;&#10; var&#13;&#10; ^~~&#13;&#10;sol.cpp:4:1: error: 'begin' does not name a type&#13;&#10; begin&#13;&#10; ^~~~~&#13;&#10;sol.cpp:6:9: error: expected constructor, destructor, or type conversion before '(' token&#13;&#10;  writeln(a+b);&#13;&#10;         ^&#13;&#10;sol.cpp:7:1: error: 'end' does not name a type&#13;&#10; end.&#13;&#10; ^~~&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

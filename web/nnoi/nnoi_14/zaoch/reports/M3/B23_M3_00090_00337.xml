@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="5" max="100" outcome="accepted" gtid="20180127143032033977824882">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="B23" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.031" mem="18284544"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.015" mem="18280448"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="18534400"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.046" mem="19943424"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="18259968"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="18485248"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.296" mem="20426752"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.031" mem="18305024"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.031" mem="18305024"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="18276352"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.046" mem="18427904"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.031" mem="18505728"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="19234816"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.062" mem="20107264"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.109" mem="20467712"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.249" mem="20439040"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.358" mem="20455424"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.296" mem="20484096"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.358" mem="20725760"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.280" mem="20439040"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.187" mem="20426752"/>
+    </results>
+  </testing>
+</testing-report>

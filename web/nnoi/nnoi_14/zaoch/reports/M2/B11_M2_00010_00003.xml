@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127131036000217442909">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="B11" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="11" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="11" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="11" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="11" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="11" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="11" comment="Файл слишком короткий" eval-comment="" time="0.046" mem="4943872"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="11" comment="Строка 1: yes вместо no" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="1" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.046" mem="4943872"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="2" comment="Файл слишком короткий" eval-comment="" time="0.031" mem="4943872"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127145800053559270694">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="C24" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.062" mem="26472448"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26476544"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 9" eval-comment="" time="0.031" mem="26509312"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26529792"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26451968"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26574848"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26472448"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 12" eval-comment="" time="0.031" mem="26394624"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 1160" eval-comment="" time="0.031" mem="26439680"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26464256"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26464256"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26456064"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26492928"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24166400"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 120840" eval-comment="" time="0.031" mem="26456064"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26439680"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26431488"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26513408"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26558464"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24121344"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24215552"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24100864"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24072192"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [2, 1] = 0" eval-comment="" time="0.031" mem="26689536"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26533888"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="4" comment="Extra information in output" eval-comment="" time="0.031" mem="26558464"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="24178688"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26533888"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26619904"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26554368"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26476544"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [1, 2] = 0" eval-comment="" time="0.031" mem="26566656"/>
+    </results>
+  </testing>
+</testing-report>

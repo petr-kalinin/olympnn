@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20180127124408019092600808">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="B43" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 3.0.4 [2017/10/06] for i386&#13;&#10;Copyright (c) 1993-2017 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(7,10) Error: Call by var for arg no. 1 has to match exactly: Got &quot;LongInt&quot; expected &quot;Text&quot;&#13;&#10;sol.pp(8,10) Error: Call by var for arg no. 1 has to match exactly: Got &quot;LongInt&quot; expected &quot;Text&quot;&#13;&#10;sol.pp(9,9) Error: Call by var for arg no. 1 has to match exactly: Got &quot;LongInt&quot; expected &quot;Text&quot;&#13;&#10;sol.pp(12,9) Error: Call by var for arg no. 1 has to match exactly: Got &quot;LongInt&quot; expected &quot;Text&quot;&#13;&#10;sol.pp(14,10) Error: Call by var for arg no. 1 has to match exactly: Got &quot;LongInt&quot; expected &quot;Text&quot;&#13;&#10;sol.pp(16,9) Error: Call by var for arg no. 1 has to match exactly: Got &quot;LongInt&quot; expected &quot;Text&quot;&#13;&#10;sol.pp(17,4) Fatal: There were 6 errors compiling module, stopping&#13;&#10;Fatal: Compilation aborted&#13;&#10;Error: C:\FPC\3.0.4\bin\i386-Win32\ppc386.exe returned an error exitcode&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

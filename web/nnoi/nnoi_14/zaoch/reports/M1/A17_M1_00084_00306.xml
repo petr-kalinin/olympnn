@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="42" max="100" outcome="accepted" gtid="20180127142411030841527144">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="A17" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok" eval-comment="" time="0.031" mem="4956160"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="ok" eval-comment="" time="0.031" mem="4952064"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.031" mem="4956160"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.031" mem="4952064"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.031" mem="4960256"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.031" mem="4952064"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #1" eval-comment="" time="0.031" mem="4956160"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.031" mem="4952064"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [30, 2] = 95" eval-comment="" time="0.031" mem="4956160"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #8" eval-comment="" time="0.031" mem="4956160"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.031" mem="4956160"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.031" mem="4952064"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.031" mem="4956160"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [322, 1] = 31" eval-comment="" time="0.031" mem="5017600"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #1" eval-comment="" time="0.140" mem="5230592"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #2" eval-comment="" time="0.046" mem="5062656"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [102, 1] = 9101" eval-comment="" time="0.046" mem="4988928"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #12" eval-comment="" time="0.577" mem="6148096"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #12" eval-comment="" time="0.655" mem="5492736"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.561" mem="5386240"/>
+      <test id="21" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.452" mem="5394432"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #1" eval-comment="" time="0.561" mem="5586944"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="ok" eval-comment="" time="0.046" mem="5038080"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [108, 1] = 801" eval-comment="" time="0.031" mem="5038080"/>
+      <test id="25" outcome="accepted" points="4" max-points="4" comment="ok" eval-comment="" time="0.031" mem="4956160"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="ok" eval-comment="" time="0.031" mem="4952064"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [70, 1] = 21" eval-comment="" time="0.078" mem="5316608"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [162, 1] = 8001" eval-comment="" time="0.156" mem="5050368"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [38, 212] = 911" eval-comment="" time="0.187" mem="5660672"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [280, 1] = 3001" eval-comment="" time="0.343" mem="5468160"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [18, 9] = 9501" eval-comment="" time="0.078" mem="5111808"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="4" comment="Invalid number of children: [74, 46] = 9401" eval-comment="" time="0.265" mem="5308416"/>
+    </results>
+  </testing>
+</testing-report>

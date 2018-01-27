@@ -23,7 +23,8 @@ if (isset($_GET["prob"])and(isset($_GET["contestant"]))){
         ije_showreport($fname,"results/addinfo.txt","results/results.xml");
       else writeln("Протокол тестирования не найден");
    } else {
-      $fmask=sprintf("reports/%s/%s_%s_*.xml",$prob,$boy,$prob,$time,$id);
+      $fmask=sprintf("reports/%s/%s_%s_*.xml",$prob,$boy,$prob);
+      writeln($fmask);
       $files=glob($fmask);
       if (count($files)==0)
          writeln("<p>Попыток по задаче не было</p>");

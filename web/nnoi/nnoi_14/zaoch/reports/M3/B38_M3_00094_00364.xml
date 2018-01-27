@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127143445036631406941">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="B38" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx: In function 'int main()':&#13;&#10;sol.cxx:10:13: warning: iteration 100000 invokes undefined behavior [-Waggressive-loop-optimizations]&#13;&#10;         p[i]=false;&#13;&#10;         ~~~~^~~~~~&#13;&#10;sol.cxx:9:18: note: within this loop&#13;&#10;     for(int i=1;i&lt;=100001;i++)&#13;&#10;                 ~^~~~~~~~&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - integer expected" eval-comment="" time="0.000" mem="1138688"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.000" mem="1138688"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.000" mem="1138688"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1134592"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.000" mem="1138688"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1134592"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1138688"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.000" mem="1146880"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1138688"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1134592"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - integer expected" eval-comment="" time="0.000" mem="1142784"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Point 1 not covered" eval-comment="" time="0.000" mem="1142784"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1134592"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1138688"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1134592"/>
+      <test id="16" outcome="idleness-limit-exceeded" points="0" max-points="5" comment="Idleness limit exceeded" eval-comment="" time="0.046" mem="1134592"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1138688"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1134592"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1138688"/>
+      <test id="20" outcome="idleness-limit-exceeded" points="0" max-points="5" comment="Idleness limit exceeded" eval-comment="" time="0.015" mem="1134592"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.015" mem="1138688"/>
+    </results>
+  </testing>
+</testing-report>

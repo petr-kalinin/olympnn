@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="5" max="100" outcome="accepted" gtid="20180127144914046536420239">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="C24" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.031" mem="26464256"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="26464256"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="26542080"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.031" mem="27975680"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="26533888"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="Point 100046 not covered" eval-comment="" time="0.031" mem="26595328"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.109" mem="28340224"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="26476544"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.280" mem="27844608"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Point 102397 not covered" eval-comment="" time="0.031" mem="26468352"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Point 101 not covered" eval-comment="" time="0.031" mem="26497024"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="26583040"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="26963968"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.265" mem="27918336"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="Point 200049189 not covered" eval-comment="" time="0.062" mem="28262400"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="Point 1007 not covered" eval-comment="" time="0.078" mem="28323840"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="28426240"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Point 100029 not covered" eval-comment="" time="0.109" mem="28385280"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="27373568"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Point 200005 not covered" eval-comment="" time="0.093" mem="28372992"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="Point 1000018 not covered" eval-comment="" time="0.140" mem="28418048"/>
+    </results>
+  </testing>
+</testing-report>

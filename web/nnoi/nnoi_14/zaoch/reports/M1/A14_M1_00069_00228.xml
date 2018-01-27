@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="4" max="100" outcome="accepted" gtid="20180127140947023005446588">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="A14" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Invalid number of children: [1, 1] = 1112" eval-comment="" time="0.031" mem="13852672"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Invalid number of children: [1, 1] = 11" eval-comment="" time="0.031" mem="13795328"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 1112" eval-comment="" time="0.015" mem="13840384"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 111" eval-comment="" time="0.031" mem="13750272"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 111122" eval-comment="" time="0.031" mem="13848576"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 11111" eval-comment="" time="0.031" mem="13860864"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 1111111111" eval-comment="" time="0.031" mem="13860864"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Invalid number of children: [1, 1] = 111122345" eval-comment="" time="0.015" mem="13860864"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="13840384"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="13807616"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="13975552"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="13844480"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="14000128"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;123456789910111213141516171819...&quot;" eval-comment="" time="0.015" mem="13860864"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.031" mem="14114816"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.031" mem="15413248"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.031" mem="14028800"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="14000128"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.031" mem="15171584"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="13893632"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="13803520"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="3" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="13819904"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="4" comment="Unexpected end of file - integer expected" eval-comment="" time="0.015" mem="13811712"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="4" comment="Extra information in output" eval-comment="" time="0.015" mem="13926400"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="14221312"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="ok" eval-comment="" time="0.015" mem="13828096"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="13860864"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="14331904"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.015" mem="13975552"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.031" mem="14163968"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.031" mem="14876672"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;111111111111111111111111111111...&quot;" eval-comment="" time="0.031" mem="15159296"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="5" max="100" outcome="accepted" gtid="20180127141607026162591905">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="B32" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24210 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\cmath(278): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.00.24210.0&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.000" mem="557056"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.000" mem="557056"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.000" mem="561152"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.031" mem="643072"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.000" mem="557056"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.000" mem="565248"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.296" mem="1347584"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.000" mem="565248"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.000" mem="557056"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.000" mem="557056"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.000" mem="557056"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.000" mem="565248"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.000" mem="585728"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.031" mem="638976"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.093" mem="798720"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.156" mem="1114112"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.374" mem="1351680"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.280" mem="1351680"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.358" mem="1351680"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="5" comment="Coordinates are not sorted" eval-comment="" time="0.265" mem="1347584"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="Non-optimal solution" eval-comment="" time="0.265" mem="1355776"/>
+    </results>
+  </testing>
+</testing-report>

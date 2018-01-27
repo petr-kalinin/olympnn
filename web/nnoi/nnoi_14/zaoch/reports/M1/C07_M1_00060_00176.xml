@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="18" max="100" outcome="accepted" gtid="20180127140036017816348671">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="C07" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok" eval-comment="" time="0.031" mem="17661952"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Extra information in output" eval-comment="" time="0.031" mem="17510400"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.031" mem="17522688"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Extra information in output" eval-comment="" time="0.031" mem="17481728"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="ok" eval-comment="" time="0.031" mem="17543168"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Extra information in output" eval-comment="" time="0.031" mem="17592320"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Extra information in output" eval-comment="" time="0.031" mem="17604608"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Extra information in output" eval-comment="" time="0.031" mem="17600512"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #11" eval-comment="" time="0.031" mem="17760256"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #21" eval-comment="" time="0.046" mem="17997824"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Invalid count of 2: correct = 1, output = 2" eval-comment="" time="0.031" mem="17584128"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Invalid count of 2: correct = 2, output = 3" eval-comment="" time="0.031" mem="17608704"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Extra information in output" eval-comment="" time="0.561" mem="21213184"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Extra information in output" eval-comment="" time="0.031" mem="17788928"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #12" eval-comment="" time="0.483" mem="21245952"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #51" eval-comment="" time="0.078" mem="19333120"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Region is not connected: #10" eval-comment="" time="0.093" mem="19357696"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="21168128"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="21164032"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="21180416"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="21172224"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.060" mem="21360640"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="ok" eval-comment="" time="0.046" mem="17604608"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="4" comment="Extra information in output" eval-comment="" time="0.046" mem="17899520"/>
+      <test id="25" outcome="accepted" points="4" max-points="4" comment="ok" eval-comment="" time="0.031" mem="17682432"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="ok" eval-comment="" time="0.031" mem="17543168"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="Invalid count of 2: correct = 4323, output = 4324" eval-comment="" time="0.249" mem="21217280"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Region is not connected: #7" eval-comment="" time="0.468" mem="21225472"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="Region is not connected: #4" eval-comment="" time="0.639" mem="21245952"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.029" mem="21213184"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Region is not connected: #51" eval-comment="" time="0.249" mem="21336064"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Region is not connected: #13" eval-comment="" time="0.702" mem="21262336"/>
+    </results>
+  </testing>
+</testing-report>

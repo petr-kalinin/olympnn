@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180127124353018876797544">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="A10" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4939776"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="20" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="20" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4939776"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="20" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="20" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4939776"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="20" comment="Unexpected end of file - integer expected" eval-comment="" time="0.031" mem="4943872"/>
+    </results>
+  </testing>
+</testing-report>
