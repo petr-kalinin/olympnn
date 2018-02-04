@@ -182,8 +182,8 @@
       <problem id="M3" points="0" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="B40" _location="0">
-      <problem id="M1" points="88" minus="0" outcome="accepted"/>
-      <problem id="M2" points="100" minus="0" outcome="accepted"/>
+      <problem id="M1" points="0" minus="0" outcome="accepted"/>
+      <problem id="M2" points="0" minus="0" outcome="accepted"/>
       <problem id="M3" points="5" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="A06" _location="0">
@@ -389,7 +389,7 @@
     <contestant id="A43" _location="0">
       <problem id="M1" points="0" minus="0" outcome="accepted"/>
       <problem id="M2" points="0" minus="0" outcome="accepted"/>
-      <problem id="M3" points="10" minus="0" outcome="accepted"/>
+      <problem id="M3" points="0" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="B29" _location="0">
       <problem id="M1" points="0" minus="0" outcome="accepted"/>
@@ -494,7 +494,7 @@
     <contestant id="A40" _location="0">
       <problem id="M1" points="0" minus="0" outcome="accepted"/>
       <problem id="M2" points="0" minus="0" outcome="accepted"/>
-      <problem id="M3" points="10" minus="0" outcome="accepted"/>
+      <problem id="M3" points="0" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="C29" _location="0">
       <problem id="M1" points="0" minus="0" outcome="accepted"/>
@@ -642,8 +642,8 @@
       <problem id="M3" points="5" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="B23" _location="0">
-      <problem id="M1" points="88" minus="0" outcome="accepted"/>
-      <problem id="M2" points="100" minus="0" outcome="accepted"/>
+      <problem id="M1" points="0" minus="0" outcome="accepted"/>
+      <problem id="M2" points="0" minus="0" outcome="accepted"/>
       <problem id="M3" points="5" minus="0" outcome="accepted"/>
     </contestant>
     <contestant id="E01" _location="0">

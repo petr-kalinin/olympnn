@@ -12,16 +12,17 @@ XIV Нижегородская городская олимпиада школьников по информатике им. В.&nbsp;Д. Л
 <ul>
 <li><a href="nnoi2018_prikaz.pdf">Приказ о проведении олимпиады</a></li>
 </ul>
-<?php /*
 <h2>Основной тур</h2>
 <ul>
 <li><a href="info.php">Информация об основном туре</a></li>
+<?php /*
 <li><a href="jury.php">Жюри</a></li>
 <li><a href="org.php">Оргкомитет</a></li>
 <li><a href="org.php">Авторы задач</a></li>
 <li><a href="results.php">Результаты</a></li>
 <li><a href="archive/index.php">Архив</a></li>
-</ul> */?>
+*/?>
+</ul> 
 <h2>Отбор</h2>
 <ul>
 <li><a href="zaoch.php">Информация о рассмотрении заявок на участие</a></li>
@@ -29,10 +30,10 @@ XIV Нижегородская городская олимпиада школьников по информатике им. В.&nbsp;Д. Л
 </ul>
 <ul>
 <li><a href="zaoch/nnoi2018_zaoch_statements.pdf">Условия отборочного тура</a></li>
-<li><a href="zaoch/results.php">Предварительные результаты отборочного тура</a></li>
+<li><a href="zaoch/results.php">Результаты отборочного тура</a></li>
 <li><a href="zaoch/tests.7z">Тесты к отборочному туру</a></li>
 <li><a href="zaoch/outputs_all.7z">Протоколы тестирования отборочного тура</a></li>
-<? /* <li><a href="participants.php">Итоговые списки участников основного тура</a></li> */ ?>
+<li><a href="participants.php">Итоговые списки участников основного тура</a></li>
 </ul>
 <div class="logos">
 <a href="http://yandex.ru"><img src="https://avatars.mds.yandex.net/get-bunker/60661/5ec62cb755193c37a6ec19a826b3891780eead2a/orig"/></a>
