@@ -411,7 +411,7 @@ if ($res["res"]=="CP"){
 function ije_showrepselect($resfname){
 global $PHP_NAME;
 ?>
-<form action="<?php=$PHP_NAME?>" method="get">
+<form action="<?=$PHP_NAME?>" method="get">
 <p>Выбрать протокол:
 <?php 
 loadxml($resfname,$results);
