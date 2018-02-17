@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20180217123552028889903395">
+  <solution problem="4" problem-name=" " problem-type="P" contestant="E5C" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output="sol.cpp: In function 'int main()':&#13;&#10;sol.cpp:7:5: error: expected ',' or ';' before 'ofstream'&#13;&#10;     ofstream fout(&quot;butyavki.out&quot;)&#13;&#10;     ^~~~~~~~&#13;&#10;sol.cpp:10:12: error: 'n' was not declared in this scope&#13;&#10;     fin &gt;&gt; n &gt;&gt; k;&#13;&#10;            ^&#13;&#10;sol.cpp:14:16: error: 'a' was not declared in this scope&#13;&#10;         fin &gt;&gt; a;&#13;&#10;                ^&#13;&#10;sol.cpp:21:5: error: 'fout' was not declared in this scope&#13;&#10;     fout &lt;&lt; type &lt;&lt; &quot; &quot; &lt;&lt; ans;&#13;&#10;     ^~~~&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

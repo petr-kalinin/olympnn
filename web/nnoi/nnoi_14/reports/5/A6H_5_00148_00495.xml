@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="3" max="100" outcome="accepted" gtid="20180217134123050205968222">
+  <solution problem="5" problem-name=" " problem-type="P" contestant="A6H" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3 numbers" eval-comment="" time="0.000" mem="9080832"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="1st numbers differ - expected: '2.0000000', found: '1.6666667', error = '0.1666667'" eval-comment="" time="0.000" mem="9076736"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '31.6666667', found: '29.7500000', error = '0.0605263'" eval-comment="" time="0.000" mem="9076736"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="5 numbers" eval-comment="" time="0.000" mem="9072640"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="4th numbers differ - expected: '347266993.6666667', found: '340287865.2500000', error = '0.0200973'" eval-comment="" time="0.000" mem="9080832"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="2nd numbers differ - expected: '51632031.5000000', found: '42312307.5000000', error = '0.1805028'" eval-comment="" time="0.000" mem="9072640"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="60th numbers differ - expected: '42817.6666667', found: '41310.7500000', error = '0.0351938'" eval-comment="" time="0.000" mem="9076736"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="2nd numbers differ - expected: '360.5000000', found: '356.6666667', error = '0.0106334'" eval-comment="" time="0.000" mem="9080832"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="5th numbers differ - expected: '1392.0000000', found: '1261.6666667', error = '0.0936303'" eval-comment="" time="0.000" mem="9076736"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="3rd numbers differ - expected: '373.6666667', found: '342.2500000', error = '0.0840767'" eval-comment="" time="0.000" mem="9080832"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="10th numbers differ - expected: '745.5000000', found: '599.0000000', error = '0.1965124'" eval-comment="" time="0.000" mem="9072640"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="11th numbers differ - expected: '3627745.0000000', found: '3330475.6666667', error = '0.0819433'" eval-comment="" time="0.015" mem="9080832"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="3rd numbers differ - expected: '2115576.5000000', found: '1961963.5000000', error = '0.0726105'" eval-comment="" time="0.000" mem="9076736"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="2nd numbers differ - expected: '3.0000000', found: '2.7500000', error = '0.0833333'" eval-comment="" time="0.031" mem="9072640"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="7th numbers differ - expected: '1.5000000', found: '1.3333333', error = '0.1111111'" eval-comment="" time="0.062" mem="9076736"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="965th numbers differ - expected: '8.9907692', found: '8.0000000', error = '0.1101985'" eval-comment="" time="0.093" mem="9080832"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="2002nd numbers differ - expected: '10.9944668', found: '10.0000000', error = '0.0904516'" eval-comment="" time="0.187" mem="9080832"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="4142nd numbers differ - expected: '0.9997496', found: '0.5000000', error = '0.4997496'" eval-comment="" time="0.499" mem="9076736"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="6164th numbers differ - expected: '0.9998333', found: '0.5000000', error = '0.4998333'" eval-comment="" time="0.624" mem="9076736"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="8025th numbers differ - expected: '0.9998748', found: '0.5000000', error = '0.4998748'" eval-comment="" time="0.702" mem="9076736"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="9076736"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="9076736"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="9076736"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="9076736"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="9076736"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="9076736"/>
+      <test id="27" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="9072640"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="9072640"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="9076736"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="9076736"/>
+    </results>
+  </testing>
+</testing-report>

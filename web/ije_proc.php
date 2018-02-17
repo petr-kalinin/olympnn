@@ -113,6 +113,7 @@ function ije_showresults($file,$addinfo='',$hasstat=false,$rephref='',$more_data
 global $PHP_NAME,$sort,$results,$location,$table;
 
 loadxml($file,$results);
+
 $results=$results["results"];
 if ($addinfo<>'') ije_loadai($addinfo,$ai);
 else $ai=array("_columns"=>array());

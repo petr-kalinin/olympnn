@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="200" outcome="accepted" gtid="20180217144457070556815587">
+  <solution problem="1" problem-name=" " problem-type="P" contestant="C3D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="time-limit-exceeded" points="0" max-points="0" comment="Time limit exceeded" eval-comment="" time="1.045" mem="1048576"/>
+      <test id="2" outcome="time-limit-exceeded" points="0" max-points="0" comment="Time limit exceeded" eval-comment="" time="1.045" mem="1044480"/>
+      <test id="3" outcome="time-limit-exceeded" points="0" max-points="40" comment="Time limit exceeded" eval-comment="" time="1.045" mem="1048576"/>
+      <test id="4" outcome="time-limit-exceeded" points="0" max-points="40" comment="Time limit exceeded" eval-comment="" time="1.045" mem="1044480"/>
+      <test id="5" outcome="time-limit-exceeded" points="0" max-points="40" comment="Time limit exceeded" eval-comment="" time="1.045" mem="1044480"/>
+      <test id="6" outcome="time-limit-exceeded" points="0" max-points="40" comment="Time limit exceeded" eval-comment="" time="1.045" mem="1048576"/>
+      <test id="7" outcome="time-limit-exceeded" points="0" max-points="40" comment="Time limit exceeded" eval-comment="" time="1.045" mem="1044480"/>
+    </results>
+  </testing>
+</testing-report>

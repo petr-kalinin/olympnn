@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="34" max="100" outcome="accepted" gtid="20180217133303048646780994">
+  <solution problem="3" problem-name=" " problem-type="P" contestant="B3Q" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="participant provided correct solution" eval-comment="" time="0.046" mem="18546688"/>
+      <test id="2" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13017088"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="participant provided correct solution" eval-comment="" time="0.031" mem="18362368"/>
+      <test id="4" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="13029376"/>
+      <test id="5" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13021184"/>
+      <test id="6" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13123584"/>
+      <test id="7" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="12980224"/>
+      <test id="8" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13135872"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="18296832"/>
+      <test id="10" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13029376"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="18345984"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13033472"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13058048"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="18313216"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13033472"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="18292736"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13000704"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="18280448"/>
+      <test id="19" outcome="accepted" points="5" max-points="5" comment="participant provided correct solution" eval-comment="" time="0.031" mem="18296832"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="participant provided correct solution" eval-comment="" time="0.031" mem="18321408"/>
+      <test id="21" outcome="accepted" points="5" max-points="5" comment="participant provided correct solution" eval-comment="" time="0.031" mem="18333696"/>
+      <test id="22" outcome="accepted" points="5" max-points="5" comment="participant provided correct solution" eval-comment="" time="0.031" mem="18300928"/>
+      <test id="23" outcome="accepted" points="5" max-points="5" comment="participant provided correct solution" eval-comment="" time="0.031" mem="18350080"/>
+      <test id="24" outcome="accepted" points="5" max-points="5" comment="participant provided correct solution" eval-comment="" time="0.031" mem="18325504"/>
+    </results>
+  </testing>
+</testing-report>

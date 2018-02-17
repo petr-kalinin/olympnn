@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="200" max="200" outcome="accepted" gtid="20180217111614004295239237">
+  <solution problem="1" problem-name=" " problem-type="P" contestant="C4B" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="2038" eval-comment="" time="0.062" mem="21843968"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2018" eval-comment="" time="0.062" mem="21839872"/>
+      <test id="3" outcome="accepted" points="40" max-points="40" comment="2024" eval-comment="" time="0.062" mem="21835776"/>
+      <test id="4" outcome="accepted" points="40" max-points="40" comment="2019" eval-comment="" time="0.062" mem="21827584"/>
+      <test id="5" outcome="accepted" points="40" max-points="40" comment="2127" eval-comment="" time="0.062" mem="21835776"/>
+      <test id="6" outcome="accepted" points="40" max-points="40" comment="2542" eval-comment="" time="0.062" mem="21843968"/>
+      <test id="7" outcome="accepted" points="40" max-points="40" comment="3004" eval-comment="" time="0.062" mem="21835776"/>
+    </results>
+  </testing>
+</testing-report>

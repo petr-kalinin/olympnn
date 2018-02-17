@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180217141811061086665271">
+  <solution problem="5" problem-name=" " problem-type="P" contestant="A4O" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="2nd numbers differ - expected: '0.5000000', found: '-0.0000000', error = '0.5000000'" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="1st numbers differ - expected: '2.0000000', found: '-0.0000000', error = '1.0000000'" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;-54499746052361421707650641239...78872516655710090559488.0000000&quot; found" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="3rd numbers differ - expected: '12.0000000', found: '-2.0000000', error = '1.1666667'" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;-83454950893735967028181809036...37569924617164757663744.0000000&quot; found" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="2nd numbers differ - expected: '51632031.5000000', found: '-1655152558757663200000000.0000000', erro" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="6th numbers differ - expected: '3114.5000000', found: '-13194139533312.0000000', error = '4236358817" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="2nd numbers differ - expected: '360.5000000', found: '-0.0000000', error = '1.0000000'" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;-10229345649675443343791217802...67058918532916516487168.0000000&quot; found" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '128.5000000', found: '-0.0000000', error = '1.0000000'" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="5th numbers differ - expected: '592.5000000', found: '-0.0000000', error = '1.0000000'" eval-comment="" time="0.000" mem="1069056"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="4th numbers differ - expected: '1432314.5000000', found: '-0.0000000', error = '1.0000000'" eval-comment="" time="0.015" mem="1089536"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;-11886229748716441470504767735...33883602302336256442368.0000000&quot; found" eval-comment="" time="0.015" mem="1097728"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;-11945305291614953137249097977...11847362563937235107840.0000000&quot; found" eval-comment="" time="0.031" mem="1208320"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="3rd numbers differ - expected: '1.0000000', found: '-0.0000000', error = '1.0000000'" eval-comment="" time="0.109" mem="1286144"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="2nd numbers differ - expected: '0.0000000', found: '-2.0000000', error = '2.0000000'" eval-comment="" time="0.171" mem="1634304"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="5th numbers differ - expected: '0.0000000', found: '-2.0000000', error = '2.0000000'" eval-comment="" time="0.327" mem="2297856"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;-26364127834383063336837177074...31107489571385691340800.0000000&quot; found" eval-comment="" time="0.546" mem="2801664"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="2nd numbers differ - expected: '0.0000000', found: '-2.0000000', error = '2.0000000'" eval-comment="" time="0.780" mem="2785280"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.029" mem="5201920"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="4493312"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="7663616"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="8105984"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="8617984"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="10952704"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="2265088"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="2269184"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="2088960"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="2138112"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;-12830242939315837713154635735...07508933649627833434112.0000000&quot; found" eval-comment="" time="0.686" mem="7393280"/>
+    </results>
+  </testing>
+</testing-report>

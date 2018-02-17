@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="12" max="100" outcome="accepted" gtid="20180217130558040229444130">
+  <solution problem="3" problem-name=" " problem-type="P" contestant="B2B" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="participant provided correct solution" eval-comment="" time="0.046" mem="17510400"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment="participant provided correct solution" eval-comment="" time="0.031" mem="17526784"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="participant provided correct solution" eval-comment="" time="0.031" mem="17514496"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="participant provided correct solution" eval-comment="" time="0.046" mem="17534976"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="a[2][2] + a[2][2] != 0" eval-comment="" time="0.046" mem="17518592"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="17481728"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="a[2][2] + a[2][2] != 0" eval-comment="" time="0.031" mem="17612800"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="Integer -26701525 violates the range [-10000000, 10000000]" eval-comment="" time="0.031" mem="17555456"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="Integer 20042716 violates the range [-10000000, 10000000]" eval-comment="" time="0.031" mem="17543168"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="Integer -28691883 violates the range [-10000000, 10000000]" eval-comment="" time="0.031" mem="17592320"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="17489920"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="17510400"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="Integer 1357875609 violates the range [-10000000, 10000000]" eval-comment="" time="0.031" mem="17588224"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="Integer 974215216 violates the range [-10000000, 10000000]" eval-comment="" time="0.031" mem="17600512"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="Integer -1946958847 violates the range [-10000000, 10000000]" eval-comment="" time="0.031" mem="17584128"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="Integer 870071389 violates the range [-10000000, 10000000]" eval-comment="" time="0.031" mem="17616896"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="Integer -1464355793 violates the range [-10000000, 10000000]" eval-comment="" time="0.031" mem="17616896"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Integer -61434705 violates the range [-10000000, 10000000]" eval-comment="" time="0.015" mem="17567744"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Integer 14342825 violates the range [-10000000, 10000000]" eval-comment="" time="0.031" mem="17608704"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Integer -62057932 violates the range [-10000000, 10000000]" eval-comment="" time="0.031" mem="17539072"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="Integer -203168781 violates the range [-10000000, 10000000]" eval-comment="" time="0.031" mem="17596416"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="a[2][2] + a[2][2] != 0" eval-comment="" time="0.046" mem="17514496"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="cnt[1] != cnt[2]" eval-comment="" time="0.046" mem="17596416"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="cnt[0] != cnt[1]" eval-comment="" time="0.046" mem="17539072"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="88" max="100" outcome="accepted" gtid="20180217143625067201207729">
+  <solution problem="7" problem-name=" " problem-type="P" contestant="B3K" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="jury and contestant agree" eval-comment="" time="0.046" mem="17702912"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17715200"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17682432"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17948672"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17944576"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17739776"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17707008"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17674240"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17678336"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17870848"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17727488"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17678336"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17719296"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="18407424"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.670" mem="24952832"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17793024"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="19791872"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.078" mem="21676032"/>
+      <test id="19" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.109" mem="23736320"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.046" mem="17743872"/>
+      <test id="21" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17932288"/>
+      <test id="22" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="18972672"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.046" mem="19755008"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.733" mem="27906048"/>
+      <test id="25" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.031" mem="18235392"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.031" mem="19521536"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.031" mem="19763200"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.436" mem="22548480"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="23633920"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="20709376"/>
+      <test id="31" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.904" mem="27987968"/>
+      <test id="32" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="22495232"/>
+    </results>
+  </testing>
+</testing-report>

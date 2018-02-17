@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="3" max="100" outcome="accepted" gtid="20180217162409006966950577">
+  <solution problem="6" problem-name=" " problem-type="P" contestant="A4O" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="2nd words differ - expected: '2', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2 tokens" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="&quot;Hungry&quot;" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Hungry', found: 'Full'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="6" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '2', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="8" outcome="accepted" points="1" max-points="1" comment="&quot;Hungry&quot;" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '2', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3055616"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '2', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Hungry', found: 'Full'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '2', found: '1'" eval-comment="" time="0.000" mem="3055616"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '4', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '4', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="21" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Hungry', found: 'Full'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '7', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '8', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Hungry', found: 'Full'" eval-comment="" time="0.000" mem="3055616"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '4', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '9', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="33" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="37" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="38" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="39" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3055616"/>
+      <test id="40" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="41" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="42" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="43" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="44" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="45" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '2', found: '1'" eval-comment="" time="0.000" mem="3055616"/>
+      <test id="46" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3055616"/>
+      <test id="47" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="48" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="49" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '4', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="50" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="51" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="52" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="53" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="54" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="55" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '5', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="56" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '4', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="57" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '6', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="58" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="59" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="60" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="61" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '4', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="62" outcome="wrong-answer" points="0" max-points="1" comment="2nd words differ - expected: '5', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="63" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="64" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3055616"/>
+      <test id="65" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="66" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="67" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '4', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="68" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="3055616"/>
+      <test id="69" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '7', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="70" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="71" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '3', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+      <test id="72" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '5', found: '1'" eval-comment="" time="0.000" mem="3047424"/>
+      <test id="73" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '9', found: '1'" eval-comment="" time="0.000" mem="3051520"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="200" max="200" outcome="accepted" gtid="20180217111943008195950142">
+  <solution problem="1" problem-name=" " problem-type="P" contestant="A4M" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="2038" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2018" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="3" outcome="accepted" points="40" max-points="40" comment="2024" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="4" outcome="accepted" points="40" max-points="40" comment="2019" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="5" outcome="accepted" points="40" max-points="40" comment="2127" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="6" outcome="accepted" points="40" max-points="40" comment="2542" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="7" outcome="accepted" points="40" max-points="40" comment="3004" eval-comment="" time="0.000" mem="1052672"/>
+    </results>
+  </testing>
+</testing-report>

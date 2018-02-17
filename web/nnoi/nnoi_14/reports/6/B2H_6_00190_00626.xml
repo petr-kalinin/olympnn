@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="19" max="100" outcome="accepted" gtid="20180217142358063341907979">
+  <solution problem="6" problem-name=" " problem-type="P" contestant="B2H" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="2 tokens" eval-comment="" time="0.031" mem="17506304"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2 tokens" eval-comment="" time="0.031" mem="17481728"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="&quot;Hungry&quot;" eval-comment="" time="0.015" mem="13910016"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="13107200"/>
+      <test id="5" outcome="accepted" points="1" max-points="1" comment="&quot;Hungry&quot;" eval-comment="" time="0.031" mem="13795328"/>
+      <test id="6" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.031" mem="17489920"/>
+      <test id="7" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.031" mem="17453056"/>
+      <test id="8" outcome="accepted" points="1" max-points="1" comment="&quot;Hungry&quot;" eval-comment="" time="0.031" mem="13766656"/>
+      <test id="9" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.031" mem="17477632"/>
+      <test id="10" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.031" mem="17461248"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12845056"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.000" mem="12865536"/>
+      <test id="13" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.031" mem="17448960"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12857344"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12820480"/>
+      <test id="16" outcome="accepted" points="2" max-points="2" comment="2 tokens" eval-comment="" time="0.031" mem="17473536"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12881920"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="13209600"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12857344"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12824576"/>
+      <test id="21" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.031" mem="17473536"/>
+      <test id="22" outcome="accepted" points="1" max-points="1" comment="&quot;Hungry&quot;" eval-comment="" time="0.031" mem="13807616"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12812288"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="13037568"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12865536"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12816384"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12845056"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12816384"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12849152"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12845056"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12849152"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="2" comment="2nd words differ - expected: '1', found: '2'" eval-comment="" time="0.031" mem="17444864"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12820480"/>
+      <test id="34" outcome="accepted" points="2" max-points="2" comment="2 tokens" eval-comment="" time="0.031" mem="17481728"/>
+      <test id="35" outcome="accepted" points="2" max-points="2" comment="2 tokens" eval-comment="" time="0.031" mem="17448960"/>
+      <test id="36" outcome="accepted" points="2" max-points="2" comment="2 tokens" eval-comment="" time="0.031" mem="17444864"/>
+      <test id="37" outcome="accepted" points="2" max-points="2" comment="2 tokens" eval-comment="" time="0.031" mem="17514496"/>
+      <test id="38" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12824576"/>
+      <test id="39" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12902400"/>
+      <test id="40" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12877824"/>
+      <test id="41" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12828672"/>
+      <test id="42" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12832768"/>
+      <test id="43" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12910592"/>
+      <test id="44" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12840960"/>
+      <test id="45" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.031" mem="12763136"/>
+      <test id="46" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12832768"/>
+      <test id="47" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12873728"/>
+      <test id="48" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12836864"/>
+      <test id="49" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12988416"/>
+      <test id="50" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12816384"/>
+      <test id="51" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12804096"/>
+      <test id="52" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12898304"/>
+      <test id="53" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12853248"/>
+      <test id="54" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12857344"/>
+      <test id="55" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12845056"/>
+      <test id="56" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12959744"/>
+      <test id="57" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="13041664"/>
+      <test id="58" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12894208"/>
+      <test id="59" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12918784"/>
+      <test id="60" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12853248"/>
+      <test id="61" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.031" mem="12865536"/>
+      <test id="62" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12959744"/>
+      <test id="63" outcome="wrong-answer" points="0" max-points="1" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12881920"/>
+      <test id="64" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12820480"/>
+      <test id="65" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.031" mem="12824576"/>
+      <test id="66" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12988416"/>
+      <test id="67" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12935168"/>
+      <test id="68" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12840960"/>
+      <test id="69" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12886016"/>
+      <test id="70" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12857344"/>
+      <test id="71" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12881920"/>
+      <test id="72" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12861440"/>
+      <test id="73" outcome="wrong-answer" points="0" max-points="2" comment="Unexpected EOF in the participants output" eval-comment="" time="0.015" mem="12853248"/>
+    </results>
+  </testing>
+</testing-report>

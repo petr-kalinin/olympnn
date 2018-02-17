@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180217151517081968155854">
+  <solution problem="7" problem-name=" " problem-type="P" contestant="B2S" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer, but &quot;[a,b,b]&quot; found" eval-comment="" time="0.031" mem="17477632"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Expected integer, but &quot;[d,r,p,e,p,p,e,r]&quot; found" eval-comment="" time="0.031" mem="17530880"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[h]&quot; found" eval-comment="" time="0.031" mem="17526784"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[x,c]&quot; found" eval-comment="" time="0.031" mem="17514496"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[b,a,b]&quot; found" eval-comment="" time="0.031" mem="17534976"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[b,a,a]&quot; found" eval-comment="" time="0.031" mem="17498112"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[d,a,e,f,c,e,c,f,a,e]&quot; found" eval-comment="" time="0.031" mem="17756160"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[f,d,f,b,f,f,e,d,b,c]&quot; found" eval-comment="" time="0.031" mem="17653760"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[x,r,e,z,b,a,o,i,k,s,v,h,u,w,w]&quot; found" eval-comment="" time="0.031" mem="17645568"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[l,m,t,w,h,j,w,l,u,c,h,s,p,x,v...,x,w,h,w,x,j,k,x,o,k,d,x,k,...]&quot; found" eval-comment="" time="0.031" mem="17608704"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[b,l,t,l,u,k,v,r,h,a,r,r,g,y,t...,q,s,h,f,l,z,y,w,m,c,c,c,k,s,k]&quot; found" eval-comment="" time="0.031" mem="17424384"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[p,f,k,s,k,d,k,n,m,b,x,x,s,l,o...,m,k,j,h,n,f,j,d,d,w,e,y,q,q,i]&quot; found" eval-comment="" time="0.031" mem="17498112"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[w,h,w]&quot; found" eval-comment="" time="0.031" mem="17498112"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[q,k,e,j,i,i,r,y,y,t,v,v,a,a,q...,p,j,b,j,a,i,b,a,j,b,d,p,b,...]&quot; found" eval-comment="" time="0.031" mem="17584128"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[l,m,k,k,i,t,f,f,n,y,z,g,b,p,r...,o,h,m,o,i,e,u,d,y,s,c,j,e,...]&quot; found" eval-comment="" time="0.046" mem="17858560"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[r,r,r,r,r,r,r,r,r,r,r,r,r,m,m...,o,o,o,o,q,q,q,q,q,q,q,q,q,...]&quot; found" eval-comment="" time="0.031" mem="17494016"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[a,a,a,a,a,a,a,a,a,a,a,a,a,a,a...,g,g,g,g,g,g,g,g,g,u,u,u,u,...]&quot; found" eval-comment="" time="0.031" mem="17600512"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[a,a,a,a,a,a,a,a,a,y,y,y,y,y,y...,k,k,k,k,k,k,k,k,l,l,l,l,l,...]&quot; found" eval-comment="" time="0.031" mem="17682432"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[j,n,d,i,d,g,j,j,i,b,o,v,c,q,c...,b,n,q,g,q,x,t,b,u,b,p,d,u,...]&quot; found" eval-comment="" time="0.031" mem="17727488"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[w]&quot; found" eval-comment="" time="0.031" mem="17534976"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[c,p,z,p,p,p,c,p,b,p,c,f,p,c,p...,b,c,p,b,p,f,b,p,b,b,c,p,p,...]&quot; found" eval-comment="" time="0.031" mem="17489920"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[p,r,d,g,k,v,u,r,t,b,n,m,k,c,v...,p,k,r,k,r,r,t,u,k,t,i,s,k,...]&quot; found" eval-comment="" time="0.046" mem="17641472"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[r,c,b,l,t,f,v,d,u,u,z,m,q,q,r...,b,x,w,a,v,v,s,c,q,a,c,o,o,...]&quot; found" eval-comment="" time="0.031" mem="18251776"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[y,e,r,l,c,n,a,o,g,d,r,a,v,n,o...,k,a,k,g,o,t,w,l,t,f,t,c,j,...]&quot; found" eval-comment="" time="0.046" mem="17895424"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[t,h,n,t,o,j,x,m,t,z,k,w,d,d,p...,e,h,u,h,b,a,n,g,i,b,i,r,k,...]&quot; found" eval-comment="" time="0.031" mem="17498112"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[k,l,d,n,e,d,r,n,o,u,r,m,z,h,d...,h,u,d,j,g,z,h,k,k,c,g,h,r,...]&quot; found" eval-comment="" time="0.031" mem="17489920"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[m,c,k,q,w,c,o,m,y,f,b,k,f,v,t...,s,d,e,f,k,b,q,a,v,k,s,t,b,...]&quot; found" eval-comment="" time="0.031" mem="17563648"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[b,b,b,a,b,b,b,a,b,b,a,b,a,b,b...,a,b,b,b,b,b,a,a,a,b,a,a,b,...]&quot; found" eval-comment="" time="0.046" mem="19365888"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[d,b,b,b,c,a,d,b,e,d,a,c,e,a,b...,e,a,b,b,a,d,e,c,e,d,a,d,b,...]&quot; found" eval-comment="" time="0.078" mem="20848640"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[f,i,h,d,f,h,i,g,c,f,i,f,h,i,d...,a,i,b,f,c,j,d,j,i,h,j,g,d,...]&quot; found" eval-comment="" time="0.078" mem="21090304"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[n,w,q,t,z,s,l,x,o,w,u,a,e,f,e...,j,v,z,k,w,v,q,v,v,q,z,s,w,...]&quot; found" eval-comment="" time="0.078" mem="20807680"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[h,c,e,s,l,s,w,e,c,f,t,c,u,e,e...,x,e,e,e,e,e,m,m,e,m,c,e,u,...]&quot; found" eval-comment="" time="0.078" mem="21016576"/>
+    </results>
+  </testing>
+</testing-report>

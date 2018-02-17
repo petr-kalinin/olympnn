@@ -1,14 +1,4 @@
 <?php 
-set_magic_quotes_runtime(0);
-if (get_magic_quotes_gpc()==1){
-  foreach ($_GET as $key=>$val) 
-    if (is_string($_GET[$key]))
-       $_GET[$key]=stripslashes($val);
-  foreach ($_POST as $key=>$val) 
-    if (is_string($_POST[$key]))
-       $_POST[$key]=stripslashes($val);
-}
-
 $backpath=".";
 include_once("ije_proc.php");
 include_once("xml.php");

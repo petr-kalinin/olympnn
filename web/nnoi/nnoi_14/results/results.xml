@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<results>
+  <problems>
+    <problem id="1" type="P"/>
+    <problem id="2" type="P"/>
+    <problem id="3" type="P"/>
+    <problem id="4" type="P"/>
+    <problem id="5" type="P"/>
+    <problem id="6" type="P"/>
+    <problem id="7" type="P"/>
+  </problems>
+  <contestants>
+    <contestant id="J01" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="J02" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="J03" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="J04" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="J05" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="J06" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="J07" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="J08" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="J09" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="J10" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A1Y" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="92" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="68" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A2F" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="3" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A2S" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="56" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="3" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="21" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A3P" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="56" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="40" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="21" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A3T" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="92" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="88" minus="0" outcome="accepted"/>
+      <problem id="5" points="27" minus="0" outcome="accepted"/>
+      <problem id="6" points="11" minus="0" outcome="accepted"/>
+      <problem id="7" points="12" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A4D" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="92" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="48" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="19" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A4G" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="92" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="91" minus="0" outcome="accepted"/>
+      <problem id="5" points="44" minus="0" outcome="accepted"/>
+      <problem id="6" points="26" minus="0" outcome="accepted"/>
+      <problem id="7" points="63" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A4J" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="48" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="21" minus="0" outcome="accepted"/>
+      <problem id="6" points="19" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A4K" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="36" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A4L" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A4M" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A4N" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="52" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A4O" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="92" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="80" minus="0" outcome="accepted"/>
+      <problem id="6" points="4" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A4R" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="75" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="64" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A4U" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="92" minus="0" outcome="accepted"/>
+      <problem id="3" points="46" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="14" minus="0" outcome="accepted"/>
+      <problem id="7" points="51" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A5A" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A5B" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="100" minus="0" outcome="accepted"/>
+      <problem id="6" points="40" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A5C" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A5E" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="20" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="3" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A5V" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="9" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A5W" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="72" minus="0" outcome="accepted"/>
+      <problem id="6" points="57" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A6H" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="76" minus="0" outcome="accepted"/>
+      <problem id="6" points="77" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A6I" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="63" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="48" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A6Q" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="68" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A6X" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="100" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="A6Z" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="60" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="33" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B1G" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B1I" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B1J" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="59" minus="0" outcome="accepted"/>
+      <problem id="5" points="56" minus="0" outcome="accepted"/>
+      <problem id="6" points="19" minus="0" outcome="accepted"/>
+      <problem id="7" points="71" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B1T" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="12" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B2B" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="3" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="15" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B2H" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="34" minus="0" outcome="accepted"/>
+      <problem id="5" points="3" minus="0" outcome="accepted"/>
+      <problem id="6" points="19" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B2P" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="96" minus="0" outcome="accepted"/>
+      <problem id="4" points="94" minus="0" outcome="accepted"/>
+      <problem id="5" points="3" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B2S" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="60" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="61" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B3A" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="16" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B3E" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="8" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B3K" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="25" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B3Q" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="56" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B4L" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="9" minus="0" outcome="accepted"/>
+      <problem id="6" points="20" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B5C" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="52" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="48" minus="0" outcome="accepted"/>
+      <problem id="5" points="3" minus="0" outcome="accepted"/>
+      <problem id="6" points="8" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B5F" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="96" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="37" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B5N" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="3" minus="0" outcome="accepted"/>
+      <problem id="6" points="24" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B5R" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="100" minus="0" outcome="accepted"/>
+      <problem id="6" points="72" minus="0" outcome="accepted"/>
+      <problem id="7" points="64" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B6D" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="52" minus="0" outcome="accepted"/>
+      <problem id="6" points="37" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B6M" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="19" minus="0" outcome="accepted"/>
+      <problem id="4" points="41" minus="0" outcome="accepted"/>
+      <problem id="5" points="3" minus="0" outcome="accepted"/>
+      <problem id="6" points="34" minus="0" outcome="accepted"/>
+      <problem id="7" points="52" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="B6O" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C1I" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="65" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C1L" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C1M" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="60" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="48" minus="0" outcome="accepted"/>
+      <problem id="6" points="11" minus="0" outcome="accepted"/>
+      <problem id="7" points="22" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C2C" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="36" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="65" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="11" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C2E" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="74" minus="0" outcome="accepted"/>
+      <problem id="5" points="3" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C2K" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="68" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="12" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C3D" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="68" minus="0" outcome="accepted"/>
+      <problem id="5" points="48" minus="0" outcome="accepted"/>
+      <problem id="6" points="12" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C3H" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="42" minus="0" outcome="accepted"/>
+      <problem id="4" points="91" minus="0" outcome="accepted"/>
+      <problem id="5" points="3" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C3N" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="32" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="91" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="12" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C3O" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C4B" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="92" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="76" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C4F" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="12" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C4J" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="81" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C5G" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="92" minus="0" outcome="accepted"/>
+      <problem id="4" points="65" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="7" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="C6A" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="40" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="63" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D1F" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="56" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D1I" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="81" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D1K" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D1M" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="56" minus="0" outcome="accepted"/>
+      <problem id="5" points="9" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D2C" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="56" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D2D" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="44" minus="0" outcome="accepted"/>
+      <problem id="3" points="41" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="15" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D2E" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D2H" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="56" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D3B" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="16" minus="0" outcome="accepted"/>
+      <problem id="3" points="55" minus="0" outcome="accepted"/>
+      <problem id="4" points="81" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="20" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D3J" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="33" minus="0" outcome="accepted"/>
+      <problem id="6" points="25" minus="0" outcome="accepted"/>
+      <problem id="7" points="61" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D4A" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="92" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="38" minus="0" outcome="accepted"/>
+      <problem id="7" points="67" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D4N" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="81" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="29" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D5L" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="100" minus="0" outcome="accepted"/>
+      <problem id="3" points="85" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="84" minus="0" outcome="accepted"/>
+      <problem id="6" points="20" minus="0" outcome="accepted"/>
+      <problem id="7" points="100" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="D6G" _location="0">
+      <problem id="1" points="0" minus="0" outcome="accepted"/>
+      <problem id="2" points="0" minus="0" outcome="accepted"/>
+      <problem id="3" points="0" minus="0" outcome="accepted"/>
+      <problem id="4" points="0" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="E1A" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="4" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="40" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="42" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="E3B" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="16" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="100" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="0" minus="0" outcome="accepted"/>
+      <problem id="7" points="0" minus="0" outcome="accepted"/>
+    </contestant>
+    <contestant id="E5C" _location="0">
+      <problem id="1" points="200" minus="0" outcome="accepted"/>
+      <problem id="2" points="56" minus="0" outcome="accepted"/>
+      <problem id="3" points="100" minus="0" outcome="accepted"/>
+      <problem id="4" points="87" minus="0" outcome="accepted"/>
+      <problem id="5" points="0" minus="0" outcome="accepted"/>
+      <problem id="6" points="30" minus="0" outcome="accepted"/>
+      <problem id="7" points="12" minus="0" outcome="accepted"/>
+    </contestant>
+  </contestants>
+</results>

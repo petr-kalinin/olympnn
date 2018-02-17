@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="M1" name="ННОИ"/>
+    <problem id="M2" name="Удобно для всех"/>
+    <problem id="M3" name="Честный дележ"/>
+    <problem id="M4" name="Бутявочная ферма"/>
+    <problem id="M5" name="Максимизируй!"/>
+    <problem id="M6" name="Котлета"/>
+    <problem id="M7" name="Спасение любви"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="5"/>
+    <diplom id="II" places-min="6" places-max="10"/>
+    <diplom id="III" places-min="11" places-max="22"/>
+  </diploms>
+</more-data>
+    

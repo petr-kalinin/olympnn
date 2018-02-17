@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="61" max="100" outcome="accepted" gtid="20180217150732079132176297">
+  <solution problem="7" problem-name=" " problem-type="P" contestant="B2S" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="jury and contestant agree" eval-comment="" time="0.046" mem="17342464"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17608704"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17272832"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="17301504"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17391616"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17264640"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17268736"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17309696"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="17309696"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="17321984"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17317888"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17252352"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17317888"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17514496"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.062" mem="19628032"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="17371136"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="18132992"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.046" mem="19152896"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.046" mem="19320832"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17281024"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="17293312"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="17358848"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="17960960"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.062" mem="19812352"/>
+      <test id="25" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17358848"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17502208"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.031" mem="17973248"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.046" mem="19144704"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.062" mem="19587072"/>
+      <test id="30" outcome="accepted" points="4" max-points="4" comment="jury and contestant agree" eval-comment="" time="0.062" mem="19574784"/>
+      <test id="31" outcome="fail" points="0" max-points="4" comment="Error while executing verifier: RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher" eval-comment="" time="0.062" mem="19574784"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="contestant have found a non-optimal answer" eval-comment="" time="0.062" mem="19566592"/>
+    </results>
+  </testing>
+</testing-report>

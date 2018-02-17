@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180217121400024417139684">
+  <solution problem="5" problem-name=" " problem-type="P" contestant="A4O" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected double, but &quot;0.00000000/n0.50000000/n3.00000000/n&quot; found" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Expected double, but &quot;2.00000000/n&quot; found" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;31.66666667/n&quot; found" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;0.00000000/n0.00000000/n12.00000000/n12.00000000/n12.00000000/n&quot; found" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;121192397.50000000/n121192397.....66666669/n347266993.66666669/n&quot; found" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;0.00000000/n51632031.50000000/....19999999/n520562321.19999999/n&quot; found" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;0.00000000/n0.00000000/n0.0000...3665.00000000/n43665.00000000/n&quot; found" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;0.00000000/n360.50000000/n360....0466.77777778/n81310.60000000/n&quot; found" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;0.00000000/n891.50000000/n891....5935.88888889/n77255.00000000/n&quot; found" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;128.50000000/n128.50000000/n37...9741.55000000/n91912.30000000/n&quot; found" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;0.00000000/n0.00000000/n0.0000...9804.84000000/n89804.84000000/n&quot; found" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;0.00000000/n0.00000000/n0.0000....18518519/n938105242.77777779/n&quot; found" eval-comment="" time="0.000" mem="1081344"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;1961963.50000000/n1961963.5000....70731711/n949117955.70731711/n&quot; found" eval-comment="" time="0.000" mem="1081344"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="3" comment="Expected double, but &quot;1.66666667/n3.00000000/n31.666...n9749.69473684/n9749.69473684/n&quot; found" eval-comment="" time="0.015" mem="1179648"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;0.00000000/n0.00000000/n1.0000...n9837.80327869/n9838.79508197/n&quot; found" eval-comment="" time="0.015" mem="1318912"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;0.00000000/n0.75000000/n0.0000....79199219/n998948952.79199219/n&quot; found" eval-comment="" time="0.031" mem="1540096"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;0.00000000/n0.00000000/n0.0000....76403379/n999353310.06259310/n&quot; found" eval-comment="" time="0.078" mem="1855488"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;0.00000000/n0.00000000/n0.0000...9978.84912109/n49982.84814453/n&quot; found" eval-comment="" time="0.109" mem="2510848"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;0.00000000/n0.75000000/n0.7500...9834.37268066/n29836.37243652/n&quot; found" eval-comment="" time="0.124" mem="2506752"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;0.00000000/n0.00000000/n0.0000...4995.03662109/n24995.03662109/n&quot; found" eval-comment="" time="0.156" mem="4018176"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;0.75000000/n0.75000000/n0.7500...9716.40625000/n19716.40625000/n&quot; found" eval-comment="" time="0.202" mem="4022272"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;0.00000000/n0.00000000/n0.7500....48760986/n999502815.48760986/n&quot; found" eval-comment="" time="0.374" mem="6348800"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;0.75000000/n0.75000000/n0.0000...n9860.48077393/n9860.48077393/n&quot; found" eval-comment="" time="0.390" mem="6348800"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;0.00000000/n0.75000000/n0.7500....59515381/n995842460.07815552/n&quot; found" eval-comment="" time="0.608" mem="6656000"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;0.00000000/n0.00000000/n0.0000...n4996.83068848/n4996.83068848/n&quot; found" eval-comment="" time="0.483" mem="9801728"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="2138112"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="2138112"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="2113536"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="2138112"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="4" comment="Expected double, but &quot;498999.50100000/n&quot; found" eval-comment="" time="0.670" mem="7393280"/>
+    </results>
+  </testing>
+</testing-report>

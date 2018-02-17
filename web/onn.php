@@ -39,7 +39,8 @@ function check_file($a){
   
   if (!file_exists($s)){
      $wrong_url_was=true;
-     $a[0].="!!!`$s`???";
+     $wd=getcwd();
+     $a[0].="!!!`$wd`$s`???";
   }
   return $a[0];
 }

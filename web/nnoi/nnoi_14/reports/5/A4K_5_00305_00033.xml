@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="36" max="100" outcome="accepted" gtid="20180217161833003207332456">
+  <solution problem="5" problem-name=" " problem-type="P" contestant="A4K" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3 numbers" eval-comment="" time="0.031" mem="4939776"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="found '2.0000000', expected '2.0000000', error '0.0000000'" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="found '31.6666670', expected '31.6666667', error '0.0000000'" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="5 numbers" eval-comment="" time="0.031" mem="4952064"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="8 numbers" eval-comment="" time="0.031" mem="4939776"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="12 numbers" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="154 numbers" eval-comment="" time="0.031" mem="4939776"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="51 numbers" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="86 numbers" eval-comment="" time="0.031" mem="4939776"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="121 numbers" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="451 numbers" eval-comment="" time="0.046" mem="4939776"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="860 numbers" eval-comment="" time="0.078" mem="4952064"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="774 numbers" eval-comment="" time="0.078" mem="4939776"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="2836 numbers" eval-comment="" time="0.358" mem="4972544"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="5005312"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="4972544"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="4968448"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="4972544"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="4980736"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="5009408"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="5046272"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="5038080"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="5185536"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="5238784"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="5218304"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="5566464"/>
+      <test id="27" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="5447680"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="5505024"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="5595136"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.060" mem="15409152"/>
+    </results>
+  </testing>
+</testing-report>

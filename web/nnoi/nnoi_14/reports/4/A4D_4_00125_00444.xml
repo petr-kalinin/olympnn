@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="77" max="100" outcome="accepted" gtid="20180217131904044940168969">
+  <solution problem="4" problem-name=" " problem-type="P" contestant="A4D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="n=19, k=3" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="n=28, k=3" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Integer 11 violates the range [0, 1]" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;01&quot; found" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Integer 62 violates the range [0, 30]" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="n=120, k=7" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="n=357, k=40" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="n=587, k=100" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="n=956, k=700" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="10" outcome="accepted" points="4" max-points="4" comment="n=1000, k=1000" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="11" outcome="accepted" points="6" max-points="6" comment="n=98765, k=30" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="12" outcome="accepted" points="6" max-points="6" comment="n=734, k=10000" eval-comment="" time="0.015" mem="1126400"/>
+      <test id="13" outcome="accepted" points="6" max-points="6" comment="n=100000, k=10000" eval-comment="" time="0.015" mem="1130496"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="7" comment="Integer 999992539 violates the range [0, 99999]" eval-comment="" time="0.015" mem="1130496"/>
+      <test id="15" outcome="accepted" points="6" max-points="6" comment="n=1034568790, k=100000" eval-comment="" time="0.234" mem="1851392"/>
+      <test id="16" outcome="accepted" points="6" max-points="6" comment="n=947264836, k=50" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="17" outcome="accepted" points="6" max-points="6" comment="n=1000000456, k=99999" eval-comment="" time="0.171" mem="1843200"/>
+      <test id="18" outcome="accepted" points="6" max-points="6" comment="n=1000000467, k=100000" eval-comment="" time="0.187" mem="1843200"/>
+      <test id="19" outcome="accepted" points="6" max-points="6" comment="n=600003000040000507, k=10" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="20" outcome="accepted" points="6" max-points="6" comment="n=999999999999993689, k=99998" eval-comment="" time="0.140" mem="1847296"/>
+      <test id="21" outcome="accepted" points="7" max-points="7" comment="n=999999999999993789, k=100000" eval-comment="" time="0.156" mem="1851392"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="7" comment="Too many butyavkas: 1000000000000000000*11 of 1000000000000000000" eval-comment="" time="0.327" mem="1847296"/>
+    </results>
+  </testing>
+</testing-report>

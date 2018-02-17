@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="4" max="100" outcome="accepted" gtid="20180217123202027221534295">
+  <solution problem="3" problem-name=" " problem-type="P" contestant="B3Q" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="participant provided correct solution" eval-comment="" time="0.031" mem="18497536"/>
+      <test id="2" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13017088"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="participant provided correct solution" eval-comment="" time="0.031" mem="18563072"/>
+      <test id="4" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13041664"/>
+      <test id="5" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13012992"/>
+      <test id="6" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13053952"/>
+      <test id="7" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13021184"/>
+      <test id="8" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13250560"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="18509824"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="18616320"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="cnt[0] != cnt[1]" eval-comment="" time="0.046" mem="18534400"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13070336"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13045760"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="18522112"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13201408"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13131776"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="18825216"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="cnt[0] != cnt[1]" eval-comment="" time="0.031" mem="18599936"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13049856"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13189120"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13029376"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13119488"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13099008"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="13082624"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20180217161609000627984083">
+  <solution problem="6" problem-name=" " problem-type="P" contestant="B2B" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="pabcnetcclear.exe sol.pas " compiler-output="Compile errors:&#13;&#10;[6,10] sol.pas: Found 'n' but expected '?'&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

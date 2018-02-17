@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="34" max="100" outcome="accepted" gtid="20180217120048020096073818">
+  <solution problem="4" problem-name=" " problem-type="P" contestant="B2H" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="n=19, k=3" eval-comment="" time="0.015" mem="14483456"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="n=28, k=3" eval-comment="" time="0.015" mem="14462976"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="n=1, k=1" eval-comment="" time="0.015" mem="14479360"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;02&quot; found" eval-comment="" time="0.015" mem="14467072"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Integer 63 violates the range [0, 30]" eval-comment="" time="0.015" mem="14495744"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Too many butyavkas: 38*34 of 120" eval-comment="" time="0.015" mem="14450688"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Integer 3221 violates the range [0, 357]" eval-comment="" time="0.015" mem="14454784"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Integer 954 violates the range [0, 587]" eval-comment="" time="0.015" mem="14725120"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Too many butyavkas: 317*330 of 956" eval-comment="" time="0.015" mem="14536704"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="Too many butyavkas: 990*125 of 1000" eval-comment="" time="0.015" mem="14606336"/>
+      <test id="11" outcome="accepted" points="6" max-points="6" comment="n=98765, k=30" eval-comment="" time="0.015" mem="14651392"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="Too many butyavkas: 104*73 of 734" eval-comment="" time="0.031" mem="15855616"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="Too many butyavkas: 3846*2611 of 100000" eval-comment="" time="0.031" mem="16134144"/>
+      <test id="14" outcome="accepted" points="7" max-points="7" comment="n=99999, k=10000" eval-comment="" time="0.031" mem="15962112"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="6" comment="Too many butyavkas: 7778016*133594 of 1034568790" eval-comment="" time="0.109" mem="16539648"/>
+      <test id="16" outcome="accepted" points="6" max-points="6" comment="n=947264836, k=50" eval-comment="" time="0.015" mem="14479360"/>
+      <test id="17" outcome="accepted" points="6" max-points="6" comment="n=1000000456, k=99999" eval-comment="" time="0.109" mem="16601088"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="6" comment="Expected integer, but &quot;02&quot; found" eval-comment="" time="0.592" mem="16519168"/>
+      <test id="19" outcome="accepted" points="6" max-points="6" comment="n=600003000040000507, k=10" eval-comment="" time="0.015" mem="14434304"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="6" comment="Too many butyavkas: 100833*9917388156655934 of 999999999999993689" eval-comment="" time="0.078" mem="16564224"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="7" comment="Integer 7704160246533081956 violates the range [0, 999999999999993789]" eval-comment="" time="0.078" mem="16543744"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="7" comment="Too many butyavkas: 1000000000000000000*12 of 1000000000000000000" eval-comment="" time="0.670" mem="16560128"/>
+    </results>
+  </testing>
+</testing-report>

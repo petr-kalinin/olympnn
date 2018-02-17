@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20180217145404073532364127">
+  <solution problem="6" problem-name=" " problem-type="P" contestant="A5B" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx: In function 'int main()':&#13;&#10;sol.cxx:75:5: error: 'cou' was not declared in this scope&#13;&#10;     cou&#13;&#10;     ^~~&#13;&#10;sol.cxx:76:10: error: 'i' was not declared in this scope&#13;&#10;     forn(i, 2 * n + 1)forn(j, n + 1)dp[i][j] = INT_MAX / 2;&#13;&#10;          ^&#13;&#10;sol.cxx:19:33: note: in definition of macro 'foru'&#13;&#10; #define foru(i,l,r) for(int i=l;i&lt;r;++i)&#13;&#10;                                 ^&#13;&#10;sol.cxx:76:5: note: in expansion of macro 'forn'&#13;&#10;     forn(i, 2 * n + 1)forn(j, n + 1)dp[i][j] = INT_MAX / 2;&#13;&#10;     ^~~~&#13;&#10;sol.cxx:76:28: error: 'j' was not declared in this scope&#13;&#10;     forn(i, 2 * n + 1)forn(j, n + 1)dp[i][j] = INT_MAX / 2;&#13;&#10;                            ^&#13;&#10;sol.cxx:19:33: note: in definition of macro 'foru'&#13;&#10; #define foru(i,l,r) for(int i=l;i&lt;r;++i)&#13;&#10;                                 ^&#13;&#10;sol.cxx:76:23: note: in expansion of macro 'forn'&#13;&#10;     forn(i, 2 * n + 1)forn(j, n + 1)dp[i][j] = INT_MAX / 2;&#13;&#10;                       ^~~~&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

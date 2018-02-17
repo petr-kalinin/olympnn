@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="41" max="100" outcome="accepted" gtid="20180217152232084975462673">
+  <solution problem="4" problem-name=" " problem-type="P" contestant="B5C" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="n=19, k=3" eval-comment="" time="0.046" mem="19009536"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="n=28, k=3" eval-comment="" time="0.046" mem="19013632"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="n=1, k=1" eval-comment="" time="0.046" mem="19013632"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="n=0, k=2" eval-comment="" time="0.046" mem="19009536"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution" eval-comment="" time="0.046" mem="19013632"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="n=120, k=7" eval-comment="" time="0.031" mem="19013632"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution" eval-comment="" time="0.031" mem="19009536"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution" eval-comment="" time="0.046" mem="19013632"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better solution" eval-comment="" time="0.046" mem="19312640"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better solution" eval-comment="" time="0.046" mem="19312640"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="Jury has better solution" eval-comment="" time="0.046" mem="19013632"/>
+      <test id="12" outcome="accepted" points="6" max-points="6" comment="n=734, k=10000" eval-comment="" time="0.046" mem="20144128"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="Jury has better solution" eval-comment="" time="0.046" mem="19886080"/>
+      <test id="14" outcome="accepted" points="7" max-points="7" comment="n=99999, k=10000" eval-comment="" time="0.046" mem="20254720"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="6" comment="Jury has better solution" eval-comment="" time="0.156" mem="30261248"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="6" comment="Jury has better solution" eval-comment="" time="0.046" mem="19013632"/>
+      <test id="17" outcome="accepted" points="6" max-points="6" comment="n=1000000456, k=99999" eval-comment="" time="0.156" mem="30257152"/>
+      <test id="18" outcome="accepted" points="6" max-points="6" comment="n=1000000467, k=100000" eval-comment="" time="0.202" mem="35799040"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="6" comment="Jury has better solution" eval-comment="" time="0.046" mem="19017728"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="6" comment="Jury has better solution" eval-comment="" time="0.124" mem="29306880"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="7" comment="Jury has better solution" eval-comment="" time="0.109" mem="28258304"/>
+      <test id="22" outcome="accepted" points="7" max-points="7" comment="n=1000000000000000000, k=100000" eval-comment="" time="0.265" mem="37023744"/>
+    </results>
+  </testing>
+</testing-report>

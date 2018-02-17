@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20180217130436039777401980">
+  <solution problem="6" problem-name=" " problem-type="P" contestant="B5F" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="2 tokens" eval-comment="" time="0.000" mem="41123840"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2 tokens" eval-comment="" time="0.000" mem="41119744"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="&quot;Hungry&quot;" eval-comment="" time="0.000" mem="41254912"/>
+      <test id="4" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="41259008"/>
+      <test id="5" outcome="accepted" points="1" max-points="1" comment="&quot;Hungry&quot;" eval-comment="" time="0.000" mem="41119744"/>
+      <test id="6" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="41123840"/>
+      <test id="7" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="41123840"/>
+      <test id="8" outcome="accepted" points="1" max-points="1" comment="&quot;Hungry&quot;" eval-comment="" time="0.000" mem="41119744"/>
+      <test id="9" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="41123840"/>
+      <test id="10" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="41127936"/>
+      <test id="11" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="41123840"/>
+      <test id="12" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="41254912"/>
+      <test id="13" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="41254912"/>
+      <test id="14" outcome="accepted" points="2" max-points="2" comment="&quot;Hungry&quot;" eval-comment="" time="0.000" mem="41119744"/>
+      <test id="15" outcome="accepted" points="2" max-points="2" comment="2 tokens" eval-comment="" time="0.000" mem="41254912"/>
+      <test id="16" outcome="accepted" points="2" max-points="2" comment="2 tokens" eval-comment="" time="0.015" mem="41271296"/>
+      <test id="17" outcome="accepted" points="2" max-points="2" comment="2 tokens" eval-comment="" time="0.000" mem="41254912"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.015" mem="41279488"/>
+      <test id="19" outcome="accepted" points="2" max-points="2" comment="2 tokens" eval-comment="" time="0.000" mem="41254912"/>
+      <test id="20" outcome="idleness-limit-exceeded" points="0" max-points="1" comment="Idleness limit exceeded" eval-comment="" time="0.124" mem="41115648"/>
+      <test id="21" outcome="idleness-limit-exceeded" points="0" max-points="1" comment="Idleness limit exceeded" eval-comment="" time="0.109" mem="41115648"/>
+      <test id="22" outcome="idleness-limit-exceeded" points="0" max-points="1" comment="Idleness limit exceeded" eval-comment="" time="0.124" mem="41111552"/>
+      <test id="23" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="24" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="25" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="26" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="27" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="28" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="29" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="30" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="31" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="32" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="33" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="34" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="35" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="36" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="37" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="38" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="39" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="40" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="41" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="42" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="43" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="44" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="45" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="46" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="47" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="48" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="49" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="50" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="51" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="52" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="53" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="54" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="55" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="56" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="57" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="58" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="59" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="60" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="61" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="62" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="63" outcome="not-tested" points="0" max-points="1" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="64" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="65" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="66" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="67" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="68" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="69" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="70" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="71" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="72" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="73" outcome="not-tested" points="0" max-points="2" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+    </results>
+  </testing>
+</testing-report>

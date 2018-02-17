@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="12" max="100" outcome="accepted" gtid="20180217162800009481971064">
+  <solution problem="7" problem-name=" " problem-type="P" contestant="C2K" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="18903040"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="18882560"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="18882560"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="18890752"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="18894848"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="18841600"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="18935808"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="18862080"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="18886656"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="19066880"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="18878464"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="18886656"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="19116032"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.046" mem="19423232"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.045" mem="32006144"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="19173376"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.156" mem="20770816"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.374" mem="25661440"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.530" mem="26382336"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="jury and contestant agree" eval-comment="" time="0.031" mem="18903040"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.031" mem="18903040"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="contestant have found a non-optimal answer" eval-comment="" time="0.046" mem="19144704"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="contestant have found a non-optimal answer" eval-comment="" time="0.156" mem="20758528"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="31961088"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="contestant have found a non-optimal answer" eval-comment="" time="0.046" mem="19132416"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="contestant have found a non-optimal answer" eval-comment="" time="0.062" mem="19767296"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="contestant have found a non-optimal answer" eval-comment="" time="0.156" mem="20754432"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="contestant have found a non-optimal answer" eval-comment="" time="0.374" mem="25718784"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="31997952"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="31961088"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="32051200"/>
+      <test id="32" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.045" mem="32022528"/>
+    </results>
+  </testing>
+</testing-report>

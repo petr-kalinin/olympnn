@@ -135,6 +135,11 @@
     Отборочный тур=zaoch/results.php
     Участники=participants.php
     Основной тур=info.php
+    Авторы задач=taskauthors.php
+    Жюри=jury.php
+    Оргкомитет=org.php
+    Результаты=results.php
+    Архив=archive/index.php
   }
   Книга={
     _dir=../book/

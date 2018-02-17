@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="8" max="100" outcome="accepted" gtid="20180217143701067585611024">
+  <solution problem="6" problem-name=" " problem-type="P" contestant="D3J" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="2 tokens" eval-comment="" time="0.000" mem="1449984"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2 tokens" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="0" comment="1st words differ - expected: 'Hungry', found: 'Full'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="4" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Hungry', found: 'Full'" eval-comment="" time="0.000" mem="1449984"/>
+      <test id="6" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="7" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Hungry', found: 'Full'" eval-comment="" time="0.000" mem="1449984"/>
+      <test id="9" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="1449984"/>
+      <test id="10" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="1449984"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="14" outcome="accepted" points="2" max-points="2" comment="&quot;Hungry&quot;" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1449984"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="1" comment="Time limit exceeded" eval-comment="" time="2.043" mem="14405632"/>
+      <test id="21" outcome="accepted" points="1" max-points="1" comment="2 tokens" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="1" comment="1st words differ - expected: 'Hungry', found: 'Full'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="1" comment="Time limit exceeded" eval-comment="" time="2.043" mem="14307328"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="33" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="37" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="38" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="39" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="40" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="41" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="42" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="43" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="44" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="45" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="46" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="47" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="48" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="49" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="50" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="51" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="52" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="53" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="54" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="55" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="56" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="57" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="58" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="59" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="60" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="61" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="62" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="63" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+      <test id="64" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="65" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="66" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="67" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="68" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="69" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1445888"/>
+      <test id="70" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="71" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="72" outcome="wrong-answer" points="0" max-points="2" comment="1st words differ - expected: 'Full', found: 'Hungry'" eval-comment="" time="0.000" mem="1441792"/>
+      <test id="73" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1437696"/>
+    </results>
+  </testing>
+</testing-report>

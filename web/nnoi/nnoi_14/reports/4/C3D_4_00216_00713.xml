@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20180217145009072253099042">
+  <solution problem="4" problem-name=" " problem-type="P" contestant="C3D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="fail" points="0" max-points="0" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="2" outcome="fail" points="0" max-points="0" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="3" outcome="fail" points="0" max-points="3" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="4" outcome="fail" points="0" max-points="3" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="5" outcome="fail" points="0" max-points="3" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="6" outcome="fail" points="0" max-points="3" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="7" outcome="fail" points="0" max-points="3" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="8" outcome="fail" points="0" max-points="3" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="9" outcome="fail" points="0" max-points="3" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="10" outcome="fail" points="0" max-points="4" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="11" outcome="fail" points="0" max-points="6" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="12" outcome="fail" points="0" max-points="6" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="13" outcome="fail" points="0" max-points="6" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="14" outcome="fail" points="0" max-points="7" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="15" outcome="fail" points="0" max-points="6" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="16" outcome="fail" points="0" max-points="6" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="17" outcome="fail" points="0" max-points="6" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="18" outcome="fail" points="0" max-points="6" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="19" outcome="fail" points="0" max-points="6" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="20" outcome="fail" points="0" max-points="6" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="21" outcome="fail" points="0" max-points="7" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="22" outcome="fail" points="0" max-points="7" comment="RUN internal error: Error in e:\ije\ije_50_d\other\launcher\launcher_lib\process.cpp(105) : CreatePr" eval-comment="" time="-1.000" mem="-1"/>
+    </results>
+  </testing>
+</testing-report>
