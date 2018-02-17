@@ -41,6 +41,7 @@ startonn("/Город","Нижегородские городские олимпиады школьников по информатике")
 <li><a href="/nnoi/nnoi_11/index.php">XI олимпиада им. В.&nbsp;Д. Лелюха, 31 января 2015 г.</a></li>
 <li><a href="/nnoi/nnoi_12/index.php">XII олимпиада им. В.&nbsp;Д. Лелюха, 13 февраля 2016 г.</a></li>
 <li><a href="/nnoi/nnoi_13/index.php">XIII олимпиада им. В.&nbsp;Д. Лелюха, 18 февраля 2017 г.</a></li>
+<li><a href="/nnoi/nnoi_14/index.php">XIV олимпиада им. В.&nbsp;Д. Лелюха, 17 февраля 2017 г.</a></li>
 </ul>
 <h1>Книга</h1>
 <ul>
