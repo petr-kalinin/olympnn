@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190126114856003926018628">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="A2F" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 0xE0434352" eval-comment="" time="0.046" mem="13799424"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="13770752"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="20" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="13791232"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="20" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="13811712"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="20" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="13766656"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="20" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13811712"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="20" comment="Runtime error 0xE0434352" eval-comment="" time="0.031" mem="13778944"/>
+    </results>
+  </testing>
+</testing-report>

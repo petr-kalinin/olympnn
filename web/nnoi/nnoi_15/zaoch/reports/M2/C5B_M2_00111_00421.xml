@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="84" max="100" outcome="accepted" gtid="20190126145154042127817055">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="C5B" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="125" eval-comment="" time="0.031" mem="17317888"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="105 вместо 125" eval-comment="" time="0.031" mem="17485824"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="0" eval-comment="" time="0.031" mem="17338368"/>
+      <test id="4" outcome="accepted" points="0" max-points="0" comment="125" eval-comment="" time="0.031" mem="17297408"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="1000000" eval-comment="" time="0.031" mem="17334272"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="1000000" eval-comment="" time="0.031" mem="17338368"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="0" eval-comment="" time="0.031" mem="17321984"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="8" eval-comment="" time="0.031" mem="17424384"/>
+      <test id="9" outcome="accepted" points="4" max-points="4" comment="0" eval-comment="" time="0.031" mem="17338368"/>
+      <test id="10" outcome="accepted" points="4" max-points="4" comment="0" eval-comment="" time="0.031" mem="17338368"/>
+      <test id="11" outcome="accepted" points="4" max-points="4" comment="0" eval-comment="" time="0.031" mem="17338368"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="1" eval-comment="" time="0.031" mem="17469440"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="1" eval-comment="" time="0.031" mem="17620992"/>
+      <test id="14" outcome="accepted" points="4" max-points="4" comment="1" eval-comment="" time="0.031" mem="17313792"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="8 вместо 10" eval-comment="" time="0.031" mem="17330176"/>
+      <test id="16" outcome="accepted" points="4" max-points="4" comment="100" eval-comment="" time="0.031" mem="17309696"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="0 вместо 8" eval-comment="" time="0.031" mem="17346560"/>
+      <test id="18" outcome="accepted" points="4" max-points="4" comment="72" eval-comment="" time="0.031" mem="17354752"/>
+      <test id="19" outcome="accepted" points="4" max-points="4" comment="3608" eval-comment="" time="0.031" mem="17399808"/>
+      <test id="20" outcome="accepted" points="4" max-points="4" comment="1640" eval-comment="" time="0.031" mem="17346560"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="10248 вместо 10535" eval-comment="" time="0.031" mem="17350656"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="77520 вместо 78375" eval-comment="" time="0.031" mem="17461248"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="0" eval-comment="" time="0.031" mem="17358848"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="1" eval-comment="" time="0.031" mem="17358848"/>
+      <test id="25" outcome="accepted" points="4" max-points="4" comment="6142" eval-comment="" time="0.031" mem="17436672"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="26624" eval-comment="" time="0.031" mem="17305600"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="26624" eval-comment="" time="0.031" mem="17395712"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="11786000" eval-comment="" time="0.031" mem="17334272"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="1000000000" eval-comment="" time="0.031" mem="17350656"/>
+    </results>
+  </testing>
+</testing-report>

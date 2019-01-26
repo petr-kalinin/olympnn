@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20190126135946016100549983">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="D71" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="125" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="125" eval-comment="" time="0.031" mem="4956160"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="0" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="4" outcome="accepted" points="0" max-points="0" comment="125" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="1000000" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="1000000" eval-comment="" time="0.046" mem="4952064"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="0" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="8" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="9" outcome="accepted" points="4" max-points="4" comment="0" eval-comment="" time="0.031" mem="4939776"/>
+      <test id="10" outcome="accepted" points="4" max-points="4" comment="0" eval-comment="" time="0.031" mem="4952064"/>
+      <test id="11" outcome="accepted" points="4" max-points="4" comment="0" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="1" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="1" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="14" outcome="accepted" points="4" max-points="4" comment="1" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="10" eval-comment="" time="0.031" mem="4939776"/>
+      <test id="16" outcome="accepted" points="4" max-points="4" comment="100" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="17" outcome="accepted" points="4" max-points="4" comment="8" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="18" outcome="accepted" points="4" max-points="4" comment="72" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="19" outcome="accepted" points="4" max-points="4" comment="3608" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="20" outcome="accepted" points="4" max-points="4" comment="1640" eval-comment="" time="0.031" mem="4952064"/>
+      <test id="21" outcome="accepted" points="4" max-points="4" comment="10535" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="22" outcome="accepted" points="4" max-points="4" comment="78375" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="0" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="1" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="25" outcome="accepted" points="4" max-points="4" comment="6142" eval-comment="" time="0.031" mem="4947968"/>
+      <test id="26" outcome="accepted" points="4" max-points="4" comment="26624" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="27" outcome="accepted" points="4" max-points="4" comment="26624" eval-comment="" time="0.031" mem="4943872"/>
+      <test id="28" outcome="accepted" points="4" max-points="4" comment="11786000" eval-comment="" time="0.031" mem="4952064"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="1000000000" eval-comment="" time="0.015" mem="4935680"/>
+    </results>
+  </testing>
+</testing-report>

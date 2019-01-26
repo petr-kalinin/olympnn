@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190126145901047290246520">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="D79" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13877248"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13742080"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="14016512"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13942784"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13787136"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13709312"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13737984"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13975552"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13717504"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13717504"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13746176"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13742080"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13737984"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13709312"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13725696"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13758464"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13762560"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.031" mem="13692928"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13877248"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.031" mem="14061568"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13987840"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13713408"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13742080"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;YES&quot;" eval-comment="" time="0.015" mem="13746176"/>
+    </results>
+  </testing>
+</testing-report>

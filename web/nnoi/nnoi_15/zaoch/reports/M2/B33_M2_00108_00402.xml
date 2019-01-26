@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190126144838040248847752">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="B33" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="5 вместо 125" eval-comment="" time="0.031" mem="17301504"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;1.66666666666667&quot;" eval-comment="" time="0.031" mem="17305600"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="0" comment="Extra information in the output file" eval-comment="" time="0.031" mem="17297408"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;5.5&quot;" eval-comment="" time="0.031" mem="17305600"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="100 вместо 1000000" eval-comment="" time="0.031" mem="17309696"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;33.3333333333333&quot;" eval-comment="" time="0.031" mem="17317888"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Extra information in the output file" eval-comment="" time="0.031" mem="17285120"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;2.33333333333333&quot;" eval-comment="" time="0.031" mem="17321984"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Extra information in the output file" eval-comment="" time="0.031" mem="17301504"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="4" comment="Extra information in the output file" eval-comment="" time="0.031" mem="17317888"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="4" comment="Extra information in the output file" eval-comment="" time="0.031" mem="17321984"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="4" comment="Extra information in the output file" eval-comment="" time="0.031" mem="17342464"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="0 вместо 1" eval-comment="" time="0.031" mem="17326080"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="0 вместо 1" eval-comment="" time="0.031" mem="17281024"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="4 вместо 10" eval-comment="" time="0.031" mem="17326080"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="0 вместо 100" eval-comment="" time="0.031" mem="17346560"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="0 вместо 8" eval-comment="" time="0.031" mem="17313792"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="0 вместо 72" eval-comment="" time="0.031" mem="17428480"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;11.1111111111111&quot;" eval-comment="" time="0.031" mem="17432576"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;2.03587443946188&quot;" eval-comment="" time="0.031" mem="17321984"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;43.0434782608696&quot;" eval-comment="" time="0.031" mem="17436672"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;65.9230769230769&quot;" eval-comment="" time="0.031" mem="17309696"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="4" comment="Extra information in the output file" eval-comment="" time="0.031" mem="17326080"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="4" comment="Extra information in the output file" eval-comment="" time="0.031" mem="17313792"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;1.52671755725191&quot;" eval-comment="" time="0.031" mem="17371136"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;17.8571428571429&quot;" eval-comment="" time="0.031" mem="17330176"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;47.3684210526316&quot;" eval-comment="" time="0.031" mem="17367040"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="500 вместо 11786000" eval-comment="" time="0.031" mem="17317888"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="1000 вместо 1000000000" eval-comment="" time="0.031" mem="17448960"/>
+    </results>
+  </testing>
+</testing-report>

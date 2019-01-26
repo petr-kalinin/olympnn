@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="30" max="100" outcome="accepted" gtid="20190126134319009646885522">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="C69" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.062" mem="18997248"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="1-ое число: -10 вместо 14" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 12 вместо 13" eval-comment="" time="0.046" mem="19001344"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 27 вместо 4" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 38 вместо 15" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -28 вместо 21" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -24 вместо 0" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -25 вместо 23" eval-comment="" time="0.046" mem="19001344"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 11 вместо 12" eval-comment="" time="0.046" mem="19001344"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 18 вместо 19" eval-comment="" time="0.046" mem="18993152"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 22 вместо 23" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 47 вместо 23" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 3 вместо 4" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="17" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -19 вместо 6" eval-comment="" time="0.046" mem="18993152"/>
+      <test id="19" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -22 вместо 3" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 37 вместо 14" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -14 вместо 10" eval-comment="" time="0.046" mem="19001344"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 41 вместо 18" eval-comment="" time="0.046" mem="18997248"/>
+      <test id="24" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.046" mem="19001344"/>
+      <test id="25" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.046" mem="18993152"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -25 вместо 0" eval-comment="" time="0.046" mem="18997248"/>
+    </results>
+  </testing>
+</testing-report>
