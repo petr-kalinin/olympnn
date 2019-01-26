@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190126135005011799250494">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="A11" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="1-ое число: 180 вместо 13" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="1-ое число: 2154 вместо 14" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 945 вместо 4" eval-comment="" time="0.015" mem="1056768"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 236 вместо 13" eval-comment="" time="0.015" mem="1056768"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 0 вместо 20" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 45 вместо 23" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 200 вместо 4" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1615 вместо 15" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 180 вместо 21" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 220 вместо 0" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 840 вместо 23" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1954 вместо 12" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1327 вместо 19" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 930 вместо 23" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 220 вместо 23" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 86 вместо 4" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 150 вместо 5" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 2221 вместо 6" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 541 вместо 3" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1136 вместо 3" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1125 вместо 14" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 930 вместо 10" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 853 вместо 18" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 2342 вместо 0" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 2048 вместо 4" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 2225 вместо 0" eval-comment="" time="0.000" mem="1052672"/>
+    </results>
+  </testing>
+</testing-report>

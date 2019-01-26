@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190126145224042551197451">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="B36" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="javac sol.java " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.062" mem="173252608"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173359104"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173342720"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173338624"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173412352"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.062" mem="173428736"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.109" mem="173350912"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.062" mem="173334528"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173338624"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173363200"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.062" mem="173424640"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173400064"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173383680"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.062" mem="173363200"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173363200"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.062" mem="173383680"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173342720"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173322240"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173367296"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173338624"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173387776"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173379584"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173387776"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;java.nio.file.NoSuchFileExcept...&quot;" eval-comment="" time="0.046" mem="173375488"/>
+    </results>
+  </testing>
+</testing-report>

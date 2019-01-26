@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20190126115046004440229094">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="A13" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24210 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.00.24210.0&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="4" eval-comment="" time="0.000" mem="561152"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-2" eval-comment="" time="0.000" mem="561152"/>
+      <test id="3" outcome="accepted" points="20" max-points="20" comment="8" eval-comment="" time="0.000" mem="561152"/>
+      <test id="4" outcome="accepted" points="20" max-points="20" comment="1110" eval-comment="" time="0.000" mem="569344"/>
+      <test id="5" outcome="accepted" points="20" max-points="20" comment="2000" eval-comment="" time="0.000" mem="561152"/>
+      <test id="6" outcome="accepted" points="20" max-points="20" comment="-2000" eval-comment="" time="0.000" mem="565248"/>
+      <test id="7" outcome="accepted" points="20" max-points="20" comment="0" eval-comment="" time="0.000" mem="565248"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20190126132107002135657195">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="D77" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.062" mem="18980864"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.046" mem="18976768"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.062" mem="18976768"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 12 вместо 13" eval-comment="" time="0.062" mem="18980864"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.062" mem="18984960"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.062" mem="18976768"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 27 вместо 4" eval-comment="" time="0.062" mem="18984960"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 38 вместо 15" eval-comment="" time="0.062" mem="18976768"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 20 вместо 21" eval-comment="" time="0.046" mem="18984960"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 24 вместо 0" eval-comment="" time="0.062" mem="18976768"/>
+      <test id="11" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.062" mem="18984960"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 35 вместо 12" eval-comment="" time="0.062" mem="18968576"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 42 вместо 19" eval-comment="" time="0.062" mem="18976768"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 46 вместо 23" eval-comment="" time="0.046" mem="18976768"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.062" mem="18989056"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 27 вместо 4" eval-comment="" time="0.062" mem="18976768"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 29 вместо 5" eval-comment="" time="0.062" mem="18989056"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 29 вместо 6" eval-comment="" time="0.062" mem="18976768"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 27 вместо 3" eval-comment="" time="0.062" mem="18989056"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 26 вместо 3" eval-comment="" time="0.062" mem="18980864"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 37 вместо 14" eval-comment="" time="0.062" mem="18984960"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 34 вместо 10" eval-comment="" time="0.062" mem="18976768"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 17 вместо 18" eval-comment="" time="0.062" mem="18980864"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 24 вместо 0" eval-comment="" time="0.062" mem="18976768"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 28 вместо 4" eval-comment="" time="0.062" mem="18984960"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 23 вместо 0" eval-comment="" time="0.062" mem="18976768"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190126143115030553221456">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="A08" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17276928"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17530880"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17305600"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17334272"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17317888"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17391616"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17571840"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17342464"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17342464"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17313792"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17395712"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17453056"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17313792"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17305600"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17412096"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17362944"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17387520"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17326080"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17338368"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17379328"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17309696"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="4" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17432576"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17592320"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17301504"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17334272"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="5" comment="Expected integer instead of &quot;‚ўҐ¤ЁвҐ&quot;" eval-comment="" time="0.031" mem="17342464"/>
+    </results>
+  </testing>
+</testing-report>

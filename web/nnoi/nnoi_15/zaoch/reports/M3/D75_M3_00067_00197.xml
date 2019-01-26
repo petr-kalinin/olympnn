@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20190126140702019708071164">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="D75" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="javac sol.java " compiler-output="sol.java:3: error: class M3 is public, should be declared in a file named M3.java&#13;&#10;public class M3 {&#13;&#10;       ^&#13;&#10;1 error&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

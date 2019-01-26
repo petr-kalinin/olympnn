@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20190126145224042441012605">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="A2E" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment=":)" eval-comment="" time="0.046" mem="17440768"/>
+      <test id="2" outcome="accepted" points="4" max-points="4" comment=":)" eval-comment="" time="0.031" mem="17477632"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment=":)" eval-comment="" time="0.031" mem="17477632"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="Your cost is too big" eval-comment="" time="0.031" mem="17362944"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="4" comment="The days are not in increasing order" eval-comment="" time="0.031" mem="17358848"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment=":)" eval-comment="" time="0.031" mem="17448960"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment=":)" eval-comment="" time="0.031" mem="17346560"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment=":)" eval-comment="" time="0.031" mem="17543168"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="You have no coupons on the 4 day" eval-comment="" time="0.031" mem="17367040"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="Your cost is too big" eval-comment="" time="0.031" mem="17317888"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="Your cost is too big" eval-comment="" time="0.031" mem="17469440"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="Your cost is too big" eval-comment="" time="0.031" mem="17330176"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="Your cost is too big" eval-comment="" time="0.031" mem="17354752"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="Your cost is too big" eval-comment="" time="0.031" mem="17367040"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="Your cost is too big" eval-comment="" time="0.031" mem="17354752"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="Your cost is too big" eval-comment="" time="0.031" mem="17620992"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="Your cost is too big" eval-comment="" time="0.031" mem="17387520"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="You have no coupons on the 65 day" eval-comment="" time="0.031" mem="17338368"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Your cost is too big" eval-comment="" time="0.031" mem="17342464"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Your cost is too big" eval-comment="" time="0.031" mem="17334272"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="Your cost is too big" eval-comment="" time="0.031" mem="17354752"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="Your cost is too big" eval-comment="" time="0.031" mem="17387520"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="Your cost is too big" eval-comment="" time="0.031" mem="17334272"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="Your cost is too big" eval-comment="" time="0.031" mem="17711104"/>
+    </results>
+  </testing>
+</testing-report>

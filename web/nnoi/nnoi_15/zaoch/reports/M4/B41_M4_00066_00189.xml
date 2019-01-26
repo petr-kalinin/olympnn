@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20190126140602018912325973">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="B41" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24210 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;sol.cpp(15): error C2131: expression did not evaluate to a constant&#13;&#10;sol.cpp(15): note: failure was caused by non-constant arguments or reference to a non-constant symbol&#13;&#10;sol.cpp(15): note: see usage of 'n'&#13;&#10;sol.cpp(18): warning C4552: '&gt;&gt;': operator has no effect; expected operator with side-effect&#13;&#10;sol.cpp(34): error C3863: array type 'int [n]' is not assignable&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

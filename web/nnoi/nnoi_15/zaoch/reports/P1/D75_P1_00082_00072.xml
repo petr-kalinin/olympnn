@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20190126120723007185896196">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="D75" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="javac sol.java " compiler-output=""/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20190126145144042067176656">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="B36" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="javac sol.java " compiler-output="sol.java:7: error: cannot find symbol&#13;&#10;&#9;&#9;&#9;List&lt;String&gt; strs = Files.readAllLines(new File(&quot;slow.in&quot;).toPath());&#13;&#10;&#9;&#9;&#9;^&#13;&#10;  symbol:   class List&#13;&#10;  location: class sol&#13;&#10;sol.java:7: error: cannot find symbol&#13;&#10;&#9;&#9;&#9;List&lt;String&gt; strs = Files.readAllLines(new File(&quot;slow.in&quot;).toPath());&#13;&#10;&#9;&#9;&#9;                                           ^&#13;&#10;  symbol:   class File&#13;&#10;  location: class sol&#13;&#10;sol.java:7: error: cannot find symbol&#13;&#10;&#9;&#9;&#9;List&lt;String&gt; strs = Files.readAllLines(new File(&quot;slow.in&quot;).toPath());&#13;&#10;&#9;&#9;&#9;                    ^&#13;&#10;  symbol:   variable Files&#13;&#10;  location: class sol&#13;&#10;sol.java:40: error: cannot find symbol&#13;&#10;&#9;&#9;&#9;Files.write(new File(&quot;slow.out&quot;).toPath(), targetRealTime.getBytes());&#13;&#10;&#9;&#9;&#9;                ^&#13;&#10;  symbol:   class File&#13;&#10;  location: class sol&#13;&#10;sol.java:40: error: cannot find symbol&#13;&#10;&#9;&#9;&#9;Files.write(new File(&quot;slow.out&quot;).toPath(), targetRealTime.getBytes());&#13;&#10;&#9;&#9;&#9;^&#13;&#10;  symbol:   variable Files&#13;&#10;  location: class sol&#13;&#10;sol.java:41: error: cannot find symbol&#13;&#10;&#9;&#9;} catch (IOException e) {&#13;&#10;&#9;&#9;         ^&#13;&#10;  symbol:   class IOException&#13;&#10;  location: class sol&#13;&#10;6 errors&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="37" max="100" outcome="accepted" gtid="20190126145320043196519982">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="C56" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.015" mem="13688832"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="1-ое число: 16 вместо 14" eval-comment="" time="0.015" mem="13778944"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.015" mem="13746176"/>
+      <test id="4" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.015" mem="13975552"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.015" mem="13717504"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.015" mem="13725696"/>
+      <test id="7" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.015" mem="13684736"/>
+      <test id="8" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.015" mem="13746176"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 23 вместо 21" eval-comment="" time="0.015" mem="13688832"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 2 вместо 0" eval-comment="" time="0.015" mem="13721600"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1 вместо 23" eval-comment="" time="0.015" mem="13725696"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 14 вместо 12" eval-comment="" time="0.015" mem="13926400"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 21 вместо 19" eval-comment="" time="0.015" mem="13733888"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 1 вместо 23" eval-comment="" time="0.015" mem="13684736"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.015" mem="13758464"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 6 вместо 4" eval-comment="" time="0.015" mem="13705216"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 7 вместо 5" eval-comment="" time="0.015" mem="13713408"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 8 вместо 6" eval-comment="" time="0.015" mem="13733888"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 5 вместо 3" eval-comment="" time="0.015" mem="13713408"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 5 вместо 3" eval-comment="" time="0.015" mem="13733888"/>
+      <test id="21" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.015" mem="13803520"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 12 вместо 10" eval-comment="" time="0.015" mem="13746176"/>
+      <test id="23" outcome="accepted" points="5" max-points="5" comment="" eval-comment="" time="0.015" mem="13877248"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 2 вместо 0" eval-comment="" time="0.015" mem="13750272"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 6 вместо 4" eval-comment="" time="0.015" mem="13705216"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 2 вместо 0" eval-comment="" time="0.015" mem="13721600"/>
+    </results>
+  </testing>
+</testing-report>

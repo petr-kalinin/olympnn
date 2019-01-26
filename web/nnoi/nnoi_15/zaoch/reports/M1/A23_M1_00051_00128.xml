@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="32" max="100" outcome="accepted" gtid="20190126135200012809663440">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="A23" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.031" mem="13721600"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="1-ое число: -9 вместо 14" eval-comment="" time="0.031" mem="13692928"/>
+      <test id="3" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.031" mem="13705216"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 12 вместо 13" eval-comment="" time="0.031" mem="13668352"/>
+      <test id="5" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.031" mem="13668352"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.046" mem="13733888"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 27 вместо 4" eval-comment="" time="0.031" mem="13639680"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 38 вместо 15" eval-comment="" time="0.031" mem="13688832"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -27 вместо 21" eval-comment="" time="0.031" mem="13795328"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -23 вместо 0" eval-comment="" time="0.031" mem="13754368"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -24 вместо 23" eval-comment="" time="0.031" mem="13737984"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.031" mem="13676544"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.031" mem="13680640"/>
+      <test id="14" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.031" mem="13647872"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 47 вместо 23" eval-comment="" time="0.031" mem="13647872"/>
+      <test id="16" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.031" mem="13705216"/>
+      <test id="17" outcome="accepted" points="4" max-points="4" comment="" eval-comment="" time="0.031" mem="13729792"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -18 вместо 6" eval-comment="" time="0.031" mem="13692928"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 4 вместо 3" eval-comment="" time="0.031" mem="13680640"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -21 вместо 3" eval-comment="" time="0.015" mem="13709312"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: 37 вместо 14" eval-comment="" time="0.031" mem="13684736"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="1-ое число: -14 вместо 10" eval-comment="" time="0.015" mem="13684736"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 41 вместо 18" eval-comment="" time="0.031" mem="13676544"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 1 вместо 0" eval-comment="" time="0.031" mem="13701120"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: 5 вместо 4" eval-comment="" time="0.031" mem="13680640"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="5" comment="1-ое число: -24 вместо 0" eval-comment="" time="0.031" mem="13725696"/>
+    </results>
+  </testing>
+</testing-report>
