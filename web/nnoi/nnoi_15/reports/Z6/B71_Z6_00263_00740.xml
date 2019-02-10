@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20190209152657074307506581">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="B71" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++17 -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output="sol.cc:4:10: fatal error: stdafx.h: No such file or directory&#13;&#10; #include &quot;stdafx.h&quot;&#13;&#10;          ^~~~~~~~~~&#13;&#10;compilation terminated.&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

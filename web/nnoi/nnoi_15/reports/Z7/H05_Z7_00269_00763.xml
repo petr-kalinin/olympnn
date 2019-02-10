@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="60" max="100" outcome="accepted" gtid="20190209153206076679058783">
+  <solution problem="Z7" problem-name=" " problem-type="P" contestant="H05" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Ok, correct sequence" eval-comment="" time="0.046" mem="19255296"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19247104"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19255296"/>
+      <test id="4" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.060" mem="19402752"/>
+      <test id="5" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="20074496"/>
+      <test id="6" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="19787776"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19255296"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19247104"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19255296"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19251200"/>
+      <test id="11" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="12" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.046" mem="19247104"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="14" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.060" mem="19783680"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.060" mem="19648512"/>
+      <test id="16" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19251200"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="20070400"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19251200"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.060" mem="19795968"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19251200"/>
+      <test id="21" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="22" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19251200"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.060" mem="20029440"/>
+    </results>
+  </testing>
+</testing-report>

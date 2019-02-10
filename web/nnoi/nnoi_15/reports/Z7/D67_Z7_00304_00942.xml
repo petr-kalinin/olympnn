@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190209160759002932232963">
+  <solution problem="Z7" problem-name=" " problem-type="P" contestant="D67" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Ok, correct sequence" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="Can not move card 12 on any house column" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="Ok, correct sequence" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Card 1 is not on the top of any column" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - token expected" eval-comment="" time="0.000" mem="1048576"/>
+    </results>
+  </testing>
+</testing-report>

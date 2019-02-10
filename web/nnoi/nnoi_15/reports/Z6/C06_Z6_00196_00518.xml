@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20190209141939052035282658">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="C06" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++17 -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output="sol.cc: In function 'long long int FTI(double)':&#13;&#10;sol.cc:25:13: error: expected primary-expression before 'long'&#13;&#10;  return(max(long long(n), long long(n + 0.001)));&#13;&#10;             ^~~~&#13;&#10;sol.cc:25:27: error: expected primary-expression before 'long'&#13;&#10;  return(max(long long(n), long long(n + 0.001)));&#13;&#10;                           ^~~~&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

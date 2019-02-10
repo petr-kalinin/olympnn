@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20190209121843021510867304">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="A69" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer = 8" eval-comment="" time="0.015" mem="17301504"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer = 16" eval-comment="" time="0.031" mem="17453056"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="5" comment="Extra information in the output file" eval-comment="" time="0.031" mem="17399808"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="1" comment="jury got 1, participant got 0" eval-comment="" time="0.031" mem="17584128"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="1" comment="jury got 1000000000000000000, participant got 0" eval-comment="" time="0.031" mem="17395712"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="2" comment="jury got 359128, participant got 0" eval-comment="" time="0.031" mem="17350656"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="jury got 191196, participant got 0" eval-comment="" time="0.031" mem="17457152"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="Integer 4597951143365513869 violates the range [0, 1000000000000000000]" eval-comment="" time="0.031" mem="17399808"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="2" comment="jury got 65604, participant got 0" eval-comment="" time="0.031" mem="17485824"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="Integer 8701088909515776926 violates the range [0, 1000000000000000000]" eval-comment="" time="0.031" mem="17764352"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="jury got 999999999999999989, participant got 1" eval-comment="" time="0.031" mem="18440192"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="jury got 300, participant got 299" eval-comment="" time="0.046" mem="19259392"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="jury got 2000, participant got 1999" eval-comment="" time="0.046" mem="19271680"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="jury got 1000000, participant got 999969" eval-comment="" time="0.078" mem="19255296"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="jury got 10000, participant got 9999" eval-comment="" time="0.078" mem="19181568"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="jury got 999999, participant got 999983" eval-comment="" time="0.124" mem="19300352"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="jury got 1000000, participant got 999995" eval-comment="" time="0.140" mem="19275776"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Integer 1160176343348733388 violates the range [0, 1000000000000000000]" eval-comment="" time="0.358" mem="19271680"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Integer 5554416881110851104 violates the range [0, 1000000000000000000]" eval-comment="" time="0.296" mem="19189760"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="6" comment="Integer 2076301264181080944 violates the range [0, 1000000000000000000]" eval-comment="" time="0.234" mem="19206144"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="Integer 1121794262571955312 violates the range [0, 1000000000000000000]" eval-comment="" time="0.296" mem="19202048"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="Integer 7474536571631301657 violates the range [0, 1000000000000000000]" eval-comment="" time="0.296" mem="19226624"/>
+      <test id="23" outcome="accepted" points="5" max-points="5" comment="answer = 103177976066553234" eval-comment="" time="0.218" mem="19349504"/>
+      <test id="24" outcome="accepted" points="5" max-points="5" comment="answer = 999995744000000000" eval-comment="" time="0.218" mem="19357696"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="5" comment="Integer 1002954507342053376 violates the range [0, 1000000000000000000]" eval-comment="" time="0.218" mem="19206144"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="5" comment="Integer 2141915500474293536 violates the range [0, 1000000000000000000]" eval-comment="" time="0.249" mem="19300352"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="5" comment="Integer 5132304834980896768 violates the range [0, 1000000000000000000]" eval-comment="" time="0.249" mem="19259392"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="5" comment="Integer 3108136270328163866 violates the range [0, 1000000000000000000]" eval-comment="" time="0.374" mem="19292160"/>
+    </results>
+  </testing>
+</testing-report>

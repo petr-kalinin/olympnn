@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="14" max="100" outcome="accepted" gtid="20190209123619025551552415">
+  <solution problem="Z5" problem-name=" " problem-type="P" contestant="A69" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="found '10.0000000', expected '10.0000000', error '0.0000000'" eval-comment="" time="0.031" mem="32845824"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="1st numbers differ - expected: '0.5000000', found: '2.0000000', error = '1.5000000'" eval-comment="" time="0.015" mem="32915456"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="found '3.0000000', expected '3.0000000', error '0.0000000'" eval-comment="" time="0.015" mem="32972800"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '32.0000000', found: '2.0000000', error = '0.9375000'" eval-comment="" time="0.031" mem="32911360"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '32.0000000', found: '2.0000000', error = '0.9375000'" eval-comment="" time="0.015" mem="32935936"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '42.0000000', found: '2.0000000', error = '0.9523810'" eval-comment="" time="0.031" mem="32997376"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '42.0000000', found: '2.0000000', error = '0.9523810'" eval-comment="" time="0.015" mem="32952320"/>
+      <test id="8" outcome="accepted" points="2" max-points="2" comment="found '0.0000000', expected '0.0000000', error '-0.0000000'" eval-comment="" time="0.015" mem="32907264"/>
+      <test id="9" outcome="accepted" points="2" max-points="2" comment="found '1.0000000', expected '1.0000000', error '0.0000000'" eval-comment="" time="0.015" mem="32985088"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '0.0000000', found: '1.0000000', error = '1.0000000'" eval-comment="" time="0.015" mem="32882688"/>
+      <test id="11" outcome="accepted" points="2" max-points="2" comment="found '39.0000000', expected '39.0000000', error '0.0000000'" eval-comment="" time="0.015" mem="32870400"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '6.8571429', found: '4.0000000', error = '0.4166667'" eval-comment="" time="0.015" mem="33112064"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '77.0000000', found: '7.0000000', error = '0.9090909'" eval-comment="" time="0.031" mem="32915456"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '50014630.0000000', found: '988730.0000000', error = '0.9802312'" eval-comment="" time="0.015" mem="32952320"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '98959631.0000000', found: '988631.0000000', error = '0.9900098'" eval-comment="" time="0.015" mem="33026048"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '240577407.0000000', found: '993407.0000000', error = '0.9958707'" eval-comment="" time="0.015" mem="33001472"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '22520091.8571429', found: '993949.0000000', error = '0.9558639'" eval-comment="" time="0.015" mem="33128448"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '487916949.0000000', found: '993949.0000000', error = '0.9979629'" eval-comment="" time="0.015" mem="33148928"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '487916949.0000000', found: '993949.0000000', error = '0.9979629'" eval-comment="" time="0.015" mem="33148928"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '973995634.0000000', found: '999604.0000000', error = '0.9989737'" eval-comment="" time="0.015" mem="33116160"/>
+      <test id="21" outcome="accepted" points="2" max-points="2" comment="found '501715773.0000000', expected '501715773.0000000', error '0.0000000'" eval-comment="" time="0.015" mem="33107968"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '939952376.0000000', found: '999746.0000000', error = '0.9989364'" eval-comment="" time="0.015" mem="33099776"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '998998510.0000000', found: '999510.0000000', error = '0.9989995'" eval-comment="" time="0.015" mem="33206272"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="6" comment="1st numbers differ - expected: '-0.0000000', found: '954252.0000000', error = '954252.0000000'" eval-comment="" time="0.109" mem="35225600"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="6" comment="1st numbers differ - expected: '24995325360.0000000', found: '975360.0000000', error = '0.9999610'" eval-comment="" time="0.078" mem="34979840"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="6" comment="1st numbers differ - expected: '49954065421.0000000', found: '965421.0000000', error = '0.9999807'" eval-comment="" time="0.140" mem="35020800"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="6" comment="1st numbers differ - expected: '0.0000000', found: '918642.0000000', error = '918642.0000000'" eval-comment="" time="0.140" mem="35069952"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="6" comment="1st numbers differ - expected: '49956265421.0000000', found: '965421.0000000', error = '0.9999807'" eval-comment="" time="0.140" mem="34996224"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="6" comment="1st numbers differ - expected: '49957965421.0000000', found: '965421.0000000', error = '0.9999807'" eval-comment="" time="0.109" mem="34967552"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="6" comment="1st numbers differ - expected: '99293360014.0000000', found: '952948.0000000', error = '0.9999904'" eval-comment="" time="0.124" mem="34918400"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="6" comment="1st numbers differ - expected: '50113100731.0000000', found: '902995.0000000', error = '0.9999820'" eval-comment="" time="0.140" mem="34967552"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="6" comment="1st numbers differ - expected: '99973395883.0000000', found: '994123.0000000', error = '0.9999901'" eval-comment="" time="0.124" mem="34947072"/>
+      <test id="33" outcome="accepted" points="6" max-points="6" comment="found '99999000000.0000000', expected '99999000000.0000000', error '0.0000000'" eval-comment="" time="0.109" mem="34918400"/>
+    </results>
+  </testing>
+</testing-report>

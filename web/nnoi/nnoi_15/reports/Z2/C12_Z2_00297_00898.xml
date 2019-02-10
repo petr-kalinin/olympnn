@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190209160008090127976223">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="C12" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++17 -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="1st numbers differ - expected: '1', found: '-1'" eval-comment="" time="0.000" mem="2891776"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '0', found: '-1'" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '5', found: '-1'" eval-comment="" time="0.000" mem="2891776"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '7', found: '-1'" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '52', found: '-1'" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '11', found: '-1'" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '123', found: '-1'" eval-comment="" time="0.000" mem="2891776"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '23', found: '-1'" eval-comment="" time="0.000" mem="2891776"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Answer contains longer sequence [length = 20], but output contains 1 elements" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '20', found: '-1'" eval-comment="" time="0.000" mem="2891776"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '26', found: '-1'" eval-comment="" time="0.000" mem="2891776"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '0', found: '-1'" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '0', found: '-1'" eval-comment="" time="0.015" mem="2887680"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Answer contains longer sequence [length = 50], but output contains 1 elements" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '1818594533', found: '-1'" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '1101152261', found: '-1'" eval-comment="" time="0.000" mem="2891776"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="Answer contains longer sequence [length = 16], but output contains 1 elements" eval-comment="" time="0.000" mem="2891776"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Answer contains longer sequence [length = 50], but output contains 1 elements" eval-comment="" time="0.000" mem="2891776"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '126645822', found: '-1'" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Answer contains longer sequence [length = 30], but output contains 1 elements" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '141924519', found: '-1'" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '1749612428', found: '-1'" eval-comment="" time="0.000" mem="2895872"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '404', found: '-1'" eval-comment="" time="0.000" mem="2891776"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '1052', found: '-1'" eval-comment="" time="0.000" mem="2887680"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '1731315', found: '-1'" eval-comment="" time="0.140" mem="2887680"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '0', found: '-1'" eval-comment="" time="0.265" mem="2887680"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '13309463', found: '-1'" eval-comment="" time="0.124" mem="2891776"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '38781921', found: '-1'" eval-comment="" time="0.187" mem="2891776"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '669752620', found: '-1'" eval-comment="" time="0.218" mem="2887680"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '95426', found: '-1'" eval-comment="" time="0.234" mem="2887680"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '291981694', found: '-1'" eval-comment="" time="0.358" mem="2887680"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="2" comment="Answer contains longer sequence [length = 43000], but output contains 1 elements" eval-comment="" time="0.405" mem="2891776"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="2" comment="Answer contains longer sequence [length = 50000], but output contains 1 elements" eval-comment="" time="0.343" mem="2887680"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '1717424005', found: '-1'" eval-comment="" time="0.171" mem="2883584"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '47833', found: '-1'" eval-comment="" time="0.296" mem="2887680"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '569491244', found: '-1'" eval-comment="" time="0.249" mem="2891776"/>
+      <test id="37" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '896047754', found: '-1'" eval-comment="" time="0.296" mem="2891776"/>
+    </results>
+  </testing>
+</testing-report>

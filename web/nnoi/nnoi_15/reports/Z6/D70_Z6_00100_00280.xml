@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20190209124401028149089498">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="D70" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="pabcnetcclear.exe sol.pas " compiler-output="Compile errors:&#13;&#10;[9,2] sol.pas: No overloaded function with same arguments&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

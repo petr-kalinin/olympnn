@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190209130736035051340743">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="D47" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.031" mem="5357568"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer is no" eval-comment="" time="0.015" mem="5357568"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="2" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5349376"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="2" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5361664"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="1" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5357568"/>
+      <test id="6" outcome="accepted-not-counted" points="0" max-points="4" comment="answer is no" eval-comment="Тест не зачтен" time="0.015" mem="5361664"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5353472"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5353472"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5357568"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5353472"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5353472"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5361664"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.031" mem="5353472"/>
+      <test id="14" outcome="accepted-not-counted" points="0" max-points="4" comment="answer is no" eval-comment="Тест не зачтен" time="0.015" mem="5357568"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5357568"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5357568"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5353472"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5361664"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5353472"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.031" mem="5353472"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.000" mem="5353472"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.031" mem="5357568"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5353472"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5357568"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5353472"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5361664"/>
+      <test id="27" outcome="accepted-not-counted" points="0" max-points="3" comment="answer is no" eval-comment="Тест не зачтен" time="0.015" mem="5357568"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5353472"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5357568"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5357568"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5349376"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5353472"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="2" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.031" mem="5353472"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.015" mem="5357568"/>
+    </results>
+  </testing>
+</testing-report>

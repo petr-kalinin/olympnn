@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190209140326047767818082">
+  <solution problem="Z5" problem-name=" " problem-type="P" contestant="A66" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx: In function 'double dfs(int, std::vector&lt;std::vector&lt;int&gt; &gt;&amp;, std::vector&lt;double&gt;&amp;, std::vector&lt;double&gt;&amp;, std::vector&lt;double&gt;&amp;)':&#13;&#10;sol.cxx:27:1: warning: no return statement in function returning non-void [-Wreturn-type]&#13;&#10; }&#13;&#10; ^&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1204224"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1212416"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC000001D (STATUS_ILLEGAL_INSTRUCTION)" eval-comment="" time="0.000" mem="1261568"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1302528"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC000001D (STATUS_ILLEGAL_INSTRUCTION)" eval-comment="" time="0.015" mem="1282048"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC000001D (STATUS_ILLEGAL_INSTRUCTION)" eval-comment="" time="0.000" mem="1150976"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC000001D (STATUS_ILLEGAL_INSTRUCTION)" eval-comment="" time="0.000" mem="1290240"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.000" mem="1241088"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC000001D (STATUS_ILLEGAL_INSTRUCTION)" eval-comment="" time="0.000" mem="1286144"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC000001D (STATUS_ILLEGAL_INSTRUCTION)" eval-comment="" time="0.000" mem="1298432"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.514" mem="12857344"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.280" mem="3624960"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC000001D (STATUS_ILLEGAL_INSTRUCTION)" eval-comment="" time="0.577" mem="5902336"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.577" mem="12857344"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC000001D (STATUS_ILLEGAL_INSTRUCTION)" eval-comment="" time="0.577" mem="5705728"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC000001D (STATUS_ILLEGAL_INSTRUCTION)" eval-comment="" time="0.624" mem="5255168"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.530" mem="6008832"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.577" mem="5943296"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC000001D (STATUS_ILLEGAL_INSTRUCTION)" eval-comment="" time="0.514" mem="5705728"/>
+      <test id="33" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.483" mem="12857344"/>
+    </results>
+  </testing>
+</testing-report>

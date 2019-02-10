@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20190209142417053994433913">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="B61" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24210 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\array(212): error C2148: total size of array must not exceed 0x7fffffff bytes&#13;&#10;sol.cpp(13): note: see reference to class template instantiation 'std::array&lt;int,2000000000&gt;' being compiled&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

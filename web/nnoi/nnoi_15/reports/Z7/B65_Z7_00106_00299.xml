@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="90" max="100" outcome="accepted" gtid="20190209124925030028998429">
+  <solution problem="Z7" problem-name=" " problem-type="P" contestant="B65" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19275776"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19271680"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19271680"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19271680"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19271680"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19271680"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19267584"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="11" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19271680"/>
+      <test id="12" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19271680"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19271680"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="Card 1 is not on the top of any column" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="15" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19267584"/>
+      <test id="16" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19267584"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19267584"/>
+      <test id="19" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19271680"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19271680"/>
+      <test id="21" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19271680"/>
+      <test id="22" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19267584"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="Card 1 is not on the top of any column" eval-comment="" time="0.062" mem="19267584"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="23" max="100" outcome="accepted" gtid="20190209133859043492207198">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="F40" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer is yes" eval-comment="" time="0.031" mem="4669440"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer is no" eval-comment="" time="0.031" mem="4673536"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="2" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.031" mem="4669440"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="2" comment="answered yes, but human can be eaten by lion number 8" eval-comment="" time="0.031" mem="4677632"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="1" comment="answered yes, but human can be eaten by lion number 1" eval-comment="" time="0.015" mem="4669440"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="answer is no" eval-comment="" time="0.031" mem="4677632"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.031" mem="4665344"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="answered yes, but human can be eaten by lion number 2" eval-comment="" time="0.031" mem="4689920"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="answered yes, but human can be eaten by lion number 1" eval-comment="" time="0.031" mem="4681728"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.046" mem="5050368"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="answered yes, but human can be eaten by lion number 1" eval-comment="" time="0.046" mem="5013504"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="answered yes, but human can be eaten by lion number 1" eval-comment="" time="0.046" mem="5169152"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.046" mem="4988928"/>
+      <test id="14" outcome="accepted" points="4" max-points="4" comment="answer is no" eval-comment="" time="0.686" mem="13979648"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="answer is yes" eval-comment="" time="1.591" mem="24502272"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="answer is yes" eval-comment="" time="1.575" mem="20836352"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="1.622" mem="29040640"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="answered yes, but human can be eaten by lion number 1" eval-comment="" time="1.029" mem="18161664"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="1.326" mem="24104960"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="answered yes, but human can be eaten by lion number 1" eval-comment="" time="1.575" mem="20836352"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="1.856" mem="28807168"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="answered yes, but human can be eaten by lion number 14" eval-comment="" time="1.357" mem="23920640"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="1.856" mem="28807168"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="1.560" mem="28811264"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="answered yes, but human can be eaten by lion number 1" eval-comment="" time="1.653" mem="29052928"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="1.435" mem="23982080"/>
+      <test id="27" outcome="accepted" points="3" max-points="3" comment="answer is no" eval-comment="" time="1.591" mem="29523968"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="1.872" mem="29044736"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="answered yes, but human can be eaten by lion number 1" eval-comment="" time="1.669" mem="29036544"/>
+      <test id="30" outcome="accepted" points="3" max-points="3" comment="answer is yes" eval-comment="" time="1.638" mem="28807168"/>
+      <test id="31" outcome="accepted" points="3" max-points="3" comment="answer is yes" eval-comment="" time="1.638" mem="29069312"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="1.903" mem="29036544"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="2" comment="jury found valid answer, but participant answered no" eval-comment="" time="1.872" mem="28852224"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="1.872" mem="28856320"/>
+    </results>
+  </testing>
+</testing-report>

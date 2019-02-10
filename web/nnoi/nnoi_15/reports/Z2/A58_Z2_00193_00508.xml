@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="66" max="100" outcome="accepted" gtid="20190209141618051021610545">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="A58" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="4 number(s): &quot;1 2 3 -1&quot;" eval-comment="" time="0.000" mem="1073152"/>
+      <test id="2" outcome="accepted" points="3" max-points="3" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="4 number(s): &quot;5 5 -1 -1&quot;" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="4 number(s): &quot;7 -1 -1 7&quot;" eval-comment="" time="0.000" mem="1069056"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="50 numbers" eval-comment="" time="0.000" mem="1204224"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="50 numbers" eval-comment="" time="0.000" mem="1212416"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="49 numbers" eval-comment="" time="0.015" mem="1351680"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="50 numbers" eval-comment="" time="0.015" mem="1355776"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="20 numbers" eval-comment="" time="0.000" mem="1257472"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="10 numbers" eval-comment="" time="0.000" mem="1216512"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="30 numbers" eval-comment="" time="0.000" mem="1273856"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="16 numbers" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="16 numbers" eval-comment="" time="0.000" mem="1069056"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="50 numbers" eval-comment="" time="0.000" mem="1200128"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="50 numbers" eval-comment="" time="0.000" mem="1212416"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="50 numbers" eval-comment="" time="0.000" mem="1376256"/>
+      <test id="17" outcome="accepted" points="3" max-points="3" comment="16 numbers" eval-comment="" time="0.000" mem="1216512"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="50 numbers" eval-comment="" time="0.000" mem="1212416"/>
+      <test id="19" outcome="accepted" points="3" max-points="3" comment="41 numbers" eval-comment="" time="0.000" mem="1359872"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="30 numbers" eval-comment="" time="0.000" mem="1204224"/>
+      <test id="21" outcome="accepted" points="3" max-points="3" comment="11 numbers" eval-comment="" time="0.000" mem="1232896"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.043" mem="182378496"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.043" mem="16433152"/>
+      <test id="24" outcome="accepted" points="3" max-points="3" comment="100 numbers" eval-comment="" time="0.343" mem="3072000"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.000" mem="1118208"/>
+      <test id="26" outcome="accepted" points="3" max-points="3" comment="50000 numbers" eval-comment="" time="0.312" mem="1069056"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.000" mem="1114112"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.000" mem="1118208"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.000" mem="1118208"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.000" mem="1118208"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.000" mem="1114112"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.000" mem="1118208"/>
+      <test id="33" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="2.043" mem="8957952"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="2.043" mem="22056960"/>
+      <test id="35" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.000" mem="1114112"/>
+      <test id="36" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="2.059" mem="1548288"/>
+      <test id="37" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.000" mem="1118208"/>
+    </results>
+  </testing>
+</testing-report>

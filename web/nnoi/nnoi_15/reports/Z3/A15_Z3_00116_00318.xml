@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20190209125927031911050587">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="A15" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++17 -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output="sol.cc: In function 'int main()':&#13;&#10;sol.cc:12:13: error: expected primary-expression before 'long'&#13;&#10; #define int long long int&#13;&#10;             ^~~~&#13;&#10;sol.cc:45:13: note: in expansion of macro 'int'&#13;&#10;  int maxy = int(sqrt(x))+1; // !!&#13;&#10;             ^~~&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

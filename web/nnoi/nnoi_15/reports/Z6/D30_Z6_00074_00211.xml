@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="36" max="100" outcome="accepted" gtid="20190209121720021133163021">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="D30" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24210 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.00.24210.0&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer = 8" eval-comment="" time="0.000" mem="569344"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer = 16" eval-comment="" time="0.000" mem="565248"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="answer = 0" eval-comment="" time="0.000" mem="565248"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="1" comment="jury got 1, participant got 0" eval-comment="" time="0.000" mem="565248"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="1" comment="Integer -1486618624 violates the range [0, 1000000000000000000]" eval-comment="" time="0.000" mem="573440"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="answer = 359128" eval-comment="" time="0.000" mem="565248"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="answer = 191196" eval-comment="" time="0.000" mem="561152"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="Integer -666023531 violates the range [0, 1000000000000000000]" eval-comment="" time="0.000" mem="565248"/>
+      <test id="9" outcome="accepted" points="2" max-points="2" comment="answer = 65604" eval-comment="" time="0.000" mem="581632"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="Integer -1462080592 violates the range [0, 1000000000000000000]" eval-comment="" time="0.015" mem="598016"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="Integer -1486618635 violates the range [0, 1000000000000000000]" eval-comment="" time="0.000" mem="647168"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="answer = 300" eval-comment="" time="0.093" mem="1368064"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="answer = 2000" eval-comment="" time="0.093" mem="1372160"/>
+      <test id="14" outcome="accepted" points="4" max-points="4" comment="answer = 1000000" eval-comment="" time="0.234" mem="2170880"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="answer = 10000" eval-comment="" time="0.234" mem="2170880"/>
+      <test id="16" outcome="accepted" points="4" max-points="4" comment="answer = 999999" eval-comment="" time="0.452" mem="2973696"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="answer = 1000000" eval-comment="" time="0.421" mem="3776512"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Integer -1049198444 violates the range [0, 1000000000000000000]" eval-comment="" time="0.936" mem="3776512"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.060" mem="3764224"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="6" comment="Time limit exceeded" eval-comment="" time="1.060" mem="2961408"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="3764224"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="Integer -409100740 violates the range [0, 1000000000000000000]" eval-comment="" time="0.624" mem="2969600"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="3772416"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="3768320"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="3768320"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="3768320"/>
+      <test id="27" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="3768320"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="5" comment="Integer -233903746 violates the range [0, 1000000000000000000]" eval-comment="" time="0.920" mem="3772416"/>
+    </results>
+  </testing>
+</testing-report>

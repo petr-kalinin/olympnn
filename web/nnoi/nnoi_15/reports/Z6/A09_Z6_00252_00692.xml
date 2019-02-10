@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="42" max="100" outcome="accepted" gtid="20190209151508069597193746">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="A09" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++17 -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer = 8" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer = 16" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="answer = 0" eval-comment="" time="0.000" mem="1044480"/>
+      <test id="4" outcome="accepted" points="1" max-points="1" comment="answer = 1" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="1" comment="jury got 1000000000000000000, participant got 0" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="answer = 359128" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="answer = 191196" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="jury got 558435276769685, participant got 0" eval-comment="" time="0.000" mem="1044480"/>
+      <test id="9" outcome="accepted" points="2" max-points="2" comment="answer = 65604" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="jury got 13082761280000000, participant got 0" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="jury got 999999999999999989, participant got 0" eval-comment="" time="0.000" mem="1073152"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="answer = 300" eval-comment="" time="0.062" mem="1245184"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="answer = 2000" eval-comment="" time="0.062" mem="1236992"/>
+      <test id="14" outcome="accepted" points="4" max-points="4" comment="answer = 1000000" eval-comment="" time="0.140" mem="1441792"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="answer = 10000" eval-comment="" time="0.140" mem="1445888"/>
+      <test id="16" outcome="accepted" points="4" max-points="4" comment="answer = 999999" eval-comment="" time="0.280" mem="1646592"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="answer = 1000000" eval-comment="" time="0.280" mem="1847296"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="answer = 0" eval-comment="" time="0.015" mem="1847296"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="jury got 1000000000000000000, participant got 0" eval-comment="" time="0.015" mem="1851392"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="6" comment="jury got 992103795180724033, participant got 0" eval-comment="" time="0.015" mem="1650688"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999950000000000, participant got 0" eval-comment="" time="0.015" mem="1851392"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999999999999989, participant got 0" eval-comment="" time="0.015" mem="1654784"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="jury got 103177976066553234, participant got 0" eval-comment="" time="0.015" mem="1851392"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999995744000000000, participant got 0" eval-comment="" time="0.015" mem="1851392"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999999389726440, participant got 0" eval-comment="" time="0.015" mem="1847296"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999999701118702, participant got 0" eval-comment="" time="0.015" mem="1847296"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999998992217727, participant got 0" eval-comment="" time="0.015" mem="1843200"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999999999999998, participant got 0" eval-comment="" time="0.015" mem="1847296"/>
+    </results>
+  </testing>
+</testing-report>

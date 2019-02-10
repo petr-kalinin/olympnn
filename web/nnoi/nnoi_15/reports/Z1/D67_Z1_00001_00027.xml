@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="300" outcome="accepted" gtid="20190209110447002650793199">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="D67" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="22 вместо 4" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="-42 вместо -2" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="60" comment="35 вместо 8" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="60" comment="123987 вместо 1110" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="60" comment="10001000 вместо 2000" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="60" comment="Expected integer instead of &quot;-1000-1000&quot;" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="60" comment="-10001000 вместо 0" eval-comment="" time="0.000" mem="1060864"/>
+    </results>
+  </testing>
+</testing-report>

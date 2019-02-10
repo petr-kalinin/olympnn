@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="36" max="100" outcome="accepted" gtid="20190209143505057951725572">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="A09" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="jury got 8, participant got 4" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer = 16" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="answer = 0" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="1" comment="jury got 1, participant got 0" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="answer = 359128" eval-comment="" time="0.031" mem="1060864"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="answer = 191196" eval-comment="" time="0.015" mem="1056768"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="9" outcome="accepted" points="2" max-points="2" comment="answer = 65604" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.000" mem="1073152"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="answer = 300" eval-comment="" time="0.062" mem="1253376"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="answer = 2000" eval-comment="" time="0.062" mem="1253376"/>
+      <test id="14" outcome="accepted" points="4" max-points="4" comment="answer = 1000000" eval-comment="" time="0.140" mem="1458176"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="answer = 10000" eval-comment="" time="0.140" mem="1458176"/>
+      <test id="16" outcome="accepted" points="4" max-points="4" comment="answer = 999999" eval-comment="" time="0.280" mem="1654784"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="answer = 1000000" eval-comment="" time="0.280" mem="1859584"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.015" mem="1855488"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.015" mem="1855488"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.015" mem="1654784"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.015" mem="1855488"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.000" mem="1650688"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.015" mem="1855488"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.015" mem="1851392"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.015" mem="1851392"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.015" mem="1859584"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.015" mem="1855488"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.015" mem="1855488"/>
+    </results>
+  </testing>
+</testing-report>

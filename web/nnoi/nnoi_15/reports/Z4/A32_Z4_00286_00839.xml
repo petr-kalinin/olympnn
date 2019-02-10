@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20190209154952084239089477">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="A32" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="javac sol.java " compiler-output="sol.java:94: error: class, interface, or enum expected&#13;&#10;}&#13;&#10;^&#13;&#10;1 error&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

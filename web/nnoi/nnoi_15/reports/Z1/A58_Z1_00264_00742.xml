@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="300" outcome="accepted" gtid="20190209152708074572118288">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="A58" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cpp " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="40 вместо 4" eval-comment="" time="0.343" mem="1044480"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="-20 вместо -2" eval-comment="" time="0.327" mem="1040384"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="60" comment="80 вместо 8" eval-comment="" time="0.405" mem="1048576"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="60" comment="11100 вместо 1110" eval-comment="" time="0.405" mem="1040384"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="60" comment="20000 вместо 2000" eval-comment="" time="0.421" mem="1040384"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="60" comment="-20000 вместо -2000" eval-comment="" time="0.327" mem="1044480"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="60" comment="Extra information in the output file" eval-comment="" time="0.327" mem="1040384"/>
+    </results>
+  </testing>
+</testing-report>

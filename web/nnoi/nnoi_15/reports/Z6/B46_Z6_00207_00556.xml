@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20190209143017055912992309">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="B46" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24210 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;sol.cpp(2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int&#13;&#10;sol.cpp(2): error C2146: syntax error: missing ';' before identifier 'Visual'&#13;&#10;sol.cpp(3): fatal error C1021: invalid preprocessor command 'Visual'&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="24" max="100" outcome="accepted" gtid="20190209123655026027951865">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="B44" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer = 8" eval-comment="" time="0.015" mem="1056768"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer = 16" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="answer = 0" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="4" outcome="accepted" points="1" max-points="1" comment="answer = 1" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="1" comment="Integer 264967441 violates the range [1, 200000]" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="2" comment="jury got 359128, participant got 0" eval-comment="" time="0.000" mem="1056768"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="answer = 191196" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="jury got 558435276769685, participant got 0" eval-comment="" time="0.000" mem="1060864"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="2" comment="jury got 65604, participant got 40200" eval-comment="" time="0.000" mem="1073152"/>
+      <test id="10" outcome="accepted" points="2" max-points="2" comment="answer = 13082761280000000" eval-comment="" time="0.000" mem="1089536"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="Integer 3932357 violates the range [1, 200000]" eval-comment="" time="0.000" mem="1142784"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="jury got 300, participant got 289" eval-comment="" time="0.031" mem="1859584"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="jury got 2000, participant got 1980" eval-comment="" time="0.031" mem="1859584"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="jury got 1000000, participant got 979524" eval-comment="" time="0.078" mem="2654208"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="answer = 10000" eval-comment="" time="0.078" mem="2658304"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="jury got 999999, participant got 999996" eval-comment="" time="0.140" mem="3461120"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="jury got 1000000, participant got 998538" eval-comment="" time="0.156" mem="4263936"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="5" comment="Expected integer, but &quot;11964830225260037820&quot; found" eval-comment="" time="0.421" mem="4259840"/>
+      <test id="19" outcome="accepted" points="5" max-points="5" comment="answer = 1000000000000000000" eval-comment="" time="0.358" mem="4263936"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="6" comment="jury got 992103795180724033, participant got 576460751875000000" eval-comment="" time="0.265" mem="3461120"/>
+      <test id="21" outcome="accepted" points="5" max-points="5" comment="answer = 999999950000000000" eval-comment="" time="0.327" mem="4263936"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="31891504361311 * 41879817002556 != 967333606912670788" eval-comment="" time="0.327" mem="3461120"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="321213354 * 264390727 != 103177976066553234" eval-comment="" time="0.265" mem="4259840"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="1000000000 * 271461896 != 999995744000000000" eval-comment="" time="0.249" mem="4263936"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999999389726440, participant got 999995144762142600" eval-comment="" time="0.265" mem="4263936"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999999701118702, participant got 999967211267667660" eval-comment="" time="0.280" mem="4259840"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999998992217727, participant got 999990725776830424" eval-comment="" time="0.280" mem="4263936"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="5" comment="414687728072 * 42495137321715 != 442946766222815448" eval-comment="" time="0.436" mem="4263936"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="65" max="100" outcome="accepted" gtid="20190209153832079106096207">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="A11" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;52&quot;" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;-1&quot;" eval-comment="" time="0.000" mem="4268032"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '41', found: '34'" eval-comment="" time="0.000" mem="4268032"/>
+      <test id="4" outcome="accepted" points="1" max-points="1" comment="1 number(s): &quot;36&quot;" eval-comment="" time="0.000" mem="4259840"/>
+      <test id="5" outcome="accepted" points="1" max-points="1" comment="1 number(s): &quot;-1&quot;" eval-comment="" time="0.000" mem="4268032"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="1 number(s): &quot;15&quot;" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="1 number(s): &quot;91697636&quot;" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="8" outcome="accepted" points="2" max-points="2" comment="1 number(s): &quot;71559703&quot;" eval-comment="" time="0.000" mem="4268032"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="1 number(s): &quot;12270676819&quot;" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="1 number(s): &quot;-1&quot;" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="1 number(s): &quot;108173&quot;" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="1 number(s): &quot;-1&quot;" eval-comment="" time="0.000" mem="4272128"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '12480539', found: '12469649'" eval-comment="" time="0.000" mem="4259840"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="1 number(s): &quot;-1&quot;" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="1 number(s): &quot;123980055&quot;" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="1 number(s): &quot;131194474&quot;" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '1331442', found: '1324792'" eval-comment="" time="0.109" mem="4263936"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '1341664', found: '1334729'" eval-comment="" time="0.093" mem="4263936"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '1338306', found: '1323562'" eval-comment="" time="0.124" mem="4263936"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '110217158', found: '110115420'" eval-comment="" time="0.140" mem="4263936"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '35397623', found: '34295018'" eval-comment="" time="0.140" mem="4259840"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '110591498', found: '110485530'" eval-comment="" time="0.140" mem="4259840"/>
+      <test id="23" outcome="accepted" points="6" max-points="6" comment="1 number(s): &quot;48139147477997&quot;" eval-comment="" time="0.202" mem="4263936"/>
+      <test id="24" outcome="accepted" points="6" max-points="6" comment="1 number(s): &quot;31420805956705&quot;" eval-comment="" time="0.202" mem="4259840"/>
+      <test id="25" outcome="accepted" points="6" max-points="6" comment="1 number(s): &quot;10560150035564546&quot;" eval-comment="" time="0.171" mem="4268032"/>
+      <test id="26" outcome="accepted" points="6" max-points="6" comment="1 number(s): &quot;1066478621419423&quot;" eval-comment="" time="0.187" mem="4263936"/>
+      <test id="27" outcome="accepted" points="6" max-points="6" comment="1 number(s): &quot;5818476979201&quot;" eval-comment="" time="0.171" mem="4268032"/>
+      <test id="28" outcome="accepted" points="6" max-points="6" comment="1 number(s): &quot;-1&quot;" eval-comment="" time="0.171" mem="4263936"/>
+    </results>
+  </testing>
+</testing-report>

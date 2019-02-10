@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="25" max="100" outcome="accepted" gtid="20190209151859070475559539">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="A56" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer = 8" eval-comment="" time="0.031" mem="17338368"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer = 16" eval-comment="" time="0.031" mem="17326080"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="answer = 0" eval-comment="" time="0.046" mem="17309696"/>
+      <test id="4" outcome="accepted" points="1" max-points="1" comment="answer = 1" eval-comment="" time="0.046" mem="17342464"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="1" comment="Expected integer, but &quot;1E+18&quot; found" eval-comment="" time="0.046" mem="17350656"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="answer = 359128" eval-comment="" time="0.046" mem="17321984"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="jury got 191196, participant got 0" eval-comment="" time="0.046" mem="17289216"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="jury got 558435276769685, participant got 0" eval-comment="" time="0.046" mem="17432576"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="2" comment="jury got 65604, participant got 43584" eval-comment="" time="0.031" mem="17457152"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;6.00298732981057E+15&quot; found" eval-comment="" time="0.031" mem="17768448"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;1E+18&quot; found" eval-comment="" time="0.015" mem="18436096"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="answer = 300" eval-comment="" time="0.062" mem="20004864"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="answer = 2000" eval-comment="" time="0.062" mem="20242432"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="jury got 1000000, participant got 999984" eval-comment="" time="0.093" mem="20807680"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="answer = 10000" eval-comment="" time="0.109" mem="20783104"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="jury got 999999, participant got 999983" eval-comment="" time="0.156" mem="21614592"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="jury got 1000000, participant got 999915" eval-comment="" time="0.187" mem="22376448"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="answer = 0" eval-comment="" time="0.374" mem="22429696"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="5" comment="Expected integer, but &quot;9.64362862428069E+16&quot; found" eval-comment="" time="0.312" mem="22417408"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="6" comment="Expected integer, but &quot;3.0258659678689E+17&quot; found" eval-comment="" time="0.249" mem="21610496"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999950000000000, participant got 273240427874520" eval-comment="" time="0.296" mem="22417408"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="5" comment="Expected integer, but &quot;1E+18&quot; found" eval-comment="" time="0.280" mem="21594112"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="5" comment="Expected integer, but &quot;1.03177976066553E+17&quot; found" eval-comment="" time="0.234" mem="22474752"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="5" comment="Expected integer, but &quot;9.99992539E+17&quot; found" eval-comment="" time="0.234" mem="22437888"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="5" comment="Expected integer, but &quot;9.8712389943887E+17&quot; found" eval-comment="" time="0.249" mem="22376448"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="5" comment="Expected integer, but &quot;9.99999669930988E+17&quot; found" eval-comment="" time="0.265" mem="22396928"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="5" comment="Expected integer, but &quot;9.9999311340171E+17&quot; found" eval-comment="" time="0.249" mem="22396928"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="5" comment="Expected integer, but &quot;1E+18&quot; found" eval-comment="" time="0.390" mem="22601728"/>
+    </results>
+  </testing>
+</testing-report>

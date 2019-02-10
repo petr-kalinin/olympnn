@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190209145021062397738340">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="B65" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="unknown token: expected YES or NO, but found -1.5" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="unknown token: expected YES or NO, but found 1.38778E-017" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="2" comment="unknown token: expected YES or NO, but found -0" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="2" comment="unknown token: expected YES or NO, but found -125.556" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="1" comment="unknown token: expected YES or NO, but found -1E+008" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="4" comment="unknown token: expected YES or NO, but found -9383" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="unknown token: expected YES or NO, but found 14" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="4" comment="unknown token: expected YES or NO, but found -4.86986E+007" eval-comment="" time="0.000" mem="1064960"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="4" comment="unknown token: expected YES or NO, but found -9.99997E+007" eval-comment="" time="0.000" mem="1069056"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="unknown token: expected YES or NO, but found -295089" eval-comment="" time="0.015" mem="1179648"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="unknown token: expected YES or NO, but found 35320.4" eval-comment="" time="0.015" mem="1179648"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="unknown token: expected YES or NO, but found 1.16988E+006" eval-comment="" time="0.015" mem="1179648"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="unknown token: expected YES or NO, but found 1.67146E+007" eval-comment="" time="0.015" mem="1179648"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="unknown token: expected YES or NO, but found -4.48381E+007" eval-comment="" time="0.904" mem="4018176"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="unknown token: expected YES or NO, but found -250000" eval-comment="" time="1.622" mem="6651904"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="unknown token: expected YES or NO, but found -249999" eval-comment="" time="1.294" mem="6651904"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.059" mem="6651904"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="unknown token: expected YES or NO, but found -2.33867E+007" eval-comment="" time="1.357" mem="6647808"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="unknown token: expected YES or NO, but found -1.19988E+006" eval-comment="" time="1.591" mem="6651904"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="unknown token: expected YES or NO, but found -0" eval-comment="" time="1.372" mem="6651904"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.059" mem="6651904"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="unknown token: expected YES or NO, but found -1.23592E+007" eval-comment="" time="1.747" mem="6651904"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.043" mem="6651904"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.059" mem="6651904"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.059" mem="6651904"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="unknown token: expected YES or NO, but found 204628" eval-comment="" time="1.544" mem="6647808"/>
+      <test id="27" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.059" mem="6651904"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.059" mem="6651904"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.059" mem="6651904"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.059" mem="6651904"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.059" mem="6651904"/>
+      <test id="32" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.059" mem="6651904"/>
+      <test id="33" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="2.059" mem="6651904"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="2.043" mem="6651904"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20190209124651029263150981">
+  <solution problem="Z7" problem-name=" " problem-type="P" contestant="H05" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Ok, correct sequence" eval-comment="" time="0.046" mem="19259392"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="Can not move card 2 on any house column" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="Ok, correct sequence" eval-comment="" time="0.046" mem="19259392"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="Can not move card 1 on any house column" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="Can not move card 2 on any house column" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="Card 6 is not on the top of any column" eval-comment="" time="0.062" mem="19267584"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="Card 5 is not on the top of any column" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="Can not move card 2 on any house column" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="Card 4 is not on the top of any column" eval-comment="" time="0.062" mem="19267584"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="Can not move card 3 on any house column" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="Card 5 is not on the top of any column" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="Card 4 is not on the top of any column" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="Card 3 is not on the top of any column" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="Card 4 is not on the top of any column" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Card 6 is not on the top of any column" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Card 7 is not on the top of any column" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Can not move card 3 on any house column" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="21" outcome="accepted" points="5" max-points="5" comment="Ok, correct sequence" eval-comment="" time="0.062" mem="19259392"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="Can not move card 1 on any house column" eval-comment="" time="0.062" mem="19263488"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="Can not move card 6 on any house column" eval-comment="" time="0.062" mem="19259392"/>
+    </results>
+  </testing>
+</testing-report>

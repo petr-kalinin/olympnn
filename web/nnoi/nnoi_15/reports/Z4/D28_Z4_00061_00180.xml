@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="25" max="100" outcome="accepted" gtid="20190209120448017900301560">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="D28" time-limit="2000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer is yes" eval-comment="" time="0.015" mem="1044480"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer is no" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="2" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="2" comment="answered yes, but human can be eaten by lion number 1" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="5" outcome="accepted" points="1" max-points="1" comment="answer is yes" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="6" outcome="accepted" points="4" max-points="4" comment="answer is no" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="4" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.000" mem="1052672"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Expected int32, but &quot;-107847734690&quot; found" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Expected int32, but &quot;-145040201459&quot; found" eval-comment="" time="0.000" mem="1048576"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="4" comment="answered yes, but human can be eaten by lion number 1" eval-comment="" time="0.015" mem="1048576"/>
+      <test id="11" outcome="accepted" points="4" max-points="4" comment="answer is yes" eval-comment="" time="0.015" mem="1048576"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="answer is yes" eval-comment="" time="0.015" mem="1048576"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="4" comment="Expected int32, but &quot;53532140866&quot; found" eval-comment="" time="0.031" mem="1044480"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="4" comment="Expected int32, but &quot;-6562455305683&quot; found" eval-comment="" time="0.468" mem="1052672"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="answer is yes" eval-comment="" time="0.780" mem="1048576"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="answer is yes" eval-comment="" time="0.624" mem="1044480"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="3" comment="answered yes, but human can be eaten by lion number 296088" eval-comment="" time="1.060" mem="1048576"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;-21596807208121&quot; found" eval-comment="" time="0.670" mem="1048576"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="answered yes, but human can be eaten by lion number 117125" eval-comment="" time="0.764" mem="1048576"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="jury found valid answer, but participant answered no" eval-comment="" time="0.655" mem="1048576"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="answered yes, but human can be eaten by lion number 280441" eval-comment="" time="1.014" mem="1048576"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="answered yes, but human can be eaten by lion number 49" eval-comment="" time="0.858" mem="1048576"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;3399529289&quot; found" eval-comment="" time="1.045" mem="1048576"/>
+      <test id="24" outcome="accepted" points="3" max-points="3" comment="answer is yes" eval-comment="" time="1.123" mem="1048576"/>
+      <test id="25" outcome="accepted" points="3" max-points="3" comment="answer is yes" eval-comment="" time="1.154" mem="1044480"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="answered yes, but human can be eaten by lion number 261966" eval-comment="" time="0.733" mem="1048576"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="answered yes, but human can be eaten by lion number 2" eval-comment="" time="1.045" mem="1044480"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;-1312505069126&quot; found" eval-comment="" time="1.060" mem="1052672"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;-3124993210617&quot; found" eval-comment="" time="1.045" mem="1044480"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;-7101943631712&quot; found" eval-comment="" time="1.076" mem="1048576"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;-5922350933460&quot; found" eval-comment="" time="1.060" mem="1044480"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;-7050978105636&quot; found" eval-comment="" time="1.123" mem="1044480"/>
+      <test id="33" outcome="presentation-error" points="0" max-points="2" comment="Expected int32, but &quot;-1458344177497&quot; found" eval-comment="" time="1.029" mem="1048576"/>
+      <test id="34" outcome="presentation-error" points="0" max-points="3" comment="Expected int32, but &quot;-1409732112129&quot; found" eval-comment="" time="1.029" mem="1044480"/>
+    </results>
+  </testing>
+</testing-report>

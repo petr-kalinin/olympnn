@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="61" max="100" outcome="accepted" gtid="20190209151457069434957405">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="C72" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer = 8" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer = 16" eval-comment="" time="0.000" mem="4268032"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="answer = 0" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="1" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="4272128"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="1" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.000" mem="4268032"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="answer = 359128" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="answer = 191196" eval-comment="" time="0.000" mem="4268032"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="788616782991439167 * 834927295 != 276025198088994817" eval-comment="" time="0.000" mem="4268032"/>
+      <test id="9" outcome="accepted" points="2" max-points="2" comment="answer = 65604" eval-comment="" time="0.000" mem="4268032"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="231858186498454487 * 34283641 != 999789656671641759" eval-comment="" time="0.000" mem="4263936"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="2" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.015" mem="4263936"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="answer = 300" eval-comment="" time="0.062" mem="4268032"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="answer = 2000" eval-comment="" time="0.078" mem="4268032"/>
+      <test id="14" outcome="accepted" points="4" max-points="4" comment="answer = 1000000" eval-comment="" time="0.156" mem="4268032"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="answer = 10000" eval-comment="" time="0.156" mem="4268032"/>
+      <test id="16" outcome="accepted" points="4" max-points="4" comment="answer = 999999" eval-comment="" time="0.296" mem="4272128"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="answer = 1000000" eval-comment="" time="0.327" mem="4263936"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="186421450614069745 * 3637968541730 != 190033676724013570" eval-comment="" time="0.920" mem="4272128"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="652196730221082616 * 343107230 != 999994515715021584" eval-comment="" time="0.748" mem="4272128"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="6" comment="211219680833280169 * 305118975 != 999775562506010199" eval-comment="" time="0.561" mem="4268032"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999950000000000, participant got 999988348070222189" eval-comment="" time="0.717" mem="4268032"/>
+      <test id="22" outcome="accepted" points="5" max-points="5" comment="answer = 999999999999999989" eval-comment="" time="0.686" mem="4272128"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.546" mem="4268032"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="5" comment="Unexpected end of file - int64 expected" eval-comment="" time="0.561" mem="4263936"/>
+      <test id="25" outcome="accepted" points="5" max-points="5" comment="answer = 999999999389726440" eval-comment="" time="0.561" mem="4272128"/>
+      <test id="26" outcome="accepted" points="5" max-points="5" comment="answer = 999999999701118702" eval-comment="" time="0.577" mem="4268032"/>
+      <test id="27" outcome="accepted" points="5" max-points="5" comment="answer = 999999998992217727" eval-comment="" time="0.577" mem="4268032"/>
+      <test id="28" outcome="accepted" points="5" max-points="5" comment="answer = 999999999999999998" eval-comment="" time="0.920" mem="4272128"/>
+    </results>
+  </testing>
+</testing-report>

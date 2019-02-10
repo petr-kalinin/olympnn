@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="58" max="100" outcome="accepted" gtid="20190209150344067327512755">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="A27" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="..\vs_build.cmd sol.cvs " compiler-output="Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24210 for x86&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.00.24210.0&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer = 8" eval-comment="" time="0.000" mem="565248"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer = 16" eval-comment="" time="0.000" mem="573440"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="i = j" eval-comment="" time="0.000" mem="569344"/>
+      <test id="4" outcome="accepted" points="1" max-points="1" comment="answer = 1" eval-comment="" time="0.000" mem="561152"/>
+      <test id="5" outcome="accepted" points="1" max-points="1" comment="answer = 1000000000000000000" eval-comment="" time="0.000" mem="565248"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="2" comment="jury got 359128, participant got 0" eval-comment="" time="0.000" mem="573440"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="answer = 191196" eval-comment="" time="0.000" mem="577536"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="668843 * 77584247085578141 != 989494114371865055" eval-comment="" time="0.000" mem="565248"/>
+      <test id="9" outcome="accepted" points="2" max-points="2" comment="answer = 65604" eval-comment="" time="0.000" mem="610304"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="177154 * 957985850429591118 != 979868875910050972" eval-comment="" time="0.000" mem="643072"/>
+      <test id="11" outcome="accepted" points="2" max-points="2" comment="answer = 999999999999999989" eval-comment="" time="0.015" mem="790528"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="answer = 300" eval-comment="" time="0.124" mem="2646016"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="answer = 2000" eval-comment="" time="0.124" mem="2646016"/>
+      <test id="14" outcome="accepted" points="4" max-points="4" comment="answer = 1000000" eval-comment="" time="0.265" mem="4698112"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="answer = 10000" eval-comment="" time="0.249" mem="4698112"/>
+      <test id="16" outcome="accepted" points="4" max-points="4" comment="answer = 999999" eval-comment="" time="0.530" mem="6553600"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="answer = 1000000" eval-comment="" time="0.624" mem="6553600"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.060" mem="6549504"/>
+      <test id="19" outcome="accepted" points="5" max-points="5" comment="answer = 1000000000000000000" eval-comment="" time="0.858" mem="6545408"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="6" comment="3394 * 701423064610356624 != 999895779018223392" eval-comment="" time="0.624" mem="6545408"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999950000000000, participant got 999988348070222189" eval-comment="" time="0.717" mem="6549504"/>
+      <test id="22" outcome="accepted" points="5" max-points="5" comment="answer = 999999999999999989" eval-comment="" time="0.873" mem="6549504"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="5" comment="jury got 103177976066553234, participant got 0" eval-comment="" time="0.639" mem="6553600"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999995744000000000, participant got 0" eval-comment="" time="0.639" mem="6545408"/>
+      <test id="25" outcome="accepted" points="5" max-points="5" comment="answer = 999999999389726440" eval-comment="" time="0.624" mem="6549504"/>
+      <test id="26" outcome="accepted" points="5" max-points="5" comment="answer = 999999999701118702" eval-comment="" time="0.826" mem="6553600"/>
+      <test id="27" outcome="accepted" points="5" max-points="5" comment="answer = 999999998992217727" eval-comment="" time="0.858" mem="6545408"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="1.045" mem="6545408"/>
+    </results>
+  </testing>
+</testing-report>

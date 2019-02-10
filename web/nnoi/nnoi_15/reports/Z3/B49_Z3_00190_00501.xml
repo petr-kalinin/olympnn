@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20190209141307050398836055">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="B49" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="security-violation" points="0" max-points="0" comment="Child process" eval-comment="" time="0.000" mem="1093632"/>
+      <test id="2" outcome="security-violation" points="0" max-points="0" comment="Child process" eval-comment="" time="0.000" mem="1097728"/>
+      <test id="3" outcome="security-violation" points="0" max-points="2" comment="Child process" eval-comment="" time="0.000" mem="1093632"/>
+      <test id="4" outcome="security-violation" points="0" max-points="1" comment="Child process" eval-comment="" time="0.000" mem="1093632"/>
+      <test id="5" outcome="security-violation" points="0" max-points="1" comment="Child process" eval-comment="" time="0.000" mem="1093632"/>
+      <test id="6" outcome="security-violation" points="0" max-points="2" comment="Child process" eval-comment="" time="0.000" mem="1093632"/>
+      <test id="7" outcome="security-violation" points="0" max-points="2" comment="Child process" eval-comment="" time="0.000" mem="1089536"/>
+      <test id="8" outcome="security-violation" points="0" max-points="2" comment="Child process" eval-comment="" time="0.000" mem="1093632"/>
+      <test id="9" outcome="security-violation" points="0" max-points="3" comment="Child process" eval-comment="" time="0.000" mem="1093632"/>
+      <test id="10" outcome="security-violation" points="0" max-points="3" comment="Child process" eval-comment="" time="0.000" mem="1093632"/>
+      <test id="11" outcome="security-violation" points="0" max-points="3" comment="Child process" eval-comment="" time="0.000" mem="1093632"/>
+      <test id="12" outcome="security-violation" points="0" max-points="3" comment="Child process" eval-comment="" time="0.000" mem="1093632"/>
+      <test id="13" outcome="security-violation" points="0" max-points="3" comment="Child process" eval-comment="" time="0.000" mem="1089536"/>
+      <test id="14" outcome="security-violation" points="0" max-points="3" comment="Child process" eval-comment="" time="0.000" mem="1093632"/>
+      <test id="15" outcome="security-violation" points="0" max-points="3" comment="Child process" eval-comment="" time="0.000" mem="1097728"/>
+      <test id="16" outcome="security-violation" points="0" max-points="3" comment="Child process" eval-comment="" time="0.000" mem="1097728"/>
+      <test id="17" outcome="security-violation" points="0" max-points="5" comment="Child process" eval-comment="" time="0.234" mem="1482752"/>
+      <test id="18" outcome="security-violation" points="0" max-points="5" comment="Child process" eval-comment="" time="0.234" mem="1482752"/>
+      <test id="19" outcome="security-violation" points="0" max-points="5" comment="Child process" eval-comment="" time="0.234" mem="1486848"/>
+      <test id="20" outcome="security-violation" points="0" max-points="5" comment="Child process" eval-comment="" time="0.265" mem="1486848"/>
+      <test id="21" outcome="security-violation" points="0" max-points="5" comment="Child process" eval-comment="" time="0.265" mem="1482752"/>
+      <test id="22" outcome="security-violation" points="0" max-points="5" comment="Child process" eval-comment="" time="0.265" mem="1486848"/>
+      <test id="23" outcome="security-violation" points="0" max-points="6" comment="Child process" eval-comment="" time="0.405" mem="1490944"/>
+      <test id="24" outcome="security-violation" points="0" max-points="6" comment="Child process" eval-comment="" time="0.421" mem="1490944"/>
+      <test id="25" outcome="security-violation" points="0" max-points="6" comment="Child process" eval-comment="" time="0.358" mem="1490944"/>
+      <test id="26" outcome="security-violation" points="0" max-points="6" comment="Child process" eval-comment="" time="0.358" mem="1490944"/>
+      <test id="27" outcome="security-violation" points="0" max-points="6" comment="Child process" eval-comment="" time="0.358" mem="1495040"/>
+      <test id="28" outcome="security-violation" points="0" max-points="6" comment="Child process" eval-comment="" time="0.343" mem="1495040"/>
+    </results>
+  </testing>
+</testing-report>

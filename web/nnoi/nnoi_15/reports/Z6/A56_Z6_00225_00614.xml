@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="22" max="100" outcome="accepted" gtid="20190209144843061743985054">
+  <solution problem="Z6" problem-name=" " problem-type="P" contestant="A56" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="answer = 8" eval-comment="" time="0.031" mem="17338368"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="answer = 16" eval-comment="" time="0.031" mem="17616896"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="i = j" eval-comment="" time="0.031" mem="17481728"/>
+      <test id="4" outcome="accepted" points="1" max-points="1" comment="answer = 1" eval-comment="" time="0.031" mem="17350656"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="1" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="12914688"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="answer = 359128" eval-comment="" time="0.031" mem="17371136"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="jury got 191196, participant got 0" eval-comment="" time="0.031" mem="17330176"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xE0434352" eval-comment="" time="0.015" mem="13045760"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="2" comment="jury got 65604, participant got 43584" eval-comment="" time="0.031" mem="17465344"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="263058754524319274 * 528556724472894986 != 910813835462093220" eval-comment="" time="0.031" mem="17813504"/>
+      <test id="11" outcome="accepted" points="2" max-points="2" comment="answer = 999999999999999989" eval-comment="" time="0.031" mem="18485248"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="answer = 300" eval-comment="" time="0.062" mem="20045824"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="answer = 2000" eval-comment="" time="0.062" mem="20008960"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="jury got 1000000, participant got 999984" eval-comment="" time="0.109" mem="20791296"/>
+      <test id="15" outcome="accepted" points="4" max-points="4" comment="answer = 10000" eval-comment="" time="0.093" mem="20918272"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="jury got 999999, participant got 999983" eval-comment="" time="0.171" mem="21626880"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="jury got 1000000, participant got 999915" eval-comment="" time="0.171" mem="22499328"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xE0434352" eval-comment="" time="0.374" mem="18194432"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="655615274004100524 * 287088083340708364 != 998086702539226128" eval-comment="" time="0.343" mem="22450176"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="6" comment="Runtime error 0xE0434352" eval-comment="" time="0.234" mem="17313792"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="144483211433062099 * 291824015799434565 != 918042240035153375" eval-comment="" time="0.343" mem="22388736"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xE0434352" eval-comment="" time="0.296" mem="17383424"/>
+      <test id="23" outcome="accepted" points="5" max-points="5" comment="answer = 103177976066553234" eval-comment="" time="0.265" mem="22388736"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999995744000000000, participant got 999992539000000000" eval-comment="" time="0.265" mem="22429696"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999999389726440, participant got 987123899438869532" eval-comment="" time="0.265" mem="22413312"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="5" comment="jury got 999999999701118702, participant got 998641884384089467" eval-comment="" time="0.265" mem="22405120"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="5" comment="5529851595 * 758855476 != 937098712522571324" eval-comment="" time="0.280" mem="22593536"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xE0434352" eval-comment="" time="0.390" mem="18124800"/>
+    </results>
+  </testing>
+</testing-report>
