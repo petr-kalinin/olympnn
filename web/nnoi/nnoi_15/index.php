@@ -29,7 +29,7 @@ XV Нижегородская городская олимпиада школьников по информатике им. В.&nbsp;Д. Ле
 </ul>
 <ul>
 <li><a href="zaoch/nnoi2019_zaoch_statements.pdf">Условия отборочного тура</a></li>
-<li><a href="zaoch/results.php">Предварительные результаты отборочного тура</a></li>
+<li><a href="zaoch/results.php">Результаты отборочного тура</a></li>
 <li><a href="zaoch/tests.7z">Тесты к отборочному туру</a></li>
 <li><a href="zaoch/outputs_all.7z">Протоколы тестирования отборочного тура</a></li>
 </ul>
