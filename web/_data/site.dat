@@ -151,6 +151,11 @@
     Результаты=results.php
     Архив=archive/index.php
   }
+  NNOI XVI={
+    _dir=nnoi_16/
+    _index=index.php
+    Заявки=zaoch.php
+  }
   Книга={
     _dir=../book/
     _index=index.php
