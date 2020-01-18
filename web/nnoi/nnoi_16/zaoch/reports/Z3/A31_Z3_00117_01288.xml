@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20200118135750056054215853">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="A31" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.109" mem="23949312"/>
+      <test id="2" outcome="accepted" points="10" max-points="10" comment="" eval-comment="" time="0.093" mem="23891968"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `u ug ug g` instead of `u ug ugug ugugug`" eval-comment="" time="0.078" mem="23904256"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `u aaaa g` instead of `aaaa`" eval-comment="" time="0.109" mem="23896064"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `uug u u` instead of `uug guu`" eval-comment="" time="0.093" mem="23896064"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `ggggg gggg ggggg` instead of `ugugugugugugugugugugugugugug ugugugugugugugugugugugugu" eval-comment="" time="0.093" mem="23851008"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `ag ag ga ut` instead of `uguguagugu agugugu uguguga ugutugu`" eval-comment="" time="0.078" mem="23879680"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `u g` instead of `u gu gugu`" eval-comment="" time="0.062" mem="23883776"/>
+      <test id="9" outcome="accepted" points="10" max-points="10" comment="" eval-comment="" time="0.078" mem="23875584"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `gaggggggggggggggggggggggggggggggggggggggg` instead of `uguguguguguaugugugugugugugugu" eval-comment="" time="0.109" mem="23896064"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `gggggggggggggggggggggggggggggggggggggggggg` instead of ``" eval-comment="" time="0.125" mem="23896064"/>
+    </results>
+  </testing>
+</testing-report>

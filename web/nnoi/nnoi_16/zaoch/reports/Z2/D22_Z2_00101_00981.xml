@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200118134108024164183424">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="D22" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;sol.cpp(10): warning C4552: '-': result of expression not used&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="44 вместо 3" eval-comment="" time="0.062" mem="7774208"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="22 вместо 2" eval-comment="" time="0.031" mem="7692288"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="11 вместо 1" eval-comment="" time="0.078" mem="7684096"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="10" comment="1010 вместо 2" eval-comment="" time="0.046" mem="7716864"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="33 вместо 3" eval-comment="" time="0.046" mem="7720960"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="33 вместо 1" eval-comment="" time="0.046" mem="7680000"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;10000000001000000000&quot;" eval-comment="" time="0.046" mem="7704576"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;10000000001000000000&quot;" eval-comment="" time="0.046" mem="7725056"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="33 вместо 3" eval-comment="" time="0.046" mem="7700480"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="33 вместо 2" eval-comment="" time="0.046" mem="7663616"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;37465893746589&quot;" eval-comment="" time="0.046" mem="7688192"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;10000000001000000000&quot;" eval-comment="" time="0.062" mem="7688192"/>
+    </results>
+  </testing>
+</testing-report>

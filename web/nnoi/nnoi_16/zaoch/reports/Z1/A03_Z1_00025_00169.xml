@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20200118122518015787408812">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="A03" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;x=3&quot;" eval-comment="" time="0.062" mem="23949312"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="10" comment="1 вместо 2" eval-comment="" time="0.093" mem="23879680"/>
+      <test id="3" outcome="accepted" points="10" max-points="10" comment="1" eval-comment="" time="0.093" mem="23867392"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;x=5&quot;" eval-comment="" time="0.078" mem="23851008"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;x=7&quot;" eval-comment="" time="0.078" mem="23875584"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;x=53&quot;" eval-comment="" time="0.109" mem="23871488"/>
+      <test id="7" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="19730432"/>
+      <test id="8" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="19722240"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;x=27644437&quot;" eval-comment="" time="0.390" mem="23863296"/>
+      <test id="10" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.062" mem="19718144"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.031" mem="19722240"/>
+    </results>
+  </testing>
+</testing-report>

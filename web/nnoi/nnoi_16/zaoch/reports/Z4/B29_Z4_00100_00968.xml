@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200118134008022555788790">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="B29" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 3.0.4 [2017/10/06] for i386&#13;&#10;Copyright (c) 1993-2017 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(2,7) Note: Local variable &quot;b&quot; is assigned but never used&#13;&#10;Linking sol.exe&#13;&#10;27 lines compiled, 0.0 sec, 27936 bytes code, 1284 bytes data&#13;&#10;1 note(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Jury has better solution: 6 0" eval-comment="" time="0.062" mem="8339456"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="Jury has better solution: 1 0" eval-comment="" time="0.062" mem="8257536"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="0" comment="Jury has better solution: 3 0" eval-comment="" time="0.046" mem="8302592"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="0" comment="Jury has better solution: 3 0" eval-comment="" time="0.062" mem="8294400"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="10" comment="Unexpected end of file - integer expected" eval-comment="" time="0.046" mem="8306688"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 3 0" eval-comment="" time="0.046" mem="8286208"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 3 0" eval-comment="" time="0.078" mem="8212480"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 6 0" eval-comment="" time="0.093" mem="8306688"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 6 0" eval-comment="" time="0.093" mem="8290304"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 19 0" eval-comment="" time="0.062" mem="8261632"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 9 0" eval-comment="" time="0.062" mem="8298496"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 30 0" eval-comment="" time="0.078" mem="8212480"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 89 0" eval-comment="" time="0.062" mem="8208384"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 100 0" eval-comment="" time="0.062" mem="8212480"/>
+    </results>
+  </testing>
+</testing-report>

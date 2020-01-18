@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="30" max="100" outcome="accepted" gtid="20200118135835058011543670">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="B88" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.078" mem="10215424"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.109" mem="10280960"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.125" mem="10285056"/>
+      <test id="4" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.062" mem="10289152"/>
+      <test id="5" outcome="accepted" points="10" max-points="10" comment="" eval-comment="" time="0.125" mem="10199040"/>
+      <test id="6" outcome="accepted" points="10" max-points="10" comment="" eval-comment="" time="0.093" mem="10203136"/>
+      <test id="7" outcome="accepted" points="10" max-points="10" comment="" eval-comment="" time="0.171" mem="10305536"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 6 4" eval-comment="" time="0.093" mem="10293248"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="Not a mountain" eval-comment="" time="0.125" mem="10293248"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="Not a mountain" eval-comment="" time="0.093" mem="10301440"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 9 5" eval-comment="" time="0.062" mem="10276864"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="10" comment="Not a mountain" eval-comment="" time="0.125" mem="10297344"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="10" comment="Not a mountain" eval-comment="" time="0.093" mem="10194944"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="10" comment="Not a mountain" eval-comment="" time="0.171" mem="10199040"/>
+    </results>
+  </testing>
+</testing-report>

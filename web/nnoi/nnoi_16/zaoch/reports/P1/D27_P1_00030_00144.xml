@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="40" max="100" outcome="accepted" gtid="20200118111515014338984556">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="D27" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - integer expected" eval-comment="" time="0.062" mem="8060928"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Unexpected end of file - integer expected" eval-comment="" time="0.062" mem="7966720"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="20" comment="Unexpected end of file - integer expected" eval-comment="" time="0.046" mem="7925760"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="20" comment="Unexpected end of file - integer expected" eval-comment="" time="0.062" mem="8015872"/>
+      <test id="5" outcome="accepted" points="20" max-points="20" comment="2000" eval-comment="" time="0.031" mem="7979008"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="20" comment="Unexpected end of file - integer expected" eval-comment="" time="0.046" mem="7999488"/>
+      <test id="7" outcome="accepted" points="20" max-points="20" comment="0" eval-comment="" time="0.031" mem="8019968"/>
+    </results>
+  </testing>
+</testing-report>

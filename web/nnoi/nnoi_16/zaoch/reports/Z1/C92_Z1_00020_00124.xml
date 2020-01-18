@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200118122017011257169409">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="C92" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="time-limit-exceeded" points="0" max-points="0" comment="Time limit exceeded" eval-comment="" time="1.062" mem="10059776"/>
+      <test id="2" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.062" mem="10317824"/>
+      <test id="3" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="10051584"/>
+      <test id="4" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.062" mem="10063872"/>
+      <test id="5" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="10067968"/>
+      <test id="6" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="10051584"/>
+      <test id="7" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="10055680"/>
+      <test id="8" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="10035200"/>
+      <test id="9" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="10055680"/>
+      <test id="10" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.062" mem="10051584"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.062" mem="10084352"/>
+    </results>
+  </testing>
+</testing-report>

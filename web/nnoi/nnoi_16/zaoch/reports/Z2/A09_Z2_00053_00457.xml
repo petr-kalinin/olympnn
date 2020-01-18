@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="40" max="100" outcome="accepted" gtid="20200118125335044535934261">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="A09" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3" eval-comment="" time="0.062" mem="23904256"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2" eval-comment="" time="0.093" mem="23887872"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="2 вместо 1" eval-comment="" time="0.093" mem="23883776"/>
+      <test id="4" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.078" mem="23896064"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="4 вместо 3" eval-comment="" time="0.093" mem="23887872"/>
+      <test id="6" outcome="accepted" points="10" max-points="10" comment="1" eval-comment="" time="0.125" mem="23891968"/>
+      <test id="7" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.109" mem="23896064"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="19783680"/>
+      <test id="9" outcome="accepted" points="10" max-points="10" comment="3" eval-comment="" time="0.093" mem="23937024"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="3 вместо 2" eval-comment="" time="0.078" mem="23920640"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="19910656"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.125" mem="19775488"/>
+    </results>
+  </testing>
+</testing-report>

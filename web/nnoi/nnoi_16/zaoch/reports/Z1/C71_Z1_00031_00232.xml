@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200118123158022058309123">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="C71" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;a=b=x=3&quot;" eval-comment="" time="0.093" mem="23896064"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;a=b=x=2&quot;" eval-comment="" time="0.078" mem="23867392"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;a=b=x=1&quot;" eval-comment="" time="0.093" mem="23863296"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;a=b=x=5&quot;" eval-comment="" time="0.093" mem="23875584"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;a=b=x=7&quot;" eval-comment="" time="0.093" mem="23871488"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;a=b=x=53&quot;" eval-comment="" time="0.078" mem="23859200"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;a=b=x=9907&quot;" eval-comment="" time="0.093" mem="23842816"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;a=b=x=20011&quot;" eval-comment="" time="0.125" mem="23834624"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;a=b=x=27644437&quot;" eval-comment="" time="0.234" mem="23863296"/>
+      <test id="10" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="23842816"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.062" mem="23871488"/>
+    </results>
+  </testing>
+</testing-report>

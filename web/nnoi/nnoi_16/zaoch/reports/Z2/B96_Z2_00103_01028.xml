@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="60" max="100" outcome="accepted" gtid="20200118134338030097792302">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="B96" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3" eval-comment="" time="0.109" mem="23891968"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2" eval-comment="" time="0.078" mem="23867392"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="2 вместо 1" eval-comment="" time="0.156" mem="23908352"/>
+      <test id="4" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.156" mem="23859200"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="51 вместо 3" eval-comment="" time="0.078" mem="23908352"/>
+      <test id="6" outcome="accepted" points="10" max-points="10" comment="1" eval-comment="" time="0.109" mem="23896064"/>
+      <test id="7" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.140" mem="23887872"/>
+      <test id="8" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.062" mem="23883776"/>
+      <test id="9" outcome="accepted" points="10" max-points="10" comment="3" eval-comment="" time="0.109" mem="23937024"/>
+      <test id="10" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.156" mem="23891968"/>
+      <test id="11" outcome="accepted" points="10" max-points="10" comment="313833" eval-comment="" time="0.125" mem="23945216"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="19722240"/>
+    </results>
+  </testing>
+</testing-report>

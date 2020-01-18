@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="60" max="100" outcome="accepted" gtid="20200118121922010101681907">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="C94" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3" eval-comment="" time="0.062" mem="10047488"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2" eval-comment="" time="0.078" mem="10047488"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="2 вместо 1" eval-comment="" time="0.093" mem="10035200"/>
+      <test id="4" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.078" mem="10059776"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="51 вместо 3" eval-comment="" time="0.078" mem="10043392"/>
+      <test id="6" outcome="accepted" points="10" max-points="10" comment="1" eval-comment="" time="0.093" mem="10039296"/>
+      <test id="7" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.125" mem="10047488"/>
+      <test id="8" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.062" mem="10043392"/>
+      <test id="9" outcome="accepted" points="10" max-points="10" comment="3" eval-comment="" time="0.078" mem="10055680"/>
+      <test id="10" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.078" mem="10047488"/>
+      <test id="11" outcome="accepted" points="10" max-points="10" comment="313833" eval-comment="" time="0.171" mem="10006528"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.062" mem="10059776"/>
+    </results>
+  </testing>
+</testing-report>

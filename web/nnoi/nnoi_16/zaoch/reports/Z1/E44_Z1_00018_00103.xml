@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="70" max="100" outcome="accepted" gtid="20200118121827009147985382">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="E44" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3" eval-comment="" time="0.078" mem="8069120"/>
+      <test id="2" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.062" mem="8032256"/>
+      <test id="3" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7966720"/>
+      <test id="4" outcome="accepted" points="10" max-points="10" comment="5" eval-comment="" time="0.031" mem="8011776"/>
+      <test id="5" outcome="accepted" points="10" max-points="10" comment="7" eval-comment="" time="0.031" mem="8015872"/>
+      <test id="6" outcome="accepted" points="10" max-points="10" comment="53" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="7" outcome="accepted" points="10" max-points="10" comment="9907" eval-comment="" time="0.031" mem="7970816"/>
+      <test id="8" outcome="accepted" points="10" max-points="10" comment="20011" eval-comment="" time="0.046" mem="7995392"/>
+      <test id="9" outcome="accepted" points="10" max-points="10" comment="27644437" eval-comment="" time="0.375" mem="7958528"/>
+      <test id="10" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.062" mem="8003584"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7995392"/>
+    </results>
+  </testing>
+</testing-report>

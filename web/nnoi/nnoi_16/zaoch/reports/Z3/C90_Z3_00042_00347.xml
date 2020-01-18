@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200118124244033511641091">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="C90" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Wrong strings: `['ugu', 'a', 'esli', 'ugugugu', 'rassomtret', 'vot', 'takoi', 'ugugu', 'sluchai', 'u" eval-comment="" time="0.078" mem="10739712"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `['aga', 'ugu', 'ogo']` instead of `aga ogo`" eval-comment="" time="0.109" mem="10735616"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `['u', 'ug', 'ugu', 'ugug', 'ugugu', 'ugugug']` instead of `u ug ugug ugugug`" eval-comment="" time="0.093" mem="10719232"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `['ugu', 'ugugu', 'ugu', 'aaaa', 'ugugu', 'ugugugugu']` instead of `aaaa`" eval-comment="" time="0.062" mem="10739712"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `['uug', 'ugu', 'ugu', 'guu']` instead of `uug guu`" eval-comment="" time="0.078" mem="10723328"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `['ugugugugugugugugugugugugugug', 'ugugugugugugugugugugugugugugu', 'ugugugugugugugugu" eval-comment="" time="0.109" mem="10674176"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `['uguguagugu', 'agugugu', 'uguguga', 'ugutugu']` instead of `uguguagugu agugugu ugug" eval-comment="" time="0.093" mem="10686464"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `['u', 'gu', 'ugu', 'gugu', 'ugugu']` instead of `u gu gugu`" eval-comment="" time="0.125" mem="10760192"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', 'a', 's', 'd', 'f', 'g', 'h', 'j'" eval-comment="" time="0.140" mem="10723328"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `['ugugu', 'uguguguguguaugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugu" eval-comment="" time="0.093" mem="10731520"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `['ugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugug" eval-comment="" time="0.125" mem="10719232"/>
+    </results>
+  </testing>
+</testing-report>

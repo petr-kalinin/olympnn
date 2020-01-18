@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200118135540050388143496">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="D15" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;[3,&quot;" eval-comment="" time="0.109" mem="10067968"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.078" mem="9936896"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;[1,&quot;" eval-comment="" time="0.078" mem="10055680"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;[1,&quot;" eval-comment="" time="0.078" mem="10022912"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;[1]&quot;" eval-comment="" time="0.078" mem="10047488"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;[4,&quot;" eval-comment="" time="0.062" mem="9969664"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;[5,&quot;" eval-comment="" time="0.109" mem="10076160"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;[3,&quot;" eval-comment="" time="0.109" mem="10055680"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;[498582,&quot;" eval-comment="" time="0.093" mem="10035200"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;[3,&quot;" eval-comment="" time="0.093" mem="9940992"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;[100,&quot;" eval-comment="" time="0.109" mem="9945088"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;[15888232,&quot;" eval-comment="" time="0.125" mem="10010624"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;[1,&quot;" eval-comment="" time="0.093" mem="10031104"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;[5,&quot;" eval-comment="" time="0.125" mem="10063872"/>
+    </results>
+  </testing>
+</testing-report>

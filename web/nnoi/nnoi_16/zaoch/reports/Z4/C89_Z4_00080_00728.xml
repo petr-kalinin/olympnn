@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200118132015012626315981">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="C89" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;{3,&quot;" eval-comment="" time="0.093" mem="10055680"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;{2}&quot;" eval-comment="" time="0.093" mem="10027008"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;{1,&quot;" eval-comment="" time="0.062" mem="10059776"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="0" comment="Expected integer instead of &quot;{1,&quot;" eval-comment="" time="0.078" mem="10043392"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;{1}&quot;" eval-comment="" time="0.078" mem="10055680"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;{4,&quot;" eval-comment="" time="0.062" mem="9965568"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;{5,&quot;" eval-comment="" time="0.046" mem="10022912"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;{8,&quot;" eval-comment="" time="0.062" mem="10059776"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;{2946254,&quot;" eval-comment="" time="0.062" mem="10047488"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;{33,&quot;" eval-comment="" time="0.078" mem="10055680"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;{100,&quot;" eval-comment="" time="0.078" mem="10063872"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;{803626497,&quot;" eval-comment="" time="0.078" mem="10063872"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;{1,&quot;" eval-comment="" time="0.062" mem="10059776"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="10" comment="Expected integer instead of &quot;{512,&quot;" eval-comment="" time="0.062" mem="10031104"/>
+    </results>
+  </testing>
+</testing-report>

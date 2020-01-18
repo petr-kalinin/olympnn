@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="70" max="100" outcome="accepted" gtid="20200118133647018196742839">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="B07" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3" eval-comment="" time="0.078" mem="10055680"/>
+      <test id="2" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.078" mem="10059776"/>
+      <test id="3" outcome="accepted" points="10" max-points="10" comment="1" eval-comment="" time="0.062" mem="10018816"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="10" comment="7 вместо 5" eval-comment="" time="0.109" mem="10055680"/>
+      <test id="5" outcome="accepted" points="10" max-points="10" comment="7" eval-comment="" time="0.078" mem="10055680"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="61 вместо 53" eval-comment="" time="0.078" mem="10539008"/>
+      <test id="7" outcome="accepted" points="10" max-points="10" comment="9907" eval-comment="" time="0.078" mem="10018816"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="20411 вместо 20011" eval-comment="" time="0.078" mem="10047488"/>
+      <test id="9" outcome="accepted" points="10" max-points="10" comment="27644437" eval-comment="" time="0.156" mem="10051584"/>
+      <test id="10" outcome="accepted" points="10" max-points="10" comment="999999937" eval-comment="" time="0.156" mem="10055680"/>
+      <test id="11" outcome="accepted" points="10" max-points="10" comment="999999929" eval-comment="" time="0.171" mem="10039296"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20200118130626058155492990">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="A30" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output="sol.cc:1:1: error: 'var' does not name a type; did you mean 'char'?&#13;&#10; var N,W,L:integer;&#13;&#10; ^~~&#13;&#10; char&#13;&#10;sol.cc:2:1: error: 'begin' does not name a type&#13;&#10; begin&#13;&#10; ^~~~~&#13;&#10;sol.cc:4:1: error: expected unqualified-id before 'if'&#13;&#10; if (N*W)&lt;=(L+W) then&#13;&#10; ^~&#13;&#10;sol.cc:6:1: error: expected unqualified-id before 'else'&#13;&#10; else writeln(N-1);&#13;&#10; ^~~~&#13;&#10;sol.cc:7:1: error: 'end' does not name a type&#13;&#10; end.&#13;&#10; ^~~&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

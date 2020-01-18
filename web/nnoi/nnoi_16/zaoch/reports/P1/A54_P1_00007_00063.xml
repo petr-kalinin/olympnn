@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20200118105253006287151754">
+  <solution problem="P1" problem-name=" " problem-type="P" contestant="A54" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="4" eval-comment="" time="0.093" mem="23932928"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="-2" eval-comment="" time="0.109" mem="23887872"/>
+      <test id="3" outcome="accepted" points="20" max-points="20" comment="8" eval-comment="" time="0.093" mem="23900160"/>
+      <test id="4" outcome="accepted" points="20" max-points="20" comment="1110" eval-comment="" time="0.109" mem="23920640"/>
+      <test id="5" outcome="accepted" points="20" max-points="20" comment="2000" eval-comment="" time="0.093" mem="24014848"/>
+      <test id="6" outcome="accepted" points="20" max-points="20" comment="-2000" eval-comment="" time="0.093" mem="23871488"/>
+      <test id="7" outcome="accepted" points="20" max-points="20" comment="0" eval-comment="" time="0.078" mem="23863296"/>
+    </results>
+  </testing>
+</testing-report>

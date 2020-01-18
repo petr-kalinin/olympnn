@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="50" max="100" outcome="accepted" gtid="20200118135340046176219571">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="D19" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.062" mem="10358784"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.062" mem="10326016"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.078" mem="10305536"/>
+      <test id="4" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.062" mem="10268672"/>
+      <test id="5" outcome="accepted" points="10" max-points="10" comment="" eval-comment="" time="0.078" mem="10272768"/>
+      <test id="6" outcome="accepted" points="10" max-points="10" comment="" eval-comment="" time="0.062" mem="10256384"/>
+      <test id="7" outcome="accepted" points="10" max-points="10" comment="" eval-comment="" time="0.078" mem="10346496"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 6 5" eval-comment="" time="0.062" mem="10289152"/>
+      <test id="9" outcome="accepted" points="10" max-points="10" comment="" eval-comment="" time="0.078" mem="10321920"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.093" mem="10313728"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.062" mem="10313728"/>
+      <test id="12" outcome="accepted" points="10" max-points="10" comment="" eval-comment="" time="0.093" mem="10305536"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 89 66" eval-comment="" time="0.078" mem="10309632"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="10" comment="Jury has better solution: 100 97" eval-comment="" time="0.093" mem="10309632"/>
+    </results>
+  </testing>
+</testing-report>

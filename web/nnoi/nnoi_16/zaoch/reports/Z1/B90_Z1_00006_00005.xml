@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20200118120659000424346316">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="B90" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;sol.cpp(1): error C3872: '0xbb': this character is not allowed in an identifier&#13;&#10;sol.cpp(1): error C2014: preprocessor command must start as first nonwhite space&#13;&#10;sol.cpp(2): error C2143: syntax error: missing ';' before 'using namespace'&#13;&#10;sol.cpp(2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int&#13;&#10;sol.cpp(6): error C2065: 'cin': undeclared identifier&#13;&#10;sol.cpp(9): error C2039: 'cout': is not a member of 'std'&#13;&#10;predefined C++ types (compiler internal)(257): note: see declaration of 'std'&#13;&#10;sol.cpp(9): error C2065: 'cout': undeclared identifier&#13;&#10;sol.cpp(9): error C2065: 'endl': undeclared identifier&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20200118122853019160779588">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="A64" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3" eval-comment="" time="0.125" mem="23961600"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2" eval-comment="" time="0.078" mem="23887872"/>
+      <test id="3" outcome="accepted" points="10" max-points="10" comment="1" eval-comment="" time="0.093" mem="23846912"/>
+      <test id="4" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.078" mem="23887872"/>
+      <test id="5" outcome="accepted" points="10" max-points="10" comment="3" eval-comment="" time="0.109" mem="23883776"/>
+      <test id="6" outcome="accepted" points="10" max-points="10" comment="1" eval-comment="" time="0.109" mem="23851008"/>
+      <test id="7" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.109" mem="23941120"/>
+      <test id="8" outcome="accepted" points="10" max-points="10" comment="333333334" eval-comment="" time="0.093" mem="23793664"/>
+      <test id="9" outcome="accepted" points="10" max-points="10" comment="3" eval-comment="" time="0.109" mem="23883776"/>
+      <test id="10" outcome="accepted" points="10" max-points="10" comment="2" eval-comment="" time="0.093" mem="23891968"/>
+      <test id="11" outcome="accepted" points="10" max-points="10" comment="313833" eval-comment="" time="0.078" mem="23846912"/>
+      <test id="12" outcome="accepted" points="10" max-points="10" comment="1000000000" eval-comment="" time="0.093" mem="23871488"/>
+    </results>
+  </testing>
+</testing-report>

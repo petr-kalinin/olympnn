@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20200118132035013041523439">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="A72" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 3.0.4 [2017/10/06] for i386&#13;&#10;Copyright (c) 1993-2017 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;Linking sol.exe&#13;&#10;9 lines compiled, 0.0 sec, 27392 bytes code, 1300 bytes data&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Wrong strings: `ugu a esli ugugugu rassomtret vot takoi ugugu sluchai u ugla ugugu` instead of `a es" eval-comment="" time="0.062" mem="8470528"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `aga ugu ogo` instead of `aga ogo`" eval-comment="" time="0.062" mem="8376320"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `u ug ugu ugug ugugu ugugug` instead of `u ug ugug ugugug`" eval-comment="" time="0.078" mem="8376320"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `ugu ugugu ugu aaaa ugugu ugugugugu` instead of `aaaa`" eval-comment="" time="0.062" mem="8368128"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `uug ugu ugu guu` instead of `uug guu`" eval-comment="" time="0.078" mem="8372224"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `ugugugugugugugugugugugugugug ugugugugugugugugugugugugugugu ugugugugugugugugugugugugu" eval-comment="" time="0.046" mem="8331264"/>
+      <test id="7" outcome="accepted" points="10" max-points="10" comment="" eval-comment="" time="0.046" mem="8368128"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `u gu ugu gugu ugugu` instead of `u gu gugu`" eval-comment="" time="0.078" mem="8249344"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `q w e r t y u i o p a s d f g h j k l z x c v b n m ugu` instead of `q w e r t y u i" eval-comment="" time="0.062" mem="8355840"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `ugugu uguguguguguaugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugug" eval-comment="" time="0.062" mem="8642560"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `ugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugugug" eval-comment="" time="0.031" mem="8630272"/>
+    </results>
+  </testing>
+</testing-report>

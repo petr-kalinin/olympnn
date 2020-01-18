@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200118135655053624051181">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="A72" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="fpc -O2 -Mdelphi sol.pp " compiler-output="Free Pascal Compiler version 3.0.4 [2017/10/06] for i386&#13;&#10;Copyright (c) 1993-2017 by Florian Klaempfl and others&#13;&#10;Target OS: Win32 for i386&#13;&#10;Compiling sol.pp&#13;&#10;sol.pp(7,11) Warning: Variable &quot;ch&quot; of a managed type does not seem to be initialized&#13;&#10;Linking sol.exe&#13;&#10;20 lines compiled, 0.0 sec, 28672 bytes code, 1300 bytes data&#13;&#10;1 warning(s) issued&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Wrong strings: `a esli rassomtret vot takoi sluchai u ugla ugla` instead of `a esli rassomtret vot t" eval-comment="" time="0.078" mem="8495104"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `aga ogougla` instead of `aga ogo`" eval-comment="" time="0.078" mem="8364032"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `u ug ugla` instead of `u ug ugug ugugug`" eval-comment="" time="0.046" mem="8294400"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `aaaa ugla` instead of `aaaa`" eval-comment="" time="0.062" mem="8380416"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `uug guuugla` instead of `uug guu`" eval-comment="" time="0.031" mem="8372224"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `ugla` instead of `ugugugugugugugugugugugugugug ugugugugugugugugugugugugugugug`" eval-comment="" time="0.062" mem="8441856"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `ag ugla` instead of `uguguagugu agugugu uguguga ugutugu`" eval-comment="" time="0.078" mem="8380416"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `u gu g ugla` instead of `u gu gugu`" eval-comment="" time="0.046" mem="8368128"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `q w e r t y u i o p a s d f g h j k l z x c v b n m ugla` instead of `q w e r t y u " eval-comment="" time="0.062" mem="8384512"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="Wrong strings: `ugla` instead of `uguguguguguaugugugugugugugugugugugugugugugugugugugugugugugugugugug" eval-comment="" time="0.031" mem="8646656"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 216 (General Protection fault)" eval-comment="" time="0.046" mem="8622080"/>
+    </results>
+  </testing>
+</testing-report>

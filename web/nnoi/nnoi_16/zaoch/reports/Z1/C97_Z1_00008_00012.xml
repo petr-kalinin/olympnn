@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20200118120816000020537908">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="C97" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;sol.cpp(14): error C2146: syntax error: missing ')' before identifier 'or'&#13;&#10;sol.cpp(14): error C2065: 'or': undeclared identifier&#13;&#10;sol.cpp(14): error C2146: syntax error: missing ';' before identifier 'a'&#13;&#10;sol.cpp(14): error C2059: syntax error: ')'&#13;&#10;sol.cpp(15): error C2059: syntax error: ';'&#13;&#10;sol.cpp(16): error C2059: syntax error: 'else'&#13;&#10;sol.cpp(16): error C2143: syntax error: missing ';' before '{'&#13;&#10;sol.cpp(16): error C2447: '{': missing function header (old-style formal list?)&#13;&#10;sol.cpp(19): error C2059: syntax error: 'return'&#13;&#10;sol.cpp(20): error C2059: syntax error: '}'&#13;&#10;sol.cpp(20): error C2143: syntax error: missing ';' before '}'&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200118135810056912711102">
+  <solution problem="Z2" problem-name=" " problem-type="P" contestant="E39" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="3" eval-comment="" time="0.031" mem="8073216"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="2" eval-comment="" time="0.031" mem="7983104"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="2 вместо 1" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="10" comment="4 вместо 2" eval-comment="" time="0.031" mem="8007680"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="1 вместо 3" eval-comment="" time="0.031" mem="8019968"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="10" comment="Unexpected end of file - integer expected" eval-comment="" time="0.046" mem="7946240"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="10" comment="727380969 вместо 2" eval-comment="" time="0.031" mem="8024064"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="999997997 вместо 333333334" eval-comment="" time="0.046" mem="8024064"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="6 вместо 3" eval-comment="" time="0.046" mem="7974912"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="3 вместо 2" eval-comment="" time="0.031" mem="8019968"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="10" comment="933489842 вместо 313833" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="10" comment="999999999 вместо 1000000000" eval-comment="" time="0.046" mem="8007680"/>
+    </results>
+  </testing>
+</testing-report>
