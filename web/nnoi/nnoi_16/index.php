@@ -29,10 +29,10 @@ XVI Нижегородская городская олимпиада школьников по информатике им. В.&nbsp;Д. Л
 </li>
 </ul>
 <ul>
-<li><a href="zaoch/nnoi2019_zaoch_statements.pdf">Условия отборочного тура</a></li>
+<li><a href="zaoch/nnoi2020_zaoch_statements.pdf">Условия отборочного тура</a></li>
 <li><a href="zaoch/results.php">Предварительные результаты отборочного тура</a></li>
 <li><a href="zaoch/tests.7z">Тесты к отборочному туру</a></li>
-<li><a href="zaoch/outputs_all.7z">Протоколы тестирования отборочного тура</a></li>
+<li><a href="zaoch/outputs.7z">Протоколы тестирования отборочного тура</a></li>
 </ul>
 <div class="logos">
 <a href="http://yandex.ru"><img src="https://avatars.mds.yandex.net/get-bunker/60661/5ec62cb755193c37a6ec19a826b3891780eead2a/orig"/></a>
