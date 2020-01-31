@@ -43,7 +43,7 @@
       <problem id="Z3" points="100" minus="0" outcome="accepted"/>
       <problem id="Z4" points="100" minus="0" outcome="accepted"/>
     </contestant>
-    <contestant id="A03" _location="0">
+    <contestant id="*A03" _location="0">
       <problem id="Z1" points="60" minus="0" outcome="accepted"/>
       <problem id="Z2" points="100" minus="0" outcome="accepted"/>
       <problem id="Z3" points="50" minus="0" outcome="accepted"/>
@@ -97,7 +97,7 @@
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
-    <contestant id="B80" _location="0">
+    <contestant id="*B80" _location="0">
       <problem id="Z1" points="70" minus="0" outcome="accepted"/>
       <problem id="Z2" points="60" minus="0" outcome="accepted"/>
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
@@ -1003,7 +1003,7 @@
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
       <problem id="Z4" points="20" minus="0" outcome="accepted"/>
     </contestant>
-    <contestant id="B17" _location="0">
+    <contestant id="*B17" _location="0">
       <problem id="Z1" points="70" minus="0" outcome="accepted"/>
       <problem id="Z2" points="80" minus="0" outcome="accepted"/>
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
@@ -1189,7 +1189,7 @@
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
-    <contestant id="C92" _location="0">
+    <contestant id="*C92" _location="0">
       <problem id="Z1" points="0" minus="0" outcome="accepted"/>
       <problem id="Z2" points="0" minus="0" outcome="accepted"/>
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
@@ -1483,13 +1483,13 @@
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
-    <contestant id="A75" _location="0">
+    <contestant id="*A75" _location="0">
       <problem id="Z1" points="60" minus="0" outcome="accepted"/>
       <problem id="Z2" points="100" minus="0" outcome="accepted"/>
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
       <problem id="Z4" points="0" minus="0" outcome="accepted"/>
     </contestant>
-    <contestant id="Z01" _location="0">
+    <contestant id="*Z01" _location="0">
       <problem id="Z1" points="70" minus="0" outcome="accepted"/>
       <problem id="Z2" points="40" minus="0" outcome="accepted"/>
       <problem id="Z3" points="0" minus="0" outcome="accepted"/>
