@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20200229151455073161633227">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="A2M" time-limit="4000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vector(664): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vector(659): note: while compiling class template member function 'std::vector&lt;__int64,std::allocator&lt;_Ty&gt;&gt;::vector(const unsigned __int64,const _Alloc &amp;)'&#13;&#10;        with&#13;&#10;        [&#13;&#10;            _Ty=__int64,&#13;&#10;            _Alloc=std::allocator&lt;__int64&gt;&#13;&#10;        ]&#13;&#10;sol.cpp(35): note: see reference to function template instantiation 'std::vector&lt;__int64,std::allocator&lt;_Ty&gt;&gt;::vector(const unsigned __int64,const _Alloc &amp;)' being compiled&#13;&#10;        with&#13;&#10;        [&#13;&#10;            _Ty=__int64,&#13;&#10;            _Alloc=std::allocator&lt;__int64&gt;&#13;&#10;        ]&#13;&#10;sol.cpp(11): note: see reference to class template instantiation 'std::vector&lt;__int64,std::allocator&lt;_Ty&gt;&gt;' being compiled&#13;&#10;        with&#13;&#10;        [&#13;&#10;            _Ty=__int64&#13;&#10;        ]&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.046" mem="7737344"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;4&quot;" eval-comment="" time="0.046" mem="7708672"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '248405627', found: '426382495'" eval-comment="" time="0.093" mem="7753728"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '57224251', found: '283868799'" eval-comment="" time="0.062" mem="7786496"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;1029827528&quot;" eval-comment="" time="0.078" mem="7852032"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;568946711&quot;" eval-comment="" time="0.046" mem="7782400"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '3725533918', found: '3862935046'" eval-comment="" time="0.140" mem="7761920"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '870298728', found: '1213695526'" eval-comment="" time="0.093" mem="7835648"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;9559520757&quot;" eval-comment="" time="0.125" mem="7774208"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;5241784956&quot;" eval-comment="" time="0.093" mem="7806976"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.046" mem="22024192"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="57815040"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="53862400"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '0', found: '4786715'" eval-comment="" time="1.125" mem="47157248"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="51228672"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.046" mem="63139840"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.046" mem="61440000"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="54525952"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="59527168"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.078" mem="61440000"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="62832640"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="55107584"/>
+    </results>
+  </testing>
+</testing-report>

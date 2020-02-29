@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20200229154944092162120253">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="G1P" time-limit="4000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output="sol.cc: In function 'int main()':&#13;&#10;sol.cc:98:42: error: 'J' was not declared in this scope&#13;&#10;   for (int j = 0; j &lt; v[i].neigh.size(); J++)&#13;&#10;                                          ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

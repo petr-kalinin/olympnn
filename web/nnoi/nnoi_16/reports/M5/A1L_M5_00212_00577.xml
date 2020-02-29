@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="100" max="100" outcome="accepted" gtid="20200229144203057698331845">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="A1L" time-limit="4000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output="sol.cc: In function 'int main()':&#13;&#10;sol.cc:55:23: warning: structured bindings only available with -std=c++17 or -std=gnu++17&#13;&#10;             for (auto [u, c] : g[e.v]) {&#13;&#10;                       ^&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.062" mem="8069120"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;4&quot;" eval-comment="" time="0.062" mem="7999488"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;248405627&quot;" eval-comment="" time="0.062" mem="8028160"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;57224251&quot;" eval-comment="" time="0.046" mem="8052736"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;1029827528&quot;" eval-comment="" time="0.093" mem="8060928"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;568946711&quot;" eval-comment="" time="0.062" mem="8138752"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;3725533918&quot;" eval-comment="" time="0.046" mem="8122368"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;870298728&quot;" eval-comment="" time="0.062" mem="8114176"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;9559520757&quot;" eval-comment="" time="0.046" mem="8101888"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;5241784956&quot;" eval-comment="" time="0.046" mem="8097792"/>
+      <test id="11" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.062" mem="25661440"/>
+      <test id="12" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;2219027721&quot;" eval-comment="" time="2.671" mem="35831808"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;333274445055555&quot;" eval-comment="" time="1.343" mem="31121408"/>
+      <test id="14" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;0&quot;" eval-comment="" time="1.937" mem="48840704"/>
+      <test id="15" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;999800003&quot;" eval-comment="" time="1.671" mem="42573824"/>
+      <test id="16" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;399917000200003&quot;" eval-comment="" time="1.609" mem="35790848"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;2&quot;" eval-comment="" time="1.609" mem="66895872"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;100003&quot;" eval-comment="" time="1.718" mem="45379584"/>
+      <test id="19" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;686549282&quot;" eval-comment="" time="2.390" mem="37150720"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;4413671696&quot;" eval-comment="" time="2.671" mem="36904960"/>
+      <test id="21" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;4836769182&quot;" eval-comment="" time="2.687" mem="38354944"/>
+      <test id="22" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;2805708125&quot;" eval-comment="" time="2.406" mem="34160640"/>
+    </results>
+  </testing>
+</testing-report>

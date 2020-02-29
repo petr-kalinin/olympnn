@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200229140810049256435260">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="D2J" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer, but &quot;[1,&quot; found" eval-comment="" time="0.109" mem="24141824"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.171" mem="26279936"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;[3,&quot; found" eval-comment="" time="0.140" mem="24141824"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;[23,&quot; found" eval-comment="" time="0.125" mem="24125440"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;[1278,&quot; found" eval-comment="" time="0.421" mem="30765056"/>
+      <test id="6" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="33918976"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[12,&quot; found" eval-comment="" time="0.078" mem="24141824"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[1,&quot; found" eval-comment="" time="0.093" mem="25493504"/>
+      <test id="9" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="40235008"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[535,&quot; found" eval-comment="" time="0.171" mem="30601216"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[8,&quot; found" eval-comment="" time="0.093" mem="24129536"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '20', found: '0'" eval-comment="" time="0.156" mem="24121344"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;[265,&quot; found" eval-comment="" time="0.250" mem="27750400"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '2662', found: '0'" eval-comment="" time="0.078" mem="24137728"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="34021376"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="41218048"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="40660992"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.078" mem="39075840"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.078" mem="40869888"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="39223296"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="37339136"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '2486485402', found: '0'" eval-comment="" time="0.421" mem="34734080"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="37724160"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[1,&quot; found" eval-comment="" time="0.359" mem="31248384"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.078" mem="34459648"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="36753408"/>
+      <test id="27" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="34361344"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.078" mem="34279424"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="40525824"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="37875712"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="39530496"/>
+    </results>
+  </testing>
+</testing-report>

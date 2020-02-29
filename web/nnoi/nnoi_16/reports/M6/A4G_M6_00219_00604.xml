@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20200229144913060382883454">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="A4G" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="7 changes used while maximum allowed is 1" eval-comment="" time="0.046" mem="8056832"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="No solution" eval-comment="" time="0.062" mem="8011776"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.046" mem="7983104"/>
+      <test id="4" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.046" mem="7966720"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="8011776"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="Answer: 0" eval-comment="" time="0.046" mem="7979008"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="No solution" eval-comment="" time="0.046" mem="7995392"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="string contains 7 elements instead of 14 elements" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.031" mem="8011776"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="Answer: 3" eval-comment="" time="0.015" mem="8015872"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="string contains 8 elements instead of 12 elements" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="string contains 23 elements instead of 16 elements" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="7987200"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="10 changes used while maximum allowed is 9" eval-comment="" time="0.046" mem="7999488"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.031" mem="7958528"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.031" mem="7979008"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.046" mem="8073216"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="No solution" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.046" mem="7970816"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="8015872"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.078" mem="8069120"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.046" mem="8060928"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="8015872"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.046" mem="8052736"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.062" mem="8032256"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.078" mem="8024064"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.062" mem="8032256"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.078" mem="8036352"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.046" mem="8060928"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="string contains 308 elements instead of 299 elements" eval-comment="" time="0.046" mem="7933952"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.046" mem="8028160"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="8015872"/>
+      <test id="34" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.046" mem="8032256"/>
+      <test id="35" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.031" mem="8069120"/>
+      <test id="36" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 3 (Path not found)" eval-comment="" time="0.062" mem="8077312"/>
+    </results>
+  </testing>
+</testing-report>

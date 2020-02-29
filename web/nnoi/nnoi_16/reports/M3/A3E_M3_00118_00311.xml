@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="4" max="100" outcome="accepted" gtid="20200229130821031089993562">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="A3E" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="4 lines" eval-comment="" time="0.062" mem="8069120"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="6 lines" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="2" comment="2nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="7999488"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="56th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="3rd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="7999488"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="6" comment="2nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="8208384"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="2nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="8036352"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="63rd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="8048640"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="25th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="8052736"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="48th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.062" mem="8044544"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="2nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="8130560"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="3rd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="8134656"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="2nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.062" mem="8216576"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="6th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="8216576"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="3rd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.062" mem="8224768"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="4th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.031" mem="7995392"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="2nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="7999488"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="2nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="2nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.031" mem="8028160"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="681st lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="8196096"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="6" comment="817th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.031" mem="8196096"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="6" comment="224th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="8208384"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="34th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="8028160"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="2nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.062" mem="8040448"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="5" comment="2nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.062" mem="8114176"/>
+      <test id="26" outcome="accepted" points="2" max-points="2" comment="7 lines" eval-comment="" time="0.062" mem="8015872"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="6" comment="92nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.031" mem="8007680"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="28" max="100" outcome="accepted" gtid="20200229131852032727447147">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="A3H" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="4 lines" eval-comment="" time="0.062" mem="7712768"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="6 lines" eval-comment="" time="0.046" mem="7737344"/>
+      <test id="3" outcome="accepted" points="2" max-points="2" comment="2 lines" eval-comment="" time="0.031" mem="7766016"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="56th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="7798784"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="3rd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.093" mem="7712768"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="6" comment="4th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.093" mem="8003584"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="101 lines" eval-comment="" time="0.062" mem="7790592"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="63rd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.062" mem="7782400"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="26th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.078" mem="7774208"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="62nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.078" mem="7774208"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="4th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.078" mem="7872512"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="3rd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.109" mem="7880704"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="4th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.109" mem="8175616"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="4th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.109" mem="8155136"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="3rd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.078" mem="8159232"/>
+      <test id="16" outcome="accepted" points="2" max-points="2" comment="9 lines" eval-comment="" time="0.046" mem="7737344"/>
+      <test id="17" outcome="accepted" points="2" max-points="2" comment="12 lines" eval-comment="" time="0.031" mem="7729152"/>
+      <test id="18" outcome="accepted" points="2" max-points="2" comment="10 lines" eval-comment="" time="0.062" mem="7733248"/>
+      <test id="19" outcome="accepted" points="2" max-points="2" comment="2 lines" eval-comment="" time="0.031" mem="7786496"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="248th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.078" mem="7884800"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="6" comment="817th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.093" mem="8052736"/>
+      <test id="22" outcome="accepted" points="6" max-points="6" comment="1006 lines" eval-comment="" time="0.109" mem="8167424"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="100th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.031" mem="7806976"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="4th lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="7790592"/>
+      <test id="25" outcome="accepted" points="5" max-points="5" comment="204 lines" eval-comment="" time="0.125" mem="7913472"/>
+      <test id="26" outcome="accepted" points="2" max-points="2" comment="7 lines" eval-comment="" time="0.046" mem="7741440"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="6" comment="92nd lines differ - expected: 'YES', found: 'NO'" eval-comment="" time="0.046" mem="7806976"/>
+    </results>
+  </testing>
+</testing-report>

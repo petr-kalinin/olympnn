@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="2" max="100" outcome="accepted" gtid="20200229154253089319245537">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="E2D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Jury has answer, but participant does not" eval-comment="" time="0.109" mem="24125440"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="No solution" eval-comment="" time="0.078" mem="24117248"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.093" mem="24141824"/>
+      <test id="4" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.078" mem="24137728"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="Too big integer used: 11, while N is: 10" eval-comment="" time="0.093" mem="24092672"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="Answer: 0" eval-comment="" time="0.093" mem="24137728"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="Too big integer used: 10000000000" eval-comment="" time="0.109" mem="24150016"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="Too big integer used: 10000000000000" eval-comment="" time="0.062" mem="24121344"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 99999, while N is: 0" eval-comment="" time="0.109" mem="24121344"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="5 changes used while maximum allowed is 0" eval-comment="" time="0.140" mem="24121344"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="Too big integer used: 100000000000" eval-comment="" time="0.109" mem="24133632"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 9999999999999999" eval-comment="" time="0.125" mem="24141824"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 59067166675331" eval-comment="" time="0.093" mem="24141824"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 4022077, while N is: 1434" eval-comment="" time="0.109" mem="24129536"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 4602337376342447" eval-comment="" time="0.125" mem="24129536"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="Too big integer used: 6896965678643" eval-comment="" time="0.125" mem="24125440"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="Too big integer used: 8808000830, while N is: 1000000000" eval-comment="" time="0.156" mem="24133632"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 1311112130123233" eval-comment="" time="0.093" mem="24154112"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 256, while N is: 25" eval-comment="" time="0.078" mem="24145920"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="Too big integer used: 62, while N is: 31" eval-comment="" time="0.109" mem="24129536"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 99999999999999999999" eval-comment="" time="0.093" mem="24133632"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 10000000000000" eval-comment="" time="0.109" mem="24129536"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="24129536"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 17140549, while N is: 64" eval-comment="" time="0.125" mem="24113152"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 31037559621378900463915434902735771" eval-comment="" time="0.078" mem="24100864"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 5197892206, while N is: 180524" eval-comment="" time="0.093" mem="24141824"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 480130, while N is: 309727" eval-comment="" time="0.109" mem="24113152"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 444444444444444444444444444444444444444444444444444444444444444444444444444444" eval-comment="" time="0.078" mem="24137728"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 999999999999999999999999999999999999999999999999999999999999999999999999999999" eval-comment="" time="0.125" mem="24129536"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 100000000000000000000000000000000000000000000000000000000000000000000000000000" eval-comment="" time="0.156" mem="24109056"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.109" mem="24133632"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Too big sum: 1000, while N is: 300" eval-comment="" time="0.093" mem="24125440"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 8759090085, while N is: 23456" eval-comment="" time="0.109" mem="24059904"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 6951004755741725310841256053254836514132" eval-comment="" time="0.078" mem="24109056"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 127063264916759884687" eval-comment="" time="0.093" mem="24113152"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 335782074248" eval-comment="" time="0.109" mem="24109056"/>
+    </results>
+  </testing>
+</testing-report>

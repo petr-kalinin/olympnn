@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="50" max="100" outcome="accepted" gtid="20200229132848037331664058">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="B5C" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="4 lines" eval-comment="" time="0.062" mem="10309632"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="6 lines" eval-comment="" time="0.093" mem="10313728"/>
+      <test id="3" outcome="accepted" points="2" max-points="2" comment="2 lines" eval-comment="" time="0.093" mem="10317824"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="60th lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.078" mem="10330112"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="6th lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.125" mem="10330112"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="6" comment="3rd lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.156" mem="10596352"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="101 lines" eval-comment="" time="0.093" mem="10473472"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="466 lines" eval-comment="" time="0.109" mem="10313728"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="127th lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.109" mem="10342400"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="215th lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.093" mem="10297344"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="3rd lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.156" mem="10350592"/>
+      <test id="12" outcome="accepted" points="6" max-points="6" comment="441 lines" eval-comment="" time="0.109" mem="10338304"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="289th lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.156" mem="10641408"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="7th lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.156" mem="10620928"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="6th lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.156" mem="10620928"/>
+      <test id="16" outcome="accepted" points="2" max-points="2" comment="9 lines" eval-comment="" time="0.109" mem="10362880"/>
+      <test id="17" outcome="accepted" points="2" max-points="2" comment="12 lines" eval-comment="" time="0.078" mem="10313728"/>
+      <test id="18" outcome="accepted" points="2" max-points="2" comment="10 lines" eval-comment="" time="0.109" mem="10354688"/>
+      <test id="19" outcome="accepted" points="2" max-points="2" comment="2 lines" eval-comment="" time="0.093" mem="10338304"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="1005 lines" eval-comment="" time="0.125" mem="10375168"/>
+      <test id="21" outcome="accepted" points="6" max-points="6" comment="1006 lines" eval-comment="" time="0.187" mem="10620928"/>
+      <test id="22" outcome="accepted" points="6" max-points="6" comment="1006 lines" eval-comment="" time="0.125" mem="10629120"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="58th lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.093" mem="10334208"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="3rd lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.109" mem="10330112"/>
+      <test id="25" outcome="accepted" points="5" max-points="5" comment="204 lines" eval-comment="" time="0.093" mem="10362880"/>
+      <test id="26" outcome="accepted" points="2" max-points="2" comment="7 lines" eval-comment="" time="0.078" mem="10334208"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="6" comment="337th lines differ - expected: 'NO', found: 'YES'" eval-comment="" time="0.109" mem="10334208"/>
+    </results>
+  </testing>
+</testing-report>

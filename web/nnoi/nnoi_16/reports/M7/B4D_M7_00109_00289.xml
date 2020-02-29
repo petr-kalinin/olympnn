@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="29" max="100" outcome="accepted" gtid="20200229125941028875388412">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="B4D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="2 lines" eval-comment="" time="0.046" mem="8851456"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="3" comment="1st lines differ - expected: '?', found: 'OK'" eval-comment="" time="0.046" mem="8765440"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="3 lines" eval-comment="" time="0.078" mem="8814592"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="3 lines" eval-comment="" time="0.062" mem="8814592"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="3 lines" eval-comment="" time="0.046" mem="8830976"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="3 lines" eval-comment="" time="0.062" mem="8773632"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="2nd lines differ - expected: '1', found: 'ERROR'" eval-comment="" time="0.031" mem="8822784"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="3rd lines differ - expected: '1', found: 'ERROR'" eval-comment="" time="0.062" mem="8818688"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="2nd lines differ - expected: '1', found: 'ERROR'" eval-comment="" time="0.062" mem="8785920"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="3 lines" eval-comment="" time="0.046" mem="8835072"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="3 lines" eval-comment="" time="0.015" mem="8765440"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="3 lines" eval-comment="" time="0.046" mem="8790016"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="3rd lines differ - expected: '2', found: 'ERROR'" eval-comment="" time="0.046" mem="8814592"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="3rd lines differ - expected: '2', found: 'ERROR'" eval-comment="" time="0.046" mem="8777728"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="2nd lines differ - expected: '3', found: '3ERROR'" eval-comment="" time="0.062" mem="8798208"/>
+      <test id="16" outcome="accepted" points="4" max-points="4" comment="3 lines" eval-comment="" time="0.062" mem="8818688"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ - expected: '3', found: '3ERROR'" eval-comment="" time="0.046" mem="8720384"/>
+      <test id="18" outcome="accepted" points="4" max-points="4" comment="3 lines" eval-comment="" time="0.062" mem="8769536"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ - expected: '?', found: 'OK'" eval-comment="" time="0.046" mem="8818688"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ - expected: '?', found: '1'" eval-comment="" time="0.046" mem="8810496"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="3rd lines differ - expected: '?', found: 'OK'" eval-comment="" time="0.046" mem="8794112"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="3rd lines differ - expected: '?', found: '3'" eval-comment="" time="0.046" mem="8794112"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="2nd lines differ - expected: '?', found: '3ERROR'" eval-comment="" time="0.078" mem="8769536"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ - expected: '?', found: 'OK'" eval-comment="" time="0.031" mem="8835072"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="3rd lines differ - expected: '?', found: '3'" eval-comment="" time="0.046" mem="8814592"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="2nd lines differ - expected: '?', found: 'OK'" eval-comment="" time="0.031" mem="8814592"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ - expected: '?', found: '1'" eval-comment="" time="0.031" mem="8826880"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="2nd lines differ - expected: '?', found: '33'" eval-comment="" time="0.062" mem="8695808"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="1st lines differ - expected: '?', found: 'OK'" eval-comment="" time="0.031" mem="8810496"/>
+    </results>
+  </testing>
+</testing-report>

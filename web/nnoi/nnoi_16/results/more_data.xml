@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="M1" name="Alp bus"/>
+    <problem id="M2" name="Нейросеть"/>
+    <problem id="M3" name="Посылки в заморозку"/>
+    <problem id="M4" name="Счастливые дни"/>
+    <problem id="M5" name="День города"/>
+    <problem id="M6" name="Преобразование выражения"/>
+    <problem id="M7" name="Контроль светофоров"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="7"/>
+    <diplom id="II" places-min="8" places-max="14"/>
+    <diplom id="III" places-min="15" places-max="22"/>
+  </diploms>
+</more-data>
+    

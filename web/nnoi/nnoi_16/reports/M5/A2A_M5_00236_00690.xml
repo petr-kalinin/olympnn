@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="40" max="100" outcome="accepted" gtid="20200229150605068901772395">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="A2A" time-limit="4000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.093" mem="20389888"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;4&quot;" eval-comment="" time="0.078" mem="20381696"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '248405627', found: '426382495'" eval-comment="" time="0.078" mem="20389888"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '57224251', found: '439904276'" eval-comment="" time="0.093" mem="20422656"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;1029827528&quot;" eval-comment="" time="0.140" mem="20480000"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '568946711', found: '749964267'" eval-comment="" time="0.093" mem="20443136"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;3725533918&quot;" eval-comment="" time="0.093" mem="20422656"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;870298728&quot;" eval-comment="" time="0.109" mem="20459520"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;9559520757&quot;" eval-comment="" time="0.062" mem="20398080"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;5241784956&quot;" eval-comment="" time="0.078" mem="20455424"/>
+      <test id="11" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.078" mem="20353024"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="2.796" mem="33488896"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="2.171" mem="33099776"/>
+      <test id="14" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="29048832"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="2.359" mem="30027776"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="2.656" mem="35266560"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;2&quot;" eval-comment="" time="2.203" mem="32276480"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;100003&quot;" eval-comment="" time="2.390" mem="32063488"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="2.640" mem="34844672"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="2.750" mem="34123776"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="2.750" mem="33603584"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="2.500" mem="32174080"/>
+    </results>
+  </testing>
+</testing-report>

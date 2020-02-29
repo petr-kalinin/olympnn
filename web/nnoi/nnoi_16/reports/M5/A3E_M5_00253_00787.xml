@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20200229152351078688726824">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="A3E" time-limit="4000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx:1:1: error: expected unqualified-id before '&lt;' token&#13;&#10; &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot; ?&gt;&#13;&#10; ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

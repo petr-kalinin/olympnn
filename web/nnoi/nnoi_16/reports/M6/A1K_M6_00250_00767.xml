@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200229152101076687057026">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="A1K" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="string contains 3 elements instead of 8 elements" eval-comment="" time="0.062" mem="8077312"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="string contains 2 elements instead of 5 elements" eval-comment="" time="0.062" mem="7962624"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="0" comment="string contains 2 elements instead of 5 elements" eval-comment="" time="0.046" mem="7979008"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="0" comment="string contains 2 elements instead of 5 elements" eval-comment="" time="0.046" mem="8028160"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="string contains 2 elements instead of 10 elements" eval-comment="" time="0.046" mem="7970816"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="2" comment="Too big integer used: 8, while N is: 5" eval-comment="" time="0.062" mem="8015872"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="string contains 10 elements instead of 13 elements" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="string contains 10 elements instead of 14 elements" eval-comment="" time="0.046" mem="8077312"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 99999, while N is: 0" eval-comment="" time="0.062" mem="8036352"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="string contains 1 elements instead of 9 elements" eval-comment="" time="0.031" mem="7987200"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="string contains 10 elements instead of 12 elements" eval-comment="" time="0.031" mem="7950336"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.078" mem="18817024"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="string contains 11 elements instead of 16 elements" eval-comment="" time="0.453" mem="14458880"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="string contains 7 elements instead of 12 elements" eval-comment="" time="0.078" mem="8339456"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="string contains 9 elements instead of 16 elements" eval-comment="" time="0.937" mem="23252992"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="string contains 10 elements instead of 13 elements" eval-comment="" time="0.062" mem="8351744"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="string contains 9 elements instead of 14 elements" eval-comment="" time="0.062" mem="8036352"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="string contains 9 elements instead of 16 elements" eval-comment="" time="0.046" mem="8138752"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="string contains 7 elements instead of 15 elements" eval-comment="" time="0.062" mem="8159232"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="string contains 4 elements instead of 14 elements" eval-comment="" time="0.062" mem="8110080"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="24530944"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="string contains 10 elements instead of 20 elements" eval-comment="" time="0.046" mem="8052736"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="string contains 3 elements instead of 30 elements" eval-comment="" time="0.078" mem="8032256"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="20582400"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="32313344"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="34181120"/>
+      <test id="27" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="44965888"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="40583168"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="29634560"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="42086400"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.078" mem="45060096"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="string contains 4 elements instead of 299 elements" eval-comment="" time="0.046" mem="8036352"/>
+      <test id="33" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="44482560"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="43540480"/>
+      <test id="35" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="31133696"/>
+      <test id="36" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="34701312"/>
+    </results>
+  </testing>
+</testing-report>

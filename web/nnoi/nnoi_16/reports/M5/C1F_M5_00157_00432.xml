@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="60" max="100" outcome="accepted" gtid="20200229134744043102873999">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="C1F" time-limit="4000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.062" mem="7753728"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;4&quot;" eval-comment="" time="0.046" mem="7696384"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;248405627&quot;" eval-comment="" time="0.062" mem="7720960"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '57224251', found: '75437469'" eval-comment="" time="0.062" mem="7835648"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;1029827528&quot;" eval-comment="" time="0.031" mem="7761920"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;568946711&quot;" eval-comment="" time="0.062" mem="7925760"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;3725533918&quot;" eval-comment="" time="0.046" mem="7847936"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '870298728', found: '1213695526'" eval-comment="" time="0.046" mem="7819264"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;9559520757&quot;" eval-comment="" time="0.078" mem="7806976"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;5241784956&quot;" eval-comment="" time="0.078" mem="7798784"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '0', found: '8'" eval-comment="" time="0.140" mem="17231872"/>
+      <test id="12" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;2219027721&quot;" eval-comment="" time="4.000" mem="61390848"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;333274445055555&quot;" eval-comment="" time="2.515" mem="33013760"/>
+      <test id="14" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.046" mem="28004352"/>
+      <test id="15" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.046" mem="46166016"/>
+      <test id="16" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;399917000200003&quot;" eval-comment="" time="3.046" mem="37920768"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="71888896"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="55517184"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="76615680"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;4413671696&quot;" eval-comment="" time="3.296" mem="50634752"/>
+      <test id="21" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;4836769182&quot;" eval-comment="" time="3.203" mem="46395392"/>
+      <test id="22" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;2805708125&quot;" eval-comment="" time="2.500" mem="34910208"/>
+    </results>
+  </testing>
+</testing-report>

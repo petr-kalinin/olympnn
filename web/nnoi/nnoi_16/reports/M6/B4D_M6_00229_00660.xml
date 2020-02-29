@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="6" max="100" outcome="accepted" gtid="20200229145939065909294028">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="B4D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="5 changes used while maximum allowed is 1" eval-comment="" time="0.078" mem="10317824"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="No solution" eval-comment="" time="0.078" mem="10326016"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.093" mem="10317824"/>
+      <test id="4" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.078" mem="10280960"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="10293248"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="10309632"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="string contains 7 elements instead of 13 elements" eval-comment="" time="0.093" mem="10289152"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="string contains 6 elements instead of 14 elements" eval-comment="" time="0.078" mem="10297344"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="10321920"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="Answer: 3" eval-comment="" time="0.078" mem="10313728"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="string contains 7 elements instead of 12 elements" eval-comment="" time="0.109" mem="10317824"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="string contains 15 elements instead of 16 elements" eval-comment="" time="0.062" mem="10321920"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="string contains 15 elements instead of 16 elements" eval-comment="" time="0.078" mem="10313728"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="string contains 9 elements instead of 12 elements" eval-comment="" time="0.062" mem="10317824"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="string contains 17 elements instead of 16 elements" eval-comment="" time="0.078" mem="10276864"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="10321920"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="string contains 11 elements instead of 14 elements" eval-comment="" time="0.093" mem="10289152"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="No solution" eval-comment="" time="0.078" mem="10330112"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.093" mem="10330112"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="10317824"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="string contains 24 elements instead of 20 elements" eval-comment="" time="0.109" mem="10326016"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="string contains 12 elements instead of 20 elements" eval-comment="" time="0.078" mem="10326016"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.125" mem="10297344"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.093" mem="10309632"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="10334208"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.140" mem="10330112"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="10326016"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.109" mem="10313728"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="string contains 977 elements instead of 300 elements" eval-comment="" time="0.109" mem="10309632"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="string contains 15 elements instead of 300 elements" eval-comment="" time="0.078" mem="10305536"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better answer: 8010, participant answer: 9806" eval-comment="" time="0.109" mem="10293248"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.109" mem="10305536"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="10321920"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.093" mem="10326016"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="4" comment="string contains 146 elements instead of 65 elements" eval-comment="" time="0.078" mem="10326016"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="4" comment="string contains 134 elements instead of 96 elements" eval-comment="" time="0.109" mem="10321920"/>
+    </results>
+  </testing>
+</testing-report>

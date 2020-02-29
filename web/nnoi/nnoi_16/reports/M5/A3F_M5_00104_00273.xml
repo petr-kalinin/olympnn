@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="70" max="100" outcome="accepted" gtid="20200229125420027221112690">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="A3F" time-limit="4000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.062" mem="8065024"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;4&quot;" eval-comment="" time="0.062" mem="8024064"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '248405627', found: '330614678'" eval-comment="" time="0.046" mem="8044544"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '57224251', found: '264653680'" eval-comment="" time="0.046" mem="8167424"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;1029827528&quot;" eval-comment="" time="0.046" mem="8261632"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;568946711&quot;" eval-comment="" time="0.078" mem="8290304"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '3725533918', found: '3862935046'" eval-comment="" time="0.078" mem="8294400"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '870298728', found: '1213695526'" eval-comment="" time="0.062" mem="8282112"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;9559520757&quot;" eval-comment="" time="0.078" mem="8290304"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;5241784956&quot;" eval-comment="" time="0.062" mem="8273920"/>
+      <test id="11" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.062" mem="22454272"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '2219027721', found: '2608598765'" eval-comment="" time="3.171" mem="106737664"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;333274445055555&quot;" eval-comment="" time="1.718" mem="97509376"/>
+      <test id="14" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;0&quot;" eval-comment="" time="1.765" mem="90591232"/>
+      <test id="15" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;999800003&quot;" eval-comment="" time="1.796" mem="105254912"/>
+      <test id="16" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;399917000200003&quot;" eval-comment="" time="1.984" mem="109322240"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;2&quot;" eval-comment="" time="1.828" mem="123158528"/>
+      <test id="18" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;100003&quot;" eval-comment="" time="1.906" mem="106143744"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '686549282', found: '978865914'" eval-comment="" time="2.781" mem="105459712"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;4413671696&quot;" eval-comment="" time="3.296" mem="110460928"/>
+      <test id="21" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;4836769182&quot;" eval-comment="" time="3.500" mem="112984064"/>
+      <test id="22" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;2805708125&quot;" eval-comment="" time="3.015" mem="102637568"/>
+    </results>
+  </testing>
+</testing-report>

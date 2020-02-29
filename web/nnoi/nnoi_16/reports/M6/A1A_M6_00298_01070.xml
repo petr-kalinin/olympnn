@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="6" max="100" outcome="accepted" gtid="20200229160821107072791126">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="A1A" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx: In function 'bool is_correct(std::__cxx11::string)':&#13;&#10;sol.cxx:22:1: warning: control reaches end of non-void function [-Wreturn-type]&#13;&#10; }&#13;&#10; ^&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Answer: 45" eval-comment="" time="0.078" mem="8065024"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="incorrect string format: consecutive ++" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="0" comment="incorrect string format: consecutive ++" eval-comment="" time="0.078" mem="8024064"/>
+      <test id="4" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="8011776"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.359" mem="264519680"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="incorrect string format: leading 0" eval-comment="" time="0.062" mem="8028160"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="incorrect string format: leading 0" eval-comment="" time="0.078" mem="8019968"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="8019968"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="Answer: 3" eval-comment="" time="0.078" mem="8019968"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="incorrect string format: leading 0" eval-comment="" time="0.078" mem="8028160"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 10, participant answer: 99999999" eval-comment="" time="0.046" mem="8036352"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="8032256"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="8003584"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.031" mem="8015872"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="8003584"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="incorrect string format: leading 0" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="No solution" eval-comment="" time="0.046" mem="8036352"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="8024064"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.046" mem="8015872"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.093" mem="8036352"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="incorrect string format: consecutive ++" eval-comment="" time="0.062" mem="8036352"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="8032256"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.046" mem="8040448"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 31037559621378900463915434902735771" eval-comment="" time="0.062" mem="8024064"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 5197892206, while N is: 180524" eval-comment="" time="0.062" mem="8052736"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="incorrect string format: consecutive ++" eval-comment="" time="0.078" mem="8122368"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.062" mem="8224768"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 9999999999999999999" eval-comment="" time="0.062" mem="8196096"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="incorrect string format: leading 0" eval-comment="" time="0.062" mem="8220672"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="incorrect string format: consecutive ++" eval-comment="" time="0.046" mem="8204288"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="8204288"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.062" mem="8134656"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="incorrect string format: consecutive ++" eval-comment="" time="0.062" mem="8101888"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="4" comment="incorrect string format: consecutive ++" eval-comment="" time="0.062" mem="8052736"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="4" comment="incorrect string format: leading 0" eval-comment="" time="0.062" mem="8052736"/>
+    </results>
+  </testing>
+</testing-report>

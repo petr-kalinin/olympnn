@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200229155029092626853992">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="G1P" time-limit="4000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.046" mem="8069120"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.062" mem="8028160"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="8019968"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.062" mem="8040448"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="8077312"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="8077312"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="8089600"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.062" mem="8089600"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.062" mem="8065024"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.062" mem="8097792"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.984" mem="20832256"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="2.578" mem="28934144"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="29835264"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="1.875" mem="16244736"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="2.171" mem="26726400"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.046" mem="34304000"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="4.062" mem="38490112"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="2.250" mem="29208576"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="2.437" mem="27033600"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="2.640" mem="33562624"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="2.718" mem="35958784"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="2.390" mem="30945280"/>
+    </results>
+  </testing>
+</testing-report>

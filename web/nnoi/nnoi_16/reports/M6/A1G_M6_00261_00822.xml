@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="25" max="100" outcome="accepted" gtid="20200229153122082172078500">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="A1G" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Answer: 45" eval-comment="" time="0.093" mem="10289152"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="No solution" eval-comment="" time="0.109" mem="10289152"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.093" mem="10280960"/>
+      <test id="4" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.078" mem="10268672"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.093" mem="10334208"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="Answer: 0" eval-comment="" time="0.093" mem="10293248"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="string contains 5 elements instead of 13 elements" eval-comment="" time="0.062" mem="10313728"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="string contains 3 elements instead of 14 elements" eval-comment="" time="0.078" mem="10264576"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="10330112"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="Answer: 3" eval-comment="" time="0.093" mem="10289152"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="string contains 3 elements instead of 12 elements" eval-comment="" time="0.078" mem="10272768"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="Answer: 10" eval-comment="" time="0.078" mem="10301440"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="Answer: 10" eval-comment="" time="0.078" mem="10809344"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="string contains 11 elements instead of 12 elements" eval-comment="" time="0.125" mem="10309632"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 12, participant answer: 13" eval-comment="" time="0.078" mem="10293248"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="Jury has better answer: 56, participant answer: 68" eval-comment="" time="0.078" mem="10289152"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="string contains 11 elements instead of 14 elements" eval-comment="" time="0.093" mem="10326016"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="No solution" eval-comment="" time="0.078" mem="10313728"/>
+      <test id="19" outcome="accepted" points="3" max-points="3" comment="Answer: 7" eval-comment="" time="0.093" mem="10313728"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="10293248"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 10, participant answer: 19" eval-comment="" time="0.093" mem="10289152"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="string contains 9 elements instead of 20 elements" eval-comment="" time="0.078" mem="10293248"/>
+      <test id="23" outcome="accepted" points="4" max-points="4" comment="Answer: 65" eval-comment="" time="0.062" mem="10301440"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.109" mem="10309632"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="string contains 54 elements instead of 55 elements" eval-comment="" time="0.109" mem="10346496"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="10338304"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="10276864"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.109" mem="10289152"/>
+      <test id="29" outcome="accepted" points="4" max-points="4" comment="Answer: 10" eval-comment="" time="0.093" mem="10293248"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="string contains 3 elements instead of 300 elements" eval-comment="" time="0.093" mem="10313728"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="string contains 298 elements instead of 299 elements" eval-comment="" time="0.109" mem="10293248"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="10301440"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.093" mem="10280960"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.093" mem="10297344"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="4" comment="string contains 64 elements instead of 65 elements" eval-comment="" time="0.046" mem="10293248"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="4" comment="string contains 89 elements instead of 96 elements" eval-comment="" time="0.078" mem="10305536"/>
+    </results>
+  </testing>
+</testing-report>

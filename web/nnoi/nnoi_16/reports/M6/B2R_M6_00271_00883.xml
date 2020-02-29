@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="5" max="100" outcome="accepted" gtid="20200229154113088256104737">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="B2R" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Answer: 45" eval-comment="" time="0.046" mem="7704576"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="No solution" eval-comment="" time="0.031" mem="7716864"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="0" comment="Too big sum: 12, while N is: 10" eval-comment="" time="0.062" mem="7700480"/>
+      <test id="4" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.046" mem="7737344"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="Too big sum: 31, while N is: 10" eval-comment="" time="0.062" mem="7700480"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="Answer: 0" eval-comment="" time="0.062" mem="7696384"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="incorrect string format: leading 0" eval-comment="" time="0.078" mem="7684096"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="string contains 15 elements instead of 14 elements" eval-comment="" time="0.031" mem="7667712"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 99, while N is: 0" eval-comment="" time="0.046" mem="7708672"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="Answer: 3" eval-comment="" time="0.062" mem="7725056"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="string contains 13 elements instead of 12 elements" eval-comment="" time="0.046" mem="7704576"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="string contains 17 elements instead of 16 elements" eval-comment="" time="0.046" mem="7704576"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="string contains 17 elements instead of 16 elements" eval-comment="" time="0.015" mem="7725056"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="string contains 13 elements instead of 12 elements" eval-comment="" time="0.062" mem="7634944"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="string contains 17 elements instead of 16 elements" eval-comment="" time="0.046" mem="7692288"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="Too big integer used: 689696, while N is: 199" eval-comment="" time="0.062" mem="7696384"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="string contains 15 elements instead of 14 elements" eval-comment="" time="0.031" mem="7696384"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="string contains 17 elements instead of 16 elements" eval-comment="" time="0.031" mem="7700480"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 380, while N is: 25" eval-comment="" time="0.062" mem="7708672"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="string contains 15 elements instead of 14 elements" eval-comment="" time="0.062" mem="7688192"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="string contains 21 elements instead of 20 elements" eval-comment="" time="0.062" mem="7733248"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="string contains 21 elements instead of 20 elements" eval-comment="" time="0.031" mem="7729152"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Too big sum: 272, while N is: 202" eval-comment="" time="0.046" mem="7729152"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="string contains 44 elements instead of 42 elements" eval-comment="" time="0.062" mem="7737344"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Too big integer used: 31037559621378900" eval-comment="" time="0.046" mem="7700480"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="string contains 96 elements instead of 95 elements" eval-comment="" time="0.062" mem="7741440"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="string contains 192 elements instead of 188 elements" eval-comment="" time="0.062" mem="7704576"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 444444444444444444444444444444444444444444444444444444444444444444444444444444" eval-comment="" time="0.031" mem="7704576"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="string contains 301 elements instead of 300 elements" eval-comment="" time="0.031" mem="7675904"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="4" comment="string contains 301 elements instead of 300 elements" eval-comment="" time="0.078" mem="7733248"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better answer: 8010, participant answer: 9806" eval-comment="" time="0.046" mem="7700480"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="4" comment="Too big sum: 1000, while N is: 300" eval-comment="" time="0.062" mem="7692288"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="string contains 239 elements instead of 219 elements" eval-comment="" time="0.078" mem="7696384"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="string contains 152 elements instead of 149 elements" eval-comment="" time="0.062" mem="7655424"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="4" comment="Too big integer used: 1270632649, while N is: 542498" eval-comment="" time="0.078" mem="7700480"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="4" comment="string contains 98 elements instead of 96 elements" eval-comment="" time="0.062" mem="7729152"/>
+    </results>
+  </testing>
+</testing-report>

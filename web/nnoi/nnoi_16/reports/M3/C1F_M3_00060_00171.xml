@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200229121002017049891367">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="C1F" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="1st lines differ - expected: 'YES', found: '5 1172'" eval-comment="" time="0.046" mem="7770112"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000374" eval-comment="" time="0.046" mem="7561216"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: '4 1489'" eval-comment="" time="0.062" mem="7692288"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000374" eval-comment="" time="0.046" mem="7573504"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000374" eval-comment="" time="0.046" mem="7585792"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: '3 1845'" eval-comment="" time="0.078" mem="7847936"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="1st lines differ - expected: 'NO', found: '2 1013'" eval-comment="" time="0.031" mem="7774208"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000374" eval-comment="" time="0.078" mem="7581696"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="1st lines differ - expected: 'NO', found: '1 295'" eval-comment="" time="0.078" mem="13152256"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="1st lines differ - expected: 'YES', found: '2 749'" eval-comment="" time="0.078" mem="13279232"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: '5 1860'" eval-comment="" time="0.062" mem="13508608"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: '3 1527'" eval-comment="" time="0.109" mem="13484032"/>
+      <test id="13" outcome="security-violation" points="0" max-points="6" comment="Child process" eval-comment="" time="0.109" mem="15237120"/>
+      <test id="14" outcome="security-violation" points="0" max-points="2" comment="Child process" eval-comment="" time="0.125" mem="15187968"/>
+      <test id="15" outcome="security-violation" points="0" max-points="2" comment="Child process" eval-comment="" time="0.125" mem="15233024"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: '3 833'" eval-comment="" time="0.078" mem="12898304"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: '4 1387'" eval-comment="" time="0.062" mem="12926976"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: '4 1064'" eval-comment="" time="0.062" mem="12914688"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: '4 1081'" eval-comment="" time="0.062" mem="12935168"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="1st lines differ - expected: 'NO', found: '7 2781'" eval-comment="" time="0.093" mem="13873152"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: '6 2460'" eval-comment="" time="0.109" mem="14000128"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: '4 1283'" eval-comment="" time="0.078" mem="14139392"/>
+      <test id="23" outcome="security-violation" points="0" max-points="3" comment="Child process" eval-comment="" time="0.078" mem="14151680"/>
+      <test id="24" outcome="security-violation" points="0" max-points="3" comment="Child process" eval-comment="" time="0.078" mem="14352384"/>
+      <test id="25" outcome="security-violation" points="0" max-points="5" comment="Child process" eval-comment="" time="0.156" mem="14876672"/>
+      <test id="26" outcome="security-violation" points="0" max-points="2" comment="Child process" eval-comment="" time="0.093" mem="14004224"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: '3 843'" eval-comment="" time="0.078" mem="13611008"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20200229153507084172983380">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="G1P" time-limit="4000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output="sol.cc: In member function 'bool Path::operator&lt;(const Path&amp;) const':&#13;&#10;sol.cc:13:18: error: base operand of '-&gt;' has non-pointer type 'const Path'&#13;&#10;   return dist &lt; i-&gt;dist;&#13;&#10;                  ^~&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

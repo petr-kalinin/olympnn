@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20200229132612035595242052">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="A1C" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok" eval-comment="" time="0.062" mem="8073216"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="ok" eval-comment="" time="0.062" mem="8024064"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="a_1*...*a_n &lt; K" eval-comment="" time="0.046" mem="7999488"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.031" mem="8003584"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.078" mem="8028160"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="a_1*...*a_n &lt; K" eval-comment="" time="0.093" mem="8818688"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.093" mem="8843264"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.328" mem="265351168"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.296" mem="264544256"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="a_1*...*a_n &lt; K" eval-comment="" time="0.078" mem="8818688"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.281" mem="264527872"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.296" mem="264540160"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.312" mem="264548352"/>
+      <test id="14" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.046" mem="8015872"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="5" comment="jury has better answer" eval-comment="" time="0.046" mem="8024064"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.312" mem="264527872"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.343" mem="264527872"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.375" mem="264470528"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.328" mem="264560640"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.296" mem="264589312"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.328" mem="264536064"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.312" mem="264519680"/>
+    </results>
+  </testing>
+</testing-report>

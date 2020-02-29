@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20200229151210071708623558">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="A2M" time-limit="4000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;sol.cpp(67): error C2146: syntax error: missing ')' before identifier 'and'&#13;&#10;sol.cpp(67): error C2065: 'and': undeclared identifier&#13;&#10;sol.cpp(67): error C2146: syntax error: missing ';' before identifier 'k'&#13;&#10;sol.cpp(67): error C2059: syntax error: ')'&#13;&#10;sol.cpp(69): error C2059: syntax error: ';'&#13;&#10;sol.cpp(89): error C2065: 'max': undeclared identifier&#13;&#10;sol.cpp(89): error C2563: mismatch in formal parameter list&#13;&#10;sol.cpp(89): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int&#13;&#10;sol.cpp(89): error C2365: 'printf': redefinition; previous definition was 'function'&#13;&#10;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\stdio.h(948): note: see declaration of 'printf'&#13;&#10;sol.cpp(90): error C2059: syntax error: 'return'&#13;&#10;sol.cpp(91): error C2059: syntax error: '}'&#13;&#10;sol.cpp(91): error C2143: syntax error: missing ';' before '}'&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

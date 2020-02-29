@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="16" max="100" outcome="accepted" gtid="20200229150645069372690428">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="C3C" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;1&quot;" eval-comment="" time="0.046" mem="8073216"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.078" mem="7929856"/>
+      <test id="3" outcome="accepted" points="2" max-points="2" comment="1 number(s): &quot;15&quot;" eval-comment="" time="0.031" mem="8011776"/>
+      <test id="4" outcome="accepted" points="2" max-points="2" comment="1 number(s): &quot;108&quot;" eval-comment="" time="0.093" mem="7987200"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '839790', found: '811164'" eval-comment="" time="0.062" mem="8908800"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '9753201', found: '9850546'" eval-comment="" time="0.093" mem="53637120"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '8', found: '28'" eval-comment="" time="0.046" mem="8019968"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '1048', found: '0'" eval-comment="" time="0.078" mem="8069120"/>
+      <test id="9" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="18104320"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="1 number(s): &quot;35883976&quot;" eval-comment="" time="0.093" mem="8318976"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="1 number(s): &quot;244&quot;" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="8019968"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="8019968"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '2662', found: '2034'" eval-comment="" time="0.031" mem="8065024"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '15309118', found: '23548923'" eval-comment="" time="0.109" mem="20492288"/>
+      <test id="16" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.250" mem="275230720"/>
+      <test id="17" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.281" mem="275341312"/>
+      <test id="18" outcome="memory-limit-exceeded" points="0" max-points="4" comment="Memory limit exceeded" eval-comment="" time="0.281" mem="275349504"/>
+      <test id="19" outcome="memory-limit-exceeded" points="0" max-points="4" comment="Memory limit exceeded" eval-comment="" time="0.250" mem="275341312"/>
+      <test id="20" outcome="memory-limit-exceeded" points="0" max-points="4" comment="Memory limit exceeded" eval-comment="" time="0.281" mem="275517440"/>
+      <test id="21" outcome="memory-limit-exceeded" points="0" max-points="4" comment="Memory limit exceeded" eval-comment="" time="0.250" mem="275501056"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.156" mem="9023488"/>
+      <test id="23" outcome="memory-limit-exceeded" points="0" max-points="4" comment="Memory limit exceeded" eval-comment="" time="0.250" mem="275521536"/>
+      <test id="24" outcome="accepted" points="4" max-points="4" comment="1 number(s): &quot;14&quot;" eval-comment="" time="0.062" mem="8269824"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '75897360', found: '0'" eval-comment="" time="0.203" mem="107069440"/>
+      <test id="26" outcome="memory-limit-exceeded" points="0" max-points="4" comment="Memory limit exceeded" eval-comment="" time="0.250" mem="275386368"/>
+      <test id="27" outcome="memory-limit-exceeded" points="0" max-points="4" comment="Memory limit exceeded" eval-comment="" time="0.187" mem="275542016"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="8400896"/>
+      <test id="29" outcome="memory-limit-exceeded" points="0" max-points="4" comment="Memory limit exceeded" eval-comment="" time="0.250" mem="275304448"/>
+      <test id="30" outcome="memory-limit-exceeded" points="0" max-points="4" comment="Memory limit exceeded" eval-comment="" time="0.265" mem="275423232"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.187" mem="9187328"/>
+    </results>
+  </testing>
+</testing-report>

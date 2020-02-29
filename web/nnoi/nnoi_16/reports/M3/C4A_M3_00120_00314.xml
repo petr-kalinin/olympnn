@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200229131056031384562370">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="C4A" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="1st lines differ - expected: 'YES', found: 'YESNONOYES'" eval-comment="" time="0.078" mem="7774208"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: 'NONOYESNONONO'" eval-comment="" time="0.078" mem="7712768"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: 'NOYES'" eval-comment="" time="0.062" mem="7757824"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="1st lines differ - expected: 'NO', found: 'YESNOYESNONONONONONONOYESNONON...YESNONOYESYESNONONONOYES" eval-comment="" time="0.046" mem="7757824"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="1st lines differ - expected: 'NO', found: 'NOYESYESNOYESYESYESNOYESYESNOY...YESNONONOYESNOYESYESNOYE" eval-comment="" time="0.062" mem="7766016"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: 'NOYESYESYESNOYESYESYESNOYESYES...SYESYESNOYESYESNOYESYESY" eval-comment="" time="0.062" mem="7864320"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="1st lines differ - expected: 'NO', found: 'NOYESNOYESNOYESNOYESNOYESNOYES...SYESYESYESYESYESYESYESYE" eval-comment="" time="0.062" mem="7725056"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="1st lines differ - expected: 'NO', found: 'NONONONONONONONONONONONONONONO...SYESYESYESYESYESYESYESYE" eval-comment="" time="0.062" mem="7753728"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="1st lines differ - expected: 'NO', found: 'NONONONONONONONONOYESNONONONON...SYESYESYESYESYESYESYESYE" eval-comment="" time="0.046" mem="7712768"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="1st lines differ - expected: 'YES', found: 'YESNONONOYESNONONONONONONONONO...SYESYESYESYESYESYESYESY" eval-comment="" time="0.078" mem="7757824"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: 'NOYESYESYESNOYESYESNOYESYESYES...ESYESYESNOYESYESYESNOYES" eval-comment="" time="0.062" mem="7774208"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: 'NOYESYESNOYESYESNOYESYESNOYESY...OYESYESNOYESYESNOYESYESN" eval-comment="" time="0.078" mem="7778304"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: 'NOYESYESYESNOYESYESNOYESYESNOY...OYESYESNONOYESNOYESYESNO" eval-comment="" time="0.062" mem="7901184"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: 'NOYESYESYESNOYESYESYESNOYESYES...OYESNOYESYESYESNOYESYESY" eval-comment="" time="0.078" mem="7823360"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: 'NOYESYESNOYESYESYESNOYESYESYES...SYESNOYESYESYESNOYESYESY" eval-comment="" time="0.078" mem="7827456"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: 'NOYESNOYESNONONOYESYES'" eval-comment="" time="0.031" mem="7712768"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: 'NOYESNOYESNOYESNONOYESYESNOYES'" eval-comment="" time="0.046" mem="7733248"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: 'NOYESNOYESNOYESNOYESNOYES'" eval-comment="" time="0.062" mem="7749632"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'NO', found: 'NOYES'" eval-comment="" time="0.031" mem="7696384"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="1st lines differ - expected: 'NO', found: 'NONONONONONONONONONONONONONONO...ONONOYESNONONONONONONOYE" eval-comment="" time="0.078" mem="7749632"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: 'NONONONONONONONONOYESNONONONON...ONONONONONONONONONONONON" eval-comment="" time="0.078" mem="7794688"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: 'NONONONONONONONONONONONONONONO...ONONONONONONONONONONONON" eval-comment="" time="0.109" mem="7827456"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="1st lines differ - expected: 'NO', found: 'NONONONONONONONONONONONONONONO...OYESNOYESNOYESYESNONONON" eval-comment="" time="0.078" mem="7700480"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="1st lines differ - expected: 'NO', found: 'NOYESYESYESNOYESYESNOYESYESNOY...SYESYESNOYESYESNOYESYESY" eval-comment="" time="0.062" mem="7729152"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="5" comment="1st lines differ - expected: 'NO', found: 'NOYESNOYESNOYESNOYESNOYESNOYES...ESYESYESYESYESYESYESYESN" eval-comment="" time="0.062" mem="7786496"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="2" comment="1st lines differ - expected: 'YES', found: 'YESNONONONONONO'" eval-comment="" time="0.031" mem="7720960"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="6" comment="1st lines differ - expected: 'NO', found: 'NONONONONONONONOYESNONONOYESNO...SYESYESYESYESYESYESYESYE" eval-comment="" time="0.062" mem="7745536"/>
+    </results>
+  </testing>
+</testing-report>

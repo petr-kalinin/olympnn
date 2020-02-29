@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="15" max="100" outcome="accepted" gtid="20200229155529095298061863">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="C5D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="Answer: 45" eval-comment="" time="0.093" mem="24117248"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="No solution" eval-comment="" time="0.093" mem="24133632"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.109" mem="24125440"/>
+      <test id="4" outcome="accepted" points="0" max-points="0" comment="Answer: 4" eval-comment="" time="0.125" mem="24125440"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="incorrect string format: leading 0" eval-comment="" time="0.109" mem="24096768"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="Answer: 0" eval-comment="" time="0.125" mem="24125440"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="incorrect string format: leading 0" eval-comment="" time="0.109" mem="24100864"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="incorrect string format: leading 0" eval-comment="" time="0.109" mem="24104960"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.171" mem="26333184"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="Answer: 3" eval-comment="" time="0.109" mem="24100864"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="incorrect string format: leading 0" eval-comment="" time="0.093" mem="24104960"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="incorrect string format: leading 0" eval-comment="" time="0.156" mem="24113152"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 10, participant answer: 31" eval-comment="" time="0.062" mem="24121344"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.156" mem="26341376"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 12, participant answer: 46" eval-comment="" time="0.125" mem="24129536"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="Jury has better answer: 56, participant answer: 96" eval-comment="" time="0.109" mem="24109056"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="2" comment="incorrect string format: leading 0" eval-comment="" time="0.109" mem="24092672"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="No solution" eval-comment="" time="0.109" mem="24084480"/>
+      <test id="19" outcome="accepted" points="3" max-points="3" comment="Answer: 7" eval-comment="" time="0.093" mem="24072192"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="2" comment="Jury has answer, but participant does not" eval-comment="" time="0.156" mem="24129536"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="incorrect string format: leading 0" eval-comment="" time="0.125" mem="24121344"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="incorrect string format: leading 0" eval-comment="" time="0.125" mem="24100864"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.125" mem="24100864"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.093" mem="24076288"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="incorrect string format: leading 0" eval-comment="" time="0.109" mem="24104960"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.125" mem="24104960"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Jury has answer, but participant does not" eval-comment="" time="0.078" mem="24113152"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.156" mem="26025984"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="4" comment="incorrect string format: leading 0" eval-comment="" time="0.140" mem="26021888"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.140" mem="26374144"/>
+      <test id="31" outcome="accepted" points="4" max-points="4" comment="Answer: 8010" eval-comment="" time="0.093" mem="24117248"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.125" mem="26341376"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.125" mem="25501696"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="Jury has answer, but participant does not" eval-comment="" time="0.109" mem="24117248"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="4" comment="incorrect string format: leading 0" eval-comment="" time="0.093" mem="24125440"/>
+      <test id="36" outcome="wrong-answer" points="0" max-points="4" comment="incorrect string format: leading 0" eval-comment="" time="0.109" mem="24092672"/>
+    </results>
+  </testing>
+</testing-report>

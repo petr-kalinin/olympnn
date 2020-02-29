@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="60" max="100" outcome="accepted" gtid="20200229133828040073015136">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="B2O" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="In file included from c:\mingw\lib\gcc\mingw32\8.2.0\include\c++\backward\strstream:50,&#13;&#10;                 from sol.cxx:2:&#13;&#10;c:\mingw\lib\gcc\mingw32\8.2.0\include\c++\backward\backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header which may be removed without further notice at a future date. Please use a non-deprecated interface with equivalent functionality instead. For a listing of replacement headers and interfaces, consult the file backward_warning.h. To disable this warning use -Wno-deprecated. [-Wcpp]&#13;&#10; #warning \&#13;&#10;  ^~~~~~~&#13;&#10;sol.cxx: In function 'll binpow(int, int)':&#13;&#10;sol.cxx:25:1: warning: control reaches end of non-void function [-Wreturn-type]&#13;&#10; }&#13;&#10; ^&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok" eval-comment="" time="0.062" mem="8097792"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="ok" eval-comment="" time="0.046" mem="8028160"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.093" mem="8028160"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.093" mem="8015872"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.046" mem="8019968"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.109" mem="8024064"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.078" mem="8024064"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.093" mem="8015872"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="a_1*...*a_n &lt; K" eval-comment="" time="0.031" mem="8015872"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.078" mem="8024064"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="jury has better answer" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="jury has better answer" eval-comment="" time="0.046" mem="8019968"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.093" mem="7970816"/>
+      <test id="14" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.062" mem="7983104"/>
+      <test id="15" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="jury has better answer" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="jury has better answer" eval-comment="" time="0.062" mem="8032256"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="jury has better answer" eval-comment="" time="0.078" mem="8019968"/>
+      <test id="19" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.062" mem="8036352"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="ok" eval-comment="" time="0.093" mem="8024064"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="a_1*...*a_n &lt; K" eval-comment="" time="0.078" mem="8024064"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="5" comment="a_1*...*a_n &lt; K" eval-comment="" time="0.078" mem="8011776"/>
+    </results>
+  </testing>
+</testing-report>

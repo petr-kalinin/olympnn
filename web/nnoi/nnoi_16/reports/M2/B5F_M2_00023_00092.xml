@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20200229113305009102543176">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="B5F" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../libmingw32.a(main.o):(.text.startup+0xc0): undefined reference to `WinMain@16'&#13;&#10;collect2.exe: error: ld returned 1 exit status&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

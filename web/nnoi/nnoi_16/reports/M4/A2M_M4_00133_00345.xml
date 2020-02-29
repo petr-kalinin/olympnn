@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20200229132402034410160550">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="A2M" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vector(664): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vector(659): note: while compiling class template member function 'std::vector&lt;int,std::allocator&lt;_Ty&gt;&gt;::vector(const unsigned __int64,const _Alloc &amp;)'&#13;&#10;        with&#13;&#10;        [&#13;&#10;            _Ty=int,&#13;&#10;            _Alloc=std::allocator&lt;int&gt;&#13;&#10;        ]&#13;&#10;sol.cpp(36): note: see reference to function template instantiation 'std::vector&lt;int,std::allocator&lt;_Ty&gt;&gt;::vector(const unsigned __int64,const _Alloc &amp;)' being compiled&#13;&#10;        with&#13;&#10;        [&#13;&#10;            _Ty=int,&#13;&#10;            _Alloc=std::allocator&lt;int&gt;&#13;&#10;        ]&#13;&#10;sol.cpp(15): note: see reference to class template instantiation 'std::vector&lt;int,std::allocator&lt;_Ty&gt;&gt;' being compiled&#13;&#10;        with&#13;&#10;        [&#13;&#10;            _Ty=int&#13;&#10;        ]&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="1st numbers differ - expected: '1', found: '2'" eval-comment="" time="0.031" mem="7729152"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '0', found: '1'" eval-comment="" time="0.046" mem="7692288"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '15', found: '6'" eval-comment="" time="0.031" mem="7696384"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '108', found: '18'" eval-comment="" time="0.046" mem="7704576"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '839790', found: '917'" eval-comment="" time="0.078" mem="7815168"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '9753201', found: '3103'" eval-comment="" time="0.171" mem="8118272"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.046" mem="8577024"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '1048', found: '73'" eval-comment="" time="0.109" mem="8163328"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '662566204', found: '81044'" eval-comment="" time="0.109" mem="8515584"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '35883976', found: '6052'" eval-comment="" time="0.046" mem="8126464"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '244', found: '14'" eval-comment="" time="0.031" mem="7700480"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.031" mem="8560640"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="1st numbers differ - expected: '96266', found: '796'" eval-comment="" time="0.062" mem="7737344"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.046" mem="8564736"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.046" mem="8646656"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.109" mem="9412608"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.078" mem="9383936"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.093" mem="9379840"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.093" mem="9388032"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.093" mem="9396224"/>
+      <test id="21" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.062" mem="9146368"/>
+      <test id="22" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.093" mem="9379840"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.093" mem="9232384"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.046" mem="8572928"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.078" mem="8691712"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.062" mem="9306112"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.031" mem="8650752"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.093" mem="8650752"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.078" mem="9383936"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.078" mem="9265152"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="4" comment="Runtime error 0xC00000FD (STATUS_STACK_OVERFLOW)" eval-comment="" time="0.109" mem="9396224"/>
+    </results>
+  </testing>
+</testing-report>

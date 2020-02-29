@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20200229130736030920873258">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="A3E" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx: In function 'int main()':&#13;&#10;sol.cxx:60:12: error: 'booL' was not declared in this scope&#13;&#10;     vector&lt;booL&gt; was(n);&#13;&#10;            ^~~~&#13;&#10;sol.cxx:60:12: note: suggested alternative: 'bool'&#13;&#10;     vector&lt;booL&gt; was(n);&#13;&#10;            ^~~~&#13;&#10;            bool&#13;&#10;sol.cxx:60:16: error: template argument 1 is invalid&#13;&#10;     vector&lt;booL&gt; was(n);&#13;&#10;                ^&#13;&#10;sol.cxx:60:16: error: template argument 2 is invalid&#13;&#10;sol.cxx:67:50: error: invalid types 'int[int]' for array subscript&#13;&#10;             if (curr[ind][pos].s != 1 &amp;&amp; !was[ind]){&#13;&#10;                                                  ^&#13;&#10;sol.cxx:71:20: error: invalid types 'int[int]' for array subscript&#13;&#10;             was[ind] = true;&#13;&#10;                    ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

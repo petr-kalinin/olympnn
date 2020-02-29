@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="5" max="100" outcome="accepted" gtid="20200229154914091989955249">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="C4A" time-limit="4000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;0&quot;" eval-comment="" time="0.046" mem="7757824"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;4&quot;" eval-comment="" time="0.062" mem="7716864"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '248405627', found: '710428811'" eval-comment="" time="0.062" mem="7725056"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '57224251', found: '75437469'" eval-comment="" time="0.046" mem="7798784"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '1029827528', found: '1545771642'" eval-comment="" time="0.093" mem="8671232"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="1 number(s): &quot;568946711&quot;" eval-comment="" time="0.046" mem="8138752"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '3725533918', found: '-569433378'" eval-comment="" time="0.078" mem="12005376"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '870298728', found: '1213695526'" eval-comment="" time="0.062" mem="9945088"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '9559520757', found: '969586165'" eval-comment="" time="0.093" mem="11984896"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '5241784956', found: '946817660'" eval-comment="" time="0.062" mem="11902976"/>
+      <test id="11" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.171" mem="275513344"/>
+      <test id="12" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.187" mem="275484672"/>
+      <test id="13" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.187" mem="275144704"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '0', found: '259360845'" eval-comment="" time="2.156" mem="15298560"/>
+      <test id="15" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.171" mem="275476480"/>
+      <test id="16" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.187" mem="275566592"/>
+      <test id="17" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.187" mem="275513344"/>
+      <test id="18" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.203" mem="275476480"/>
+      <test id="19" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.156" mem="275415040"/>
+      <test id="20" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.203" mem="274501632"/>
+      <test id="21" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.171" mem="275533824"/>
+      <test id="22" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.187" mem="274526208"/>
+    </results>
+  </testing>
+</testing-report>
