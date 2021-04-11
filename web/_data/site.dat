@@ -161,6 +161,11 @@
     Результаты=results.php
     Архив=archive/index.php
   }
+  NNOI XVII={
+    _dir=nnoi_17/
+    _index=index.php
+    Порядок=general.php
+  }
   Книга={
     _dir=../book/
     _index=index.php

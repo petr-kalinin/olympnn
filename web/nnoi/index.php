@@ -43,6 +43,8 @@ startonn("/Город","Нижегородские городские олимпиады школьников по информатике")
 <li><a href="/nnoi/nnoi_13/index.php">XIII олимпиада им. В.&nbsp;Д. Лелюха, 18 февраля 2017 г.</a></li>
 <li><a href="/nnoi/nnoi_14/index.php">XIV олимпиада им. В.&nbsp;Д. Лелюха, 17 февраля 2018 г.</a></li>
 <li><a href="/nnoi/nnoi_15/index.php">XV олимпиада им. В.&nbsp;Д. Лелюха, 9 февраля 2019 г.</a></li>
+<li><a href="/nnoi/nnoi_16/index.php">XVI олимпиада им. В.&nbsp;Д. Лелюха, 29 февраля 2020 г.</a></li>
+<li><a href="/nnoi/nnoi_17/index.php">XVII олимпиада им. В.&nbsp;Д. Лелюха, 15 мая 2021 г.</a></li>
 </ul>
 <h1>Книга</h1>
 <ul>
