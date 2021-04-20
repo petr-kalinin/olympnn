@@ -22,13 +22,13 @@ XVII Нижегородская олимпиада школьников по информатике им. В.&nbsp;Д. Лелюха сос
 <li><a href="org.php">Авторы задач</a></li> 
 <li><a href="results.php">Результаты</a></li>
 <li><a href="archive/index.php">Архив</a></li>
-</ul>
+</ul>*/?>
 <h2>Отбор</h2>
 <ul>
 <li><a href="zaoch.php">Информация о рассмотрении заявок на участие</a></li>
 </li>
 </ul>
-<ul>
+<?php /*<ul>
 <li><a href="zaoch/nnoi2020_zaoch_statements.pdf">Условия отборочного тура</a></li>
 <li><a href="zaoch/results.php">Результаты отборочного тура</a></li>
 <li><a href="zaoch/tests.7z">Тесты к отборочному туру</a></li>

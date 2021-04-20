@@ -165,6 +165,7 @@
     _dir=nnoi_17/
     _index=index.php
     Порядок=general.php
+    Заявки=zaoch.php
   }
   Книга={
     _dir=../book/
