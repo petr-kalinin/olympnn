@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20210424150234018593934640">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="C79" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=5: 13" eval-comment="" time="0.078" mem="11378688"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="10" comment="N=1: 10 вместо 0" eval-comment="" time="0.109" mem="11370496"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.078" mem="11436032"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="10" comment="N=4: 28 вместо 19" eval-comment="" time="0.109" mem="11378688"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="N=4: 22 вместо 11" eval-comment="" time="0.093" mem="11386880"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="N=20: 86 вместо 73" eval-comment="" time="0.093" mem="11444224"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="10" comment="N=100: 2711 вместо 2225" eval-comment="" time="0.062" mem="11411456"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="N=1000: 238471 вместо 200999" eval-comment="" time="0.093" mem="11419648"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="N=10000: 24633728 вместо 20483135" eval-comment="" time="0.109" mem="12066816"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="N=30000: 74989426 вместо 61955661" eval-comment="" time="0.187" mem="13893632"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="10" comment="N=30000: 137445554 вместо 109380442" eval-comment="" time="0.140" mem="13611008"/>
+    </results>
+  </testing>
+</testing-report>

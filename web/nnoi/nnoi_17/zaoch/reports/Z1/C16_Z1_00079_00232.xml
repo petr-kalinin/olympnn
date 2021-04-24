@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="16" max="100" outcome="accepted" gtid="20210424151910023112766982">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="C16" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.062" mem="24055808"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="8" comment="Non-optimal solution" eval-comment="" time="0.125" mem="23961600"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="8" comment="Not enough cabbage" eval-comment="" time="0.093" mem="24006656"/>
+      <test id="4" outcome="accepted" points="8" max-points="8" comment="" eval-comment="" time="0.156" mem="24018944"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="8" comment="Not enough apples" eval-comment="" time="0.125" mem="23994368"/>
+      <test id="6" outcome="accepted" points="8" max-points="8" comment="" eval-comment="" time="0.125" mem="23953408"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="12" comment="Not enough apples" eval-comment="" time="0.109" mem="23949312"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="12" comment="Not enough cabbage" eval-comment="" time="0.109" mem="23969792"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="12" comment="Not enough cabbage" eval-comment="" time="0.140" mem="23937024"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="12" comment="Not enough carrots" eval-comment="" time="0.078" mem="23961600"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="12" comment="Not enough apples" eval-comment="" time="0.109" mem="23986176"/>
+    </results>
+  </testing>
+</testing-report>

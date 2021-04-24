@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20210424151524022113836422">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="B81" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=5: 13" eval-comment="" time="0.046" mem="8065024"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="10" comment="N=1: 10 вместо 0" eval-comment="" time="0.046" mem="8003584"/>
+      <test id="3" outcome="accepted" points="10" max-points="10" comment="N=2: 10" eval-comment="" time="0.078" mem="7995392"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="10" comment="N=4: 20 вместо 19" eval-comment="" time="0.046" mem="7995392"/>
+      <test id="5" outcome="accepted" points="10" max-points="10" comment="N=4: 11" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="N=20: 94 вместо 73" eval-comment="" time="0.062" mem="7979008"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="10" comment="N=100: 2637 вместо 2225" eval-comment="" time="0.078" mem="8003584"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="N=1000: 231017 вместо 200999" eval-comment="" time="0.078" mem="7995392"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="N=10000: 23256214 вместо 20483135" eval-comment="" time="0.078" mem="7962624"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="N=30000: 70565990 вместо 61955661" eval-comment="" time="0.062" mem="8101888"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="10" comment="N=30000: 130362233 вместо 109380442" eval-comment="" time="0.078" mem="8126464"/>
+    </results>
+  </testing>
+</testing-report>

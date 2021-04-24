@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20210424154317033040120802">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="D3D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.078" mem="11427840"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.093" mem="11382784"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.125" mem="11415552"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.109" mem="11464704"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.109" mem="11431936"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.093" mem="11399168"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.078" mem="11386880"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="9" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.093" mem="11444224"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="11" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.109" mem="11399168"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="11" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.109" mem="11419648"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="11" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.062" mem="11444224"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="11" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.125" mem="11452416"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="11" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.093" mem="11452416"/>
+    </results>
+  </testing>
+</testing-report>

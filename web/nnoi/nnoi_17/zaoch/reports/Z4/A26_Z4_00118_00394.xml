@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="49" max="100" outcome="accepted" gtid="20210424155854040033726316">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="A26" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="NizhnyNovgorod" eval-comment="" time="0.078" mem="11386880"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="OBJECT" eval-comment="" time="0.062" mem="11403264"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="NOTFOUND" eval-comment="" time="0.078" mem="11419648"/>
+      <test id="4" outcome="accepted" points="9" max-points="9" comment="bar" eval-comment="" time="0.078" mem="11370496"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="9" comment="OBJECT вместо 456" eval-comment="" time="0.078" mem="11403264"/>
+      <test id="6" outcome="accepted" points="9" max-points="9" comment="NOTFOUND" eval-comment="" time="0.078" mem="11411456"/>
+      <test id="7" outcome="accepted" points="9" max-points="9" comment="OBJECT" eval-comment="" time="0.078" mem="11423744"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="9" comment="OBJECT вместо NOTFOUND" eval-comment="" time="0.109" mem="11382784"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="11" comment="OBJECT вместо 567" eval-comment="" time="0.078" mem="11407360"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="11" comment="Extra information in the output file" eval-comment="" time="0.093" mem="11395072"/>
+      <test id="11" outcome="accepted" points="11" max-points="11" comment="3" eval-comment="" time="0.109" mem="11354112"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="11" comment="OBJECT вместо b" eval-comment="" time="0.093" mem="11390976"/>
+      <test id="13" outcome="accepted" points="11" max-points="11" comment="NOTFOUND" eval-comment="" time="0.078" mem="11370496"/>
+    </results>
+  </testing>
+</testing-report>

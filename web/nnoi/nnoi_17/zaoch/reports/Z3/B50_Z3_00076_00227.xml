@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20210424151635022616155553">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="B50" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="23461888"/>
+      <test id="2" outcome="accepted" points="10" max-points="10" comment="N=1: 0" eval-comment="" time="0.109" mem="24072192"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.140" mem="23494656"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.109" mem="23412736"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.078" mem="23412736"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.140" mem="23564288"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.109" mem="23449600"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="23474176"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.109" mem="23490560"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="23408640"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="10" comment="Runtime error 0xE0434352" eval-comment="" time="0.140" mem="23457792"/>
+    </results>
+  </testing>
+</testing-report>

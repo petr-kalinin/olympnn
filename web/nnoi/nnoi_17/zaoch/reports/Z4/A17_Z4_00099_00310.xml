@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="9" max="100" outcome="accepted" gtid="20210424153902030966280314">
+  <solution problem="Z4" problem-name=" " problem-type="P" contestant="A17" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="OBJECT вместо NizhnyNovgorod" eval-comment="" time="0.093" mem="11927552"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="NizhnyNovgorod вместо OBJECT" eval-comment="" time="0.125" mem="11931648"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="0" comment="OBJECT вместо NOTFOUND" eval-comment="" time="0.125" mem="11935744"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="9" comment="NizhnyNovgorod вместо bar" eval-comment="" time="0.093" mem="11919360"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="9" comment="NizhnyNovgorod вместо 456" eval-comment="" time="0.093" mem="11968512"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="9" comment="NizhnyNovgorod вместо NOTFOUND" eval-comment="" time="0.046" mem="11902976"/>
+      <test id="7" outcome="accepted" points="9" max-points="9" comment="OBJECT" eval-comment="" time="0.109" mem="11956224"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="9" comment="OBJECT вместо NOTFOUND" eval-comment="" time="0.062" mem="11988992"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="11" comment="OBJECT вместо 567" eval-comment="" time="0.093" mem="11964416"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="11" comment="NizhnyNovgorod вместо 9" eval-comment="" time="0.093" mem="11919360"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="11" comment="NizhnyNovgorod вместо 3" eval-comment="" time="0.093" mem="11960320"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="11" comment="NizhnyNovgorod вместо b" eval-comment="" time="0.062" mem="11923456"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="11" comment="NizhnyNovgorod вместо NOTFOUND" eval-comment="" time="0.093" mem="11927552"/>
+    </results>
+  </testing>
+</testing-report>

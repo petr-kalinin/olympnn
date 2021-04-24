@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20210424155128036787782216">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="B39" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=5: 13" eval-comment="" time="0.046" mem="8069120"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="10" comment="N=1: 10 вместо 0" eval-comment="" time="0.015" mem="8003584"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="N=2: 50 вместо 10" eval-comment="" time="0.093" mem="8019968"/>
+      <test id="4" outcome="accepted" points="10" max-points="10" comment="N=4: 19" eval-comment="" time="0.078" mem="8024064"/>
+      <test id="5" outcome="accepted" points="10" max-points="10" comment="N=4: 11" eval-comment="" time="0.046" mem="8019968"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="N=20: 78 вместо 73" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="10" comment="Unexpected end of file - integer expected" eval-comment="" time="0.062" mem="8011776"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="10" comment="Unexpected end of file - integer expected" eval-comment="" time="0.062" mem="7938048"/>
+      <test id="9" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="17637376"/>
+      <test id="10" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.062" mem="17997824"/>
+      <test id="11" outcome="time-limit-exceeded" points="0" max-points="10" comment="Time limit exceeded" eval-comment="" time="1.046" mem="17915904"/>
+    </results>
+  </testing>
+</testing-report>

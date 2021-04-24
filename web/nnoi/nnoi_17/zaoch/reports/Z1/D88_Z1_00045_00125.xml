@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20210424144537012492894801">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="D88" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="python ..\cscompile.py " compiler-output="Microsoft (R) Visual C# Compiler version 2.10.0.0 (b9fb1610)&#13;&#10;Copyright (C) Microsoft Corporation. All rights reserved.&#13;&#10;&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="16936960"/>
+      <test id="2" outcome="runtime-error" points="0" max-points="8" comment="Runtime error 0xE0434352" eval-comment="" time="0.078" mem="16695296"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="8" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="16785408"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="8" comment="Runtime error 0xE0434352" eval-comment="" time="0.078" mem="16699392"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="8" comment="Runtime error 0xE0434352" eval-comment="" time="0.109" mem="16723968"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="8" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="16695296"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="12" comment="Runtime error 0xE0434352" eval-comment="" time="0.062" mem="16687104"/>
+      <test id="8" outcome="runtime-error" points="0" max-points="12" comment="Runtime error 0xE0434352" eval-comment="" time="0.078" mem="16760832"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="12" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="16740352"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="12" comment="Runtime error 0xE0434352" eval-comment="" time="0.078" mem="16723968"/>
+      <test id="11" outcome="runtime-error" points="0" max-points="12" comment="Runtime error 0xE0434352" eval-comment="" time="0.125" mem="16777216"/>
+    </results>
+  </testing>
+</testing-report>

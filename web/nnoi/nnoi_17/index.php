@@ -28,12 +28,12 @@ XVII Нижегородская олимпиада школьников по информатике им. В.&nbsp;Д. Лелюха сос
 <li><a href="zaoch.php">Информация о рассмотрении заявок на участие</a></li>
 </li>
 </ul>
-<?php /*<ul>
-<li><a href="zaoch/nnoi2020_zaoch_statements.pdf">Условия отборочного тура</a></li>
-<li><a href="zaoch/results.php">Результаты отборочного тура</a></li>
+<ul>
+<li><a href="zaoch/nnoi2021_zaoch_statements.pdf">Условия отборочного тура</a></li>
+<li><a href="zaoch/results.php">Предварительные результаты отборочного тура</a></li>
 <li><a href="zaoch/tests.7z">Тесты к отборочному туру</a></li>
 <li><a href="zaoch/outputs.7z">Протоколы тестирования отборочного тура</a></li>
-</ul>*/?>
+</ul>
 <div class="logos">
 <a href="http://yandex.ru"><img src="https://avatars.mds.yandex.net/get-bunker/60661/5ec62cb755193c37a6ec19a826b3891780eead2a/orig"/></a>
 <a href="http://www.prima.nnov.ru"><img src="prima.png"/></a>

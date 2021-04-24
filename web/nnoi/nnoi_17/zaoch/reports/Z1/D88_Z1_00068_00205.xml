@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20210424150814020462956074">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="D88" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="python ..\cscompile.py " compiler-output="Microsoft (R) Visual C# Compiler version 2.10.0.0 (b9fb1610)&#13;&#10;Copyright (C) Microsoft Corporation. All rights reserved.&#13;&#10;&#13;&#10;sol.cs(48,47): error CS1056: Unexpected character '?'&#13;&#10;sol.cs(53,18): error CS1026: ) expected&#13;&#10;sol.cs(53,18): error CS1525: Invalid expression term ''&#13;&#10;sol.cs(53,18): error CS1002: ; expected&#13;&#10;sol.cs(53,18): error CS1056: Unexpected character '?'&#13;&#10;sol.cs(53,20): error CS1525: Invalid expression term '!='&#13;&#10;sol.cs(53,24): error CS1002: ; expected&#13;&#10;sol.cs(53,24): error CS1513: } expected&#13;&#10;sol.cs(55,31): error CS1002: ; expected&#13;&#10;sol.cs(55,31): error CS1056: Unexpected character '?'&#13;&#10;sol.cs(57,14): error CS1513: } expected&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

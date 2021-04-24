@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20210424145518016379062903">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="A26" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;sol.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int&#13;&#10;sol.cpp(1): error C3861: 'input': identifier not found&#13;&#10;sol.cpp(2): error C2146: syntax error: missing ';' before identifier 'x'&#13;&#10;sol.cpp(12): error C2059: syntax error: 'for'&#13;&#10;sol.cpp(13): error C2059: syntax error: 'if'&#13;&#10;sol.cpp(14): error C2059: syntax error: 'if'&#13;&#10;sol.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int&#13;&#10;sol.cpp(15): error C2065: 'i': undeclared identifier&#13;&#10;sol.cpp(15): error C2065: 'j': undeclared identifier&#13;&#10;sol.cpp(16): error C2146: syntax error: missing ';' before identifier 'r1'&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

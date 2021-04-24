@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20210424155944040505961577">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="D6C" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=5: 13" eval-comment="" time="0.078" mem="11427840"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="10" comment="N=1: 11 вместо 0" eval-comment="" time="0.078" mem="11399168"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="N=2: 11 вместо 10" eval-comment="" time="0.093" mem="11423744"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="10" comment="N=4: 11 вместо 19" eval-comment="" time="0.078" mem="11407360"/>
+      <test id="5" outcome="accepted" points="10" max-points="10" comment="N=4: 11" eval-comment="" time="0.078" mem="11431936"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="N=20: 22 вместо 73" eval-comment="" time="0.062" mem="11395072"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="10" comment="N=100: 777 вместо 2225" eval-comment="" time="0.062" mem="11378688"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="N=1000: 74195 вместо 200999" eval-comment="" time="0.078" mem="11411456"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="N=10000: 8164178 вместо 20483135" eval-comment="" time="0.093" mem="12419072"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="N=30000: 24964869 вместо 61955661" eval-comment="" time="0.125" mem="14639104"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="10" comment="N=30000: 49647015 вместо 109380442" eval-comment="" time="0.109" mem="14962688"/>
+    </results>
+  </testing>
+</testing-report>

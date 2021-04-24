@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20210424143752010258217957">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="D24" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="N=5: 13" eval-comment="" time="0.125" mem="11354112"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="10" comment="N=1: -10 вместо 0" eval-comment="" time="0.093" mem="11399168"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="N=2: -20 вместо 10" eval-comment="" time="0.078" mem="11395072"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="10" comment="N=4: 27 вместо 19" eval-comment="" time="0.140" mem="11395072"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="N=4: 0 вместо 11" eval-comment="" time="0.109" mem="11374592"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="N=20: 117 вместо 73" eval-comment="" time="0.093" mem="11403264"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="10" comment="N=100: 3474 вместо 2225" eval-comment="" time="0.109" mem="11390976"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="N=1000: 318579 вместо 200999" eval-comment="" time="0.093" mem="11399168"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="N=10000: 32992781 вместо 20483135" eval-comment="" time="0.093" mem="12505088"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="N=30000: 100042057 вместо 61955661" eval-comment="" time="0.125" mem="14675968"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="10" comment="N=30000: 200035694 вместо 109380442" eval-comment="" time="0.156" mem="14766080"/>
+    </results>
+  </testing>
+</testing-report>

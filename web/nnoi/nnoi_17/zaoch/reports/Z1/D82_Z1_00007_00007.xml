@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20210424140714000605916505">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="D82" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="security-violation" points="0" max-points="0" comment="Child process" eval-comment="" time="0.062" mem="8179712"/>
+      <test id="2" outcome="security-violation" points="0" max-points="8" comment="Child process" eval-comment="" time="0.078" mem="8097792"/>
+      <test id="3" outcome="security-violation" points="0" max-points="8" comment="Child process" eval-comment="" time="0.015" mem="8097792"/>
+      <test id="4" outcome="security-violation" points="0" max-points="8" comment="Child process" eval-comment="" time="0.031" mem="8093696"/>
+      <test id="5" outcome="security-violation" points="0" max-points="8" comment="Child process" eval-comment="" time="0.046" mem="8101888"/>
+      <test id="6" outcome="security-violation" points="0" max-points="8" comment="Child process" eval-comment="" time="0.046" mem="8101888"/>
+      <test id="7" outcome="security-violation" points="0" max-points="12" comment="Child process" eval-comment="" time="0.062" mem="8110080"/>
+      <test id="8" outcome="security-violation" points="0" max-points="12" comment="Child process" eval-comment="" time="0.062" mem="8060928"/>
+      <test id="9" outcome="security-violation" points="0" max-points="12" comment="Child process" eval-comment="" time="0.046" mem="8081408"/>
+      <test id="10" outcome="security-violation" points="0" max-points="12" comment="Child process" eval-comment="" time="0.078" mem="8097792"/>
+      <test id="11" outcome="security-violation" points="0" max-points="12" comment="Child process" eval-comment="" time="0.062" mem="8097792"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="52" max="100" outcome="accepted" gtid="20210424143336008824069052">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="D4C" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="" eval-comment="" time="0.109" mem="34529280"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="8" comment="Non-optimal solution" eval-comment="" time="0.109" mem="34529280"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="8" comment="Non-optimal solution" eval-comment="" time="0.109" mem="34533376"/>
+      <test id="4" outcome="accepted" points="8" max-points="8" comment="" eval-comment="" time="0.109" mem="34512896"/>
+      <test id="5" outcome="accepted" points="8" max-points="8" comment="" eval-comment="" time="0.125" mem="35868672"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="8" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.171" mem="37376000"/>
+      <test id="7" outcome="accepted" points="12" max-points="12" comment="" eval-comment="" time="0.125" mem="37167104"/>
+      <test id="8" outcome="accepted" points="12" max-points="12" comment="" eval-comment="" time="0.125" mem="35852288"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="12" comment="Non-optimal solution" eval-comment="" time="0.093" mem="36761600"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="12" comment="Non-optimal solution" eval-comment="" time="0.125" mem="34537472"/>
+      <test id="11" outcome="accepted" points="12" max-points="12" comment="" eval-comment="" time="0.109" mem="36974592"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20210424153902030857790049">
+  <solution problem="Z1" problem-name=" " problem-type="P" contestant="C73" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="javac sol.java " compiler-output="sol.java:1: error: class A is public, should be declared in a file named A.java&#13;&#10;public class A {&#13;&#10;       ^&#13;&#10;sol.java:5: error: cannot find symbol&#13;&#10;&#9;&#9;Scanner in = new Scanner(System.in);&#13;&#10;&#9;&#9;^&#13;&#10;  symbol:   class Scanner&#13;&#10;  location: class A&#13;&#10;sol.java:5: error: cannot find symbol&#13;&#10;&#9;&#9;Scanner in = new Scanner(System.in);&#13;&#10;&#9;&#9;                 ^&#13;&#10;  symbol:   class Scanner&#13;&#10;  location: class A&#13;&#10;3 errors&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

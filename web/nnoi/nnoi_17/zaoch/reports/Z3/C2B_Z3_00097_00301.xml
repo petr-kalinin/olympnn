@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="10" max="100" outcome="accepted" gtid="20210424153731030039971406">
+  <solution problem="Z3" problem-name=" " problem-type="P" contestant="C2B" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="N=5: 14 вместо 13" eval-comment="" time="0.046" mem="8069120"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="10" comment="N=1: 20 вместо 0" eval-comment="" time="0.078" mem="7995392"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="10" comment="N=2: 40 вместо 10" eval-comment="" time="0.062" mem="8011776"/>
+      <test id="4" outcome="accepted" points="10" max-points="10" comment="N=4: 19" eval-comment="" time="0.062" mem="7979008"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="10" comment="N=4: 22 вместо 11" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="10" comment="N=20: 113 вместо 73" eval-comment="" time="0.062" mem="7909376"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="10" comment="N=100: 3286 вместо 2225" eval-comment="" time="0.062" mem="7954432"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="10" comment="N=1000: 287878 вместо 200999" eval-comment="" time="0.078" mem="8019968"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="10" comment="N=10000: 29605664 вместо 20483135" eval-comment="" time="0.078" mem="7995392"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="10" comment="N=30000: 89690632 вместо 61955661" eval-comment="" time="0.062" mem="8126464"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="10" comment="N=30000: 175314546 вместо 109380442" eval-comment="" time="0.078" mem="8142848"/>
+    </results>
+  </testing>
+</testing-report>
