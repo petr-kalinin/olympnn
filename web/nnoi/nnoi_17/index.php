@@ -13,16 +13,16 @@ XVII Нижегородская олимпиада школьников по информатике им. В.&nbsp;Д. Лелюха сос
 <li><a href="general.php">Общая информация о проведении олимпиады и порядок подачи заявок</a></li>
 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdYx81ebP34DCZwkX0BTTnXJOakozK2Mlq9qIi_BzHBRbZTDQ/viewform">Форма подачи заявки</a></li>
 </ul>
-<?php /*<h2>Основной тур</h2>
+<h2>Основной тур</h2>
 <ul>
 <li><a href="info.php">Информация об основном туре</a></li>
 <li><a href="participants.php">Итоговые списки участников основного тура</a></li>
-<li><a href="jury.php">Жюри</a></li>
+<?php /*<li><a href="jury.php">Жюри</a></li>
 <li><a href="org.php">Оргкомитет</a></li>
 <li><a href="org.php">Авторы задач</a></li> 
 <li><a href="results.php">Результаты</a></li>
-<li><a href="archive/index.php">Архив</a></li>
-</ul>*/?>
+<li><a href="archive/index.php">Архив</a></li>*/?>
+</ul>
 <h2>Отбор</h2>
 <ul>
 <li><a href="zaoch.php">Информация о рассмотрении заявок на участие</a></li>
