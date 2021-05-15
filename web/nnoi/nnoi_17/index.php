@@ -17,11 +17,9 @@ XVII Нижегородская олимпиада школьников по информатике им. В.&nbsp;Д. Лелюха сос
 <ul>
 <li><a href="info.php">Информация об основном туре</a></li>
 <li><a href="participants.php">Итоговые списки участников основного тура</a></li>
-<?php /*<li><a href="jury.php">Жюри</a></li>
-<li><a href="org.php">Оргкомитет</a></li>
-<li><a href="org.php">Авторы задач</a></li> 
+<li><a href="taskauthors.php">Авторы задач</a></li> 
 <li><a href="results.php">Результаты</a></li>
-<li><a href="archive/index.php">Архив</a></li>*/?>
+<li><a href="archive/index.php">Архив</a></li>
 </ul>
 <h2>Отбор</h2>
 <ul>

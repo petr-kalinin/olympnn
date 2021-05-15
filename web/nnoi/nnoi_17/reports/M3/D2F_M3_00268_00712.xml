@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="6" max="100" outcome="accepted" gtid="20210515153312071184004887">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="D2F" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok: len = 5" eval-comment="" time="0.046" mem="7716864"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="Jury has better answer: 6, participant answer: 7" eval-comment="" time="0.031" mem="7696384"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="ok: len = 7" eval-comment="" time="0.046" mem="7688192"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 11 trees while 12 is necessary" eval-comment="" time="0.062" mem="7684096"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 788 trees while 999 is necessary" eval-comment="" time="0.046" mem="7696384"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="2" comment="Particiant has incorrect answer: 13 trees while 20 is necessary" eval-comment="" time="0.031" mem="7643136"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="Jury has better answer: 62, participant answer: 91" eval-comment="" time="0.046" mem="7651328"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 14873, participant answer: 22005" eval-comment="" time="0.046" mem="7725056"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 1347803, participant answer: 1491109" eval-comment="" time="0.046" mem="7684096"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 95185, participant answer: 96350" eval-comment="" time="0.062" mem="7696384"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 40433, participant answer: 147073" eval-comment="" time="0.031" mem="7671808"/>
+      <test id="12" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7520256"/>
+      <test id="13" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7528448"/>
+      <test id="14" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7528448"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 6186869 trees while 7777777 is necessary" eval-comment="" time="0.375" mem="7696384"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="ok: len = 1" eval-comment="" time="0.046" mem="7708672"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7503872"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7516160"/>
+      <test id="19" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7516160"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7532544"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7536640"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7520256"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7520256"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7520256"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7524352"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7524352"/>
+      <test id="27" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7516160"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7516160"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7512064"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7520256"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7544832"/>
+      <test id="32" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7524352"/>
+      <test id="33" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7532544"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7507968"/>
+      <test id="35" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7532544"/>
+    </results>
+  </testing>
+</testing-report>

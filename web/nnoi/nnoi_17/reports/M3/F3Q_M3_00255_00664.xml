@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20210515152036066351456745">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="F3Q" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Jury has better answer: 5, participant answer: 6" eval-comment="" time="0.046" mem="7725056"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="Particiant has incorrect answer: 5 trees while 6 is necessary" eval-comment="" time="0.031" mem="7675904"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 10 trees while 13 is necessary" eval-comment="" time="0.046" mem="7684096"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 8 trees while 12 is necessary" eval-comment="" time="0.046" mem="7663616"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 846 trees while 999 is necessary" eval-comment="" time="0.046" mem="7704576"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="2" comment="Particiant has incorrect answer: 17 trees while 20 is necessary" eval-comment="" time="0.046" mem="7692288"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="Particiant has incorrect answer: 15 trees while 20 is necessary" eval-comment="" time="0.078" mem="7680000"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 366 trees while 501 is necessary" eval-comment="" time="0.046" mem="7671808"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 1633 trees while 3289 is necessary" eval-comment="" time="0.031" mem="7700480"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 95185, participant answer: 2726085" eval-comment="" time="0.062" mem="7671808"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 40433, participant answer: 3239344" eval-comment="" time="0.031" mem="7675904"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 764581 trees while 788889 is necessary" eval-comment="" time="0.046" mem="7688192"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 542245 trees while 1111111 is necessary" eval-comment="" time="0.046" mem="7729152"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 50420927701, participant answer: 1687267882984" eval-comment="" time="0.062" mem="7716864"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 7777740 trees while 7777777 is necessary" eval-comment="" time="0.062" mem="7716864"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -68429, violates the range [0, 8000000000000000000]" eval-comment="" time="0.093" mem="7675904"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Particiant has incorrect answer: 953119 trees while 9702412 is necessary" eval-comment="" time="0.078" mem="7704576"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 121358 trees while 123321 is necessary" eval-comment="" time="0.046" mem="7704576"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 123275 trees while 123456 is necessary" eval-comment="" time="0.046" mem="7708672"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7499776"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 248833936401, participant answer: 4205164421191856" eval-comment="" time="0.062" mem="7634944"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7532544"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 17640 trees while 17770 is necessary" eval-comment="" time="0.062" mem="7704576"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7499776"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7512064"/>
+      <test id="26" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7520256"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 24255000001, participant answer: 2746180574577" eval-comment="" time="0.062" mem="7700480"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7512064"/>
+      <test id="29" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7524352"/>
+      <test id="30" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7499776"/>
+      <test id="31" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7516160"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 29805524821734231, participant answer: 119166145530793975" eval-comment="" time="0.343" mem="7684096"/>
+      <test id="33" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7483392"/>
+      <test id="34" outcome="time-limit-exceeded" points="0" max-points="4" comment="Time limit exceeded" eval-comment="" time="1.046" mem="7512064"/>
+      <test id="35" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="1.062" mem="7524352"/>
+    </results>
+  </testing>
+</testing-report>

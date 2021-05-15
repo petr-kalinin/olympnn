@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20210515132336030986314401">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="A2G" time-limit="6000" memory-limit="1073741824"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="8421376"/>
+      <test id="2" outcome="memory-limit-exceeded" points="0" max-points="2" comment="Memory limit exceeded" eval-comment="" time="0.078" mem="7561216"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="7528448"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.062" mem="10903552"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="7507968"/>
+      <test id="6" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000409" eval-comment="" time="0.078" mem="7544832"/>
+      <test id="7" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000409" eval-comment="" time="0.046" mem="7540736"/>
+      <test id="8" outcome="memory-limit-exceeded" points="0" max-points="2" comment="Memory limit exceeded" eval-comment="" time="0.031" mem="7561216"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000409" eval-comment="" time="0.062" mem="7532544"/>
+      <test id="10" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="1.125" mem="452186112"/>
+      <test id="11" outcome="memory-limit-exceeded" points="0" max-points="2" comment="Memory limit exceeded" eval-comment="" time="0.031" mem="7548928"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.515" mem="198459392"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.093" mem="30650368"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="7548928"/>
+      <test id="15" outcome="memory-limit-exceeded" points="0" max-points="2" comment="Memory limit exceeded" eval-comment="" time="0.046" mem="7532544"/>
+      <test id="16" outcome="memory-limit-exceeded" points="0" max-points="2" comment="Memory limit exceeded" eval-comment="" time="2.281" mem="1080840192"/>
+      <test id="17" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000409" eval-comment="" time="0.062" mem="7548928"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.078" mem="23986176"/>
+      <test id="19" outcome="memory-limit-exceeded" points="0" max-points="2" comment="Memory limit exceeded" eval-comment="" time="0.062" mem="7548928"/>
+      <test id="20" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xC0000409" eval-comment="" time="0.046" mem="7540736"/>
+      <test id="21" outcome="memory-limit-exceeded" points="0" max-points="2" comment="Memory limit exceeded" eval-comment="" time="0.046" mem="7577600"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="Answer contains longer sequence [length = 200000], but output contains 0 elements" eval-comment="" time="0.062" mem="7680000"/>
+      <test id="23" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.062" mem="7733248"/>
+      <test id="24" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000409" eval-comment="" time="0.046" mem="7524352"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.046" mem="8388608"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.109" mem="24518656"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="7544832"/>
+      <test id="28" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.046" mem="7557120"/>
+      <test id="29" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="2.531" mem="1080803328"/>
+      <test id="30" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.031" mem="7548928"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000409" eval-comment="" time="0.062" mem="7544832"/>
+      <test id="32" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.562" mem="1080791040"/>
+      <test id="33" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.031" mem="7528448"/>
+      <test id="34" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.078" mem="9371648"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="3" comment="Answer contains longer sequence [length = 110000], but output contains 0 elements" eval-comment="" time="0.046" mem="7704576"/>
+      <test id="36" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="0.078" mem="7540736"/>
+      <test id="37" outcome="memory-limit-exceeded" points="0" max-points="3" comment="Memory limit exceeded" eval-comment="" time="2.437" mem="1080852480"/>
+      <test id="38" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="7524352"/>
+      <test id="39" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.265" mem="96350208"/>
+      <test id="40" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.031" mem="8040448"/>
+      <test id="41" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000409" eval-comment="" time="0.062" mem="7540736"/>
+    </results>
+  </testing>
+</testing-report>

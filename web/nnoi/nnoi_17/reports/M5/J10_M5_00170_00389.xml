@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="3" max="100" outcome="accepted" gtid="20210515135523038876629987">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="J10" time-limit="1500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;15&quot;" eval-comment="" time="0.046" mem="7749632"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="1st numbers differ - expected: '24', found: '14'" eval-comment="" time="0.031" mem="7688192"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;7&quot;" eval-comment="" time="0.078" mem="7675904"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="1" comment="1st numbers differ - expected: '906', found: '-29690'" eval-comment="" time="0.062" mem="7680000"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="1" comment="1st numbers differ - expected: '343', found: '-105100'" eval-comment="" time="0.031" mem="7696384"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="1" comment="1st numbers differ - expected: '379', found: '-4928'" eval-comment="" time="0.062" mem="7647232"/>
+      <test id="7" outcome="accepted" points="1" max-points="1" comment="1 number(s): &quot;7779&quot;" eval-comment="" time="0.031" mem="7712768"/>
+      <test id="8" outcome="accepted" points="1" max-points="1" comment="1 number(s): &quot;8682&quot;" eval-comment="" time="0.062" mem="7696384"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="1" comment="1st numbers differ - expected: '47538', found: '-845174'" eval-comment="" time="0.062" mem="7704576"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="1st numbers differ - expected: '264250', found: '-186611561'" eval-comment="" time="0.062" mem="7712768"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '1358685', found: '1055122'" eval-comment="" time="0.046" mem="7737344"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '685001', found: '-18037460817'" eval-comment="" time="0.078" mem="7786496"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '3165974', found: '1596619'" eval-comment="" time="0.109" mem="7950336"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '2061038', found: '-17778518291'" eval-comment="" time="0.140" mem="8425472"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '6502709', found: '2858837'" eval-comment="" time="0.078" mem="8413184"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '14729160', found: '-78422850911'" eval-comment="" time="0.109" mem="8339456"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '79237812', found: '78012045'" eval-comment="" time="0.125" mem="8343552"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '118628281', found: '53350068'" eval-comment="" time="0.125" mem="8265728"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '131118380', found: '54388742'" eval-comment="" time="0.328" mem="10899456"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '34614064', found: '-57033475212'" eval-comment="" time="0.375" mem="10887168"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '158413401', found: '41778204'" eval-comment="" time="0.343" mem="10915840"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '237285774', found: '96932408'" eval-comment="" time="1.281" mem="17944576"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '224488737', found: '43414784'" eval-comment="" time="1.296" mem="17965056"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '243214389', found: '55315438'" eval-comment="" time="1.312" mem="17977344"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '49982561', found: '15983109'" eval-comment="" time="1.343" mem="17989632"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="1st numbers differ - expected: '244825630', found: '45466150'" eval-comment="" time="1.265" mem="17907712"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '57699966', found: '15681102'" eval-comment="" time="1.343" mem="17981440"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '263669042', found: '59550994'" eval-comment="" time="1.312" mem="17911808"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '257270926', found: '97888838'" eval-comment="" time="1.312" mem="17903616"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '34709473', found: '6507292'" eval-comment="" time="1.218" mem="15646720"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="1" comment="1st numbers differ - expected: '2884', found: '-121300'" eval-comment="" time="0.015" mem="7684096"/>
+      <test id="32" outcome="accepted" points="1" max-points="1" comment="1 number(s): &quot;995&quot;" eval-comment="" time="0.078" mem="7725056"/>
+    </results>
+  </testing>
+</testing-report>

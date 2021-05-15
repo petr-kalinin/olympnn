@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20210515124528021797687602">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="F3T" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="OK" eval-comment="" time="0.062" mem="11362304"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="OK" eval-comment="" time="0.062" mem="11341824"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Wrong d" eval-comment="" time="0.109" mem="11313152"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Wrong d" eval-comment="" time="0.062" mem="11329536"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Wrong d" eval-comment="" time="0.093" mem="11366400"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Wrong d" eval-comment="" time="0.093" mem="11333632"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="3" comment="Wrong d" eval-comment="" time="0.109" mem="11313152"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Image does not fit on screen" eval-comment="" time="0.078" mem="11337728"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Wrong d" eval-comment="" time="0.093" mem="11374592"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Non-optimal solution" eval-comment="" time="0.078" mem="11366400"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.109" mem="11362304"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.093" mem="11321344"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="Wrong d" eval-comment="" time="0.078" mem="11329536"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="Wrong d" eval-comment="" time="0.078" mem="11374592"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="Wrong d" eval-comment="" time="0.062" mem="11374592"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.062" mem="11325440"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Wrong d" eval-comment="" time="0.093" mem="11366400"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="Wrong d" eval-comment="" time="0.062" mem="11325440"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.078" mem="11333632"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.062" mem="11358208"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.093" mem="11309056"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="Wrong d" eval-comment="" time="0.093" mem="11378688"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Wrong d" eval-comment="" time="0.046" mem="11350016"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.093" mem="11370496"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Wrong d" eval-comment="" time="0.093" mem="11321344"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="2" comment="Wrong d" eval-comment="" time="0.078" mem="11378688"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Wrong d" eval-comment="" time="0.078" mem="11366400"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="2" comment="Wrong d" eval-comment="" time="0.078" mem="11313152"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="Wrong d" eval-comment="" time="0.078" mem="11345920"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="2" comment="Wrong d" eval-comment="" time="0.078" mem="11329536"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="Wrong d" eval-comment="" time="0.109" mem="11350016"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="2" comment="Wrong d" eval-comment="" time="0.093" mem="11333632"/>
+    </results>
+  </testing>
+</testing-report>

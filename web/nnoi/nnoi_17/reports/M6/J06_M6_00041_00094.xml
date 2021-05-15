@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20210515114614009370798787">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="J06" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output="In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ext\pb_ds\detail\standard_policies.hpp:45:0,&#13;&#10;                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ext\pb_ds\assoc_container.hpp:47,&#13;&#10;                 from sol.cc:2:&#13;&#10;c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ext\pb_ds\hash_policy.hpp:610:78: fatal error: ext/pb_ds/detail/resize_policy/hash_standard_resize_policy_imp.hpp: No such file or directory&#13;&#10; #include &lt;ext/pb_ds/detail/resize_policy/hash_standard_resize_policy_imp.hpp&gt;&#13;&#10;                                                                              ^&#13;&#10;compilation terminated.&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

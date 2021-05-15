@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20210515132511031160412229">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="B3L" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="pabcnetcclear.exe sol.pas " compiler-output="Compile errors:&#13;&#10;[23,4] sol.pas: Expected '.'&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

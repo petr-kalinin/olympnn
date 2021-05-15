@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20210515154929079053790138">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="B3L" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="pabcnetcclear.exe sol.pas " compiler-output="Compile errors:&#13;&#10;[19,6] sol.pas: Incompatible types: 'string' and 'char'&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

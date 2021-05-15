@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<more-data>
+  <problem-names>
+    <problem id="M1" name="A+B"/>
+    <problem id="M2" name="Цивилизация"/>
+    <problem id="M3" name="Деревья на аллее"/>
+    <problem id="M4" name="Счастливые моменты времени"/>
+    <problem id="M5" name="Магические посохи"/>
+    <problem id="M6" name="Проектор"/>
+    <problem id="M7" name="Divan любит тыквы"/>
+  </problem-names>
+  <diploms>
+    <diplom id="I" places-min="1" places-max="4"/>
+    <diplom id="II" places-min="5" places-max="9"/>
+    <diplom id="III" places-min="10" places-max="22"/>
+  </diploms>
+</more-data>
+    

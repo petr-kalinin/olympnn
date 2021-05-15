@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="80" max="100" outcome="accepted" gtid="20210513220428005444929270">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="J10" time-limit="800" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="runtime-error" points="0" max-points="0" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.093" mem="11407360"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;1 0&quot;" eval-comment="" time="0.109" mem="11423744"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.093" mem="11378688"/>
+      <test id="4" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;1 0&quot;" eval-comment="" time="0.078" mem="11386880"/>
+      <test id="5" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;5 4&quot;" eval-comment="" time="0.109" mem="11362304"/>
+      <test id="6" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;2 10&quot;" eval-comment="" time="0.078" mem="11411456"/>
+      <test id="7" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;1 3&quot;" eval-comment="" time="0.078" mem="11378688"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;20 77&quot;" eval-comment="" time="0.109" mem="11399168"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;47 252&quot;" eval-comment="" time="0.093" mem="11386880"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;9 488&quot;" eval-comment="" time="0.093" mem="11415552"/>
+      <test id="11" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;2 2&quot;" eval-comment="" time="0.078" mem="11395072"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.078" mem="11444224"/>
+      <test id="13" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;1 240&quot;" eval-comment="" time="0.078" mem="11804672"/>
+      <test id="14" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;267 4967&quot;" eval-comment="" time="0.093" mem="13160448"/>
+      <test id="15" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;1 2448&quot;" eval-comment="" time="0.140" mem="16199680"/>
+      <test id="16" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.156" mem="20307968"/>
+      <test id="17" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;14247 99979&quot;" eval-comment="" time="0.593" mem="44814336"/>
+      <test id="18" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 1 (Invalid function)" eval-comment="" time="0.109" mem="11812864"/>
+      <test id="19" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;126 992&quot;" eval-comment="" time="0.140" mem="24412160"/>
+      <test id="20" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;2 24697&quot;" eval-comment="" time="0.531" mem="40361984"/>
+      <test id="21" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;83213 99973&quot;" eval-comment="" time="0.562" mem="44834816"/>
+    </results>
+  </testing>
+</testing-report>

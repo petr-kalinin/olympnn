@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="29" max="100" outcome="accepted" gtid="20210515153637072879400494">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="A1R" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok: len = 5" eval-comment="" time="0.062" mem="8060928"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="ok: len = 6" eval-comment="" time="0.015" mem="8007680"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="ok: len = 7" eval-comment="" time="0.062" mem="8011776"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="ok: len = 15" eval-comment="" time="0.062" mem="8011776"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="ok: len = 35406" eval-comment="" time="0.062" mem="7958528"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="ok: len = 16" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="ok: len = 62" eval-comment="" time="0.046" mem="8003584"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -7707, violates the range [0, 8000000000000000000]" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="ok: len = 1347803" eval-comment="" time="0.031" mem="7917568"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 99090233, violates the range [106483049, 8000000000000000000]" eval-comment="" time="0.031" mem="8011776"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -28703762037, violates the range [0, 8000000000000000000]" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -24753280271608, violates the range [0, 8000000000000000000]" eval-comment="" time="0.046" mem="7995392"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -103168262144912606, violates the range [0, 8000000000000000000" eval-comment="" time="0.031" mem="7901184"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -155108301246703593, violates the range [0, 8000000000000000000" eval-comment="" time="0.062" mem="7913472"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 127111073, participant answer: 127112189" eval-comment="" time="0.062" mem="8011776"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -72133644, violates the range [0, 8000000000000000000]" eval-comment="" time="0.046" mem="8015872"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=l] equals to -5607372759669790392, violates the range [0, 800000000000000000" eval-comment="" time="0.046" mem="8028160"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 121067 trees while 123321 is necessary" eval-comment="" time="0.031" mem="8003584"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -1836073779, violates the range [0, 8000000000000000000]" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to 8678695263007167887, violates the range [0, 8000000000000000000" eval-comment="" time="0.062" mem="8003584"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 248833936401, participant answer: 3412326539897740875" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -8467803556949832297, violates the range [0, 800000000000000000" eval-comment="" time="0.046" mem="7995392"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 537358000001, participant answer: 673558000001" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 485508315645309025, participant answer: 585081829076538644" eval-comment="" time="0.062" mem="8015872"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -14931159603671, violates the range [0, 8000000000000000000]" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="26" outcome="accepted" points="3" max-points="3" comment="ok: len = 499999993823101388" eval-comment="" time="0.062" mem="8015872"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -17251816113492588, violates the range [0, 8000000000000000000]" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="28" outcome="accepted" points="3" max-points="3" comment="ok: len = 456533083087503361" eval-comment="" time="0.046" mem="7991296"/>
+      <test id="29" outcome="accepted" points="3" max-points="3" comment="ok: len = 297744026186000001" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -657033984919627750, violates the range [0, 8000000000000000000" eval-comment="" time="0.031" mem="7999488"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 358891028692455169, participant answer: 3745172674046661930" eval-comment="" time="0.031" mem="8007680"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -3916861854014021742, violates the range [0, 800000000000000000" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="33" outcome="accepted" points="4" max-points="4" comment="ok: len = 499999999110910038" eval-comment="" time="0.062" mem="8003584"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=l] equals to -899999999900000002, violates the range [0, 8000000000000000000" eval-comment="" time="0.046" mem="8015872"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -90000000000000001, violates the range [0, 8000000000000000000]" eval-comment="" time="0.062" mem="8011776"/>
+    </results>
+  </testing>
+</testing-report>

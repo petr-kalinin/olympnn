@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="300" outcome="compilation-error" gtid="20210515110931003729461338">
+  <solution problem="M1" problem-name=" " problem-type="P" contestant="A2G" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;sol.cpp(18): error C2065: 'll': undeclared identifier&#13;&#10;sol.cpp(18): error C2146: syntax error: missing ';' before identifier 'a'&#13;&#10;sol.cpp(18): error C2065: 'a': undeclared identifier&#13;&#10;sol.cpp(18): error C2065: 'b': undeclared identifier&#13;&#10;sol.cpp(19): error C2065: 'a': undeclared identifier&#13;&#10;sol.cpp(19): error C2065: 'b': undeclared identifier&#13;&#10;sol.cpp(21): error C2065: 'a': undeclared identifier&#13;&#10;sol.cpp(21): error C2065: 'b': undeclared identifier&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

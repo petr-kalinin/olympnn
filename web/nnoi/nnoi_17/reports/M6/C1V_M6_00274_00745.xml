@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="35" max="100" outcome="accepted" gtid="20210515153917074438052617">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="C1V" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="OK" eval-comment="" time="0.046" mem="8077312"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="OK" eval-comment="" time="0.093" mem="7987200"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="OK" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="OK" eval-comment="" time="0.046" mem="7999488"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="OK" eval-comment="" time="0.046" mem="8003584"/>
+      <test id="6" outcome="accepted" points="3" max-points="3" comment="OK" eval-comment="" time="0.062" mem="7995392"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="OK" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Non-optimal solution" eval-comment="" time="0.062" mem="7950336"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="OK" eval-comment="" time="0.046" mem="8015872"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="OK" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="Non-optimal solution" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="OK" eval-comment="" time="0.062" mem="7983104"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="OK" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="Wrong a" eval-comment="" time="0.031" mem="8011776"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="Wrong a" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="Non-optimal solution" eval-comment="" time="0.062" mem="8003584"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Non-optimal solution" eval-comment="" time="0.078" mem="8007680"/>
+      <test id="18" outcome="accepted" points="4" max-points="4" comment="OK" eval-comment="" time="0.046" mem="7995392"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;6.28881e+007&quot; found" eval-comment="" time="0.031" mem="7995392"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="Non-optimal solution" eval-comment="" time="0.062" mem="7999488"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;4.42137e+007&quot; found" eval-comment="" time="0.031" mem="7999488"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;2.98268e+007&quot; found" eval-comment="" time="0.031" mem="7991296"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;4.20435e+007&quot; found" eval-comment="" time="0.046" mem="7966720"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;4.72718e+007&quot; found" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;7e+017&quot; found" eval-comment="" time="0.031" mem="7974912"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;8e+017&quot; found" eval-comment="" time="0.031" mem="7987200"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Non-optimal solution" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="28" outcome="accepted" points="2" max-points="2" comment="OK" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;8e+017&quot; found" eval-comment="" time="0.046" mem="7991296"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;9e+017&quot; found" eval-comment="" time="0.078" mem="8003584"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;9e+017&quot; found" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;1e+018&quot; found" eval-comment="" time="0.062" mem="8011776"/>
+    </results>
+  </testing>
+</testing-report>

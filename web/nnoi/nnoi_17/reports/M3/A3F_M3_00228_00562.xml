@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20210515145333056105418551">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="A3F" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Integer parameter [name=r] equals to 0, violates the range [2, 8000000000000000000]" eval-comment="" time="0.062" mem="8069120"/>
+      <test id="2" outcome="wrong-answer" points="0" max-points="0" comment="Integer parameter [name=l] equals to -1, violates the range [0, 8000000000000000000]" eval-comment="" time="0.046" mem="7892992"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -1, violates the range [0, 8000000000000000000]" eval-comment="" time="0.062" mem="7979008"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -1, violates the range [0, 8000000000000000000]" eval-comment="" time="0.046" mem="7970816"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [84, 8000000000000000000]" eval-comment="" time="0.062" mem="7892992"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="2" comment="Integer parameter [name=r] equals to 0, violates the range [2, 8000000000000000000]" eval-comment="" time="0.062" mem="8003584"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="Integer parameter [name=l] equals to -1, violates the range [0, 8000000000000000000]" eval-comment="" time="0.062" mem="8003584"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [36, 8000000000000000000]" eval-comment="" time="0.062" mem="8003584"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [280, 8000000000000000000]" eval-comment="" time="0.062" mem="7999488"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [2523, 8000000000000000000]" eval-comment="" time="0.031" mem="7970816"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [2474, 8000000000000000000]" eval-comment="" time="0.062" mem="7991296"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [2644, 8000000000000000000]" eval-comment="" time="0.062" mem="7979008"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [674465, 8000000000000000000]" eval-comment="" time="0.015" mem="7921664"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [1368032, 8000000000000000000]" eval-comment="" time="0.031" mem="8007680"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [8, 8000000000000000000]" eval-comment="" time="0.031" mem="7991296"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [8, 8000000000000000000]" eval-comment="" time="0.078" mem="7974912"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=r] equals to 0, violates the range [2889095, 8000000000000000000]" eval-comment="" time="0.031" mem="8003584"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [924083, 8000000000000000000]" eval-comment="" time="0.062" mem="8003584"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [7107788, 8000000000000000000]" eval-comment="" time="0.062" mem="7995392"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [317985, 8000000000000000000]" eval-comment="" time="0.046" mem="7999488"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [21839534, 8000000000000000000]" eval-comment="" time="0.046" mem="7991296"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [383944022, 8000000000000000000]" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [66944542, 8000000000000000000]" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [814649004, 8000000000000000000]" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [284464869, 8000000000000000000]" eval-comment="" time="0.046" mem="7995392"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [780038155, 8000000000000000000]" eval-comment="" time="0.062" mem="7983104"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [868907411, 8000000000000000000]" eval-comment="" time="0.046" mem="7991296"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [910702756, 8000000000000000000]" eval-comment="" time="0.046" mem="7995392"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [473462484, 8000000000000000000]" eval-comment="" time="0.031" mem="7995392"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [518250297, 8000000000000000000]" eval-comment="" time="0.062" mem="7991296"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [784114155, 8000000000000000000]" eval-comment="" time="0.046" mem="7970816"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [133864881, 8000000000000000000]" eval-comment="" time="0.046" mem="7979008"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=r] equals to 0, violates the range [826648944, 8000000000000000000]" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=r] equals to 0, violates the range [999999998, 8000000000000000000]" eval-comment="" time="0.046" mem="7987200"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=r] equals to 0, violates the range [999999998, 8000000000000000000]" eval-comment="" time="0.062" mem="7995392"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20210515151650064867598326">
+  <solution problem="M5" problem-name=" " problem-type="P" contestant="D5I" time-limit="1500" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;15&quot;" eval-comment="" time="0.078" mem="11415552"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;24&quot;" eval-comment="" time="0.093" mem="11390976"/>
+      <test id="3" outcome="accepted" points="0" max-points="0" comment="1 number(s): &quot;7&quot;" eval-comment="" time="0.125" mem="11370496"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="1" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.078" mem="11370496"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="1" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.062" mem="11415552"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="1" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.109" mem="11378688"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="1" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.093" mem="11427840"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="1" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.078" mem="11411456"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="1" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.062" mem="11382784"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.062" mem="11382784"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.062" mem="11673600"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="4" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.093" mem="11935744"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="4" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.062" mem="12242944"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.093" mem="13570048"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.093" mem="13045760"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="5" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.140" mem="13565952"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="5" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.125" mem="13312000"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.093" mem="13295616"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="5" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.156" mem="21495808"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="5" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.218" mem="22319104"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="5" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.203" mem="21540864"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.546" mem="52203520"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.515" mem="52137984"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.546" mem="52129792"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="4" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.562" mem="54788096"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="4" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.531" mem="52142080"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="5" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.546" mem="54792192"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="5" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.578" mem="52162560"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="5" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.562" mem="52129792"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="5" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.546" mem="51896320"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="1" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.062" mem="11382784"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="1" comment="Answer contains longer sequence [length = 1], but output contains 0 elements" eval-comment="" time="0.093" mem="11382784"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="20" max="100" outcome="accepted" gtid="20210515123612019658559973">
+  <solution problem="M6" problem-name=" " problem-type="P" contestant="B3L" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="pabcnetcclear.exe sol.pas " compiler-output="OK&#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="Image does not fit on screen" eval-comment="" time="0.093" mem="24027136"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="OK" eval-comment="" time="0.109" mem="23965696"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="OK" eval-comment="" time="0.125" mem="23965696"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="3" comment="Image does not fit on screen" eval-comment="" time="0.093" mem="23945216"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="OK" eval-comment="" time="0.125" mem="23965696"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="3" comment="Image does not fit on screen" eval-comment="" time="0.125" mem="23957504"/>
+      <test id="7" outcome="accepted" points="3" max-points="3" comment="OK" eval-comment="" time="0.093" mem="23965696"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Image does not fit on screen" eval-comment="" time="0.109" mem="23945216"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="OK" eval-comment="" time="0.078" mem="23941120"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Non-optimal solution" eval-comment="" time="0.093" mem="23973888"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="4" comment="Non-optimal solution" eval-comment="" time="0.062" mem="23969792"/>
+      <test id="12" outcome="accepted" points="4" max-points="4" comment="OK" eval-comment="" time="0.125" mem="23969792"/>
+      <test id="13" outcome="accepted" points="4" max-points="4" comment="OK" eval-comment="" time="0.125" mem="23965696"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.078" mem="24010752"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.109" mem="23957504"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.109" mem="23953408"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.046" mem="23928832"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.125" mem="23957504"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="4" comment="Non-optimal solution" eval-comment="" time="0.093" mem="23941120"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="4" comment="Non-optimal solution" eval-comment="" time="0.078" mem="23949312"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.109" mem="23961600"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.109" mem="24006656"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.140" mem="24031232"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="4" comment="Image does not fit on screen" eval-comment="" time="0.140" mem="23994368"/>
+      <test id="25" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.109" mem="23339008"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="23334912"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="23359488"/>
+      <test id="28" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="23347200"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="23343104"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xE0434352" eval-comment="" time="0.093" mem="23339008"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xE0434352" eval-comment="" time="0.078" mem="23343104"/>
+      <test id="32" outcome="runtime-error" points="0" max-points="2" comment="Runtime error 0xE0434352" eval-comment="" time="0.109" mem="23363584"/>
+    </results>
+  </testing>
+</testing-report>

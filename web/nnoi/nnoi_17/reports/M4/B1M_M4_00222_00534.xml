@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="accepted" gtid="20210515144708053395719982">
+  <solution problem="M4" problem-name=" " problem-type="P" contestant="B1M" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer, but &quot;[10,&quot; found" eval-comment="" time="0.125" mem="35090432"/>
+      <test id="2" outcome="presentation-error" points="0" max-points="0" comment="Expected integer, but &quot;[11,&quot; found" eval-comment="" time="0.109" mem="35106816"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="0" comment="Expected integer, but &quot;[0,&quot; found" eval-comment="" time="0.109" mem="35090432"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[8,&quot; found" eval-comment="" time="0.078" mem="35082240"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[0,&quot; found" eval-comment="" time="0.140" mem="35078144"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[12,&quot; found" eval-comment="" time="0.093" mem="35090432"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[21,&quot; found" eval-comment="" time="0.109" mem="35090432"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[11,&quot; found" eval-comment="" time="0.109" mem="35086336"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[1,&quot; found" eval-comment="" time="0.093" mem="35090432"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[4,&quot; found" eval-comment="" time="0.062" mem="35098624"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[5,&quot; found" eval-comment="" time="0.078" mem="35094528"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[0,&quot; found" eval-comment="" time="0.093" mem="35094528"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[13,&quot; found" eval-comment="" time="0.125" mem="35082240"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[0,&quot; found" eval-comment="" time="0.093" mem="35057664"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[13,&quot; found" eval-comment="" time="0.078" mem="35098624"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[22,&quot; found" eval-comment="" time="0.093" mem="35061760"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[23,&quot; found" eval-comment="" time="0.078" mem="35110912"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[2,&quot; found" eval-comment="" time="0.093" mem="35078144"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[18,&quot; found" eval-comment="" time="0.140" mem="35069952"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[5,&quot; found" eval-comment="" time="0.093" mem="35094528"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[1,&quot; found" eval-comment="" time="0.125" mem="35082240"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[6,&quot; found" eval-comment="" time="0.093" mem="35090432"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[20,&quot; found" eval-comment="" time="0.125" mem="35078144"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[0,&quot; found" eval-comment="" time="0.078" mem="35078144"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[3,&quot; found" eval-comment="" time="0.140" mem="35094528"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[3,&quot; found" eval-comment="" time="0.109" mem="35102720"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[15,&quot; found" eval-comment="" time="0.093" mem="35074048"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="4" comment="Expected integer, but &quot;[0,&quot; found" eval-comment="" time="0.093" mem="35094528"/>
+    </results>
+  </testing>
+</testing-report>

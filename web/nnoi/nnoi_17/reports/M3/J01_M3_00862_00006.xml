@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20210513220423003511726958">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="J01" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx: In function 'int main()':&#13;&#10;sol.cxx:75:5: error: expected primary-expression before '__int128'&#13;&#10;     __int128 x = _x;&#13;&#10;     ^~~~~~~~&#13;&#10;sol.cxx:76:5: error: expected primary-expression before '__int128'&#13;&#10;     __int128 y = _y;&#13;&#10;     ^~~~~~~~&#13;&#10;sol.cxx:77:5: error: 'x' was not declared in this scope&#13;&#10;     x = x * m;&#13;&#10;     ^&#13;&#10;sol.cxx:78:5: error: 'y' was not declared in this scope&#13;&#10;     y = -y * m;&#13;&#10;     ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

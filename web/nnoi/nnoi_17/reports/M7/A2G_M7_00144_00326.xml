@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20210515132941032570709107">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="A2G" time-limit="6000" memory-limit="1073741824"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx: In constructor 'node::node()':&#13;&#10;sol.cxx:19:17: error: 'LLONG_MAX' was not declared in this scope&#13;&#10;         value = LLONG_MAX;&#13;&#10;                 ^~~~~~~~~&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

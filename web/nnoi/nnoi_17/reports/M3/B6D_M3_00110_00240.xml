@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20210515125519023987130878">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="B6D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="python ..\cscompile.py " compiler-output="Microsoft (R) Visual C# Compiler version 2.10.0.0 (b9fb1610)&#13;&#10;Copyright (C) Microsoft Corporation. All rights reserved.&#13;&#10;&#13;&#10;sol.cs(1,2): error CS1024: Preprocessor directive expected&#13;&#10;sol.cs(2,2): error CS1024: Preprocessor directive expected&#13;&#10;sol.cs(3,2): error CS1024: Preprocessor directive expected&#13;&#10;sol.cs(4,7): error CS1041: Identifier expected; 'namespace' is a keyword&#13;&#10;sol.cs(4,20): error CS1514: { expected&#13;&#10;sol.cs(13,7): error CS0650: Bad array declarator: To declare a managed array the rank specifier precedes the variable's identifier. To declare a fixed size buffer field, use the fixed keyword before the field type.&#13;&#10;sol.cs(13,8): error CS0270: Array size cannot be specified in a variable declaration (try initializing with a 'new' expression)&#13;&#10;sol.cs(34,2): error CS1513: } expected&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>

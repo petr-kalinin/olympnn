@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="13" max="100" outcome="accepted" gtid="20210515143907050693835373">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="B6D" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok: len = 5" eval-comment="" time="0.046" mem="7696384"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="ok: len = 6" eval-comment="" time="0.062" mem="7716864"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="ok: len = 7" eval-comment="" time="0.062" mem="7684096"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="ok: len = 15" eval-comment="" time="0.062" mem="7667712"/>
+      <test id="5" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000409" eval-comment="" time="0.062" mem="7544832"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="ok: len = 16" eval-comment="" time="0.046" mem="7684096"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="ok: len = 62" eval-comment="" time="0.046" mem="7680000"/>
+      <test id="8" outcome="idleness-limit-exceeded" points="0" max-points="3" comment="Idleness limit exceeded" eval-comment="" time="0.046" mem="7520256"/>
+      <test id="9" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000409" eval-comment="" time="0.015" mem="7507968"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 47 trees while 48 is necessary" eval-comment="" time="0.046" mem="7675904"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 63 trees while 66 is necessary" eval-comment="" time="0.046" mem="7684096"/>
+      <test id="12" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000409" eval-comment="" time="0.031" mem="7524352"/>
+      <test id="13" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000409" eval-comment="" time="0.062" mem="7524352"/>
+      <test id="14" outcome="idleness-limit-exceeded" points="0" max-points="3" comment="Idleness limit exceeded" eval-comment="" time="0.031" mem="7532544"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000409" eval-comment="" time="0.062" mem="7528448"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="ok: len = 1" eval-comment="" time="0.046" mem="7671808"/>
+      <test id="17" outcome="idleness-limit-exceeded" points="0" max-points="4" comment="Idleness limit exceeded" eval-comment="" time="0.046" mem="7528448"/>
+      <test id="18" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="19" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="20" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="21" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="22" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="23" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="24" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="25" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="26" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="27" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="28" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="29" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="30" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="31" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="32" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="33" outcome="not-tested" points="0" max-points="4" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="34" outcome="not-tested" points="0" max-points="4" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+      <test id="35" outcome="not-tested" points="0" max-points="3" comment="Skipped" eval-comment="" time="-1.000" mem="-1"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="30" max="100" outcome="accepted" gtid="20210515114218008835203545">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="F5R" time-limit="800" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="2 number(s): &quot;2 1&quot;" eval-comment="" time="0.062" mem="8085504"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;1 0&quot;" eval-comment="" time="0.046" mem="8015872"/>
+      <test id="3" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;1 1&quot;" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="2nd numbers differ - expected: '0', found: '-2'" eval-comment="" time="0.062" mem="7913472"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="2nd numbers differ - expected: '4', found: '2'" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="2nd numbers differ - expected: '10', found: '9'" eval-comment="" time="0.062" mem="8056832"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="2nd numbers differ - expected: '3', found: '-1'" eval-comment="" time="0.046" mem="8044544"/>
+      <test id="8" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;20 77&quot;" eval-comment="" time="0.046" mem="8101888"/>
+      <test id="9" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;47 252&quot;" eval-comment="" time="0.046" mem="8048640"/>
+      <test id="10" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;9 488&quot;" eval-comment="" time="0.078" mem="9035776"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="2nd numbers differ - expected: '2', found: '-3'" eval-comment="" time="0.062" mem="12283904"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="2nd numbers differ - expected: '877', found: '974'" eval-comment="" time="0.046" mem="8118272"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="2nd numbers differ - expected: '240', found: '-9'" eval-comment="" time="0.062" mem="12288000"/>
+      <test id="14" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;267 4967&quot;" eval-comment="" time="0.218" mem="173076480"/>
+      <test id="15" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.203" mem="275542016"/>
+      <test id="16" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.218" mem="275329024"/>
+      <test id="17" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.375" mem="275308544"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="5" comment="2nd numbers differ - expected: '89714', found: '99075'" eval-comment="" time="0.234" mem="12275712"/>
+      <test id="19" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.390" mem="275451904"/>
+      <test id="20" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.390" mem="275439616"/>
+      <test id="21" outcome="memory-limit-exceeded" points="0" max-points="5" comment="Memory limit exceeded" eval-comment="" time="0.359" mem="275251200"/>
+    </results>
+  </testing>
+</testing-report>

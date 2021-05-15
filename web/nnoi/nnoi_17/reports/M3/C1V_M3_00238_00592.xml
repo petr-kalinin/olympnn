@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="66" max="100" outcome="accepted" gtid="20210515150319059189278857">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="C1V" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok: len = 5" eval-comment="" time="0.828" mem="8069120"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="ok: len = 6" eval-comment="" time="0.859" mem="7987200"/>
+      <test id="3" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.062" mem="7991296"/>
+      <test id="4" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000094 (STATUS_INTEGER_DIVIDE_BY_ZERO)" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="ok: len = 35406" eval-comment="" time="0.843" mem="7995392"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="ok: len = 16" eval-comment="" time="0.859" mem="8007680"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="ok: len = 62" eval-comment="" time="0.828" mem="8003584"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="ok: len = 14873" eval-comment="" time="0.859" mem="7999488"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="ok: len = 1347803" eval-comment="" time="0.828" mem="7987200"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="ok: len = 95185" eval-comment="" time="0.843" mem="7917568"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="ok: len = 40433" eval-comment="" time="0.875" mem="8003584"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="ok: len = 28647333037" eval-comment="" time="0.859" mem="7991296"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="ok: len = 296603281835" eval-comment="" time="0.875" mem="8007680"/>
+      <test id="14" outcome="accepted" points="3" max-points="3" comment="ok: len = 50420927701" eval-comment="" time="0.859" mem="8007680"/>
+      <test id="15" outcome="accepted" points="3" max-points="3" comment="ok: len = 127111073" eval-comment="" time="0.828" mem="8011776"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 1, participant answer: 2" eval-comment="" time="0.843" mem="8003584"/>
+      <test id="17" outcome="accepted" points="4" max-points="4" comment="ok: len = 21206133104080" eval-comment="" time="0.843" mem="7987200"/>
+      <test id="18" outcome="accepted" points="3" max-points="3" comment="ok: len = 60396303241" eval-comment="" time="0.828" mem="8007680"/>
+      <test id="19" outcome="accepted" points="3" max-points="3" comment="ok: len = 549537504571" eval-comment="" time="0.875" mem="8003584"/>
+      <test id="20" outcome="accepted" points="3" max-points="3" comment="ok: len = 2105773429860688" eval-comment="" time="0.843" mem="7979008"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -1223767322087232806, violates the range [0, 800000000000000000" eval-comment="" time="0.843" mem="7991296"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -1223385445921984930, violates the range [0, 800000000000000000" eval-comment="" time="0.859" mem="7970816"/>
+      <test id="23" outcome="accepted" points="3" max-points="3" comment="ok: len = 537358000001" eval-comment="" time="0.859" mem="7974912"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -1223438466595847802, violates the range [0, 800000000000000000" eval-comment="" time="0.906" mem="7979008"/>
+      <test id="25" outcome="accepted" points="3" max-points="3" comment="ok: len = 227165149366623469" eval-comment="" time="0.859" mem="8015872"/>
+      <test id="26" outcome="accepted" points="3" max-points="3" comment="ok: len = 499999993823101388" eval-comment="" time="0.859" mem="7999488"/>
+      <test id="27" outcome="accepted" points="3" max-points="3" comment="ok: len = 24255000001" eval-comment="" time="0.843" mem="8003584"/>
+      <test id="28" outcome="accepted" points="3" max-points="3" comment="ok: len = 456533083087503361" eval-comment="" time="0.906" mem="8007680"/>
+      <test id="29" outcome="accepted" points="3" max-points="3" comment="ok: len = 297744026186000001" eval-comment="" time="0.859" mem="8015872"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -1223427690297543182, violates the range [0, 800000000000000000" eval-comment="" time="0.859" mem="7987200"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -1223609444256518364, violates the range [0, 800000000000000000" eval-comment="" time="0.828" mem="8007680"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -1223382393727549060, violates the range [0, 800000000000000000" eval-comment="" time="0.843" mem="8003584"/>
+      <test id="33" outcome="accepted" points="4" max-points="4" comment="ok: len = 499999999110910038" eval-comment="" time="0.859" mem="8003584"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=l] equals to -1223603380458623230, violates the range [0, 800000000000000000" eval-comment="" time="0.859" mem="7999488"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -1223497819051261685, violates the range [0, 800000000000000000" eval-comment="" time="0.828" mem="7979008"/>
+    </results>
+  </testing>
+</testing-report>

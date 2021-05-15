@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="25" max="100" outcome="accepted" gtid="20210515135653039301683849">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="C1W" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="cmd /c ..\vsbuild.bat sol.cpp " compiler-output="**********************************************************************&#13;&#10;** Visual Studio 2017 Developer Command Prompt v15.9.7&#13;&#10;** Copyright (c) 2017 Microsoft Corporation&#13;&#10;**********************************************************************&#13;&#10;[vcvarsall.bat] Environment initialized for: 'x64'&#13;&#10;Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27027.1 for x64&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;sol.cpp&#13;&#10;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc&#13;&#10;Microsoft (R) Incremental Linker Version 14.16.27027.1&#13;&#10;Copyright (C) Microsoft Corporation.  All rights reserved.&#13;&#10;&#13;&#10;/out:sol.exe &#13;&#10;sol.obj &#13;&#10;"/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok: len = 5" eval-comment="" time="0.093" mem="11710464"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="ok: len = 6" eval-comment="" time="0.109" mem="11575296"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="ok: len = 7" eval-comment="" time="0.093" mem="11542528"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="ok: len = 15" eval-comment="" time="0.109" mem="11563008"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="ok: len = 35406" eval-comment="" time="0.093" mem="11567104"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="ok: len = 16" eval-comment="" time="0.062" mem="11567104"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="ok: len = 62" eval-comment="" time="0.109" mem="11571200"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="ok: len = 14873" eval-comment="" time="0.109" mem="11558912"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="ok: len = 1347803" eval-comment="" time="0.093" mem="11567104"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="ok: len = 95185" eval-comment="" time="0.109" mem="11567104"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="ok: len = 40433" eval-comment="" time="0.078" mem="11563008"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147465697, violates the range [0, 8000000000000000000]" eval-comment="" time="0.093" mem="11571200"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147475437, violates the range [0, 8000000000000000000]" eval-comment="" time="0.140" mem="11575296"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147441478, violates the range [0, 8000000000000000000]" eval-comment="" time="0.093" mem="11575296"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 1 trees while 7777777 is necessary" eval-comment="" time="0.093" mem="11575296"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147455015, violates the range [0, 8000000000000000000]" eval-comment="" time="0.093" mem="11550720"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=l] equals to -2147455616, violates the range [0, 8000000000000000000]" eval-comment="" time="0.156" mem="11567104"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147477052, violates the range [0, 8000000000000000000]" eval-comment="" time="0.093" mem="11571200"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147469459, violates the range [0, 8000000000000000000]" eval-comment="" time="0.109" mem="11567104"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147475029, violates the range [0, 8000000000000000000]" eval-comment="" time="0.093" mem="11567104"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2091674230, violates the range [0, 8000000000000000000]" eval-comment="" time="0.125" mem="11575296"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147463488, violates the range [0, 8000000000000000000]" eval-comment="" time="0.125" mem="11554816"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2107574816, violates the range [0, 8000000000000000000]" eval-comment="" time="0.093" mem="11567104"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147471139, violates the range [0, 8000000000000000000]" eval-comment="" time="0.125" mem="11575296"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147459278, violates the range [0, 8000000000000000000]" eval-comment="" time="0.109" mem="11575296"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147442077, violates the range [0, 8000000000000000000]" eval-comment="" time="0.109" mem="11575296"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -1996393132, violates the range [0, 8000000000000000000]" eval-comment="" time="0.125" mem="11575296"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147469147, violates the range [0, 8000000000000000000]" eval-comment="" time="0.125" mem="11534336"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147455019, violates the range [0, 8000000000000000000]" eval-comment="" time="0.093" mem="11563008"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147470688, violates the range [0, 8000000000000000000]" eval-comment="" time="0.125" mem="11522048"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147481884, violates the range [0, 8000000000000000000]" eval-comment="" time="0.109" mem="11567104"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147477138, violates the range [0, 8000000000000000000]" eval-comment="" time="0.078" mem="11534336"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=l] equals to -2147465786, violates the range [0, 8000000000000000000]" eval-comment="" time="0.125" mem="11575296"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="Integer parameter [name=l] equals to -2147476356, violates the range [0, 8000000000000000000]" eval-comment="" time="0.109" mem="11571200"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="3" comment="Integer parameter [name=l] equals to -2147436545, violates the range [0, 8000000000000000000]" eval-comment="" time="0.125" mem="11563008"/>
+    </results>
+  </testing>
+</testing-report>

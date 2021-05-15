@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="24" max="100" outcome="accepted" gtid="20210515140124040508180681">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="A1N" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok: len = 5" eval-comment="" time="0.062" mem="8065024"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="ok: len = 6" eval-comment="" time="0.078" mem="8003584"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="ok: len = 7" eval-comment="" time="0.078" mem="8007680"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="ok: len = 15" eval-comment="" time="0.062" mem="8024064"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="ok: len = 35406" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="ok: len = 16" eval-comment="" time="0.046" mem="8003584"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="Jury has better answer: 62, participant answer: 66" eval-comment="" time="0.078" mem="7991296"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 14873, participant answer: 14892" eval-comment="" time="0.046" mem="8015872"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 1347803, participant answer: 1347897" eval-comment="" time="0.062" mem="8011776"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 95185, participant answer: 96954" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 40433, participant answer: 40775" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="12" outcome="accepted" points="3" max-points="3" comment="ok: len = 28647333037" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="13" outcome="accepted" points="3" max-points="3" comment="ok: len = 296603281835" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 50420927701, participant answer: 50421209935" eval-comment="" time="0.015" mem="8007680"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 127111073, participant answer: 127111088" eval-comment="" time="0.078" mem="8003584"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="ok: len = 1" eval-comment="" time="0.078" mem="8028160"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better answer: 21206133104080, participant answer: 21206133638785" eval-comment="" time="0.062" mem="7999488"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 60396303241, participant answer: 60396469625" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 549537504571, participant answer: 549545272917" eval-comment="" time="0.031" mem="7995392"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 2105773429860688, participant answer: 2105773432739045" eval-comment="" time="0.109" mem="7983104"/>
+      <test id="21" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 248833936401, participant answer: 248841331643" eval-comment="" time="0.046" mem="8015872"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 172222297689587033, participant answer: 172222297728184414" eval-comment="" time="0.031" mem="8007680"/>
+      <test id="23" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 537358000001, participant answer: 537363158978" eval-comment="" time="0.062" mem="8011776"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 485508315645309025, participant answer: 485508315654596433" eval-comment="" time="0.046" mem="8011776"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 227165149366623469, participant answer: 227165149703623132" eval-comment="" time="0.031" mem="8003584"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 499999993823101388, participant answer: 499999994176898641" eval-comment="" time="0.031" mem="8019968"/>
+      <test id="27" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 24255000001, participant answer: 24425218013" eval-comment="" time="0.031" mem="8032256"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 456533083087503361, participant answer: 456533083878391809" eval-comment="" time="0.046" mem="7974912"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 297744026186000001, participant answer: 297744026430000001" eval-comment="" time="0.062" mem="8015872"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 246984731938078135, participant answer: 246984732188113921" eval-comment="" time="0.031" mem="7999488"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 358891028692455169, participant answer: 358891028953580355" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 29805524821734231, participant answer: 29805525189978761" eval-comment="" time="0.046" mem="8019968"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Jury has better answer: 499999999110910038, participant answer: 499999999889089964" eval-comment="" time="0.062" mem="8015872"/>
+      <test id="34" outcome="accepted" points="4" max-points="4" comment="ok: len = 499999999000000001" eval-comment="" time="0.046" mem="7974912"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="3" comment="Jury has better answer: 499999995999999991, participant answer: 499999996000000001" eval-comment="" time="0.078" mem="7983104"/>
+    </results>
+  </testing>
+</testing-report>

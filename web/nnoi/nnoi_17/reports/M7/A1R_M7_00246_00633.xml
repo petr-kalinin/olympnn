@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="2" max="100" outcome="accepted" gtid="20210515151145063222729228">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="A1R" time-limit="6000" memory-limit="1073741824"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="presentation-error" points="0" max-points="0" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.046" mem="65200128"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="1 number(s): &quot;1&quot;" eval-comment="" time="0.078" mem="65150976"/>
+      <test id="3" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.046" mem="65142784"/>
+      <test id="4" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.078" mem="65155072"/>
+      <test id="5" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.046" mem="65122304"/>
+      <test id="6" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.046" mem="65155072"/>
+      <test id="7" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.046" mem="65101824"/>
+      <test id="8" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.062" mem="65216512"/>
+      <test id="9" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.109" mem="65572864"/>
+      <test id="10" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.062" mem="65142784"/>
+      <test id="11" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.046" mem="65138688"/>
+      <test id="12" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.093" mem="65544192"/>
+      <test id="13" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.093" mem="65462272"/>
+      <test id="14" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.093" mem="65593344"/>
+      <test id="15" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.078" mem="65208320"/>
+      <test id="16" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.078" mem="65323008"/>
+      <test id="17" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.109" mem="65703936"/>
+      <test id="18" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.078" mem="65523712"/>
+      <test id="19" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.062" mem="65732608"/>
+      <test id="20" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.078" mem="65830912"/>
+      <test id="21" outcome="presentation-error" points="0" max-points="2" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.109" mem="65376256"/>
+      <test id="22" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.203" mem="89432064"/>
+      <test id="23" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.343" mem="88866816"/>
+      <test id="24" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.437" mem="87707648"/>
+      <test id="25" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.125" mem="91529216"/>
+      <test id="26" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.187" mem="92327936"/>
+      <test id="27" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.500" mem="91996160"/>
+      <test id="28" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.859" mem="72441856"/>
+      <test id="29" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.406" mem="85680128"/>
+      <test id="30" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.468" mem="89509888"/>
+      <test id="31" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.640" mem="86540288"/>
+      <test id="32" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.312" mem="82776064"/>
+      <test id="33" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.437" mem="82685952"/>
+      <test id="34" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.531" mem="85921792"/>
+      <test id="35" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="1.093" mem="70946816"/>
+      <test id="36" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.578" mem="88006656"/>
+      <test id="37" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="2.671" mem="86405120"/>
+      <test id="38" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="1.453" mem="71655424"/>
+      <test id="39" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="0.953" mem="78848000"/>
+      <test id="40" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="1.312" mem="75522048"/>
+      <test id="41" outcome="presentation-error" points="0" max-points="3" comment="Expected integer, but &quot;UP&quot; found" eval-comment="" time="1.265" mem="76595200"/>
+    </results>
+  </testing>
+</testing-report>

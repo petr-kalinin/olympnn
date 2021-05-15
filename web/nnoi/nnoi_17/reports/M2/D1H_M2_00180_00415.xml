@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="5" max="100" outcome="accepted" gtid="20210515140514041471728028">
+  <solution problem="M2" problem-name=" " problem-type="P" contestant="D1H" time-limit="800" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ -O2 -Wl,--stack,256000000 -o sol.exe sol.cc " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="1st numbers differ - expected: '2', found: '4'" eval-comment="" time="0.062" mem="8081408"/>
+      <test id="2" outcome="accepted" points="5" max-points="5" comment="2 number(s): &quot;1 0&quot;" eval-comment="" time="0.046" mem="8015872"/>
+      <test id="3" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '1', found: '3'" eval-comment="" time="0.062" mem="7999488"/>
+      <test id="4" outcome="wrong-answer" points="0" max-points="5" comment="2nd numbers differ - expected: '0', found: '1'" eval-comment="" time="0.062" mem="8003584"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '5', found: '9'" eval-comment="" time="0.046" mem="8007680"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="5" comment="2nd numbers differ - expected: '10', found: '60'" eval-comment="" time="0.062" mem="8015872"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '1', found: '7'" eval-comment="" time="0.046" mem="8003584"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '20', found: '26'" eval-comment="" time="0.031" mem="8007680"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '47', found: '24'" eval-comment="" time="0.062" mem="8003584"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="5" comment="2nd numbers differ - expected: '488', found: '49700'" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '2', found: '670'" eval-comment="" time="0.062" mem="8007680"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '361', found: '24'" eval-comment="" time="0.062" mem="8032256"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="5" comment="1st numbers differ - expected: '1', found: '670'" eval-comment="" time="0.062" mem="8019968"/>
+      <test id="14" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.062" mem="7966720"/>
+      <test id="15" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.125" mem="8118272"/>
+      <test id="16" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="0.859" mem="8798208"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="0.843" mem="9617408"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="0.843" mem="8806400"/>
+      <test id="19" outcome="runtime-error" points="0" max-points="5" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.140" mem="8384512"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="0.859" mem="9216000"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="5" comment="Time limit exceeded" eval-comment="" time="0.859" mem="9592832"/>
+    </results>
+  </testing>
+</testing-report>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="7" max="100" outcome="accepted" gtid="20210515160046087031982460">
+  <solution problem="M7" problem-name=" " problem-type="P" contestant="A3F" time-limit="6000" memory-limit="1073741824"/>
+  <compiling outcome="compiled-not-tested" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="wrong-answer" points="0" max-points="0" comment="2nd numbers differ - expected: '2', found: '3'" eval-comment="" time="0.078" mem="33198080"/>
+      <test id="2" outcome="accepted" points="2" max-points="2" comment="1 number(s): &quot;1&quot;" eval-comment="" time="0.078" mem="33136640"/>
+      <test id="3" outcome="accepted" points="2" max-points="2" comment="5 number(s): &quot;2 1 2 3 3&quot;" eval-comment="" time="0.078" mem="33161216"/>
+      <test id="4" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="6.046" mem="33148928"/>
+      <test id="5" outcome="wrong-answer" points="0" max-points="2" comment="2nd numbers differ - expected: '11', found: '5'" eval-comment="" time="0.109" mem="33153024"/>
+      <test id="6" outcome="wrong-answer" points="0" max-points="2" comment="11th numbers differ - expected: '1', found: '5'" eval-comment="" time="0.109" mem="33165312"/>
+      <test id="7" outcome="wrong-answer" points="0" max-points="2" comment="46th numbers differ - expected: '2', found: '1'" eval-comment="" time="0.109" mem="33136640"/>
+      <test id="8" outcome="wrong-answer" points="0" max-points="2" comment="12th numbers differ - expected: '2', found: '1'" eval-comment="" time="0.125" mem="33157120"/>
+      <test id="9" outcome="wrong-answer" points="0" max-points="2" comment="2478th numbers differ - expected: '2', found: '3'" eval-comment="" time="0.125" mem="33153024"/>
+      <test id="10" outcome="wrong-answer" points="0" max-points="2" comment="3rd numbers differ - expected: '3', found: '4'" eval-comment="" time="0.109" mem="33161216"/>
+      <test id="11" outcome="wrong-answer" points="0" max-points="2" comment="101st numbers differ - expected: '3', found: '1'" eval-comment="" time="0.093" mem="33128448"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="2" comment="187th numbers differ - expected: '7', found: '1'" eval-comment="" time="0.187" mem="33230848"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="2" comment="147th numbers differ - expected: '2', found: '3'" eval-comment="" time="0.140" mem="33079296"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="2" comment="316th numbers differ - expected: '4', found: '1'" eval-comment="" time="0.140" mem="33148928"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="2" comment="194th numbers differ - expected: '3', found: '2'" eval-comment="" time="0.109" mem="33161216"/>
+      <test id="16" outcome="wrong-answer" points="0" max-points="2" comment="111th numbers differ - expected: '4', found: '3'" eval-comment="" time="0.156" mem="33181696"/>
+      <test id="17" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="6.046" mem="33284096"/>
+      <test id="18" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="6.062" mem="33210368"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="2" comment="69th numbers differ - expected: '9', found: '7'" eval-comment="" time="0.234" mem="33304576"/>
+      <test id="20" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="6.046" mem="33423360"/>
+      <test id="21" outcome="time-limit-exceeded" points="0" max-points="2" comment="Time limit exceeded" eval-comment="" time="6.062" mem="33185792"/>
+      <test id="22" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="6.046" mem="45428736"/>
+      <test id="23" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="6.046" mem="44843008"/>
+      <test id="24" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="6.062" mem="43687936"/>
+      <test id="25" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="6.062" mem="48623616"/>
+      <test id="26" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.781" mem="49369088"/>
+      <test id="27" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.765" mem="47497216"/>
+      <test id="28" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="6.046" mem="35713024"/>
+      <test id="29" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.734" mem="41201664"/>
+      <test id="30" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.781" mem="45420544"/>
+      <test id="31" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.734" mem="41963520"/>
+      <test id="32" outcome="accepted" points="3" max-points="3" comment="198000 numbers" eval-comment="" time="1.843" mem="38010880"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="3" comment="1413th numbers differ - expected: '3', found: '4'" eval-comment="" time="2.203" mem="37613568"/>
+      <test id="34" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.718" mem="41406464"/>
+      <test id="35" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="6.062" mem="34975744"/>
+      <test id="36" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.718" mem="43081728"/>
+      <test id="37" outcome="runtime-error" points="0" max-points="3" comment="Runtime error 0xC0000005 (STATUS_ACCESS_VIOLATION)" eval-comment="" time="0.734" mem="41783296"/>
+      <test id="38" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="6.046" mem="36794368"/>
+      <test id="39" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="6.046" mem="41267200"/>
+      <test id="40" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="6.046" mem="37064704"/>
+      <test id="41" outcome="time-limit-exceeded" points="0" max-points="3" comment="Time limit exceeded" eval-comment="" time="6.046" mem="37945344"/>
+    </results>
+  </testing>
+</testing-report>

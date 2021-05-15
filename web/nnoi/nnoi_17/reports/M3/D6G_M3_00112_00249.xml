@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="37" max="100" outcome="accepted" gtid="20210515125754024857101638">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="D6G" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compiled-not-tested" command-line=" " compiler-output=""/>
+  <testing>
+    <results>
+      <test id="1" outcome="accepted" points="0" max-points="0" comment="ok: len = 5" eval-comment="" time="0.156" mem="16736256"/>
+      <test id="2" outcome="accepted" points="0" max-points="0" comment="ok: len = 6" eval-comment="" time="0.125" mem="16752640"/>
+      <test id="3" outcome="accepted" points="3" max-points="3" comment="ok: len = 7" eval-comment="" time="0.171" mem="17211392"/>
+      <test id="4" outcome="accepted" points="3" max-points="3" comment="ok: len = 15" eval-comment="" time="0.140" mem="16183296"/>
+      <test id="5" outcome="accepted" points="3" max-points="3" comment="ok: len = 35406" eval-comment="" time="0.140" mem="16707584"/>
+      <test id="6" outcome="accepted" points="2" max-points="2" comment="ok: len = 16" eval-comment="" time="0.125" mem="16728064"/>
+      <test id="7" outcome="accepted" points="2" max-points="2" comment="ok: len = 62" eval-comment="" time="0.140" mem="16703488"/>
+      <test id="8" outcome="accepted" points="3" max-points="3" comment="ok: len = 14873" eval-comment="" time="0.156" mem="16748544"/>
+      <test id="9" outcome="accepted" points="3" max-points="3" comment="ok: len = 1347803" eval-comment="" time="0.156" mem="17244160"/>
+      <test id="10" outcome="accepted" points="3" max-points="3" comment="ok: len = 95185" eval-comment="" time="0.140" mem="16678912"/>
+      <test id="11" outcome="accepted" points="3" max-points="3" comment="ok: len = 40433" eval-comment="" time="0.171" mem="16408576"/>
+      <test id="12" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 788889 is necessary" eval-comment="" time="0.093" mem="16990208"/>
+      <test id="13" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 1111111 is necessary" eval-comment="" time="0.140" mem="17469440"/>
+      <test id="14" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 123456 is necessary" eval-comment="" time="0.125" mem="17485824"/>
+      <test id="15" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 7777777 is necessary" eval-comment="" time="0.125" mem="16678912"/>
+      <test id="16" outcome="accepted" points="3" max-points="3" comment="ok: len = 1" eval-comment="" time="0.156" mem="16953344"/>
+      <test id="17" outcome="wrong-answer" points="0" max-points="4" comment="Particiant has incorrect answer: 0 trees while 9702412 is necessary" eval-comment="" time="0.125" mem="17207296"/>
+      <test id="18" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 123321 is necessary" eval-comment="" time="0.109" mem="16998400"/>
+      <test id="19" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 123456 is necessary" eval-comment="" time="0.156" mem="16941056"/>
+      <test id="20" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 978224571 is necessary" eval-comment="" time="0.109" mem="18010112"/>
+      <test id="21" outcome="accepted" points="3" max-points="3" comment="ok: len = 248833936401" eval-comment="" time="0.093" mem="18026496"/>
+      <test id="22" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 999999996 is necessary" eval-comment="" time="0.140" mem="17559552"/>
+      <test id="23" outcome="accepted" points="3" max-points="3" comment="ok: len = 537358000001" eval-comment="" time="0.156" mem="16998400"/>
+      <test id="24" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 999999999 is necessary" eval-comment="" time="0.125" mem="16343040"/>
+      <test id="25" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 999999999 is necessary" eval-comment="" time="0.109" mem="16986112"/>
+      <test id="26" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 999999992 is necessary" eval-comment="" time="0.125" mem="17547264"/>
+      <test id="27" outcome="accepted" points="3" max-points="3" comment="ok: len = 24255000001" eval-comment="" time="0.171" mem="18022400"/>
+      <test id="28" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 999111888 is necessary" eval-comment="" time="0.156" mem="17195008"/>
+      <test id="29" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 999222333 is necessary" eval-comment="" time="0.109" mem="17514496"/>
+      <test id="30" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 777888999 is necessary" eval-comment="" time="0.125" mem="17502208"/>
+      <test id="31" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 999999123 is necessary" eval-comment="" time="0.140" mem="17555456"/>
+      <test id="32" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 117777777 is necessary" eval-comment="" time="0.140" mem="17223680"/>
+      <test id="33" outcome="wrong-answer" points="0" max-points="4" comment="Particiant has incorrect answer: 0 trees while 1000000000 is necessary" eval-comment="" time="0.140" mem="17530880"/>
+      <test id="34" outcome="wrong-answer" points="0" max-points="4" comment="Particiant has incorrect answer: 0 trees while 1000000000 is necessary" eval-comment="" time="0.125" mem="16965632"/>
+      <test id="35" outcome="wrong-answer" points="0" max-points="3" comment="Particiant has incorrect answer: 0 trees while 999999998 is necessary" eval-comment="" time="0.156" mem="17485824"/>
+    </results>
+  </testing>
+</testing-report>

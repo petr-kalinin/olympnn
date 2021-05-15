@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<testing-report version="2.0" points="0" max="100" outcome="compilation-error" gtid="20210515160351089653463333">
+  <solution problem="M3" problem-name=" " problem-type="P" contestant="A1N" time-limit="1000" memory-limit="268435456"/>
+  <compiling outcome="compilation-error" command-line="g++ --std=c++14 -O2 -Wl,--stack,256000000 -o sol.exe sol.cxx " compiler-output="sol.cxx: In function 'void solve()':&#13;&#10;sol.cxx:103:5: error: expected ';' before 'vll'&#13;&#10;     vll res3 = {mp(res1, a), mp(res2, c)};&#13;&#10;     ^~~&#13;&#10;sol.cxx:104:14: error: 'res3' was not declared in this scope&#13;&#10;     sort(all(res3));&#13;&#10;              ^&#13;&#10;sol.cxx:11:17: note: in definition of macro 'all'&#13;&#10; #define all(v) (v).begin(), (v).end()&#13;&#10;                 ^&#13;&#10;"/>
+  <testing>
+    <results>
+    </results>
+  </testing>
+</testing-report>
