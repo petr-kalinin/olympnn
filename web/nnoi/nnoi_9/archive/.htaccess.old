@@ -1,4 +1,0 @@
-AuthName "Only for NNOI participants. If you do not remember login and password, contact Petr Kalinin at petr@kalinin.nnov.ru"
-AuthType Basic
-AuthUserFile /var/lib/openshift/27f338af5eae414aae6a634dd5fcf403/app-root/runtime/repo/php/nnoi/nnoi_9/archive/.htpasswd
-require valid-user
