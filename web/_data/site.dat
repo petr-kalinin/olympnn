@@ -169,6 +169,9 @@
     Отборочный тур=zaoch/results.php
     Участники=participants.php
     Основной тур=info.php
+    Результаты=results.php
+    Архив=archive/index.php
+    Авторы задач=taskauthors.php
   }
   Книга={
     _dir=../book/
