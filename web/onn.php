@@ -4,6 +4,7 @@ date_default_timezone_set("Europe/Moscow");
 
 //turn off magic quotes, when some"\"text becomes some\"\\\"text
 //Be careful: some arguments can be arrays ($_GET[$key] can be array)
+/*
 if (get_magic_quotes_gpc()==1){
   foreach ($_GET as $key=>$val) 
     if (is_string($_GET[$key]))
@@ -11,7 +12,7 @@ if (get_magic_quotes_gpc()==1){
   foreach ($_POST as $key=>$val) 
     if (is_string($_POST[$key]))
        $_POST[$key]=stripslashes($val);
-}
+}*/
 
 $PHP_NAME=$_SERVER["PHP_SELF"];
 
