@@ -173,6 +173,11 @@
     Архив=archive/index.php
     Авторы задач=taskauthors.php
   }
+  NNOI XVIII={
+    _dir=nnoi_18/
+    _index=index.php
+    Порядок=general.php
+  }
   Книга={
     _dir=../book/
     _index=index.php
