@@ -343,8 +343,7 @@ function querytoparams($no=array())
 {
   $sargs="";
   reset($_GET);
-/*list()= is normal
-*/foreach($_GET as $key=>$val)
+  foreach($_GET as $key=>$val)
     if ((!isset($no[$key]))and($key<>'sessid'))
       $sargs.=htmlspecialchars("&$key=$val");
   return $sargs;
@@ -354,8 +353,7 @@ function querytoinputs($no=array())
 {
   $sargs="";
   reset($_GET);
-/*list()= is normal
-*/while(list($key,$val)=each($_GET))
+  foreach($_GET as $key=>$val)
     if ((!isset($no[$key]))and($key<>'sessid'))
       $sargs.="<input type=\"hidden\" name=\"".htmlspecialchars($key)."\" value=\"".htmlspecialchars($val)."\"/>";
   return $sargs;
