@@ -177,6 +177,7 @@
     _dir=nnoi_18/
     _index=index.php
     Порядок=general.php
+    Участники=participants.php
   }
   Книга={
     _dir=../book/
