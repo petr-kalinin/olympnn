@@ -14,15 +14,14 @@ XVIII Нижегородская олимпиада школьников по информатике им. В.&nbsp;Д. Лелюха со
 </ul>
 <h2>Основной тур</h2>
 <ul>
-<?php /* <li><a href="info.php">Информация об основном туре</a></li> */ ?>
 <li><a href="participants.php">Итоговые списки участников основного тура</a></li>
-<?php /* <li><a href="taskauthors.php">Авторы задач</a></li> 
-<li><a href="results.php">Результаты</a></li>
-<li><a href="archive/index.php">Архив</a></li> */ ?>
+<li><a href="https://nnoi2022.contest.codeforces.com/group/kWyGXwIvYI/contest/382708">Задачи основного тура</a></li>
+<li><a href="https://nnoi2022.contest.codeforces.com/group/kWyGXwIvYI/contest/382708/standings">Результаты основного тура</a><br>
+Первые 4 участника были награждены дипломами 1 степени, участники с 5 по 13 место — дипломами 2 степени, с 14 по 22 место — дипломами 3 степени.</li>
 </ul>
 <h2>Отбор</h2>
 <ul>
-<?php /* <li><a href="zaoch/nnoi2021_zaoch_statements.pdf">Условия отборочного тура</a></li> */ ?>
+<li><a href="https://nnoi2022.contest.codeforces.com/group/kWyGXwIvYI/contest/382707">Условия отборочного тура</a></li>
 <li><a href="https://nnoi2022.contest.codeforces.com/group/kWyGXwIvYI/contest/382707/standings">Результаты отборочного тура</a></li>
 <?php /* <li><a href="zaoch/tests.7z">Тесты к отборочному туру</a></li>
 <li><a href="zaoch/outputs.7z">Протоколы тестирования отборочного тура</a></li> */ ?>
