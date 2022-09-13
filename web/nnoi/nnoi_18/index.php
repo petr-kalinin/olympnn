@@ -2,6 +2,21 @@
 $backpath="../..";
 include_once("$backpath/onn.php");
 startonn("/Город/NNOI XVIII","XVIII Нижегородская олимпиада школьников по информатике");
+
+function print_many_files($files,$header){
+foreach ($files as $file=>$info){
+  if ($info["comment"]!="") $info["comment"]=", ".$info["comment"];
+  print <<<DATA
+  <li>$header: <a href="$file">$file</a>$info[comment] ($info[format], размер 
+DATA
+  .str_replace(" ","&nbsp;",number_format(filesize($file),0,''," "))."&nbsp;б.).</li>\n";
+}
+}
+
+function print_file($fname,$text="",$format="архив 7-zip"){
+print_many_files(array($fname=>array("comment"=>"","format"=>$format)),$text);
+}
+
 ?>
 <h1>XVIII Нижегородская олимпиада школьников по информатике</h1>
 <p>
@@ -18,6 +33,7 @@ XVIII Нижегородская олимпиада школьников по информатике им. В.&nbsp;Д. Лелюха со
 <li><a href="https://nnoi2022.contest.codeforces.com/group/kWyGXwIvYI/contest/382708">Задачи основного тура</a></li>
 <li><a href="https://nnoi2022.contest.codeforces.com/group/kWyGXwIvYI/contest/382708/standings">Результаты основного тура</a><br>
 Первые 4 участника были награждены дипломами 1 степени, участники с 5 по 13 место — дипломами 2 степени, с 14 по 22 место — дипломами 3 степени.</li>
+<?php print_file("nnoi2022_problems.7z","Все исходные материалы по задачам (генераторы тестов, исходники условий, проверяющие программы, решения жюри и т.д.)"); ?>
 </ul>
 <h2>Отбор</h2>
 <ul>
